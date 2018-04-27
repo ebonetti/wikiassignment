@@ -33,6 +33,9 @@ func TestUnit(t *testing.T) {
 
 	filters := []Filter{{false, []uint32{1641518}, 1}, {false, []uint32{24814}, -1}}
 	page2Topic, ns, err := From(context.Background(), dumps, topic2Categories, filters)
+	if err != nil {
+		t.Error("Error while processing ", err)
+	}
 	for _, topic := range ns.Topics {
 		if _, ok := topic2Categories[topic]; !ok {
 			t.Error("Topic not found ", topic)
