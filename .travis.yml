@@ -16,7 +16,7 @@ before_install:
     RUN  set -eux; \
     go get honnef.co/go/tools/cmd/megacheck/...; \
     go get github.com/mattn/goveralls/...; \
-    go get github.com/ebonetti/wikidump/...;
+    go get github.com/ebonetti/wikidump/...; \
     go get github.com/ebonetti/wikiassignment/...;
     WORKDIR /go/src/github.com/ebonetti/wikiassignment
     '
