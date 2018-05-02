@@ -8,7 +8,6 @@ import (
 	"strconv"
 
 	"github.com/RoaringBitmap/roaring"
-	"github.com/ebonetti/wikidump"
 	"github.com/pkg/errors"
 )
 
@@ -20,7 +19,7 @@ const (
 
 type semanticGraph struct {
 	Dumps            func(string) (io.ReadCloser, error)
-	Topic2Categories map[uint32][]uint32
+	TopicAssignments map[uint32][]uint32
 	Filters          []Filter
 }
 
@@ -63,8 +62,8 @@ func (p semanticGraph) Build(ctx context.Context) (g mapGraph, ids2CatDistance m
 
 //Graph nodes: Topics
 func (p semanticGraph) topicSource() pageSourcer {
-	pp := make([]page, 0, len(p.Topic2Categories))
-	for topicID := range p.Topic2Categories {
+	pp := make([]page, 0, len(p.TopicAssignments))
+	for topicID := range p.TopicAssignments {
 		pp = append(pp, page{topicID, topicNamespaceID, fmt.Sprint("Topic: ", topicID)})
 	}
 	return &slicePageSource{pp}
@@ -142,14 +141,14 @@ LOOP:
 
 //Graph edges: topic links with categories
 func (p semanticGraph) topiclinksSource(gl *mapGraphLoader) edgeSourcer {
-	categoryIds := gl.Namespace2IDs[categoryNamespaceID]
-	ee := make([]edge, 0, 10*len(p.Topic2Categories))
-	for topicID, categoryIDs := range p.Topic2Categories {
-		for _, c := range categoryIDs {
-			if !categoryIds.Contains(c) {
-				return errorEdgeSource{errors.Errorf("Error: %v is not a category", c)}
+	pageIDs := roaring.Or(gl.Namespace2IDs[categoryNamespaceID], gl.Namespace2IDs[articleNamespaceID])
+	ee := make([]edge, 0, 10*len(p.TopicAssignments))
+	for topicID, pp := range p.TopicAssignments {
+		for _, p := range pp {
+			if !pageIDs.Contains(p) {
+				return errorEdgeSource{errors.Errorf("Error: %v is not a page", p)}
 			}
-			ee = append(ee, edge{c, topicID})
+			ee = append(ee, edge{p, topicID})
 		}
 	}
 	return &sliceEdgeSource{ee}
@@ -285,7 +284,7 @@ func (p semanticGraph) dumpIterator(ctx context.Context, filename string) (rr rR
 		return errorRReader{err}
 	}
 
-	bRead := csv.NewReader(wikidump.SQL2CSV(r)).Read
+	bRead := csv.NewReader(r).Read
 	read := func() (record []string, err error) {
 		record, err = bRead()
 		if err != io.EOF {

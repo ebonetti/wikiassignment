@@ -3,12 +3,90 @@ package wikiassignment
 import (
 	"context"
 	"io"
+	"strings"
 	"testing"
 
 	"github.com/ebonetti/wikidump"
 )
 
 func TestUnit(t *testing.T) {
+	dumps := func(name string) (io.ReadCloser, error) {
+		text := ""
+		switch name {
+		case "pagetable":
+			text = pageCSV
+		case "categorylinkstable":
+			text = categorylinksCSV
+		case "pagelinkstable":
+			text = pagelinksCSV
+		default:
+			t.Error("Unknown name", name)
+		}
+		return readClose{strings.NewReader(text), func() error { return nil }}, nil
+	}
+	topic2Pages := map[uint32][]uint32{
+		0: {2, 4},
+		1: {3, 4, 7},
+	}
+	page2Topic, ns, err := From(context.Background(), "", dumps, topic2Pages, nil)
+	if err != nil {
+		t.Error("Error while processing ", err)
+	}
+
+	for _, topic := range ns.Topics {
+		if _, ok := topic2Pages[topic]; !ok {
+			t.Error("Topic not found ", topic)
+		}
+	}
+	for _, topic := range page2Topic {
+		if _, ok := topic2Pages[topic]; !ok {
+			t.Error("Topic not found ", topic)
+		}
+	}
+	if len(page2Topic) != len(ns.Articles)+len(ns.Categories)+len(ns.Topics) {
+		t.Error("Mismatch in node count.")
+	}
+
+	for i := uint32(0); i < 8; i++ {
+		topic, ok := page2Topic[i]
+		switch {
+		case !ok:
+			t.Error("Not found page", i)
+		case topic != i%2:
+			t.Error("Page", i, "should be assigned to", i%2, "but it's assigned to", topic)
+		}
+	}
+}
+
+type readClose struct {
+	io.Reader
+	Closer func() error
+}
+
+func (r readClose) Close() error {
+	return r.Closer()
+}
+
+const pageCSV = `2,14,"Two","",0,0,0,0.42927655132,"20180417104603","20180417104822",95868109,14075,0,"wikitext",NULL
+3,14,"Three","",0,0,0,0.42927655132,"20180417104603","20180417104822",95868109,14075,0,"wikitext",NULL
+4,14,"Four","",0,0,0,0.42927655132,"20180417104603","20180417104822",95868109,14075,0,"wikitext",NULL
+5,0,"Five","",0,0,0,0.42927655132,"20180417104603","20180417104822",95868109,14075,0,"wikitext",NULL
+6,0,"Six","",0,0,0,0.42927655132,"20180417104603","20180417104822",95868109,14075,0,"wikitext",NULL
+7,0,"Seven","",0,0,0,0.42927655132,"20180417104603","20180417104822",95868109,14075,0,"wikitext",NULL`
+
+const categorylinksCSV = `2,"Four",")KAEC9QA","2017-03-11 18:45:11","","uca-it-u-kn","page"
+3,"Four",")KAEC9QA","2018-01-26 12:45:39","","uca-it-u-kn","page"
+4,"Two",")KAEC9QA","2018-01-26 12:45:39","","uca-it-u-kn","page"
+5,"Three",")KAEC9QA","2018-01-26 12:45:39","","uca-it-u-kn","page"
+6,"Two",")KAEC9QA","2018-03-02 11:38:29","","uca-it-u-kn","page"
+6,"Four",")KAEC9QA","2018-01-26 12:45:39","","uca-it-u-kn","page"
+7,"Three",")KAEC9QA","2018-01-26 12:45:39","","uca-it-u-kn","page"
+7,"Four",")KAEC9QA","2018-01-26 12:45:39","","uca-it-u-kn","page"`
+
+const pagelinksCSV = `5,0,"Seven",0
+7,0,"Five",0`
+
+func BenchmarkUnit(t *testing.B) {
 	w, err := wikidump.Latest(".", "it", "pagetable", "categorylinkstable", "pagelinkstable")
 	if err != nil {
 		t.Error("Error while fetching wikidump ", err)
@@ -32,7 +110,7 @@ func TestUnit(t *testing.T) {
 	}
 
 	filters := []Filter{{false, []uint32{1641518}, 1}, {false, []uint32{24814}, -1}}
-	page2Topic, ns, err := From(context.Background(), dumps, topic2Categories, filters)
+	page2Topic, ns, err := From(context.Background(), "", dumps, topic2Categories, filters)
 	if err != nil {
 		t.Error("Error while processing ", err)
 	}

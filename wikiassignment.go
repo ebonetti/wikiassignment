@@ -10,9 +10,9 @@ import (
 )
 
 //From transforms the sematic graph from the input into a page-topic assignment
-func From(ctx context.Context, dumps func(string) (io.ReadCloser, error), topic2Categories map[uint32][]uint32, filters []Filter) (page2Topic map[uint32]uint32, namespaces struct{ Topics, Categories, Articles []uint32 }, err error) {
+func From(ctx context.Context, tmpDir string, dumps func(string) (io.ReadCloser, error), topicAssignments map[uint32][]uint32, filters []Filter) (page2Topic map[uint32]uint32, namespaces struct{ Topics, Categories, Articles []uint32 }, err error) {
 	amcData := amcData{}
-	page2Topic, err = chainFrom(ctx, semanticGraph{dumps, topic2Categories, filters}, &amcData).AbsorptionAssignments(ctx)
+	page2Topic, err = chainFrom(ctx, tmpDir, semanticGraph{dumps, topicAssignments, filters}, &amcData).AbsorptionAssignments(ctx)
 	switch {
 	case amcData.err != nil:
 		page2Topic, err = nil, amcData.err
@@ -44,7 +44,7 @@ type amcData struct {
 	namespace2Ids map[int]*roaring.Bitmap
 }
 
-func chainFrom(ctx context.Context, d semanticGraph, amcd *amcData) *absorbingmarkovchain.AbsorbingMarkovChain {
+func chainFrom(ctx context.Context, tmpDir string, d semanticGraph, amcd *amcData) *absorbingmarkovchain.AbsorbingMarkovChain {
 	g, IDs2CatDistance, namespace2Ids, err := d.Build(ctx)
 
 	if err != nil {
@@ -72,5 +72,5 @@ func chainFrom(ctx context.Context, d semanticGraph, amcd *amcData) *absorbingma
 	absorbingNodes := namespace2Ids[articleNamespaceID]
 	edges := func(from uint32) []uint32 { return g[from] }
 
-	return absorbingmarkovchain.New(nodes, absorbingNodes, edges, weighter)
+	return absorbingmarkovchain.New(tmpDir, nodes, absorbingNodes, edges, weighter)
 }
