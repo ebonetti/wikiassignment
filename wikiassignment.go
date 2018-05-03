@@ -21,13 +21,13 @@ func From(ctx context.Context, tmpDir string, dumps func(string) (io.ReadCloser,
 		return
 	}
 
-	for _, t := range namespaces.Topics {
-		page2Topic[t] = t
-	}
-
 	namespaces.Topics = amcData.namespace2Ids[topicNamespaceID].ToArray()
 	namespaces.Categories = amcData.namespace2Ids[categoryNamespaceID].ToArray()
 	namespaces.Articles = amcData.namespace2Ids[articleNamespaceID].ToArray()
+
+	for _, t := range namespaces.Topics {
+		page2Topic[t] = t
+	}
 
 	return
 }
@@ -69,7 +69,7 @@ func chainFrom(ctx context.Context, tmpDir string, d semanticGraph, amcd *amcDat
 	for _, ids := range namespace2Ids {
 		nodes.Or(ids)
 	}
-	absorbingNodes := namespace2Ids[articleNamespaceID]
+	absorbingNodes := namespace2Ids[topicNamespaceID]
 	edges := func(from uint32) []uint32 { return g[from] }
 
 	return absorbingmarkovchain.New(tmpDir, nodes, absorbingNodes, edges, weighter)

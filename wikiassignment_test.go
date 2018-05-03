@@ -40,7 +40,7 @@ func TestUnit(t *testing.T) {
 	}
 	for _, topic := range page2Topic {
 		if _, ok := topic2Pages[topic]; !ok {
-			t.Error("Topic not found ", topic)
+			t.Error(topic, "is not a topic, wrong assignment in", page2Topic)
 		}
 	}
 	if len(page2Topic) != len(ns.Articles)+len(ns.Categories)+len(ns.Topics) {
@@ -121,7 +121,7 @@ func BenchmarkUnit(t *testing.B) {
 	}
 	for _, topic := range page2Topic {
 		if _, ok := topic2Categories[topic]; !ok {
-			t.Error("Topic not found ", topic)
+			t.Error(topic, "is not a topic, wrong assignment in", page2Topic)
 		}
 	}
 	if len(page2Topic) != len(ns.Articles)+len(ns.Categories)+len(ns.Topics) {
