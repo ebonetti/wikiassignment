@@ -16,7 +16,12 @@ Installation
 
 This package can be installed with the go get command:
 
-    go get github.com/ebonetti/wikiassignment
+    go get github.com/ebonetti/wikiassignment/...
+
+Dependencies
+-------------
+
+This package depends on `PETSc`. The [associated dockerfile](https://github.com/ebonetti/absorbingmarkovchain/blob/master/docker/Dockerfile) provides a complete environment in which use this package, such docker image can be found at [ebonetti/golang-petsc](https://hub.docker.com/r/ebonetti/golang-petsc/). Otherwise `PETSc` can be installed following the same steps as in the dockerfile or in [the PETSc installation page](https://www.mcs.anl.gov/petsc/documentation/installation.html).
 
 Documentation
 -------------
