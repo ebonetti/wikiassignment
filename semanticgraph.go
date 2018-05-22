@@ -331,21 +331,3 @@ func (r errorRReader) Close() error {
 	}
 	return r.err
 }
-
-type errorEdgeSource struct {
-	err error
-}
-
-func (r errorEdgeSource) Next() (e edge, err error) {
-	if r.err == nil {
-		r.err = io.ErrUnexpectedEOF
-	}
-	return edge{}, r.err
-}
-
-func (r errorEdgeSource) Close() error {
-	if r.err == nil {
-		r.err = io.ErrUnexpectedEOF
-	}
-	return r.err
-}
