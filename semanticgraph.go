@@ -146,7 +146,7 @@ func (p semanticGraph) topiclinksSource(gl *mapGraphLoader) edgeSourcer {
 	for topicID, pp := range p.TopicAssignments {
 		for _, p := range pp {
 			if !pageIDs.Contains(p) {
-				return errorEdgeSource{errors.Errorf("Error: %v is not a page", p)}
+				continue
 			}
 			ee = append(ee, edge{p, topicID})
 		}
