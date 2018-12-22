@@ -28,7 +28,7 @@ func init() {
 func main() {
 	tmpDir, err := ioutil.TempDir(".", ".")
 	if err != nil {
-		log.Fatalf("%+v", err)
+		log.Panicf("%v", err)
 	}
 	defer os.Remove(tmpDir)
 
@@ -79,7 +79,7 @@ func main() {
 	//Export to csv absorption probabilities
 	f, err := os.Create("absorptionprobabilities.csv")
 	if err != nil {
-		log.Fatalf("%+v", err)
+		log.Panicf("%v", err)
 	}
 	defer f.Close()
 
@@ -90,11 +90,14 @@ func main() {
 	for i, topicID := range topics {
 		t := nationalization.Topics[i]
 		if t.ID != topicID {
-			log.Fatal("Invalid ordering of Topics")
+			log.Panic("Invalid ordering of Topics")
 		}
 		headers = append(headers, strings.Split(t.Title, " ")[0])
 	}
-	fmt.Fprintln(w, headers)
+
+	if _, err = fmt.Fprintln(w, headers); err != nil {
+		log.Panicf("%v", err)
+	}
 
 	for _, articleID := range articles {
 		data := []interface{}{articleID}
@@ -105,7 +108,9 @@ func main() {
 			}
 			data = append(data, weight)
 		}
-		fmt.Fprintln(w, data)
+		if _, err = fmt.Fprintln(w, headers); err != nil {
+			log.Panicf("%v", err)
+		}
 	}
 }
 
@@ -159,7 +164,7 @@ func (r readClose) Close() error {
 func esport2JSON(filename string, v interface{}) {
 	w, err := os.Create(filename)
 	if err != nil {
-		log.Fatalf("%+v", err)
+		log.Panicf("%v", err)
 	}
 	defer w.Close()
 
@@ -167,6 +172,6 @@ func esport2JSON(filename string, v interface{}) {
 
 	err = jsonWriter.Encode(v)
 	if err != nil {
-		log.Fatalf("%+v", err)
+		log.Panicf("%v", err)
 	}
 }
