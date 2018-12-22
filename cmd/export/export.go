@@ -7,6 +7,7 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"log"
 	"os"
 	"strings"
@@ -24,9 +25,13 @@ func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse (en,it).")
 }
 
-const tmpDir = "."
-
 func main() {
+	tmpDir, err := ioutil.TempDir(".", ".")
+	if err != nil {
+		log.Fatalf("%+v", err)
+	}
+	defer os.Remove(tmpDir)
+
 	nationalization, err := nationalization.New(lang)
 	if err != nil {
 		log.Fatalf("%+v", err)
