@@ -15,6 +15,8 @@ Documentation
 -------------
 API documentation can be found in the [associated godoc reference](https://godoc.org/github.com/ebonetti/wikiassignment)
 
+Topics data can be found in [overpedia](https://github.com/ebonetti/overpedia/tree/master/nationalization/languages).
+
 Installation
 ------------
 
@@ -37,7 +39,7 @@ Examples of use
 ..1. run the image as before.
 ..2. [mount as a volume](https://docs.docker.com/storage/volumes/) the guest `/data` folder to the host folder `/path/2/out/dir`, the output folder, so that at the end of the operations  `/path/2/out/dir` will contain the result. This folder can be changed to an arbitrary folder of your choice.
 ..3. run the image in detatched mode.
-For further explanations please refer to [docker run reference](https://docs.docker.com/engine/reference/run)
+For further explanations please refer to [docker run reference](https://docs.docker.com/engine/reference/run).
 
 Useful commands
 -------------
