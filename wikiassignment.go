@@ -12,7 +12,7 @@ import (
 //From transforms the sematic graph from the input into a page-topic assignment
 func From(ctx context.Context, tmpDir string, dumps func(string) (io.ReadCloser, error), topicAssignments map[uint32][]uint32, filters []Filter) (page2Topic map[uint32]uint32, namespaces struct{ Topics, Categories, Articles []uint32 }, err error) {
 	amcData := amcData{}
-	page2Topic, err = chainFrom(ctx, tmpDir, semanticGraph{dumps, topicAssignments, filters}, &amcData).AbsorptionAssignments(ctx)
+	page2Topic, err = chainFrom(ctx, tmpDir, SemanticGraphSources{dumps, topicAssignments, filters}, &amcData).AbsorptionAssignments(ctx)
 	switch {
 	case amcData.err != nil:
 		page2Topic, err = nil, amcData.err
@@ -21,9 +21,9 @@ func From(ctx context.Context, tmpDir string, dumps func(string) (io.ReadCloser,
 		return
 	}
 
-	namespaces.Topics = amcData.namespace2Ids[topicNamespaceID].ToArray()
-	namespaces.Categories = amcData.namespace2Ids[categoryNamespaceID].ToArray()
-	namespaces.Articles = amcData.namespace2Ids[articleNamespaceID].ToArray()
+	namespaces.Topics = amcData.namespace2Ids[TopicNamespaceID].ToArray()
+	namespaces.Categories = amcData.namespace2Ids[CategoryNamespaceID].ToArray()
+	namespaces.Articles = amcData.namespace2Ids[ArticleNamespaceID].ToArray()
 
 	for _, t := range namespaces.Topics {
 		page2Topic[t] = t
@@ -44,7 +44,7 @@ type amcData struct {
 	namespace2Ids map[int]*roaring.Bitmap
 }
 
-func chainFrom(ctx context.Context, tmpDir string, d semanticGraph, amcd *amcData) *absorbingmarkovchain.AbsorbingMarkovChain {
+func chainFrom(ctx context.Context, tmpDir string, d SemanticGraphSources, amcd *amcData) *absorbingmarkovchain.AbsorbingMarkovChain {
 	g, IDs2CatDistance, namespace2Ids, err := d.Build(ctx)
 
 	if err != nil {
@@ -53,7 +53,7 @@ func chainFrom(ctx context.Context, tmpDir string, d semanticGraph, amcd *amcDat
 	}
 	amcd.namespace2Ids = namespace2Ids
 
-	articlesIds := namespace2Ids[articleNamespaceID]
+	articlesIds := namespace2Ids[ArticleNamespaceID]
 	weighter := func(from, to uint32) (weight float64, err error) { //amc weigherweight<=1
 		switch {
 		case articlesIds.Contains(to): //penalized link (this link was added by pagelink)
@@ -69,7 +69,7 @@ func chainFrom(ctx context.Context, tmpDir string, d semanticGraph, amcd *amcDat
 	for _, ids := range namespace2Ids {
 		nodes.Or(ids)
 	}
-	absorbingNodes := namespace2Ids[topicNamespaceID]
+	absorbingNodes := namespace2Ids[TopicNamespaceID]
 	edges := func(from uint32) []uint32 { return g[from] }
 
 	return absorbingmarkovchain.New(tmpDir, nodes, absorbingNodes, edges, weighter)

@@ -12,59 +12,66 @@ import (
 )
 
 const (
-	topicNamespaceID    = 6666
-	categoryNamespaceID = 14
-	articleNamespaceID  = 0
+	//TopicNamespaceID represents topic namespace ID
+	TopicNamespaceID = 6666
+	//CategoryNamespaceID represents category namespace ID in Wikipedia dumps
+	CategoryNamespaceID = 14
+	//ArticleNamespaceID represents article namespace ID in Wikipedia dumps
+	ArticleNamespaceID = 0
 )
 
-type semanticGraph struct {
+//SemanticGraphSources represents the data sources needed to build the wikipedia semantic graph
+type SemanticGraphSources struct {
 	Dumps            func(string) (io.ReadCloser, error)
 	TopicAssignments map[uint32][]uint32
 	Filters          []Filter
 }
 
-func (p semanticGraph) Build(ctx context.Context) (g mapGraph, ids2CatDistance map[uint32]uint32, namespace2Ids map[int]*roaring.Bitmap, err error) {
+//Build returns the semantic graph, the distance in hops from any node to the closer topic and a map from namespaces ID to pages ID.
+func (p SemanticGraphSources) Build(ctx context.Context) (g map[uint32][]uint32, ids2CatDistance map[uint32]uint32, namespace2Ids map[int]*roaring.Bitmap, err error) {
 	gl := &mapGraphLoader{mapGraph(map[uint32][]uint32{}), map[int]*roaring.Bitmap{}, nTitle2ID{map[string]uint32{}}, nil}
-	g = gl.Edges
 	namespace2Ids = gl.Namespace2IDs
 
-	for _, ID := range []int{topicNamespaceID, categoryNamespaceID, articleNamespaceID} {
+	for _, ID := range []int{TopicNamespaceID, CategoryNamespaceID, ArticleNamespaceID} {
 		namespace2Ids[ID] = roaring.NewBitmap()
 	}
 
-	topicIds := gl.Namespace2IDs[topicNamespaceID]
+	topicIds := gl.Namespace2IDs[TopicNamespaceID]
 	gl.AddNodes(p.topicSource())
 	gl.AddNodes(p.pageSource(ctx))
 	gl.AddEdges(p.topiclinksSource(gl))
 	gl.AddEdges(p.categorylinksSource(ctx, gl))
 
-	nodes := g.Nodes()
+	nodes := gl.Edges.Nodes()
 	gl.Filter(p.Filters...)
-	unwantedNodes := roaring.AndNot(nodes, g.Nodes())
+	unwantedNodes := roaring.AndNot(nodes, gl.Edges.Nodes())
 	for _, idsSet := range namespace2Ids { //filter unwanted nodes from namespaces
 		idsSet.AndNot(unwantedNodes)
 	}
 
 	gl.Filter(Filter{true, topicIds.ToArray(), -1}) //filter unrelated nodes
 
-	ids2CatDistance = g.Distances(topicIds)
+	ids2CatDistance = gl.Edges.Distances(topicIds)
 	gl.AddEdges(p.pagelinksSource(ctx, gl))
 	gl.Filter(Filter{true, topicIds.ToArray(), -1}) //filter unrelated nodes
-	nodes = g.Nodes()
+	nodes = gl.Edges.Nodes()
 	for _, idsSet := range namespace2Ids {
 		idsSet.And(nodes)
 	}
 	if gl.Err != nil {
 		g, ids2CatDistance, namespace2Ids, err = nil, nil, nil, gl.Err
+	} else {
+		g = gl.Edges
 	}
+
 	return
 }
 
 //Graph nodes: Topics
-func (p semanticGraph) topicSource() pageSourcer {
+func (p SemanticGraphSources) topicSource() pageSourcer {
 	pp := make([]page, 0, len(p.TopicAssignments))
 	for topicID := range p.TopicAssignments {
-		pp = append(pp, page{topicID, topicNamespaceID, fmt.Sprint("Topic: ", topicID)})
+		pp = append(pp, page{topicID, TopicNamespaceID, fmt.Sprint("Topic: ", topicID)})
 	}
 	return &slicePageSource{pp}
 }
@@ -88,8 +95,8 @@ func (s *slicePageSource) Close() error {
 }
 
 //Graph nodes: pages - articles & categories
-func (p semanticGraph) pageSource(ctx context.Context) pageSourcer {
-	isValid := map[int]bool{topicNamespaceID: true, categoryNamespaceID: true, articleNamespaceID: true}
+func (p SemanticGraphSources) pageSource(ctx context.Context) pageSourcer {
+	isValid := map[int]bool{TopicNamespaceID: true, CategoryNamespaceID: true, ArticleNamespaceID: true}
 	return &rPageSource{p.dumpIterator(ctx, "pagetable"), func(ns int) bool { return isValid[ns] }}
 }
 
@@ -140,8 +147,8 @@ LOOP:
 }
 
 //Graph edges: topic links with categories
-func (p semanticGraph) topiclinksSource(gl *mapGraphLoader) edgeSourcer {
-	pageIDs := roaring.Or(gl.Namespace2IDs[categoryNamespaceID], gl.Namespace2IDs[articleNamespaceID])
+func (p SemanticGraphSources) topiclinksSource(gl *mapGraphLoader) edgeSourcer {
+	pageIDs := roaring.Or(gl.Namespace2IDs[CategoryNamespaceID], gl.Namespace2IDs[ArticleNamespaceID])
 	ee := make([]edge, 0, 10*len(p.TopicAssignments))
 	for topicID, pp := range p.TopicAssignments {
 		for _, p := range pp {
@@ -173,11 +180,11 @@ func (s *sliceEdgeSource) Close() error {
 }
 
 //Graph edges: categorylinks - links between categories and articles
-func (p semanticGraph) categorylinksSource(ctx context.Context, gl *mapGraphLoader) edgeSourcer {
-	articleIds := gl.Namespace2IDs[articleNamespaceID]
-	categoryIds := gl.Namespace2IDs[categoryNamespaceID]
+func (p SemanticGraphSources) categorylinksSource(ctx context.Context, gl *mapGraphLoader) edgeSourcer {
+	articleIds := gl.Namespace2IDs[ArticleNamespaceID]
+	categoryIds := gl.Namespace2IDs[CategoryNamespaceID]
 	ev := newValidator(edgeDomain{articleIds, categoryIds}, edgeDomain{categoryIds, categoryIds})
-	scategoryNamespaceID := fmt.Sprint(categoryNamespaceID)
+	scategoryNamespaceID := fmt.Sprint(CategoryNamespaceID)
 	extractFields := func(ss []string) (from, toNamespace, toTitle string, err error) {
 		if len(ss) < 2 {
 			err = errors.Errorf("Error: Invalid serialization expected at least 2, found %v in %v", len(ss), ss)
@@ -189,8 +196,8 @@ func (p semanticGraph) categorylinksSource(ctx context.Context, gl *mapGraphLoad
 }
 
 //Graph edges: pagelinks - links between articles
-func (p semanticGraph) pagelinksSource(ctx context.Context, gl *mapGraphLoader) edgeSourcer {
-	articleIds := gl.Namespace2IDs[articleNamespaceID]
+func (p SemanticGraphSources) pagelinksSource(ctx context.Context, gl *mapGraphLoader) edgeSourcer {
+	articleIds := gl.Namespace2IDs[ArticleNamespaceID]
 	categorizedArticles := roaring.And(articleIds, gl.Edges.Nodes())
 	uncategorizedArticles := roaring.AndNot(articleIds, categorizedArticles)
 	ev := newValidator(edgeDomain{categorizedArticles, categorizedArticles}, edgeDomain{uncategorizedArticles, articleIds})
@@ -278,7 +285,7 @@ func (ed myValidator) Validate(e edge) (ok bool) {
 	return
 }
 
-func (p semanticGraph) dumpIterator(ctx context.Context, filename string) (rr rReadCloser) {
+func (p SemanticGraphSources) dumpIterator(ctx context.Context, filename string) (rr rReadCloser) {
 	r, err := p.Dumps(filename)
 	if err != nil {
 		return errorRReader{err}

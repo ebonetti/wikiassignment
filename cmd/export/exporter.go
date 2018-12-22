@@ -1,13 +1,18 @@
 package main
 
 import (
+	"bufio"
 	"context"
+	"encoding/json"
 	"flag"
 	"fmt"
 	"io"
 	"log"
+	"os"
+	"strings"
 
 	"github.com/RoaringBitmap/roaring"
+	"github.com/ebonetti/absorbingmarkovchain"
 	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/ebonetti/wikiassignment"
 	"github.com/ebonetti/wikidump"
@@ -49,25 +54,92 @@ func main() {
 		topic2Categories[TopicID] = append(topic2Categories[TopicID], pageID)
 	}
 
-	page2Topic, namespaces, err := wikiassignment.From(context.Background(), tmpDir, dumps, topic2Categories, nationalization.Filter)
+	amcData := _amcData{}
+	weighter, err := chainFrom(context.Background(), tmpDir, wikiassignment.SemanticGraphSources{dumps, topic2Categories, nationalization.Filter}, &amcData).AbsorptionProbabilities(context.Background())
+	switch {
+	case amcData.err != nil:
+		weighter, err = nil, amcData.err
+		log.Fatalf("%+v", err)
+	case err != nil:
+		log.Fatalf("%+v", err)
+	}
+
+	topics := amcData.namespace2Ids[wikiassignment.TopicNamespaceID].ToArray()
+	categories := amcData.namespace2Ids[wikiassignment.CategoryNamespaceID].ToArray()
+	articles := amcData.namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()
+
+	IDPartition := map[string][]uint32{"topics": topics, "categories": categories, "articles": articles}
+	esport2JSON("IDPartition.json", IDPartition) ///////////////////////////////////////////////////
+
+	//Export to csv absorption probabilities
+	f, err := os.Create("absorptionprobabilities.csv")
 	if err != nil {
+		log.Fatalf("%+v", err)
+	}
+	defer f.Close()
+
+	w := bufio.NewWriter(f)
+	defer w.Flush()
+
+	headers := []string{"PageID"}
+	for i, topicID := range topics {
+		t := nationalization.Topics[i]
+		if t.ID != topicID {
+			log.Fatal("Invalid ordering of Topics")
+		}
+		headers = append(headers, strings.Split(t.Title, " ")[0])
+	}
+	fmt.Fprintln(w, headers)
+
+	for _, articleID := range articles {
+		data := []interface{}{articleID}
+		for _, topicID := range topics {
+			weight, err := weighter(topicID, articleID)
+			if err != nil {
+				log.Fatalf("%+v", err)
+			}
+			data = append(data, weight)
+		}
+		fmt.Fprintln(w, data)
+	}
+}
+
+type _amcData struct {
+	err           error
+	namespace2Ids map[int]*roaring.Bitmap
+}
+
+func chainFrom(ctx context.Context, tmpDir string, d wikiassignment.SemanticGraphSources, amcd *_amcData) *absorbingmarkovchain.AbsorbingMarkovChain {
+	g, IDs2CatDistance, namespace2Ids, err := d.Build(ctx)
+
+	esport2JSON("semanticgraph.json", g) ///////////////////////////////////////////////////
+
+	if err != nil {
+		amcd.err = err
+		return nil
+	}
+	amcd.namespace2Ids = namespace2Ids
+
+	articlesIds := namespace2Ids[wikiassignment.ArticleNamespaceID]
+	weighter := func(from, to uint32) (weight float64, err error) { //amc weigherweight<=1
+		switch {
+		case articlesIds.Contains(to): //penalized link (this link was added by pagelink)
+			weight = 1.0 / 200
+		default: //valuable link (this link was added by categorylink)
+			d := IDs2CatDistance[to] + 1 - IDs2CatDistance[from] //d is non negative; weight=1 iff d=0
+			weight = 1 / float64(1+10*d)
+		}
 		return
 	}
 
-	articles := roaring.BitmapOf(namespaces.Articles...)
-	for pageID, TopicID := range page2Topic {
-		_, ok := nationalization.Article2Topic[pageID]
-		switch {
-		case ok:
-			//Page already assigned by custom assignment, do nothing
-		case !articles.Contains(pageID):
-			//Page is not an article, do nothing
-		default:
-			nationalization.Article2Topic[pageID] = TopicID
-		}
+	nodes := roaring.NewBitmap()
+	for _, ids := range namespace2Ids {
+		nodes.Or(ids)
 	}
+	absorbingNodes := namespace2Ids[wikiassignment.TopicNamespaceID]
+	edges := func(from uint32) []uint32 { return g[from] }
 
-	fmt.Println(nationalization.Article2Topic[pageID])
+	return absorbingmarkovchain.New(tmpDir, nodes, absorbingNodes, edges, weighter)
 }
 
 type readClose struct {
@@ -77,4 +149,19 @@ type readClose struct {
 
 func (r readClose) Close() error {
 	return r.Closer()
+}
+
+func esport2JSON(filename string, v interface{}) {
+	w, err := os.Create(filename)
+	if err != nil {
+		log.Fatalf("%+v", err)
+	}
+	defer w.Close()
+
+	jsonWriter := json.NewEncoder(w)
+
+	err = jsonWriter.Encode(v)
+	if err != nil {
+		log.Fatalf("%+v", err)
+	}
 }
