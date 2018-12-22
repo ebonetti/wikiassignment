@@ -99,7 +99,7 @@ func main() {
 	for _, articleID := range articles {
 		data := []interface{}{articleID}
 		for _, topicID := range topics {
-			weight, err := weighter(topicID, articleID)
+			weight, err := weighter(articleID, topicID)
 			if err != nil {
 				log.Fatalf("%+v", err)
 			}
