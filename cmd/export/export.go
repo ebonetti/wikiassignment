@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"context"
+	"encoding/csv"
 	"encoding/json"
 	"flag"
 	"fmt"
@@ -83,7 +84,10 @@ func main() {
 	}
 	defer f.Close()
 
-	w := bufio.NewWriter(f)
+	bf := bufio.NewWriter(f)
+	defer bf.Flush()
+
+	w := csv.NewWriter(bf)
 	defer w.Flush()
 
 	headers := []string{"PageID"}
@@ -95,20 +99,20 @@ func main() {
 		headers = append(headers, strings.Split(t.Title, " ")[0])
 	}
 
-	if _, err = fmt.Fprintln(w, headers); err != nil {
+	if err = w.Write(headers); err != nil {
 		log.Panicf("%v", err)
 	}
 
 	for _, articleID := range articles {
-		data := []interface{}{articleID}
+		data := []string{fmt.Sprint(articleID)}
 		for _, topicID := range topics {
 			weight, err := weighter(articleID, topicID)
 			if err != nil {
 				log.Fatalf("%+v", err)
 			}
-			data = append(data, weight)
+			data = append(data, fmt.Sprint(weight))
 		}
-		if _, err = fmt.Fprintln(w, headers); err != nil {
+		if err = w.Write(data); err != nil {
 			log.Panicf("%v", err)
 		}
 	}
