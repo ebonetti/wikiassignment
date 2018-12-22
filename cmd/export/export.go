@@ -74,7 +74,7 @@ func main() {
 	articles := amcData.namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()
 
 	IDPartition := map[string][]uint32{"topics": topics, "categories": categories, "articles": articles}
-	esport2JSON("IDPartition.json", IDPartition) ///////////////////////////////////////////////////
+	esport2JSON("partition.json", IDPartition) ///////////////////////////////////////////////////
 
 	//Export to csv absorption probabilities
 	f, err := os.Create("absorptionprobabilities.csv")
