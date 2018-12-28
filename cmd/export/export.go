@@ -27,6 +27,7 @@ func init() {
 }
 
 func main() {
+	flag.Parse()
 	tmpDir, err := ioutil.TempDir(".", ".")
 	if err != nil {
 		log.Panicf("%v", err)
