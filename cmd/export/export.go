@@ -105,10 +105,11 @@ func main() {
 		log.Panicf("%v", err)
 	}
 
-	for _, articleID := range articles {
-		data := []string{fmt.Sprint(articleID)}
+	pages := roaring.Or(amcData.namespace2Ids[wikiassignment.CategoryNamespaceID], amcData.namespace2Ids[wikiassignment.ArticleNamespaceID]).ToArray()
+	for _, pageID := range pages {
+		data := []string{fmt.Sprint(pageID)}
 		for _, topicID := range topics {
-			weight, err := weighter(articleID, topicID)
+			weight, err := weighter(pageID, topicID)
 			if err != nil {
 				log.Fatalf("%+v", err)
 			}
