@@ -37,10 +37,8 @@ func (p SemanticGraphSources) Build(ctx context.Context) (g map[uint32][]uint32,
 	}
 
 	topicIds := gl.Namespace2IDs[TopicNamespaceID]
-	gl.AddNodes(p.topicSource())
-	gl.AddNodes(p.pageSource(ctx))
-	gl.AddEdges(p.topiclinksSource(gl))
-	gl.AddEdges(p.categorylinksSource(ctx, gl))
+	gl.AddNodes(p.topicSource(), p.pageSource(ctx))
+	gl.AddEdges(p.topiclinksSource(gl), p.categorylinksSource(ctx, gl))
 
 	nodes := gl.Edges.Nodes()
 	gl.Filter(p.Filters...)
@@ -63,7 +61,6 @@ func (p SemanticGraphSources) Build(ctx context.Context) (g map[uint32][]uint32,
 	} else {
 		g = gl.Edges
 	}
-
 	return
 }
 
@@ -96,7 +93,7 @@ func (s *slicePageSource) Close() error {
 
 //Graph nodes: pages - articles & categories
 func (p SemanticGraphSources) pageSource(ctx context.Context) pageSourcer {
-	isValid := map[int]bool{TopicNamespaceID: true, CategoryNamespaceID: true, ArticleNamespaceID: true}
+	isValid := map[int]bool{CategoryNamespaceID: true, ArticleNamespaceID: true}
 	return &rPageSource{p.dumpIterator(ctx, "pagetable"), func(ns int) bool { return isValid[ns] }}
 }
 
@@ -114,21 +111,13 @@ func (ps rPageSource) Next() (p page, err error) {
 }
 
 func (ps rPageSource) next() (p page, err error) {
-	var ss []string
-LOOP:
-	for {
-		ss, err = ps.Read()
-		switch {
-		case err != nil:
-			return
-		case len(ss) < 6:
-			err = errors.Errorf("Error: Invalid serialization expected at least 6, found %v", len(ss))
-			return
-		case ss[5] != "0": //so this is a Redirect
-			//grab another page
-		default:
-			break LOOP
-		}
+	ss, err := ps.Read()
+	switch {
+	case err != nil:
+		return
+	case len(ss) < 3:
+		err = errors.Errorf("Error: Invalid serialization expected at least 3, found %v", len(ss))
+		return
 	}
 
 	ID, err := strconv.ParseUint(ss[0], 10, 32)
