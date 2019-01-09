@@ -40,7 +40,7 @@ func main() {
 		log.Fatalf("%+v", err)
 	}
 
-	latestDump, err := wikidump.Latest(tmpDir, lang, "pagetable", "categorylinkstable", "pagelinkstable")
+	latestDump, err := wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
 	if err != nil {
 		log.Fatalf("%+v", err)
 	}

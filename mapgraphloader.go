@@ -95,6 +95,54 @@ func (gl *mapGraphLoader) AddEdges(ess ...edgeSourcer) *mapGraphLoader {
 	return gl
 }
 
+func (gl *mapGraphLoader) SetAliases(ass ...edgeSourcer) *mapGraphLoader {
+	redirects := map[uint32]uint32{}
+	inverseRedirects := map[uint32][]uint32{}
+	for _, as := range ass {
+		if gl.Err != nil {
+			return gl
+		}
+
+		var e edge
+		var err error
+		next := as.Next
+		for e, err = next(); err == nil; e, err = next() {
+			to, ok := redirects[e.To]
+			if !ok {
+				to = e.To
+			}
+			ffrom := append(inverseRedirects[e.From], e.From)
+			for _, from := range ffrom {
+				redirects[from] = to
+			}
+			inverseRedirects[to] = append(inverseRedirects[to], ffrom...)
+			delete(inverseRedirects, e.From)
+		}
+
+		gl.Err = as.Close()
+		if err != io.EOF { // err != nil due to "for" condition
+			gl.Err = err
+		}
+	}
+
+	title2ID := gl.nTitle2ID.m
+	for title, from := range title2ID {
+		to, ok := redirects[from]
+		if !ok {
+			continue
+		}
+		title2ID[title] = to
+		for _, nsSet := range gl.Namespace2IDs {
+			if nsSet.Contains(from) {
+				nsSet.Remove(from)
+				break
+			}
+		}
+	}
+
+	return gl
+}
+
 func (gl *mapGraphLoader) Filter(ff ...Filter) *mapGraphLoader {
 	if gl.Err != nil || len(ff) == 0 {
 		return gl

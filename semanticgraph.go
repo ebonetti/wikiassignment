@@ -38,6 +38,7 @@ func (p SemanticGraphSources) Build(ctx context.Context) (g map[uint32][]uint32,
 
 	topicIds := gl.Namespace2IDs[TopicNamespaceID]
 	gl.AddNodes(p.topicSource(), p.pageSource(ctx))
+	gl.SetAliases(p.redirectSource(ctx, gl))
 	gl.AddEdges(p.topiclinksSource(gl), p.categorylinksSource(ctx, gl))
 
 	nodes := gl.Edges.Nodes()
@@ -133,6 +134,21 @@ func (ps rPageSource) next() (p page, err error) {
 	}
 
 	return page{uint32(ID), int(namespace), ss[2]}, nil
+}
+
+//Graph nodes: redirect - categories and articles aliases
+func (p SemanticGraphSources) redirectSource(ctx context.Context, gl *mapGraphLoader) edgeSourcer {
+	articleIds := gl.Namespace2IDs[ArticleNamespaceID]
+	categoryIds := gl.Namespace2IDs[CategoryNamespaceID]
+	ev := newValidator(edgeDomain{articleIds, articleIds}, edgeDomain{categoryIds, categoryIds})
+	extractFields := func(ss []string) (from, toNamespace, toTitle string, err error) {
+		if len(ss) < 2 {
+			err = errors.Errorf("Error: Invalid serialization expected at least 2, found %v in %v", len(ss), ss)
+			return
+		}
+		return ss[0], ss[1], ss[2], nil
+	}
+	return rEdgeSource{p.dumpIterator(ctx, "redirecttable"), ev, gl.Title2ID, extractFields}
 }
 
 //Graph edges: topic links with categories
