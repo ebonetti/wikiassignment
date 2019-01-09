@@ -138,8 +138,10 @@ type redirectMapping map[uint32]uint32
 func (m redirectMapping) From(from uint32) (to uint32, isRedirect bool) {
 	to, isRedirect = m[from]
 	if !isRedirect {
+		to = from
 		return
 	}
+	delete(m, from) //guarantee of no infinite loop
 	to, _ = m.From(to)
 	m[from] = to
 	return
