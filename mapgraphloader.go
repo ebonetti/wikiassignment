@@ -96,8 +96,7 @@ func (gl *mapGraphLoader) AddEdges(ess ...edgeSourcer) *mapGraphLoader {
 }
 
 func (gl *mapGraphLoader) SetAliases(ass ...edgeSourcer) *mapGraphLoader {
-	redirects := map[uint32]uint32{}
-	inverseRedirects := map[uint32][]uint32{}
+	redirects := redirectMapping{}
 	for _, as := range ass {
 		if gl.Err != nil {
 			return gl
@@ -107,16 +106,7 @@ func (gl *mapGraphLoader) SetAliases(ass ...edgeSourcer) *mapGraphLoader {
 		var err error
 		next := as.Next
 		for e, err = next(); err == nil; e, err = next() {
-			to, ok := redirects[e.To]
-			if !ok {
-				to = e.To
-			}
-			ffrom := append(inverseRedirects[e.From], e.From)
-			for _, from := range ffrom {
-				redirects[from] = to
-			}
-			inverseRedirects[to] = append(inverseRedirects[to], ffrom...)
-			delete(inverseRedirects, e.From)
+			redirects[e.From] = e.To
 		}
 
 		gl.Err = as.Close()
@@ -127,8 +117,8 @@ func (gl *mapGraphLoader) SetAliases(ass ...edgeSourcer) *mapGraphLoader {
 
 	title2ID := gl.nTitle2ID.m
 	for title, from := range title2ID {
-		to, ok := redirects[from]
-		if !ok {
+		to, isRedirect := redirects.From(from)
+		if !isRedirect {
 			continue
 		}
 		title2ID[title] = to
@@ -141,6 +131,18 @@ func (gl *mapGraphLoader) SetAliases(ass ...edgeSourcer) *mapGraphLoader {
 	}
 
 	return gl
+}
+
+type redirectMapping map[uint32]uint32
+
+func (m redirectMapping) From(from uint32) (to uint32, isRedirect bool) {
+	to, isRedirect = m[from]
+	if !isRedirect {
+		return
+	}
+	to, _ = m.From(to)
+	m[from] = to
+	return
 }
 
 func (gl *mapGraphLoader) Filter(ff ...Filter) *mapGraphLoader {
