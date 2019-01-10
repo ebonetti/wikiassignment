@@ -11,6 +11,7 @@ import (
 	"log"
 	"os"
 	"strings"
+	"time"
 
 	json "github.com/json-iterator/go"
 
@@ -21,10 +22,11 @@ import (
 	"github.com/ebonetti/wikidump"
 )
 
-var lang string
+var lang, date, tmpDir string
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse (en,it).")
+	flag.StringVar(&date, "date", "latest", "Wikipedia dump date in the format AAAAMMDD, such as 20060102, or latest (default).")
 }
 
 func main() {
@@ -40,13 +42,13 @@ func main() {
 		log.Fatalf("%+v", err)
 	}
 
-	latestDump, err := wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
+	wikimediaDumps, err := listDump()
 	if err != nil {
 		log.Fatalf("%+v", err)
 	}
 
 	dumps := func(name string) (r io.ReadCloser, err error) {
-		rawReader, err := latestDump.Open(name)(context.Background())
+		rawReader, err := wikimediaDumps.Open(name)(context.Background())
 		if err != nil {
 			return
 		}
@@ -181,4 +183,18 @@ func esport2JSON(filename string, v interface{}) {
 	if err != nil {
 		log.Panicf("%v", err)
 	}
+}
+
+func listDump() (wikimediaDumps wikidump.Wikidump, err error) {
+	if date == "latest" {
+		return wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
+	}
+
+	var t time.Time
+	t, err = time.Parse("20060102", date)
+	if err != nil {
+		return
+	}
+
+	return wikidump.From(tmpDir, lang, t)
 }

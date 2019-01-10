@@ -34,7 +34,7 @@ This package depends on `PETSc`. The associated dockerfile provides a complete e
 Examples of use
 -------------
 
-1. `docker run ebonetti/wikiassignment export -lang en`: basic usage, run the image on the english nationalization and store the result in the in-containter `/data` folder, containing:
+1. `docker run ebonetti/wikiassignment export -lang en -date 20060102`: basic usage, run the image on the english nationalization dump in date 2 January 2006 and store the result in the in-containter `/data` folder, containing:
 ..1. `semanticgraph.json` maps source page ID to the array of target page IDs.
 ..2. `partition.json` maps typology of node (article,category or topic) to the array of page IDs belonging to it.
 ..3. `absorptionprobabilities.csv` represents each page in a row with its ID and the weight assignment for each topic.
