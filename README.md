@@ -31,6 +31,11 @@ You will need a machine with internet connection, 16GB of RAM (for the english v
 
 This package depends on `PETSc`. The associated dockerfile provides a complete environment in which use this package. Otherwise `PETSc` can be installed following the same steps as in the dockerfile or in [the PETSc installation page](https://www.mcs.anl.gov/petsc/documentation/installation.html).
 
+Export options
+-------------
+1. `lang`: wikipedia nationalization to parse (`en` or `it`), default `it`.
+2. `date`: wikipedia dump date in the format AAAAMMDD, default `latest`.
+
 Examples of use
 -------------
 
