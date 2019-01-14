@@ -25,7 +25,7 @@ import (
 var lang, date, tmpDir string
 
 func init() {
-	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse (en,it).")
+	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
 	flag.StringVar(&date, "date", "latest", "Wikipedia dump date in the format AAAAMMDD.")
 }
 

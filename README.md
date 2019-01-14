@@ -33,7 +33,7 @@ This package depends on `PETSc`. The associated dockerfile provides a complete e
 
 Export options
 -------------
-1. `lang`: wikipedia nationalization to parse (`en` or `it`), default `it`.
+1. `lang`: [wikipedia nationalization to parse](https://github.com/ebonetti/overpedia/tree/master/nationalization/internal/languages), default `it`.
 2. `date`: wikipedia dump date in the format AAAAMMDD, default `latest`.
 
 Examples of use
