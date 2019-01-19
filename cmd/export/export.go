@@ -58,10 +58,9 @@ func main() {
 
 	topic2Categories := map[uint32][]uint32{}
 	for _, t := range nationalization.Topics {
-		topic2Categories[t.ID] = t.Categories
-	}
-	for pageID, TopicID := range nationalization.Article2Topic {
-		topic2Categories[TopicID] = append(topic2Categories[TopicID], pageID)
+		for _, page := range append(t.Categories, t.Articles...) {
+			topic2Categories[t.ID] = append(topic2Categories[t.ID], page.ID)
+		}
 	}
 
 	amcData := _amcData{}
