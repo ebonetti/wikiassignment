@@ -63,8 +63,13 @@ func main() {
 		}
 	}
 
+	filters := []uint32{}
+	for _, p := range nationalization.Filters {
+		filters = append(filters, p.ID)
+	}
+
 	amcData := _amcData{}
-	weighter, err := chainFrom(context.Background(), tmpDir, wikiassignment.SemanticGraphSources{dumps, topic2Categories, nationalization.Filter}, &amcData).AbsorptionProbabilities(context.Background())
+	weighter, err := chainFrom(context.Background(), tmpDir, wikiassignment.SemanticGraphSources{dumps, topic2Categories, []wikiassignment.Filter{{false, filters, 1}}}, &amcData).AbsorptionProbabilities(context.Background())
 	switch {
 	case amcData.err != nil:
 		weighter, err = nil, amcData.err
