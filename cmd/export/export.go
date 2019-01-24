@@ -10,12 +10,15 @@ import (
 	"io/ioutil"
 	"log"
 	"math/rand"
+	"net/http"
+	"net/url"
 	"os"
 	"strings"
 	"sync"
 	"time"
 
 	"github.com/ebonetti/wikipage"
+	"github.com/pkg/errors"
 
 	json "github.com/json-iterator/go"
 
@@ -317,6 +320,110 @@ func fetchNationalization() (n nationalization.Nationalization) {
 		log.Fatalf("Error while parsing %s: %v", lang, err)
 	}
 	lang = n.Language
+
+	sanitizePageIDs(&n)
+	return
+}
+
+func sanitizePageIDs(n *nationalization.Nationalization) {
+	for i, t := range n.Topics {
+		for j, c := range t.Categories {
+			n.Topics[i].Categories[j].ID = title2ID(c.Title)
+		}
+	}
+	for i, t := range n.Topics {
+		for j, a := range t.Articles {
+			n.Topics[i].Articles[j].ID = title2ID(a.Title)
+		}
+	}
+	for i, f := range n.Filters {
+		n.Filters[i].ID = title2ID(f.Title)
+	}
+}
+
+func title2ID(title string) uint32 {
+	const base = "https://%v.wikipedia.org/w/api.php?action=query&redirects&format=json&formatversion=2&titles=%v"
+	page := get(queryFrom(base, lang, title))
+	if page.Missing {
+		log.Fatal("Not found ", title)
+	}
+	return page.ID
+}
+
+func queryFrom(base string, lang string, infos ...interface{}) (query string) {
+	infoString := make([]string, len(infos))
+	for i, info := range infos {
+		infoString[i] = fmt.Sprint(info)
+	}
+	return fmt.Sprintf(base, lang, url.QueryEscape(strings.Join(infoString, "|")))
+}
+
+func get(query string) (page mayMissingPage) {
+	for t := time.Second; t < time.Minute; t *= 2 { //exponential backoff
+		pd, err := pagesDataFrom(query)
+		switch {
+		case err != nil:
+			page.Missing = true
+		case len(pd.Query.Pages) == 0:
+			page.Missing = true
+			return
+		default:
+			page = pd.Query.Pages[0]
+			return
+		}
+		fmt.Println(err)
+		time.Sleep(t)
+	}
+
+	return
+}
+
+type pagesData struct {
+	Batchcomplete interface{}
+	Warnings      interface{}
+	Query         struct {
+		Pages []mayMissingPage
+	}
+}
+
+type mayMissingPage struct {
+	ID        uint32 `json:"pageid"`
+	Title     string
+	Namespace int `json:"ns"`
+	Missing   bool
+}
+
+var client = &http.Client{Timeout: time.Minute}
+
+func pagesDataFrom(query string) (pd pagesData, err error) {
+	fail := func(e error) (pagesData, error) {
+		pd, err = pagesData{}, errors.Wrapf(e, "Error with the following query: %v", query)
+		return pd, err
+	}
+
+	resp, err := client.Get(query)
+	if err != nil {
+		return fail(err)
+	}
+	defer resp.Body.Close()
+
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return fail(err)
+	}
+
+	err = json.Unmarshal(body, &pd)
+	if err != nil {
+		return fail(err)
+	}
+
+	if pd.Batchcomplete == nil {
+		return fail(errors.Errorf("Incomplete batch with the following query: %v", query))
+	}
+
+	if pd.Warnings != nil {
+		return fail(errors.Errorf("Warnings - %v - with the following query: %v", pd.Warnings, query))
+	}
 
 	return
 }
