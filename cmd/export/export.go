@@ -41,13 +41,7 @@ func main() {
 	}
 	defer os.Remove(tmpDir)
 
-	nationalization, err := nationalization.New(lang)
-	if err != nil {
-		log.Fatalf("%+v", err)
-	}
-	lang = nationalization.Language
-
-	data := data{Nationalization: nationalization}
+	data := data{Nationalization: fetchNationalization()}
 	ctx := context.Background()
 	weighter, err := data.Chain(ctx).AbsorptionProbabilities(ctx)
 	switch {
@@ -79,7 +73,7 @@ type data struct {
 }
 
 func (data *data) Chain(ctx context.Context) *absorbingmarkovchain.AbsorbingMarkovChain {
-	wikimediaDumps, err := listDump()
+	wikimediaDumps, err := fetchDump()
 	if err != nil {
 		log.Fatalf("%+v", err)
 	}
@@ -290,7 +284,7 @@ func esport2JSON(filename string, v interface{}) {
 	}
 }
 
-func listDump() (wikimediaDumps wikidump.Wikidump, err error) {
+func fetchDump() (wikimediaDumps wikidump.Wikidump, err error) {
 	if date == "latest" {
 		fmt.Printf("Using latest %v dump\n", lang)
 		return wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
@@ -305,4 +299,24 @@ func listDump() (wikimediaDumps wikidump.Wikidump, err error) {
 	fmt.Printf("Using %v dump dated %v\n", lang, t)
 
 	return wikidump.From(tmpDir, lang, t)
+}
+
+func fetchNationalization() (n nationalization.Nationalization) {
+	n, err := nationalization.New(lang)
+	if err == nil {
+		return
+	}
+
+	bytes, err := ioutil.ReadFile(lang)
+	if err != nil {
+		log.Fatalf("Custom %s file not found", lang)
+		return
+	}
+
+	if err = json.Unmarshal(bytes, &n); err != nil {
+		log.Fatalf("Error while parsing %s: %v", lang, err)
+	}
+	lang = n.Language
+
+	return
 }
