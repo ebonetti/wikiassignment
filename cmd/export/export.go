@@ -17,6 +17,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/ebonetti/wikipage"
+
 	"github.com/pkg/errors"
 
 	json "github.com/json-iterator/go"
@@ -42,6 +44,8 @@ func main() {
 		log.Panicf("%v", err)
 	}
 	defer os.Remove(tmpDir)
+
+	os.Rename("pages.csv", "oldpages.csv")
 
 	data := data{Nationalization: fetchNationalization()}
 	ctx := context.Background()
@@ -227,21 +231,30 @@ func (data data) EsportPages() {
 	}
 }
 
-func (data data) Pages() <-chan nationalization.Page {
-	results := make(chan nationalization.Page, 20)
+func (data data) Pages() <-chan wikipage.WikiPage {
+	results := make(chan wikipage.WikiPage, 20)
 	go func() {
 		defer close(results)
-
 		pageIDs := data.Namespace2Ids[wikiassignment.ArticleNamespaceID]
-		r, err := data.Dumps("pagetable")
+
+		var r io.ReadCloser
+		r, err := os.Open("oldpages.csv")
+		IDPosition, titlePosition, abstractPosition := 0, 1, 2
 		if err != nil {
-			log.Panicf("%v", err)
+			r, err = data.Dumps("pagetable")
+			if err != nil {
+				log.Panicf("%v", err)
+			}
+			IDPosition, titlePosition, abstractPosition = 0, 2, 13
 		}
+
+		defer r.Close()
+
 		csvReader := csv.NewReader(r)
 		for {
 			ss, err := csvReader.Read()
 			ss = append(ss, "")
-			ID, err1 := strconv.ParseUint(ss[0], 10, 32)
+			ID, err1 := strconv.ParseUint(ss[IDPosition], 10, 32)
 			uint32ID := uint32(ID)
 			switch {
 			case err == io.EOF:
@@ -253,7 +266,7 @@ func (data data) Pages() <-chan nationalization.Page {
 			case !pageIDs.Contains(uint32ID):
 				//pass
 			default:
-				results <- nationalization.Page{uint32ID, ss[2]}
+				results <- wikipage.WikiPage{uint32ID, ss[titlePosition], ss[abstractPosition]}
 			}
 		}
 	}()
@@ -290,7 +303,7 @@ func esport2JSON(filename string, v interface{}) {
 func fetchDump() (wikimediaDumps wikidump.Wikidump, err error) {
 	if date == "latest" {
 		fmt.Printf("Using latest %v dump\n", lang)
-		return wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
+		return wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable", "metahistory7zdump")
 	}
 
 	var t time.Time
