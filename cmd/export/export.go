@@ -246,9 +246,14 @@ func pagesFrom(pageIDs []uint32) <-chan wikipage.WikiPage {
 			wg.Add(1)
 			go func() {
 				defer wg.Done()
+			loop:
 				for pageID := range pageIDsChan {
 					wp, err := wikiPage.From(ctx, pageID) //bottle neck - query to wikipedia api
-					if err != nil {
+					_, NotFound := wikipage.NotFound(err)
+					switch {
+					case NotFound:
+						continue loop //Do nothing
+					case err != nil:
 						log.Panicf("%v", err)
 					}
 					results <- wp
