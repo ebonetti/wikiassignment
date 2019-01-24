@@ -239,18 +239,21 @@ func (data data) Pages() <-chan wikipage.WikiPage {
 
 		var r io.ReadCloser
 		r, err := os.Open("oldpages.csv")
+		csvReader := csv.NewReader(r)
 		IDPosition, titlePosition, abstractPosition := 0, 1, 2
 		if err != nil {
 			r, err = data.Dumps("pagetable")
 			if err != nil {
 				log.Panicf("%v", err)
 			}
+			csvReader = csv.NewReader(r)
 			IDPosition, titlePosition, abstractPosition = 0, 2, 13
+		} else {
+			csvReader.Read() //Discard header
 		}
 
 		defer r.Close()
 
-		csvReader := csv.NewReader(r)
 		for {
 			ss, err := csvReader.Read()
 			ss = append(ss, "")
