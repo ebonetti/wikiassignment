@@ -13,11 +13,10 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"strconv"
 	"strings"
-	"sync"
 	"time"
 
-	"github.com/ebonetti/wikipage"
 	"github.com/pkg/errors"
 
 	json "github.com/json-iterator/go"
@@ -71,6 +70,7 @@ func main() {
 type data struct {
 	Err error
 	nationalization.Nationalization
+	Dumps         func(name string) (r io.ReadCloser, err error)
 	Namespace2Ids map[int]*roaring.Bitmap
 	Weighter      func(pageID, topicID uint32) (weight float64)
 }
@@ -81,7 +81,7 @@ func (data *data) Chain(ctx context.Context) *absorbingmarkovchain.AbsorbingMark
 		log.Fatalf("%+v", err)
 	}
 
-	dumps := func(name string) (r io.ReadCloser, err error) {
+	data.Dumps = func(name string) (r io.ReadCloser, err error) {
 		rawReader, err := wikimediaDumps.Open(name)(context.Background())
 		if err != nil {
 			return
@@ -102,7 +102,7 @@ func (data *data) Chain(ctx context.Context) *absorbingmarkovchain.AbsorbingMark
 		filters = append(filters, p.ID)
 	}
 
-	g, IDs2CatDistance, namespace2Ids, err := wikiassignment.SemanticGraphSources{dumps, topic2Categories, []wikiassignment.Filter{{false, filters, 1}}}.Build(ctx)
+	g, IDs2CatDistance, namespace2Ids, err := wikiassignment.SemanticGraphSources{data.Dumps, topic2Categories, []wikiassignment.Filter{{false, filters, 1}}}.Build(ctx)
 
 	esport2JSON("semanticgraph.json", g) ///////////////////////////////////////////////////
 
@@ -212,7 +212,7 @@ func (data data) EsportPages() {
 		writeRow(t.ID, t.Title, "", 0)
 	}
 
-	for page := range pagesFrom(data.Namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()) {
+	for page := range data.Pages() {
 		perm := rand.Perm(len(data.Nationalization.Topics))
 		bestTopicID, bestw := uint32(0), -1.0
 		for _, p := range perm {
@@ -223,44 +223,39 @@ func (data data) EsportPages() {
 				bestw = w
 			}
 		}
-		writeRow(page.ID, page.Title, page.Abstract, bestTopicID)
+		writeRow(page.ID, page.Title, "", bestTopicID)
 	}
 }
 
-const nN = 200
-
-func pagesFrom(pageIDs []uint32) <-chan wikipage.WikiPage {
-	pageIDsChan := make(chan uint32, len(pageIDs))
-	for _, pageID := range pageIDs {
-		pageIDsChan <- pageID
-	}
-	close(pageIDsChan)
-
-	results := make(chan wikipage.WikiPage, 2*nN)
+func (data data) Pages() <-chan nationalization.Page {
+	results := make(chan nationalization.Page, 20)
 	go func() {
 		defer close(results)
-		ctx := context.Background()
-		wikiPage := wikipage.New(lang)
-		wg := sync.WaitGroup{}
-		for i := 0; i < nN; i++ {
-			wg.Add(1)
-			go func() {
-				defer wg.Done()
-			loop:
-				for pageID := range pageIDsChan {
-					wp, err := wikiPage.From(ctx, pageID) //bottle neck - query to wikipedia api
-					_, NotFound := wikipage.NotFound(err)
-					switch {
-					case NotFound:
-						continue loop //Do nothing
-					case err != nil:
-						log.Panicf("%v", err)
-					}
-					results <- wp
-				}
-			}()
+
+		pageIDs := data.Namespace2Ids[wikiassignment.ArticleNamespaceID]
+		r, err := data.Dumps("pagetable")
+		if err != nil {
+			log.Panicf("%v", err)
 		}
-		wg.Wait()
+		csvReader := csv.NewReader(r)
+		for {
+			ss, err := csvReader.Read()
+			ss = append(ss, "")
+			ID, err1 := strconv.ParseUint(ss[0], 10, 32)
+			uint32ID := uint32(ID)
+			switch {
+			case err == io.EOF:
+				return
+			case err != nil:
+				log.Panicf("%v", err)
+			case err1 != nil:
+				log.Panicf("%v", err1)
+			case !pageIDs.Contains(uint32ID):
+				//pass
+			default:
+				results <- nationalization.Page{uint32ID, ss[2]}
+			}
+		}
 	}()
 
 	return results
