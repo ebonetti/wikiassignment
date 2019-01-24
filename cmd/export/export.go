@@ -9,9 +9,13 @@ import (
 	"io"
 	"io/ioutil"
 	"log"
+	"math/rand"
 	"os"
 	"strings"
+	"sync"
 	"time"
+
+	"github.com/ebonetti/wikipage"
 
 	json "github.com/json-iterator/go"
 
@@ -41,7 +45,40 @@ func main() {
 	if err != nil {
 		log.Fatalf("%+v", err)
 	}
+	lang = nationalization.Language
 
+	data := data{Nationalization: nationalization}
+	ctx := context.Background()
+	weighter, err := data.Chain(ctx).AbsorptionProbabilities(ctx)
+	switch {
+	case data.Err != nil:
+		weighter, err = nil, data.Err
+		log.Fatalf("%+v", err)
+	case err != nil:
+		log.Fatalf("%+v", err)
+	}
+
+	data.Weighter = func(pageID, topicID uint32) (weight float64) {
+		weight, err := weighter(pageID, topicID)
+		if err != nil {
+			log.Fatalf("%+v", err)
+		}
+		return
+	}
+
+	data.EsportPartition()
+	data.EsportAbsorptionProbabilities()
+	data.EsportPages()
+}
+
+type data struct {
+	Err error
+	nationalization.Nationalization
+	Namespace2Ids map[int]*roaring.Bitmap
+	Weighter      func(pageID, topicID uint32) (weight float64)
+}
+
+func (data *data) Chain(ctx context.Context) *absorbingmarkovchain.AbsorbingMarkovChain {
 	wikimediaDumps, err := listDump()
 	if err != nil {
 		log.Fatalf("%+v", err)
@@ -57,91 +94,26 @@ func main() {
 	}
 
 	topic2Categories := map[uint32][]uint32{}
-	for _, t := range nationalization.Topics {
+	for _, t := range data.Nationalization.Topics {
 		for _, page := range append(t.Categories, t.Articles...) {
 			topic2Categories[t.ID] = append(topic2Categories[t.ID], page.ID)
 		}
 	}
 
 	filters := []uint32{}
-	for _, p := range nationalization.Filters {
+	for _, p := range data.Nationalization.Filters {
 		filters = append(filters, p.ID)
 	}
 
-	amcData := _amcData{}
-	weighter, err := chainFrom(context.Background(), tmpDir, wikiassignment.SemanticGraphSources{dumps, topic2Categories, []wikiassignment.Filter{{false, filters, 1}}}, &amcData).AbsorptionProbabilities(context.Background())
-	switch {
-	case amcData.err != nil:
-		weighter, err = nil, amcData.err
-		log.Fatalf("%+v", err)
-	case err != nil:
-		log.Fatalf("%+v", err)
-	}
-
-	topics := amcData.namespace2Ids[wikiassignment.TopicNamespaceID].ToArray()
-	categories := amcData.namespace2Ids[wikiassignment.CategoryNamespaceID].ToArray()
-	articles := amcData.namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()
-
-	IDPartition := map[string][]uint32{"topics": topics, "categories": categories, "articles": articles}
-	esport2JSON("partition.json", IDPartition) ///////////////////////////////////////////////////
-
-	//Export to csv absorption probabilities
-	f, err := os.Create("absorptionprobabilities.csv")
-	if err != nil {
-		log.Panicf("%v", err)
-	}
-	defer f.Close()
-
-	bf := bufio.NewWriter(f)
-	defer bf.Flush()
-
-	w := csv.NewWriter(bf)
-	defer w.Flush()
-
-	headers := []string{"PageID"}
-	for i, topicID := range topics {
-		t := nationalization.Topics[i]
-		if t.ID != topicID {
-			log.Panic("Invalid ordering of Topics")
-		}
-		headers = append(headers, strings.Split(t.Title, " ")[0])
-	}
-
-	if err = w.Write(headers); err != nil {
-		log.Panicf("%v", err)
-	}
-
-	pages := roaring.Or(amcData.namespace2Ids[wikiassignment.CategoryNamespaceID], amcData.namespace2Ids[wikiassignment.ArticleNamespaceID]).ToArray()
-	for _, pageID := range pages {
-		data := []string{fmt.Sprint(pageID)}
-		for _, topicID := range topics {
-			weight, err := weighter(pageID, topicID)
-			if err != nil {
-				log.Fatalf("%+v", err)
-			}
-			data = append(data, fmt.Sprint(weight))
-		}
-		if err = w.Write(data); err != nil {
-			log.Panicf("%v", err)
-		}
-	}
-}
-
-type _amcData struct {
-	err           error
-	namespace2Ids map[int]*roaring.Bitmap
-}
-
-func chainFrom(ctx context.Context, tmpDir string, d wikiassignment.SemanticGraphSources, amcd *_amcData) *absorbingmarkovchain.AbsorbingMarkovChain {
-	g, IDs2CatDistance, namespace2Ids, err := d.Build(ctx)
+	g, IDs2CatDistance, namespace2Ids, err := wikiassignment.SemanticGraphSources{dumps, topic2Categories, []wikiassignment.Filter{{false, filters, 1}}}.Build(ctx)
 
 	esport2JSON("semanticgraph.json", g) ///////////////////////////////////////////////////
 
 	if err != nil {
-		amcd.err = err
+		data.Err = err
 		return nil
 	}
-	amcd.namespace2Ids = namespace2Ids
+	data.Namespace2Ids = namespace2Ids
 
 	articlesIds := namespace2Ids[wikiassignment.ArticleNamespaceID]
 	weighter := func(from, to uint32) (weight float64, err error) { //amc weigherweight<=1
@@ -165,6 +137,133 @@ func chainFrom(ctx context.Context, tmpDir string, d wikiassignment.SemanticGrap
 	return absorbingmarkovchain.New(tmpDir, nodes, absorbingNodes, edges, weighter)
 }
 
+func (data data) EsportPartition() {
+	topics := data.Namespace2Ids[wikiassignment.TopicNamespaceID].ToArray()
+	categories := data.Namespace2Ids[wikiassignment.CategoryNamespaceID].ToArray()
+	articles := data.Namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()
+
+	IDPartition := map[string][]uint32{"topics": topics, "categories": categories, "articles": articles}
+	esport2JSON("partition.json", IDPartition)
+}
+
+func (data data) EsportAbsorptionProbabilities() {
+	const filename = "absorptionprobabilities.csv"
+	fmt.Println("Exporting", filename)
+	defer fmt.Println("Done")
+	f, err := os.Create(filename)
+	if err != nil {
+		log.Panicf("%v", err)
+	}
+	defer f.Close()
+
+	bf := bufio.NewWriter(f)
+	defer bf.Flush()
+
+	w := csv.NewWriter(bf)
+	defer w.Flush()
+
+	write := func(ss []string) {
+		if err := w.Write(ss); err != nil {
+			log.Panicf("%v", err)
+		}
+	}
+
+	headers := []string{"PageID"}
+	for _, t := range data.Nationalization.Topics {
+		headers = append(headers, strings.Split(t.Title, " ")[0])
+	}
+	write(headers)
+
+	for _, pageID := range roaring.Or(data.Namespace2Ids[wikiassignment.CategoryNamespaceID], data.Namespace2Ids[wikiassignment.ArticleNamespaceID]).ToArray() {
+		row := []string{fmt.Sprint(pageID)}
+		for _, t := range data.Nationalization.Topics {
+			row = append(row, fmt.Sprint(data.Weighter(pageID, t.ID)))
+		}
+		write(row)
+	}
+}
+
+func (data data) EsportPages() {
+	const filename = "pages.csv"
+	fmt.Println("Exporting", filename)
+	defer fmt.Println("Done")
+	f, err := os.Create(filename)
+	if err != nil {
+		log.Panicf("%v", err)
+	}
+	defer f.Close()
+
+	bf := bufio.NewWriter(f)
+	defer bf.Flush()
+
+	w := csv.NewWriter(bf)
+	defer w.Flush()
+
+	write := func(ss ...string) {
+		if err := w.Write(ss); err != nil {
+			log.Panicf("%v", err)
+		}
+	}
+
+	write("id", "title", "abstract", "topicid")
+
+	writeRow := func(ID uint32, title, abstract string, topicID uint32) {
+		write(fmt.Sprint(ID), title, abstract, fmt.Sprint(topicID))
+	}
+
+	for _, t := range data.Nationalization.Topics {
+		writeRow(t.ID, t.Title, "", 0)
+	}
+
+	for page := range pagesFrom(data.Namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()) {
+		perm := rand.Perm(len(data.Nationalization.Topics))
+		bestTopicID, bestw := uint32(0), -1.0
+		for _, p := range perm {
+			topicID := data.Nationalization.Topics[p].ID
+			w := data.Weighter(page.ID, topicID)
+			if w > bestw {
+				bestTopicID = topicID
+				bestw = w
+			}
+		}
+		writeRow(page.ID, page.Title, page.Abstract, bestTopicID)
+	}
+}
+
+const nN = 200
+
+func pagesFrom(pageIDs []uint32) <-chan wikipage.WikiPage {
+	pageIDsChan := make(chan uint32, len(pageIDs))
+	for _, pageID := range pageIDs {
+		pageIDsChan <- pageID
+	}
+	close(pageIDsChan)
+
+	results := make(chan wikipage.WikiPage, 2*nN)
+	go func() {
+		defer close(results)
+		ctx := context.Background()
+		wikiPage := wikipage.New(lang)
+		wg := sync.WaitGroup{}
+		for i := 0; i < nN; i++ {
+			wg.Add(1)
+			go func() {
+				defer wg.Done()
+				for pageID := range pageIDsChan {
+					wp, err := wikiPage.From(ctx, pageID) //bottle neck - query to wikipedia api
+					if err != nil {
+						log.Panicf("%v", err)
+					}
+					results <- wp
+				}
+			}()
+		}
+		wg.Wait()
+	}()
+
+	return results
+}
+
 type readClose struct {
 	io.Reader
 	Closer func() error
@@ -175,6 +274,8 @@ func (r readClose) Close() error {
 }
 
 func esport2JSON(filename string, v interface{}) {
+	fmt.Println("Exporting", filename)
+	defer fmt.Println("Done")
 	w, err := os.Create(filename)
 	if err != nil {
 		log.Panicf("%v", err)
@@ -191,6 +292,7 @@ func esport2JSON(filename string, v interface{}) {
 
 func listDump() (wikimediaDumps wikidump.Wikidump, err error) {
 	if date == "latest" {
+		fmt.Printf("Using latest %v dump\n", lang)
 		return wikidump.Latest(tmpDir, lang, "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
 	}
 
@@ -199,6 +301,8 @@ func listDump() (wikimediaDumps wikidump.Wikidump, err error) {
 	if err != nil {
 		return
 	}
+
+	fmt.Printf("Using %v dump dated %v\n", lang, t)
 
 	return wikidump.From(tmpDir, lang, t)
 }

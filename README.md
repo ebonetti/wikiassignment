@@ -43,6 +43,7 @@ Examples of use
 ..1. `semanticgraph.json` maps source page ID to the array of target page IDs.
 ..2. `partition.json` maps typology of node (article,category or topic) to the array of page IDs belonging to it.
 ..3. `absorptionprobabilities.csv` represents each page in a row with its ID and the weight assignment for each topic.
+..4. `pages.csv` represents pages in the form requested by wiki2overpediadb.
 2. `docker run -v /path/2/out/dir:/data ebonetti/wikiassignment -d export -lang en`:
 ..1. run the image as before.
 ..2. [mount as a volume](https://docs.docker.com/storage/volumes/) the guest `/data` folder to the host folder `/path/2/out/dir`, the output folder, so that at the end of the operations  `/path/2/out/dir` will contain the result. This folder can be changed to an arbitrary folder of your choice.
