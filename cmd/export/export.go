@@ -227,7 +227,7 @@ func (data data) EsportPages() {
 				bestw = w
 			}
 		}
-		writeRow(page.ID, page.Title, "", bestTopicID)
+		writeRow(page.ID, page.Title, page.Abstract, bestTopicID)
 	}
 }
 
