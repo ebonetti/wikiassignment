@@ -205,7 +205,8 @@ func (p SemanticGraphSources) pagelinksSource(ctx context.Context, gl *mapGraphL
 	articleIds := gl.Namespace2IDs[ArticleNamespaceID]
 	categorizedArticles := roaring.And(articleIds, gl.Edges.Nodes())
 	uncategorizedArticles := roaring.AndNot(articleIds, categorizedArticles)
-	ev := newValidator(edgeDomain{categorizedArticles, categorizedArticles}, edgeDomain{uncategorizedArticles, articleIds})
+	//ev := newValidator(edgeDomain{categorizedArticles, categorizedArticles}, edgeDomain{uncategorizedArticles, articleIds})
+	ev := newValidator(edgeDomain{uncategorizedArticles, articleIds})
 	extractFields := func(ss []string) (from, toNamespace, toTitle string, err error) {
 		if len(ss) < 4 {
 			err = errors.Errorf("Error: Invalid serialization expected at least 4, found %v in %v", len(ss), ss)
