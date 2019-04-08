@@ -33,7 +33,7 @@ func From(ctx context.Context, tmpDir, lang string) (page2Topic map[uint32]uint3
 	}
 	topicAssignments := map[uint32][]uint32{}
 	for _, t := range nationalization.Topics {
-		for _, p := range append(t.Categories, t.Articles...) {
+		for _, p := range t.Categories {
 			topicAssignments[t.ID] = append(topicAssignments[t.ID], p.ID)
 		}
 	}

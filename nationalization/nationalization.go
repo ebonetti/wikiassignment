@@ -40,7 +40,7 @@ type Nationalization struct {
 	Language string
 	Topics   []struct {
 		Page
-		Categories, Articles []Page `json:",omitempty"`
+		Categories []Page `json:",omitempty"`
 	}
 	Filters []Page `json:",omitempty"`
 }

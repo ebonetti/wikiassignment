@@ -96,7 +96,7 @@ func (data *data) Chain(ctx context.Context) *absorbingmarkovchain.AbsorbingMark
 
 	topic2Categories := map[uint32][]uint32{}
 	for _, t := range data.Nationalization.Topics {
-		for _, page := range append(t.Categories, t.Articles...) {
+		for _, page := range t.Categories {
 			topic2Categories[t.ID] = append(topic2Categories[t.ID], page.ID)
 		}
 	}
@@ -345,11 +345,6 @@ func sanitizePageIDs(n *nationalization.Nationalization) {
 	for i, t := range n.Topics {
 		for j, c := range t.Categories {
 			n.Topics[i].Categories[j].ID = title2ID(c.Title)
-		}
-	}
-	for i, t := range n.Topics {
-		for j, a := range t.Articles {
-			n.Topics[i].Articles[j].ID = title2ID(a.Title)
 		}
 	}
 	for i, f := range n.Filters {
