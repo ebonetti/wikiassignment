@@ -10,16 +10,12 @@ import (
 	"io/ioutil"
 	"log"
 	"math/rand"
-	"net/http"
-	"net/url"
 	"os"
 	"strconv"
 	"strings"
 	"time"
 
 	"github.com/ebonetti/wikipage"
-
-	"github.com/pkg/errors"
 
 	json "github.com/json-iterator/go"
 
@@ -326,115 +322,30 @@ func fetchNationalization() (n nationalization.Nationalization) {
 		return
 	}
 
-	bytes, err := ioutil.ReadFile(lang)
-	if err != nil {
-		log.Fatalf("Custom %s file not found", lang)
-		return
-	}
-
-	if err = json.Unmarshal(bytes, &n); err != nil {
-		log.Fatalf("Error while parsing %s: %v", lang, err)
+	filename := lang
+	if err := simpleReadJSON(filename, &n); err != nil {
+		log.Fatalf("While reading %v, arised the follwing: %v", filename, err.Error())
 	}
 	lang = n.Language
-
-	sanitizePageIDs(&n)
+	n = nationalization.Sync(n)[lang]
+	simpleWriteJSON(filename, n)
 	return
 }
 
-func sanitizePageIDs(n *nationalization.Nationalization) {
-	for i, t := range n.Topics {
-		for j, c := range t.Categories {
-			n.Topics[i].Categories[j].ID = title2ID(c.Title)
-		}
-	}
-	for i, f := range n.Filters {
-		n.Filters[i].ID = title2ID(f.Title)
-	}
-}
-
-func title2ID(title string) uint32 {
-	const base = "https://%v.wikipedia.org/w/api.php?action=query&redirects&format=json&formatversion=2&titles=%v"
-	page := get(queryFrom(base, lang, title))
-	if page.Missing {
-		log.Fatal("Not found ", title)
-	}
-	return page.ID
-}
-
-func queryFrom(base string, lang string, infos ...interface{}) (query string) {
-	infoString := make([]string, len(infos))
-	for i, info := range infos {
-		infoString[i] = fmt.Sprint(info)
-	}
-	return fmt.Sprintf(base, lang, url.QueryEscape(strings.Join(infoString, "|")))
-}
-
-func get(query string) (page mayMissingPage) {
-	for t := time.Second; t < time.Minute; t *= 2 { //exponential backoff
-		pd, err := pagesDataFrom(query)
-		switch {
-		case err != nil:
-			page.Missing = true
-		case len(pd.Query.Pages) == 0:
-			page.Missing = true
-			return
-		default:
-			page = pd.Query.Pages[0]
-			return
-		}
-		fmt.Println(err)
-		time.Sleep(t)
-	}
-
-	return
-}
-
-type pagesData struct {
-	Batchcomplete interface{}
-	Warnings      interface{}
-	Query         struct {
-		Pages []mayMissingPage
-	}
-}
-
-type mayMissingPage struct {
-	ID        uint32 `json:"pageid"`
-	Title     string
-	Namespace int `json:"ns"`
-	Missing   bool
-}
-
-var client = &http.Client{Timeout: time.Minute}
-
-func pagesDataFrom(query string) (pd pagesData, err error) {
-	fail := func(e error) (pagesData, error) {
-		pd, err = pagesData{}, errors.Wrapf(e, "Error with the following query: %v", query)
-		return pd, err
-	}
-
-	resp, err := client.Get(query)
+func simpleWriteJSON(filename string, v interface{}) error {
+	JSONData, err := json.MarshalIndent(v, "", "  ")
 	if err != nil {
-		return fail(err)
+		return err
 	}
-	defer resp.Body.Close()
 
-	body, err := ioutil.ReadAll(resp.Body)
+	return ioutil.WriteFile(filename, JSONData, os.ModePerm)
+}
+
+func simpleReadJSON(filename string, v interface{}) error {
+	JSONData, err := ioutil.ReadFile(filename)
 	if err != nil {
-		return fail(err)
+		return err
 	}
 
-	err = json.Unmarshal(body, &pd)
-	if err != nil {
-		return fail(err)
-	}
-
-	if pd.Batchcomplete == nil {
-		return fail(errors.Errorf("Incomplete batch with the following query: %v", query))
-	}
-
-	if pd.Warnings != nil {
-		return fail(errors.Errorf("Warnings - %v - with the following query: %v", pd.Warnings, query))
-	}
-
-	return
+	return json.Unmarshal(JSONData, v)
 }

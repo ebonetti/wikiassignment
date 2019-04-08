@@ -1,16 +1,15 @@
-package main
+package nationalization
 
 import (
 	//	"fmt"
 	"sort"
 
-	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/pkg/errors"
 )
 
 type i18lPage struct {
 	Lang string
-	nationalization.Page
+	Page
 }
 
 func translatorFrom(next func() (p i18lPage, ok bool)) translator {

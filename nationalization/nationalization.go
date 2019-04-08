@@ -9,7 +9,7 @@ import (
 	"github.com/ebonetti/wikiassignment/nationalization/internal"
 )
 
-//New return a Nationalization in the specified language if it does exist.
+//New returns a Nationalization in the specified language if it does exist.
 func New(lang string) (data Nationalization, err error) {
 	bytes, err := internal.Asset(lang + ".json")
 	if err != nil {
@@ -27,7 +27,7 @@ func New(lang string) (data Nationalization, err error) {
 	return
 }
 
-//List return the existing Nationalization languages.
+//List returns the existing Nationalization languages.
 func List() (langs []string) {
 	for _, lang := range internal.AssetNames() {
 		langs = append(langs, strings.TrimSuffix(lang, ".json"))
