@@ -15,7 +15,7 @@ import (
 	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/absorbingmarkovchain"
 
-	"github.com/ebonetti/overpedia/nationalization"
+	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/pkg/errors"
 )
 
@@ -294,7 +294,6 @@ func newNationalization(lang string) nationalization.Nationalization {
 	n.Language = lang
 	for i := range n.Topics {
 		n.Topics[i].Categories = nil
-		n.Topics[i].Articles = nil
 	}
 	n.Filters = nil
 	return n

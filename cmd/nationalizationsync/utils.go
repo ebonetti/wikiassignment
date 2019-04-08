@@ -4,7 +4,7 @@ import (
 	//	"fmt"
 	"sort"
 
-	"github.com/ebonetti/overpedia/nationalization"
+	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/pkg/errors"
 )
 
