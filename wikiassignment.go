@@ -5,7 +5,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/ebonetti/overpedia/nationalization"
+	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/ebonetti/wikidump"
 
 	"github.com/RoaringBitmap/roaring"

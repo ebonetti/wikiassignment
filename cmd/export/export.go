@@ -25,8 +25,8 @@ import (
 
 	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/absorbingmarkovchain"
-	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/ebonetti/wikiassignment"
+	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/ebonetti/wikidump"
 )
 
