@@ -1,6 +1,7 @@
 package nationalization
 
 import (
+	"compress/gzip"
 	"context"
 	"encoding/json"
 	"fmt"
@@ -18,16 +19,16 @@ import (
 	"github.com/pkg/errors"
 )
 
-//Sync returns the synced nationalizations derived from input and Wikipedia langLinks.
+//Sync returns the synced nationalizations derived from input and Wikipedia langLinks. It stores locally ".query2pagecache.json.gz" cache file so that eventual future calls will be blazing fast.
 func Sync(nn ...Nationalization) (lang2Nationalization map[string]Nationalization) {
 	if len(nn) == 0 {
 		return
 	}
 
-	const cacheFilename = ".query2PageCache.json"
+	const cacheFilename = ".query2pagecache.json.gz"
 	query2PageCache := map[string]mayMissingPage{}
-	readJSON(cacheFilename, &query2PageCache)
-	defer writeJSON(cacheFilename, query2PageCache)
+	readGZippedJSON(cacheFilename, &query2PageCache)
+	defer writeGZippedJSON(cacheFilename, query2PageCache)
 
 	return langLinksGraphFrom(nn, query2PageCache).resync().nationalizations()
 }
@@ -277,20 +278,44 @@ func newNationalization(lang string) Nationalization {
 	return n
 }
 
-func writeJSON(filename string, v interface{}) error {
-	JSONData, err := json.MarshalIndent(v, "", "  ")
+func writeGZippedJSON(filename string, v interface{}) (err error) {
+	f, err := ioutil.TempFile(".", filename)
 	if err != nil {
-		return err
+		return
 	}
 
-	return ioutil.WriteFile(filename, JSONData, os.ModePerm)
+	w := gzip.NewWriter(f)
+
+	defer func() {
+		wErr := w.Close()
+		fErr := f.Close()
+		switch {
+		case err != nil:
+			//Do nothing
+		case wErr != nil:
+			err = wErr
+		case fErr != nil:
+			err = fErr
+		default:
+			err = os.Rename(f.Name(), filename)
+		}
+		os.Remove(f.Name())
+	}()
+
+	return json.NewEncoder(w).Encode(v)
 }
 
-func readJSON(filename string, v interface{}) error {
-	JSONData, err := ioutil.ReadFile(filename)
+func readGZippedJSON(filename string, v interface{}) (err error) {
+	f, err := os.Open(filename)
 	if err != nil {
-		return err
+		return
 	}
 
-	return json.Unmarshal(JSONData, v)
+	r, err := gzip.NewReader(f)
+	if err != nil {
+		return
+	}
+	defer r.Close()
+
+	return json.NewDecoder(r).Decode(v)
 }
