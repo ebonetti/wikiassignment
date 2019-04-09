@@ -1,10 +1,12 @@
 package main
 
 import (
-	"encoding/json"
+	"bufio"
 	"fmt"
 	"io/ioutil"
 	"os"
+
+	json "github.com/json-iterator/go"
 
 	"github.com/ebonetti/wikiassignment/nationalization"
 )
@@ -41,20 +43,39 @@ func nationalizations() (nationalizations []nationalization.Nationalization) {
 	return
 }
 
-func writeJSON(filename string, v interface{}) error {
-	JSONData, err := json.MarshalIndent(v, "", "  ")
+func writeJSON(filename string, v interface{}) (err error) {
+	f, err := os.Create(filename)
 	if err != nil {
-		return err
+		return
 	}
 
-	return ioutil.WriteFile(filename, JSONData, os.ModePerm)
+	w := bufio.NewWriter(f)
+
+	defer func() {
+		wErr := w.Flush()
+		fErr := f.Close()
+		switch {
+		case err != nil:
+			//Do nothing
+		case wErr != nil:
+			err = wErr
+		case fErr != nil:
+			err = fErr
+		}
+	}()
+
+	e := json.NewEncoder(w)
+	e.SetIndent("", "  ")
+	return e.Encode(v)
 }
 
-func readJSON(filename string, v interface{}) error {
-	JSONData, err := ioutil.ReadFile(filename)
+func readJSON(filename string, v interface{}) (err error) {
+	f, err := os.Open(filename)
 	if err != nil {
-		return err
+		return
 	}
 
-	return json.Unmarshal(JSONData, v)
+	r := bufio.NewReader(f)
+
+	return json.NewDecoder(r).Decode(v)
 }

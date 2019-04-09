@@ -104,7 +104,9 @@ func (data *data) Chain(ctx context.Context) *absorbingmarkovchain.AbsorbingMark
 
 	g, IDs2CatDistance, namespace2Ids, err := wikiassignment.SemanticGraphSources{data.Dumps, topic2Categories, []wikiassignment.Filter{{false, filters, 1}}}.Build(ctx)
 
-	esport2JSON("semanticgraph.json", g) ///////////////////////////////////////////////////
+	if err := writeJSON("semanticgraph.json", g); err != nil {
+		log.Panicf("%v", err)
+	}
 
 	if err != nil {
 		data.Err = err
@@ -140,13 +142,14 @@ func (data data) EsportPartition() {
 	articles := data.Namespace2Ids[wikiassignment.ArticleNamespaceID].ToArray()
 
 	IDPartition := map[string][]uint32{"topics": topics, "categories": categories, "articles": articles}
-	esport2JSON("partition.json", IDPartition)
+
+	if err := writeJSON("partition.json", IDPartition); err != nil {
+		log.Panicf("%v", err)
+	}
 }
 
 func (data data) EsportAbsorptionProbabilities() {
 	const filename = "absorptionprobabilities.csv"
-	fmt.Println("Exporting", filename)
-	defer fmt.Println("Done")
 	f, err := os.Create(filename)
 	if err != nil {
 		log.Panicf("%v", err)
@@ -182,8 +185,6 @@ func (data data) EsportAbsorptionProbabilities() {
 
 func (data data) EsportPages() {
 	const filename = "pages.csv"
-	fmt.Println("Exporting", filename)
-	defer fmt.Println("Done")
 	f, err := os.Create(filename)
 	if err != nil {
 		log.Panicf("%v", err)
@@ -282,23 +283,6 @@ func (r readClose) Close() error {
 	return r.Closer()
 }
 
-func esport2JSON(filename string, v interface{}) {
-	fmt.Println("Exporting", filename)
-	defer fmt.Println("Done")
-	w, err := os.Create(filename)
-	if err != nil {
-		log.Panicf("%v", err)
-	}
-	defer w.Close()
-
-	jsonWriter := json.NewEncoder(w)
-
-	err = jsonWriter.Encode(v)
-	if err != nil {
-		log.Panicf("%v", err)
-	}
-}
-
 func fetchDump() (wikimediaDumps wikidump.Wikidump, err error) {
 	if date == "latest" {
 		fmt.Printf("Using latest %v dump\n", lang)
@@ -323,29 +307,48 @@ func fetchNationalization() (n nationalization.Nationalization) {
 	}
 
 	filename := lang
-	if err := simpleReadJSON(filename, &n); err != nil {
+	if err := readJSON(filename, &n); err != nil {
 		log.Fatalf("While reading %v, arised the follwing: %v", filename, err.Error())
 	}
 	lang = n.Language
 	n = nationalization.Sync(n)[lang]
-	simpleWriteJSON(filename, n)
+	writeJSON(filename, n)
 	return
 }
 
-func simpleWriteJSON(filename string, v interface{}) error {
-	JSONData, err := json.MarshalIndent(v, "", "  ")
+func writeJSON(filename string, v interface{}) (err error) {
+	f, err := os.Create(filename)
 	if err != nil {
-		return err
+		return
 	}
 
-	return ioutil.WriteFile(filename, JSONData, os.ModePerm)
+	w := bufio.NewWriter(f)
+
+	defer func() {
+		wErr := w.Flush()
+		fErr := f.Close()
+		switch {
+		case err != nil:
+			//Do nothing
+		case wErr != nil:
+			err = wErr
+		case fErr != nil:
+			err = fErr
+		}
+	}()
+
+	e := json.NewEncoder(w)
+	e.SetIndent("", "  ")
+	return e.Encode(v)
 }
 
-func simpleReadJSON(filename string, v interface{}) error {
-	JSONData, err := ioutil.ReadFile(filename)
+func readJSON(filename string, v interface{}) (err error) {
+	f, err := os.Open(filename)
 	if err != nil {
-		return err
+		return
 	}
 
-	return json.Unmarshal(JSONData, v)
+	r := bufio.NewReader(f)
+
+	return json.NewDecoder(r).Decode(v)
 }

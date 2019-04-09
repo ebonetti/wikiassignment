@@ -3,7 +3,6 @@ package nationalization
 import (
 	"compress/gzip"
 	"context"
-	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"net/http"
@@ -12,6 +11,8 @@ import (
 	"sort"
 	"strings"
 	"time"
+
+	json "github.com/json-iterator/go"
 
 	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/absorbingmarkovchain"
@@ -302,7 +303,9 @@ func writeGZippedJSON(filename string, v interface{}) (err error) {
 		os.Remove(f.Name())
 	}()
 
-	return json.NewEncoder(w).Encode(v)
+	e := json.NewEncoder(w)
+	e.SetIndent("", "  ")
+	return e.Encode(v)
 }
 
 func readGZippedJSON(filename string, v interface{}) (err error) {
