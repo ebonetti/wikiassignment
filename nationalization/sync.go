@@ -18,49 +18,94 @@ import (
 	"github.com/pkg/errors"
 )
 
-const cacheFilename = ".query2PageCache.json"
-
-var _query2PageCache = map[string]mayMissingPage{}
-
-//Sync returns the synced nationalizations derived from input and Wikipedia langLinks. Non concurrent safe, experimental, may change in future.
+//Sync returns the synced nationalizations derived from input and Wikipedia langLinks.
 func Sync(nn ...Nationalization) (lang2Nationalization map[string]Nationalization) {
 	if len(nn) == 0 {
 		return
 	}
 
-	readJSON(cacheFilename, &_query2PageCache)
-	defer writeJSON(cacheFilename, _query2PageCache)
+	const cacheFilename = ".query2PageCache.json"
+	query2PageCache := map[string]mayMissingPage{}
+	readJSON(cacheFilename, &query2PageCache)
+	defer writeJSON(cacheFilename, query2PageCache)
 
-	assignments := nationalizations2assignments(nn)
-	resync(assignments)
-	return assignments2nationalizations(assignments)
+	return langLinksGraphFrom(nn, query2PageCache).resync().nationalizations()
 }
 
-func resync(assignments map[i18lPage]i18lPage) {
+func langLinksGraphFrom(nationalizations []Nationalization, query2PageCache map[string]mayMissingPage) (g langLinksGraph) {
+	g = langLinksGraph{map[i18lPage]i18lPage{}, query2PageCache}
+	for _, n := range nationalizations {
+		for _, t := range n.Topics {
+			i18lTopic := i18lPage{dummyLang, t.Page}
+			for _, c := range t.Categories {
+				pp := g.DFS([]i18lPage{}, i18lPage{n.Language, c}, 0) //sanitize input
+				if len(pp) == 0 {
+					continue
+				}
+				g.Assignments[pp[0]] = i18lTopic
+			}
+		}
+		for _, filter := range n.Filters {
+			pp := g.DFS([]i18lPage{}, i18lPage{n.Language, filter}, 0) //sanitize input
+			if len(pp) == 0 {
+				continue
+			}
+			g.Assignments[pp[0]] = dummyI18lFilter
+		}
+	}
+	return
+}
+
+type langLinksGraph struct {
+	Assignments     map[i18lPage]i18lPage
+	Query2PageCache map[string]mayMissingPage
+}
+
+func (g langLinksGraph) nationalizations() (lang2Nationalization map[string]Nationalization) {
+	lang2Nationalization = map[string]Nationalization{}
+	for from, to := range g.Assignments {
+		n, ok := lang2Nationalization[from.Lang]
+		if !ok {
+			n = newNationalization(from.Lang)
+		}
+
+		if to == dummyI18lFilter {
+			n.Filters = pageAdd(n.Filters, from.Page)
+		} else {
+			position := sort.Search(len(n.Topics), func(i int) bool { return n.Topics[i].ID >= to.ID })
+			n.Topics[position].Categories = pageAdd(n.Topics[position].Categories, from.Page)
+		}
+
+		lang2Nationalization[from.Lang] = n
+	}
+	return
+}
+
+func (g langLinksGraph) resync() langLinksGraph {
 	nodes := []i18lPage{}
-	for p := range assignments {
-		nodes = dfs(nodes, p, -1, assignments)
+	for p := range g.Assignments {
+		nodes = g.DFS(nodes, p, -1)
 	}
 	t := translator(nodes)
 
-	g := mapGraph{}
+	isoG := mapGraph{}
 	nodesIDs, absorbingNodesIDs := roaring.New(), roaring.New()
 	for _, from := range nodes {
 		fromID := t.ToID(from)
 		nodesIDs.Add(fromID)
-		for _, to := range dfs([]i18lPage{}, from, 1, assignments) {
+		for _, to := range g.DFS([]i18lPage{}, from, 1) {
 			toID := t.ToID(to)
-			g.Add(fromID, toID)
+			isoG.Add(fromID, toID)
 			if to.Lang != dummyLang {
-				g.Add(toID, fromID)
+				isoG.Add(toID, fromID)
 			} else {
 				absorbingNodesIDs.Add(toID)
 			}
 		}
 	}
 
-	edges := func(from uint32) []uint32 { return g[from] }
-	ID2distance := g.Distances(absorbingNodesIDs)
+	edges := func(from uint32) []uint32 { return isoG[from] }
+	ID2distance := isoG.Distances(absorbingNodesIDs)
 	weighter := func(from, to uint32) (weight float64, err error) {
 		d := ID2distance[to] + 1 - ID2distance[from] //d is non negative; weight=1 iff d=0
 		return 1 / float64(1+10*d), nil
@@ -71,11 +116,13 @@ func resync(assignments map[i18lPage]i18lPage) {
 	}
 
 	for transient, absorbing := range assigner {
-		assignments[t.ToPage(transient)] = t.ToPage(absorbing)
+		g.Assignments[t.ToPage(transient)] = t.ToPage(absorbing)
 	}
+
+	return g
 }
 
-func dfs(visited []i18lPage, p i18lPage, depth int, assignments map[i18lPage]i18lPage) []i18lPage {
+func (g langLinksGraph) DFS(visited []i18lPage, p i18lPage, depth int) []i18lPage {
 	if exist, _ := i18lPageExist(visited, p); exist {
 		return visited
 	}
@@ -86,7 +133,7 @@ func dfs(visited []i18lPage, p i18lPage, depth int, assignments map[i18lPage]i18
 	}
 
 	const categoryNamespace = 14
-	page := langLinks(p, categoryNamespace)
+	page := g.LangLinks(p, categoryNamespace)
 	if page.Missing {
 		return visited
 	}
@@ -98,21 +145,19 @@ func dfs(visited []i18lPage, p i18lPage, depth int, assignments map[i18lPage]i18
 	}
 
 	for _, langLink := range page.LangLinks {
-		visited = dfs(visited, i18lPage{langLink.Lang, Page{Title: langLink.Title}}, depth-1, assignments)
+		visited = g.DFS(visited, i18lPage{langLink.Lang, Page{Title: langLink.Title}}, depth-1)
 	}
 
-	if p, ok := assignments[p]; ok {
-		visited = dfs(visited, p, depth-1, assignments)
+	if p, ok := g.Assignments[p]; ok {
+		visited = g.DFS(visited, p, depth-1)
 	}
 
 	return visited
 }
 
-const langLinksBase = "https://%v.wikipedia.org/w/api.php?action=query&prop=langlinks&lllimit=500&redirects&format=json&formatversion=2&titles=%v"
-
-func langLinks(p i18lPage, namespace int) (page mayMissingPage) {
-	query := queryFrom(langLinksBase, p.Lang, []interface{}{p.Title})
-	page, ok := _query2PageCache[query]
+func (g langLinksGraph) LangLinks(p i18lPage, namespace int) (page mayMissingPage) {
+	query := queryFrom("https://%v.wikipedia.org/w/api.php?action=query&prop=langlinks&lllimit=500&redirects&format=json&formatversion=2&titles=%v", p.Lang, []interface{}{p.Title})
+	page, ok := g.Query2PageCache[query]
 	if ok {
 		return
 	}
@@ -138,7 +183,7 @@ func langLinks(p i18lPage, namespace int) (page mayMissingPage) {
 	default:
 		page = pd.Query.Pages[0]
 	}
-	_query2PageCache[query] = page
+	g.Query2PageCache[query] = page
 	return
 }
 
@@ -208,50 +253,6 @@ func pagesDataFrom(query string) (pd pagesData, err error) {
 const dummyLang = "..."
 
 var dummyI18lFilter = i18lPage{dummyLang, Page{^uint32(0), "Filter"}}
-
-func nationalizations2assignments(nationalizations []Nationalization) map[i18lPage]i18lPage {
-	assignments := map[i18lPage]i18lPage{}
-	for _, n := range nationalizations {
-		for _, t := range n.Topics {
-			i18lTopic := i18lPage{dummyLang, t.Page}
-			for _, c := range t.Categories {
-				pp := dfs([]i18lPage{}, i18lPage{n.Language, c}, 0, nil) //sanitize input
-				if len(pp) == 0 {
-					continue
-				}
-				assignments[pp[0]] = i18lTopic
-			}
-		}
-		for _, filter := range n.Filters {
-			pp := dfs([]i18lPage{}, i18lPage{n.Language, filter}, 0, nil) //sanitize input
-			if len(pp) == 0 {
-				continue
-			}
-			assignments[pp[0]] = dummyI18lFilter
-		}
-	}
-	return assignments
-}
-
-func assignments2nationalizations(assignments map[i18lPage]i18lPage) (lang2Nationalization map[string]Nationalization) {
-	lang2Nationalization = map[string]Nationalization{}
-	for from, to := range assignments {
-		n, ok := lang2Nationalization[from.Lang]
-		if !ok {
-			n = newNationalization(from.Lang)
-		}
-
-		if to == dummyI18lFilter {
-			n.Filters = pageAdd(n.Filters, from.Page)
-		} else {
-			position := sort.Search(len(n.Topics), func(i int) bool { return n.Topics[i].ID >= to.ID })
-			n.Topics[position].Categories = pageAdd(n.Topics[position].Categories, from.Page)
-		}
-
-		lang2Nationalization[from.Lang] = n
-	}
-	return
-}
 
 func pageAdd(a []Page, x Page) []Page {
 	position := sort.Search(len(a), func(i int) bool { return a[i].Title >= x.Title })
