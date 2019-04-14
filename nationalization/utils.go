@@ -12,14 +12,6 @@ type i18lPage struct {
 	Page
 }
 
-func translatorFrom(next func() (p i18lPage, ok bool)) translator {
-	pp := []i18lPage{}
-	for p, ok := next(); ok; p, ok = next() {
-		pp, _ = i18lPageAdd(pp, p)
-	}
-	return pp
-}
-
 type translator []i18lPage
 
 func (t translator) ToID(p i18lPage) (ID uint32) {
