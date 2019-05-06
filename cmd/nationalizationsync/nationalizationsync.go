@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"strings"
 
 	json "github.com/json-iterator/go"
 
@@ -26,6 +27,10 @@ func nationalizations() (nationalizations []nationalization.Nationalization) {
 			n := nationalization.Nationalization{}
 			err := readJSON(f.Name(), &n)
 			switch {
+			case f.IsDir():
+				//Do nothing
+			case !strings.HasSuffix(f.Name(), ".json"):
+				//Do nothing
 			case err != nil:
 				fmt.Println("While reading", f.Name(), "encountered", err)
 			case len(n.Topics) == 0:
