@@ -152,6 +152,14 @@
           "Title": "Catagóir:Bailte agus cathracha"
         },
         {
+          "ID": 76960,
+          "Title": "Catagóir:Bailte sna Stáit Aontaithe"
+        },
+        {
+          "ID": 36191,
+          "Title": "Catagóir:Ballstáit na Náisiún Aontaithe"
+        },
+        {
           "ID": 19262,
           "Title": "Catagóir:Caisleáin"
         },
@@ -160,8 +168,24 @@
           "Title": "Catagóir:Cathracha"
         },
         {
+          "ID": 23004,
+          "Title": "Catagóir:Cathracha sna Stáit Aontaithe"
+        },
+        {
+          "ID": 72374,
+          "Title": "Catagóir:Lárionaid daonra sna Stáit Mheiriceá"
+        },
+        {
           "ID": 75708,
           "Title": "Catagóir:Páláis"
+        },
+        {
+          "ID": 3660,
+          "Title": "Catagóir:Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "ID": 2876,
+          "Title": "Catagóir:Stáit Mheiriceá"
         },
         {
           "ID": 3363,
@@ -354,6 +378,14 @@
           "Title": "Catagóir:Daoine"
         },
         {
+          "ID": 16383,
+          "Title": "Catagóir:Daoine Meiriceánacha"
+        },
+        {
+          "ID": 16508,
+          "Title": "Catagóir:Daoine Sasanacha"
+        },
+        {
           "ID": 65676,
           "Title": "Catagóir:Daoine beo"
         },
@@ -410,6 +442,10 @@
         {
           "ID": 3743,
           "Title": "Catagóir:Fealsúnacht"
+        },
+        {
+          "ID": 38309,
+          "Title": "Catagóir:Gluaiseachtaí Fealsúnachta"
         },
         {
           "ID": 54923,

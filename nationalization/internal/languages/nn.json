@@ -276,12 +276,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 331735,
+          "Title": "Kategori:Administrative territorielle einingar etter språk"
+        },
+        {
           "ID": 115633,
           "Title": "Kategori:Busetnader"
         },
         {
           "ID": 226738,
           "Title": "Kategori:Busetnader etter land"
+        },
+        {
+          "ID": 334891,
+          "Title": "Kategori:Busetnader i USA"
         },
         {
           "ID": 329735,
@@ -292,12 +300,20 @@
           "Title": "Kategori:Byar"
         },
         {
+          "ID": 8842,
+          "Title": "Kategori:Byar i USA"
+        },
+        {
           "ID": 59403,
           "Title": "Kategori:Byplanlegging"
         },
         {
           "ID": 123416,
           "Title": "Kategori:Byteori"
+        },
+        {
+          "ID": 19991,
+          "Title": "Kategori:Delstatar i USA"
         },
         {
           "ID": 3113,
@@ -324,6 +340,10 @@
           "Title": "Kategori:Land"
         },
         {
+          "ID": 316256,
+          "Title": "Kategori:Medlemsland i Dei sameinte nasjonane"
+        },
+        {
           "ID": 130664,
           "Title": "Kategori:Minnesmerke"
         },
@@ -346,6 +366,10 @@
         {
           "ID": 229866,
           "Title": "Kategori:Territorium"
+        },
+        {
+          "ID": 7041,
+          "Title": "Kategori:USA"
         },
         {
           "ID": 164064,
@@ -422,6 +446,10 @@
         {
           "ID": 75805,
           "Title": "Kategori:Historie etter land"
+        },
+        {
+          "ID": 296451,
+          "Title": "Kategori:Historie etter land og tema"
         },
         {
           "ID": 201856,
@@ -572,6 +600,10 @@
           "Title": "Kategori:Liv"
         },
         {
+          "ID": 161412,
+          "Title": "Kategori:Livskraftige artar"
+        },
+        {
           "ID": 111309,
           "Title": "Kategori:Miljøfag"
         },
@@ -630,8 +662,16 @@
           "Title": "Kategori:Einskildkvinner"
         },
         {
+          "ID": 123306,
+          "Title": "Kategori:Engelskmenn"
+        },
+        {
           "ID": 1932,
           "Title": "Kategori:Filosofar"
+        },
+        {
+          "ID": 298760,
+          "Title": "Kategori:Filosofar etter fagområde"
         },
         {
           "ID": 252085,
@@ -654,20 +694,52 @@
           "Title": "Kategori:Folk etter fødselsår"
         },
         {
+          "ID": 202932,
+          "Title": "Kategori:Folk etter hundreår"
+        },
+        {
           "ID": 331043,
           "Title": "Kategori:Folk etter rolle"
+        },
+        {
+          "ID": 331590,
+          "Title": "Kategori:Folk etter verdsdel og yrke"
         },
         {
           "ID": 163129,
           "Title": "Kategori:Folk etter yrke"
         },
         {
+          "ID": 329804,
+          "Title": "Kategori:Folk etter yrke og tidsrom"
+        },
+        {
           "ID": 203613,
           "Title": "Kategori:Folk etter åtferd"
         },
         {
+          "ID": 27195,
+          "Title": "Kategori:Folk frå USA"
+        },
+        {
           "ID": 2462,
           "Title": "Kategori:Forfattarar"
+        },
+        {
+          "ID": 32040,
+          "Title": "Kategori:Fødde på 1700-talet"
+        },
+        {
+          "ID": 31458,
+          "Title": "Kategori:Fødde på 1800-talet"
+        },
+        {
+          "ID": 30445,
+          "Title": "Kategori:Fødde på 1900-talet"
+        },
+        {
+          "ID": 191701,
+          "Title": "Kategori:Gründerar"
         },
         {
           "ID": 3089,
@@ -696,6 +768,10 @@
         {
           "ID": 1899,
           "Title": "Kategori:Musikarar"
+        },
+        {
+          "ID": 133596,
+          "Title": "Kategori:Nobelprisvinnarar etter land"
         },
         {
           "ID": 28919,
@@ -746,6 +822,10 @@
           "Title": "Kategori:Slektsnamn"
         },
         {
+          "ID": 197771,
+          "Title": "Kategori:Statslause folk"
+        },
+        {
           "ID": 3498,
           "Title": "Kategori:Statsleiarar"
         },
@@ -754,8 +834,16 @@
           "Title": "Kategori:Statsvitarar"
         },
         {
+          "ID": 334028,
+          "Title": "Kategori:USA-amerikanarar etter yrke"
+        },
+        {
           "ID": 184032,
           "Title": "Kategori:USA-amerikanske generalar"
+        },
+        {
+          "ID": 285305,
+          "Title": "Kategori:USA-amerikanske rockesongarar"
         }
       ]
     },
@@ -780,6 +868,10 @@
           "Title": "Kategori:Filosofiske konsept"
         },
         {
+          "ID": 68751,
+          "Title": "Kategori:Filosofiske rørsler"
+        },
+        {
           "ID": 195973,
           "Title": "Kategori:Filosofiske skular og tradisjonar"
         },
@@ -790,6 +882,10 @@
         {
           "ID": 114013,
           "Title": "Kategori:Ideologiar"
+        },
+        {
+          "ID": 11465,
+          "Title": "Kategori:Liberalisme"
         },
         {
           "ID": 195446,
@@ -866,6 +962,10 @@
         {
           "ID": 6495,
           "Title": "Kategori:Internasjonale organisasjonar"
+        },
+        {
+          "ID": 278852,
+          "Title": "Kategori:Islamistgrupper"
         },
         {
           "ID": 64327,
@@ -954,6 +1054,10 @@
         {
           "ID": 7049,
           "Title": "Kategori:Valuta"
+        },
+        {
+          "ID": 296395,
+          "Title": "Kategori:Verksemder i organisert kriminalitet"
         }
       ]
     },

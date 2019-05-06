@@ -208,6 +208,14 @@
           "Title": "Categoria:Estat"
         },
         {
+          "ID": 11345,
+          "Title": "Categoria:Estat american"
+        },
+        {
+          "ID": 5825,
+          "Title": "Categoria:Estats Units d'America"
+        },
+        {
           "ID": 2966,
           "Title": "Categoria:Geografia"
         },
@@ -242,6 +250,10 @@
         {
           "ID": 10034,
           "Title": "Categoria:Vila del mond"
+        },
+        {
+          "ID": 33226,
+          "Title": "Categoria:Vila dels Estats Units d'America"
         }
       ]
     },
@@ -288,6 +300,10 @@
           "Title": "Categoria:Eveniment"
         },
         {
+          "ID": 10554,
+          "Title": "Categoria:Guèrra"
+        },
+        {
           "ID": 3458,
           "Title": "Categoria:Istòria"
         },
@@ -298,6 +314,10 @@
         {
           "ID": 51268,
           "Title": "Categoria:Istòria politica"
+        },
+        {
+          "ID": 51403,
+          "Title": "Categoria:Istòria tematica per país"
         },
         {
           "ID": 61746,
@@ -418,6 +438,10 @@
           "Title": "Categoria:Actor"
         },
         {
+          "ID": 149775,
+          "Title": "Categoria:Actor de cinèma"
+        },
+        {
           "ID": 14194,
           "Title": "Categoria:Arquitècte"
         },
@@ -450,6 +474,10 @@
           "Title": "Categoria:Filosòf"
         },
         {
+          "ID": 17342,
+          "Title": "Categoria:Filosòf per domeni"
+        },
+        {
           "ID": 10587,
           "Title": "Categoria:General american"
         },
@@ -470,6 +498,18 @@
           "Title": "Categoria:Mètge"
         },
         {
+          "ID": 34847,
+          "Title": "Categoria:Naissença al sègle XIX"
+        },
+        {
+          "ID": 34855,
+          "Title": "Categoria:Naissença al sègle XVIII"
+        },
+        {
+          "ID": 34852,
+          "Title": "Categoria:Naissença al sègle XX"
+        },
+        {
           "ID": 15032,
           "Title": "Categoria:Patronim"
         },
@@ -478,8 +518,20 @@
           "Title": "Categoria:Personalitat"
         },
         {
+          "ID": 9983,
+          "Title": "Categoria:Personalitat americana"
+        },
+        {
+          "ID": 50548,
+          "Title": "Categoria:Personalitat anglesa"
+        },
+        {
           "ID": 9971,
           "Title": "Categoria:Personalitat per mestièr"
+        },
+        {
+          "ID": 53728,
+          "Title": "Categoria:Personalitat per sègle"
         },
         {
           "ID": 7654,
@@ -496,6 +548,10 @@
         {
           "ID": 20635,
           "Title": "Categoria:Personatge de ficcion"
+        },
+        {
+          "ID": 35173,
+          "Title": "Categoria:Prèmi Nobel per nacionalitat"
         }
       ]
     },

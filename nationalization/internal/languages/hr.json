@@ -160,6 +160,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 14041,
+          "Title": "Kategorija:Američke savezne države"
+        },
+        {
           "ID": 47746,
           "Title": "Kategorija:Ceste"
         },
@@ -184,6 +188,10 @@
           "Title": "Kategorija:Gradovi"
         },
         {
+          "ID": 14064,
+          "Title": "Kategorija:Gradovi u SAD-u"
+        },
+        {
           "ID": 143744,
           "Title": "Kategorija:Naselja"
         },
@@ -192,12 +200,20 @@
           "Title": "Kategorija:Naselja po državama"
         },
         {
+          "ID": 153332,
+          "Title": "Kategorija:Naselja u SAD-u"
+        },
+        {
           "ID": 205482,
           "Title": "Kategorija:Palače"
         },
         {
           "ID": 14079,
           "Title": "Kategorija:Rijeke"
+        },
+        {
+          "ID": 10418,
+          "Title": "Kategorija:SAD"
         },
         {
           "ID": 55820,
@@ -358,6 +374,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 157350,
+          "Title": "Kategorija:Američki rock pjevači"
+        },
+        {
           "ID": 19772,
           "Title": "Kategorija:Arhitekti"
         },
@@ -448,6 +468,14 @@
         {
           "ID": 469185,
           "Title": "Kategorija:Životopisi"
+        },
+        {
+          "ID": 474404,
+          "Title": "Kategorija:Životopisi, Engleska"
+        },
+        {
+          "ID": 469492,
+          "Title": "Kategorija:Životopisi, SAD"
         }
       ]
     },

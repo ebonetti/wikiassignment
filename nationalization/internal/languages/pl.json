@@ -246,6 +246,10 @@
           "Title": "Kategoria:Zespoły muzyczne"
         },
         {
+          "ID": 3495698,
+          "Title": "Kategoria:Zespoły muzyczne według gatunku i pochodzenia"
+        },
+        {
           "ID": 886602,
           "Title": "Kategoria:Ćwiczenia fizyczne"
         },
@@ -259,6 +263,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 2360757,
+          "Title": "Kategoria:Członkowie Organizacji Narodów Zjednoczonych"
+        },
         {
           "ID": 1318698,
           "Title": "Kategoria:Drogi"
@@ -284,8 +292,16 @@
           "Title": "Kategoria:Miasta"
         },
         {
+          "ID": 1161556,
+          "Title": "Kategoria:Miasta w Stanach Zjednoczonych"
+        },
+        {
           "ID": 1619458,
           "Title": "Kategoria:Miejscowości"
+        },
+        {
+          "ID": 1161592,
+          "Title": "Kategoria:Miejscowości w Stanach Zjednoczonych"
         },
         {
           "ID": 94059,
@@ -310,6 +326,14 @@
         {
           "ID": 63890,
           "Title": "Kategoria:Rzeki"
+        },
+        {
+          "ID": 1161579,
+          "Title": "Kategoria:Stany Stanów Zjednoczonych"
+        },
+        {
+          "ID": 1132557,
+          "Title": "Kategoria:Stany Zjednoczone"
         },
         {
           "ID": 867166,
@@ -504,6 +528,10 @@
           "Title": "Kategoria:Owoce"
         },
         {
+          "ID": 3333860,
+          "Title": "Kategoria:Owoce jadalne"
+        },
+        {
           "ID": 76037,
           "Title": "Kategoria:Rośliny"
         },
@@ -550,8 +578,24 @@
           "Title": "Kategoria:Aktorzy i aktorki"
         },
         {
+          "ID": 66312,
+          "Title": "Kategoria:Amerykanie"
+        },
+        {
+          "ID": 1555777,
+          "Title": "Kategoria:Amerykanie według profesji"
+        },
+        {
           "ID": 783335,
           "Title": "Kategoria:Amerykańscy generałowie"
+        },
+        {
+          "ID": 1395902,
+          "Title": "Kategoria:Amerykańscy wokaliści rockowi"
+        },
+        {
+          "ID": 71576,
+          "Title": "Kategoria:Anglicy"
         },
         {
           "ID": 66986,
@@ -576,6 +620,10 @@
         {
           "ID": 403057,
           "Title": "Kategoria:Biografie według profesji"
+        },
+        {
+          "ID": 4330503,
+          "Title": "Kategoria:Biografie według wieku"
         },
         {
           "ID": 66744,
@@ -642,6 +690,18 @@
           "Title": "Kategoria:Rewolucjoniści"
         },
         {
+          "ID": 592240,
+          "Title": "Kategoria:Urodzeni w XIX wieku"
+        },
+        {
+          "ID": 592395,
+          "Title": "Kategoria:Urodzeni w XVIII wieku"
+        },
+        {
+          "ID": 592216,
+          "Title": "Kategoria:Urodzeni w XX wieku"
+        },
+        {
           "ID": 87144,
           "Title": "Kategoria:Wynalazcy"
         }
@@ -666,6 +726,10 @@
         {
           "ID": 444819,
           "Title": "Kategoria:Kierunki filozoficzne"
+        },
+        {
+          "ID": 338825,
+          "Title": "Kategoria:Liberalizm"
         },
         {
           "ID": 2352320,

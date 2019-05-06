@@ -232,6 +232,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 9815,
+          "Title": "Kategorie:Bundesstaat der Vereinigten Staaten"
+        },
+        {
           "ID": 16888,
           "Title": "Kategorie:Denkmal"
         },
@@ -258,6 +262,10 @@
         {
           "ID": 2761,
           "Title": "Kategorie:Ort"
+        },
+        {
+          "ID": 14330,
+          "Title": "Kategorie:Ort in den Vereinigten Staaten"
         },
         {
           "ID": 13743,
@@ -294,6 +302,10 @@
         {
           "ID": 16137,
           "Title": "Kategorie:Städtebau"
+        },
+        {
+          "ID": 11381,
+          "Title": "Kategorie:Vereinigte Staaten"
         }
       ]
     },
@@ -474,6 +486,10 @@
           "Title": "Kategorie:Autor"
         },
         {
+          "ID": 16787,
+          "Title": "Kategorie:Engländer"
+        },
+        {
           "ID": 15521,
           "Title": "Kategorie:Entdecker"
         },
@@ -498,6 +514,18 @@
           "Title": "Kategorie:Frauen"
         },
         {
+          "ID": 15723,
+          "Title": "Kategorie:Geboren (18. Jahrhundert)"
+        },
+        {
+          "ID": 13761,
+          "Title": "Kategorie:Geboren (19. Jahrhundert)"
+        },
+        {
+          "ID": 13057,
+          "Title": "Kategorie:Geboren (20. Jahrhundert)"
+        },
+        {
           "ID": 8482,
           "Title": "Kategorie:Künstler"
         },
@@ -518,6 +546,14 @@
           "Title": "Kategorie:Person"
         },
         {
+          "ID": 16784,
+          "Title": "Kategorie:Person nach Jahrhundert"
+        },
+        {
+          "ID": 13067,
+          "Title": "Kategorie:Person nach Todesjahrhundert"
+        },
+        {
           "ID": 5434,
           "Title": "Kategorie:Person nach Tätigkeit"
         },
@@ -528,6 +564,10 @@
         {
           "ID": 15780,
           "Title": "Kategorie:Philosoph"
+        },
+        {
+          "ID": 18732,
+          "Title": "Kategorie:Philosoph nach Disziplin"
         },
         {
           "ID": 2685,
@@ -552,6 +592,10 @@
         {
           "ID": 17759,
           "Title": "Kategorie:Staatspräsident"
+        },
+        {
+          "ID": 7849,
+          "Title": "Kategorie:US-Amerikaner"
         }
       ]
     },
@@ -566,6 +610,10 @@
         {
           "ID": 15090,
           "Title": "Kategorie:Ideologie"
+        },
+        {
+          "ID": 26221,
+          "Title": "Kategorie:Liberalismus"
         },
         {
           "ID": 16805,

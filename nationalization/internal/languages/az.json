@@ -42,6 +42,10 @@
           "Title": "Kateqoriya:Filmlər"
         },
         {
+          "ID": 585842,
+          "Title": "Kateqoriya:Fiziki məşq"
+        },
+        {
           "ID": 51909,
           "Title": "Kateqoriya:Folklor"
         },
@@ -72,6 +76,10 @@
         {
           "ID": 47363,
           "Title": "Kateqoriya:Kitablar"
+        },
+        {
+          "ID": 368049,
+          "Title": "Kateqoriya:Kvartetlər"
         },
         {
           "ID": 275186,
@@ -218,6 +226,10 @@
           "Title": "Kateqoriya:Yazıçılarına görə əsərlər"
         },
         {
+          "ID": 589014,
+          "Title": "Kateqoriya:Yemək və içki mədəniyyəti"
+        },
+        {
           "ID": 35868,
           "Title": "Kateqoriya:Ölkələrinə görə mədəniyyət"
         },
@@ -276,8 +288,28 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 95220,
+          "Title": "Kateqoriya:ABŞ"
+        },
+        {
+          "ID": 72867,
+          "Title": "Kateqoriya:ABŞ ştatları"
+        },
+        {
+          "ID": 64304,
+          "Title": "Kateqoriya:ABŞ şəhərləri"
+        },
+        {
+          "ID": 322433,
+          "Title": "Kateqoriya:ABŞ-ın yaşayış məntəqələri"
+        },
+        {
           "ID": 425183,
           "Title": "Kateqoriya:Abidələr"
+        },
+        {
+          "ID": 576699,
+          "Title": "Kateqoriya:BMT üzvü olan ölkələr"
         },
         {
           "ID": 139639,
@@ -412,6 +444,10 @@
           "Title": "Kateqoriya:Mədəni həyat"
         },
         {
+          "ID": 407238,
+          "Title": "Kateqoriya:Qətllər"
+        },
+        {
           "ID": 293564,
           "Title": "Kateqoriya:Siyasi hadisələr"
         },
@@ -446,6 +482,10 @@
         {
           "ID": 27927,
           "Title": "Kateqoriya:Ölkələrinə görə tarix"
+        },
+        {
+          "ID": 446760,
+          "Title": "Kateqoriya:Ölkələrinə və mövzularına görə tarix"
         },
         {
           "ID": 63312,
@@ -528,6 +568,10 @@
           "Title": "Kateqoriya:Heyvanlar"
         },
         {
+          "ID": 110608,
+          "Title": "Kateqoriya:Heyvanların təsnifatı"
+        },
+        {
           "ID": 27923,
           "Title": "Kateqoriya:Həyat"
         },
@@ -590,6 +634,10 @@
           "Title": "Kateqoriya:Aktyorlar"
         },
         {
+          "ID": 550191,
+          "Title": "Kateqoriya:Amerikanlar"
+        },
+        {
           "ID": 458541,
           "Title": "Kateqoriya:Belletristlər"
         },
@@ -604,6 +652,10 @@
         {
           "ID": 405482,
           "Title": "Kateqoriya:Dövlət başçıları"
+        },
+        {
+          "ID": 429111,
+          "Title": "Kateqoriya:Dövrlərinə və peşələrinə görə şəxslər"
         },
         {
           "ID": 440455,
@@ -652,6 +704,10 @@
         {
           "ID": 292379,
           "Title": "Kateqoriya:Peşələrinə görə şəxslər"
+        },
+        {
+          "ID": 450798,
+          "Title": "Kateqoriya:Peşələrinə görə şəxslər:ABŞ"
         },
         {
           "ID": 63256,
@@ -706,12 +762,28 @@
           "Title": "Kateqoriya:Vəfat illərinə görə şəxslər"
         },
         {
+          "ID": 369708,
+          "Title": "Kateqoriya:XIX əsrdə doğulanlar"
+        },
+        {
+          "ID": 433816,
+          "Title": "Kateqoriya:XVIII əsrdə doğulanlar"
+        },
+        {
+          "ID": 380502,
+          "Title": "Kateqoriya:XX əsrdə doğulanlar"
+        },
+        {
           "ID": 12105,
           "Title": "Kateqoriya:Yazıçılar"
         },
         {
           "ID": 446618,
           "Title": "Kateqoriya:Yaşayan insanlar"
+        },
+        {
+          "ID": 380090,
+          "Title": "Kateqoriya:Ölkələrinə görə Nobel mükafatı laureatları"
         },
         {
           "ID": 383222,
@@ -736,6 +808,18 @@
         {
           "ID": 292423,
           "Title": "Kateqoriya:Şəxslər:Siyasət"
+        },
+        {
+          "ID": 322792,
+          "Title": "Kateqoriya:Şəxslər:İngiltərə"
+        },
+        {
+          "ID": 545047,
+          "Title": "Kateqoriya:Əsrlərə görə vəfat edənlər"
+        },
+        {
+          "ID": 299730,
+          "Title": "Kateqoriya:Əsrlərə görə şəxslər"
         }
       ]
     },
@@ -743,6 +827,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 551204,
+          "Title": "Kateqoriya:Elm sahələrinə görə fəlsəfə"
+        },
         {
           "ID": 83540,
           "Title": "Kateqoriya:Etika"
@@ -756,6 +844,10 @@
           "Title": "Kateqoriya:Fəlsəfi cərəyanlar və məktəblər"
         },
         {
+          "ID": 429120,
+          "Title": "Kateqoriya:Fəlsəfi hərəkatlar"
+        },
+        {
           "ID": 295150,
           "Title": "Kateqoriya:Fəlsəfi nəzəriyyələr"
         },
@@ -766,6 +858,10 @@
         {
           "ID": 167963,
           "Title": "Kateqoriya:Fəlsəfənin bölmələri"
+        },
+        {
+          "ID": 200868,
+          "Title": "Kateqoriya:Liberalizm"
         },
         {
           "ID": 435857,
@@ -824,6 +920,10 @@
         {
           "ID": 28938,
           "Title": "Kateqoriya:Teologiya"
+        },
+        {
+          "ID": 440868,
+          "Title": "Kateqoriya:Xristianlıq və ölüm"
         }
       ]
     },
@@ -894,10 +994,6 @@
         {
           "ID": 17646,
           "Title": "Kateqoriya:Pul vahidləri"
-        },
-        {
-          "ID": 407238,
-          "Title": "Kateqoriya:Qətllər"
         },
         {
           "ID": 459298,

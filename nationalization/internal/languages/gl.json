@@ -252,6 +252,18 @@
           "Title": "Categoría:Cidades"
         },
         {
+          "ID": 51993,
+          "Title": "Categoría:Cidades dos Estados Unidos de América"
+        },
+        {
+          "ID": 4212,
+          "Title": "Categoría:Estados Unidos de América"
+        },
+        {
+          "ID": 48735,
+          "Title": "Categoría:Estados dos Estados Unidos de América"
+        },
+        {
           "ID": 59401,
           "Title": "Categoría:Estradas"
         },
@@ -262,6 +274,10 @@
         {
           "ID": 453951,
           "Title": "Categoría:Localidades"
+        },
+        {
+          "ID": 454299,
+          "Title": "Categoría:Localidades dos Estados Unidos de América"
         },
         {
           "ID": 453950,
@@ -351,6 +367,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 66115,
+          "Title": "Categoría:Asasinatos"
+        },
         {
           "ID": 227183,
           "Title": "Categoría:Atentados terroristas"
@@ -530,6 +550,18 @@
           "Title": "Categoría:Muller"
         },
         {
+          "ID": 342290,
+          "Title": "Categoría:Nados no século XIX"
+        },
+        {
+          "ID": 342314,
+          "Title": "Categoría:Nados no século XVIII"
+        },
+        {
+          "ID": 342286,
+          "Title": "Categoría:Nados no século XX"
+        },
+        {
           "ID": 8892,
           "Title": "Categoría:Personalidades"
         },
@@ -566,12 +598,24 @@
           "Title": "Categoría:Personalidades das matemáticas"
         },
         {
+          "ID": 140509,
+          "Title": "Categoría:Personalidades de Inglaterra"
+        },
+        {
+          "ID": 186350,
+          "Title": "Categoría:Personalidades dos Estados Unidos de América"
+        },
+        {
           "ID": 220308,
           "Title": "Categoría:Personalidades por ano de finamento"
         },
         {
           "ID": 219317,
           "Title": "Categoría:Personalidades por ano de nacemento"
+        },
+        {
+          "ID": 321842,
+          "Title": "Categoría:Personalidades por século de finamento"
         },
         {
           "ID": 100608,
@@ -584,6 +628,10 @@
         {
           "ID": 66113,
           "Title": "Categoría:Politicólogos"
+        },
+        {
+          "ID": 230028,
+          "Title": "Categoría:Premios Nobel por país"
         },
         {
           "ID": 57319,
@@ -606,6 +654,10 @@
         {
           "ID": 300645,
           "Title": "Categoría:Ideoloxía"
+        },
+        {
+          "ID": 177051,
+          "Title": "Categoría:Liberalismo"
         },
         {
           "ID": 70877,
@@ -638,10 +690,6 @@
         {
           "ID": 40910,
           "Title": "Categoría:Aeroliñas"
-        },
-        {
-          "ID": 66115,
-          "Title": "Categoría:Asasinatos"
         },
         {
           "ID": 38633,

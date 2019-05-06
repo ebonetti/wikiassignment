@@ -34,6 +34,10 @@
           "Title": "Catégorie:Catch"
         },
         {
+          "ID": 4285824,
+          "Title": "Catégorie:Chronologie du catch"
+        },
+        {
           "ID": 3987130,
           "Title": "Catégorie:Communauté virtuelle"
         },
@@ -210,6 +214,10 @@
           "Title": "Catégorie:Préparation culinaire"
         },
         {
+          "ID": 3008798,
+          "Title": "Catégorie:Quatuor"
+        },
+        {
           "ID": 324981,
           "Title": "Catégorie:Restauration"
         },
@@ -274,6 +282,10 @@
           "Title": "Catégorie:Éducation"
         },
         {
+          "ID": 9643965,
+          "Title": "Catégorie:Émission de télévision par langue"
+        },
+        {
           "ID": 741818,
           "Title": "Catégorie:Œuvre littéraire"
         },
@@ -314,6 +326,10 @@
         {
           "ID": 8146288,
           "Title": "Catégorie:Localité"
+        },
+        {
+          "ID": 10391188,
+          "Title": "Catégorie:Localité aux États-Unis"
         },
         {
           "ID": 8146294,
@@ -368,8 +384,20 @@
           "Title": "Catégorie:Ville"
         },
         {
+          "ID": 199360,
+          "Title": "Catégorie:Ville aux États-Unis"
+        },
+        {
           "ID": 545844,
           "Title": "Catégorie:État"
+        },
+        {
+          "ID": 4829631,
+          "Title": "Catégorie:État des États-Unis"
+        },
+        {
+          "ID": 87711,
+          "Title": "Catégorie:États-Unis"
         }
       ]
     },
@@ -424,6 +452,10 @@
           "Title": "Catégorie:Arrêt de la Cour suprême des États-Unis"
         },
         {
+          "ID": 1013435,
+          "Title": "Catégorie:Assassinat"
+        },
+        {
           "ID": 4138566,
           "Title": "Catégorie:Attentat"
         },
@@ -454,6 +486,10 @@
         {
           "ID": 1113189,
           "Title": "Catégorie:Histoire politique"
+        },
+        {
+          "ID": 1149814,
+          "Title": "Catégorie:Histoire thématique par pays"
         },
         {
           "ID": 460678,
@@ -592,6 +628,10 @@
           "Title": "Catégorie:Sciences naturelles"
         },
         {
+          "ID": 5186478,
+          "Title": "Catégorie:Statut UICN Préoccupation mineure"
+        },
+        {
           "ID": 81488,
           "Title": "Catégorie:Terre"
         },
@@ -622,6 +662,10 @@
           "Title": "Catégorie:Alpiniste par nationalité"
         },
         {
+          "ID": 1367731,
+          "Title": "Catégorie:Apatride"
+        },
+        {
           "ID": 84284,
           "Title": "Catégorie:Architecte"
         },
@@ -640,6 +684,14 @@
         {
           "ID": 446402,
           "Title": "Catégorie:Biographe"
+        },
+        {
+          "ID": 9594985,
+          "Title": "Catégorie:Chanteur américain du XXIe siècle"
+        },
+        {
+          "ID": 10461369,
+          "Title": "Catégorie:Chanteur de rock américain"
         },
         {
           "ID": 123517,
@@ -670,6 +722,10 @@
           "Title": "Catégorie:Inventeur"
         },
         {
+          "ID": 4921505,
+          "Title": "Catégorie:Lauréat du prix Nobel par nationalité"
+        },
+        {
           "ID": 83911,
           "Title": "Catégorie:Mathématicien"
         },
@@ -684,6 +740,18 @@
         {
           "ID": 3119128,
           "Title": "Catégorie:Métier de l'aéronautique"
+        },
+        {
+          "ID": 1281998,
+          "Title": "Catégorie:Naissance au XIXe siècle"
+        },
+        {
+          "ID": 1281996,
+          "Title": "Catégorie:Naissance au XVIIIe siècle"
+        },
+        {
+          "ID": 1282000,
+          "Title": "Catégorie:Naissance au XXe siècle"
         },
         {
           "ID": 327250,
@@ -702,12 +770,36 @@
           "Title": "Catégorie:Personnage de fiction"
         },
         {
+          "ID": 3400775,
+          "Title": "Catégorie:Personnalité américaine par profession"
+        },
+        {
+          "ID": 454417,
+          "Title": "Catégorie:Personnalité anglaise"
+        },
+        {
+          "ID": 5388646,
+          "Title": "Catégorie:Personnalité du Parti démocrate américain par État"
+        },
+        {
+          "ID": 11461749,
+          "Title": "Catégorie:Personnalité du Parti républicain américain par État"
+        },
+        {
           "ID": 383357,
           "Title": "Catégorie:Personnalité féminine"
         },
         {
+          "ID": 3014166,
+          "Title": "Catégorie:Personnalité par activité et par période"
+        },
+        {
           "ID": 548465,
           "Title": "Catégorie:Personnalité par métier"
+        },
+        {
+          "ID": 3606242,
+          "Title": "Catégorie:Personnalité par siècle"
         },
         {
           "ID": 232259,
@@ -724,6 +816,10 @@
         {
           "ID": 85545,
           "Title": "Catégorie:Philosophe"
+        },
+        {
+          "ID": 957586,
+          "Title": "Catégorie:Philosophe par domaine"
         },
         {
           "ID": 4730788,
@@ -766,6 +862,10 @@
         {
           "ID": 152793,
           "Title": "Catégorie:Idéologie"
+        },
+        {
+          "ID": 98781,
+          "Title": "Catégorie:Libéralisme"
         },
         {
           "ID": 85548,
@@ -828,10 +928,6 @@
           "Title": "Catégorie:Agence gouvernementale"
         },
         {
-          "ID": 1013435,
-          "Title": "Catégorie:Assassinat"
-        },
-        {
           "ID": 85778,
           "Title": "Catégorie:Compagnie aérienne"
         },
@@ -842,6 +938,10 @@
         {
           "ID": 84954,
           "Title": "Catégorie:Droit"
+        },
+        {
+          "ID": 9745840,
+          "Title": "Catégorie:Déclin urbain"
         },
         {
           "ID": 84958,
@@ -898,6 +998,10 @@
         {
           "ID": 96531,
           "Title": "Catégorie:Organisation internationale"
+        },
+        {
+          "ID": 360798,
+          "Title": "Catégorie:Organisation islamiste"
         },
         {
           "ID": 270931,

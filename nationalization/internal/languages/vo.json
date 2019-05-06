@@ -44,6 +44,10 @@
           "Title": "Klad:Flumeds"
         },
         {
+          "ID": 5906,
+          "Title": "Klad:Lamerikän"
+        },
+        {
           "ID": 2082,
           "Title": "Klad:Läns"
         },
@@ -52,8 +56,16 @@
           "Title": "Klad:Taledav"
         },
         {
+          "ID": 9167,
+          "Title": "Klad:Tats Lamerikäna"
+        },
+        {
           "ID": 2111,
           "Title": "Klad:Zifs"
+        },
+        {
+          "ID": 6084,
+          "Title": "Klad:Zifs in Lamerikän"
         }
       ]
     },

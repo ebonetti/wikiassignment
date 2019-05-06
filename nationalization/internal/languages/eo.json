@@ -122,12 +122,20 @@
           "Title": "Kategorio:Kulturo"
         },
         {
+          "ID": 638827,
+          "Title": "Kategorio:Kulturo de manĝaĵoj kaj trinkaĵoj"
+        },
+        {
           "ID": 466591,
           "Title": "Kategorio:Kulturo laŭ landoj"
         },
         {
           "ID": 434920,
           "Title": "Kategorio:Kulturoj"
+        },
+        {
+          "ID": 396029,
+          "Title": "Kategorio:Kvartetoj"
         },
         {
           "ID": 282512,
@@ -176,6 +184,10 @@
         {
           "ID": 32224,
           "Title": "Kategorio:Muzikaj grupoj"
+        },
+        {
+          "ID": 608357,
+          "Title": "Kategorio:Muzikaj grupoj laŭ ĝenroj kaj landoj"
         },
         {
           "ID": 46013,
@@ -258,6 +270,10 @@
           "Title": "Kategorio:Tabulludoj"
         },
         {
+          "ID": 617747,
+          "Title": "Kategorio:Televidaj programoj laŭ lingvoj"
+        },
+        {
           "ID": 51302,
           "Title": "Kategorio:Televido"
         },
@@ -296,6 +312,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 599368,
+          "Title": "Kategorio:Administraj unuoj laŭ lingvoj"
+        },
+        {
           "ID": 576992,
           "Title": "Kategorio:Akvofontoj"
         },
@@ -328,8 +348,16 @@
           "Title": "Kategorio:Loĝlokoj"
         },
         {
+          "ID": 584597,
+          "Title": "Kategorio:Loĝlokoj de Usono"
+        },
+        {
           "ID": 442524,
           "Title": "Kategorio:Loĝlokoj laŭ landoj"
+        },
+        {
+          "ID": 592425,
+          "Title": "Kategorio:Membroj de la Unuiĝintaj Nacioj"
         },
         {
           "ID": 284082,
@@ -352,6 +380,10 @@
           "Title": "Kategorio:Stratoj"
         },
         {
+          "ID": 542853,
+          "Title": "Kategorio:Subŝtatoj de Usono"
+        },
+        {
           "ID": 439845,
           "Title": "Kategorio:Teritorioj"
         },
@@ -366,6 +398,14 @@
         {
           "ID": 284931,
           "Title": "Kategorio:Urboj"
+        },
+        {
+          "ID": 40125,
+          "Title": "Kategorio:Urboj de Usono"
+        },
+        {
+          "ID": 21337,
+          "Title": "Kategorio:Usono"
         },
         {
           "ID": 355213,
@@ -450,6 +490,10 @@
         {
           "ID": 141347,
           "Title": "Kategorio:Historio laŭ landoj"
+        },
+        {
+          "ID": 447314,
+          "Title": "Kategorio:Historio laŭ landoj kaj temoj"
         },
         {
           "ID": 470873,
@@ -568,6 +612,10 @@
           "Title": "Kategorio:Fruktoj"
         },
         {
+          "ID": 320596,
+          "Title": "Kategorio:Internacia Ruĝa Listo de Endanĝeritaj Specioj"
+        },
+        {
           "ID": 40359,
           "Title": "Kategorio:Katastrofoj"
         },
@@ -578,6 +626,10 @@
         {
           "ID": 21203,
           "Title": "Kategorio:Kemio"
+        },
+        {
+          "ID": 578513,
+          "Title": "Kategorio:Manĝeblaj fruktoj"
         },
         {
           "ID": 188544,
@@ -634,6 +686,10 @@
           "Title": "Kategorio:Aktoroj"
         },
         {
+          "ID": 95250,
+          "Title": "Kategorio:Angloj"
+        },
+        {
           "ID": 126295,
           "Title": "Kategorio:Arkitektoj"
         },
@@ -682,16 +738,32 @@
           "Title": "Kategorio:Filozofoj"
         },
         {
+          "ID": 477487,
+          "Title": "Kategorio:Filozofoj laŭ studfakoj"
+        },
+        {
           "ID": 331834,
           "Title": "Kategorio:Flegistoj"
+        },
+        {
+          "ID": 447419,
+          "Title": "Kategorio:Homoj laŭ jarcentoj"
         },
         {
           "ID": 442352,
           "Title": "Kategorio:Homoj laŭ konduto"
         },
         {
+          "ID": 587375,
+          "Title": "Kategorio:Homoj laŭ kontinentoj kaj profesioj"
+        },
+        {
           "ID": 258749,
           "Title": "Kategorio:Homoj laŭ profesioj"
+        },
+        {
+          "ID": 445660,
+          "Title": "Kategorio:Homoj laŭ profesioj kaj periodoj"
         },
         {
           "ID": 601719,
@@ -718,12 +790,28 @@
           "Title": "Kategorio:Mortintoj"
         },
         {
+          "ID": 462240,
+          "Title": "Kategorio:Mortintoj laŭ jarcentoj"
+        },
+        {
           "ID": 465256,
           "Title": "Kategorio:Mortintoj laŭ jaroj"
         },
         {
           "ID": 31762,
           "Title": "Kategorio:Muzikistoj"
+        },
+        {
+          "ID": 60539,
+          "Title": "Kategorio:Naskiĝintoj en la 18-a jarcento"
+        },
+        {
+          "ID": 60614,
+          "Title": "Kategorio:Naskiĝintoj en la 19-a jarcento"
+        },
+        {
+          "ID": 60642,
+          "Title": "Kategorio:Naskiĝintoj en la 20-a jarcento"
         },
         {
           "ID": 447426,
@@ -774,6 +862,18 @@
           "Title": "Kategorio:Usonaj generaloj"
         },
         {
+          "ID": 595678,
+          "Title": "Kategorio:Usonaj rokkantistoj"
+        },
+        {
+          "ID": 52048,
+          "Title": "Kategorio:Usonanoj"
+        },
+        {
+          "ID": 555911,
+          "Title": "Kategorio:Usonanoj laŭ profesioj"
+        },
+        {
           "ID": 29751,
           "Title": "Kategorio:Verkistoj"
         },
@@ -808,6 +908,10 @@
           "Title": "Kategorio:Filozofiaj konceptoj"
         },
         {
+          "ID": 108548,
+          "Title": "Kategorio:Filozofiaj movadoj"
+        },
+        {
           "ID": 108544,
           "Title": "Kategorio:Filozofiaj skoloj kaj tradicioj"
         },
@@ -822,6 +926,10 @@
         {
           "ID": 295745,
           "Title": "Kategorio:Ideologioj"
+        },
+        {
+          "ID": 164721,
+          "Title": "Kategorio:Liberalismo"
         },
         {
           "ID": 436598,
@@ -856,6 +964,10 @@
         {
           "ID": 436593,
           "Title": "Kategorio:Kredo"
+        },
+        {
+          "ID": 441381,
+          "Title": "Kategorio:Kristanismo kaj morto"
         },
         {
           "ID": 439663,
@@ -922,6 +1034,10 @@
         {
           "ID": 497181,
           "Title": "Kategorio:Interregistaraj organizaĵoj"
+        },
+        {
+          "ID": 594700,
+          "Title": "Kategorio:Islamismaj grupoj"
         },
         {
           "ID": 37824,
@@ -998,6 +1114,10 @@
         {
           "ID": 490376,
           "Title": "Kategorio:Universitatoj kaj altlernejoj laŭ landoj"
+        },
+        {
+          "ID": 635310,
+          "Title": "Kategorio:Urba degrado"
         }
       ]
     },

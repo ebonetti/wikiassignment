@@ -210,6 +210,10 @@
           "Title": "Kategorija:Televizija"
         },
         {
+          "ID": 93495,
+          "Title": "Kategorija:Televizijski program po jezicima"
+        },
+        {
           "ID": 152383,
           "Title": "Kategorija:Umjetničke slike"
         },
@@ -248,8 +252,16 @@
           "Title": "Kategorija:Države"
         },
         {
+          "ID": 85540,
+          "Title": "Kategorija:Države Sjedinjenih Američkih Država"
+        },
+        {
           "ID": 69867,
           "Title": "Kategorija:Države svijeta"
+        },
+        {
+          "ID": 390502,
+          "Title": "Kategorija:Države članice Ujedinjenih nacija"
         },
         {
           "ID": 262755,
@@ -266,6 +278,10 @@
         {
           "ID": 8914,
           "Title": "Kategorija:Gradovi"
+        },
+        {
+          "ID": 86319,
+          "Title": "Kategorija:Gradovi u Sjedinjenim Američkim Državama"
         },
         {
           "ID": 81144,
@@ -290,6 +306,10 @@
         {
           "ID": 7238,
           "Title": "Kategorija:Rijeke"
+        },
+        {
+          "ID": 85501,
+          "Title": "Kategorija:Sjedinjene Američke Države"
         },
         {
           "ID": 92673,
@@ -546,6 +566,10 @@
           "Title": "Kategorija:Biografije po zanimanju"
         },
         {
+          "ID": 55837,
+          "Title": "Kategorija:Biografije, Engleska"
+        },
+        {
           "ID": 22712,
           "Title": "Kategorija:Fiktivni likovi"
         },
@@ -556,6 +580,10 @@
         {
           "ID": 8102,
           "Title": "Kategorija:Filozofi"
+        },
+        {
+          "ID": 85141,
+          "Title": "Kategorija:Filozofi po polju"
         },
         {
           "ID": 8376,
@@ -572,6 +600,10 @@
         {
           "ID": 14355,
           "Title": "Kategorija:Ljekari"
+        },
+        {
+          "ID": 81886,
+          "Title": "Kategorija:Ljudi po vijekovima"
         },
         {
           "ID": 14331,
@@ -652,6 +684,10 @@
           "Title": "Kategorija:Filozofija"
         },
         {
+          "ID": 452350,
+          "Title": "Kategorija:Filozofija nauke po disciplinama"
+        },
+        {
           "ID": 81261,
           "Title": "Kategorija:Filozofske škole i tradicije"
         },
@@ -660,12 +696,20 @@
           "Title": "Kategorija:Filozofski koncepti"
         },
         {
+          "ID": 81100,
+          "Title": "Kategorija:Filozofski pokreti"
+        },
+        {
           "ID": 72663,
           "Title": "Kategorija:Grane filozofije"
         },
         {
           "ID": 10659,
           "Title": "Kategorija:Ideologije"
+        },
+        {
+          "ID": 444216,
+          "Title": "Kategorija:Liberalizam"
         },
         {
           "ID": 193536,

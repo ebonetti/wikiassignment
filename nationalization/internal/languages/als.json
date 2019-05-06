@@ -136,6 +136,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 32461,
+          "Title": "Kategorie:Bundesstaat (USA)"
+        },
+        {
           "ID": 53420,
           "Title": "Kategorie:Dänggmol"
         },
@@ -156,6 +160,10 @@
           "Title": "Kategorie:Ort"
         },
         {
+          "ID": 32460,
+          "Title": "Kategorie:Ort (USA)"
+        },
+        {
           "ID": 73706,
           "Title": "Kategorie:Ort noch Land"
         },
@@ -170,6 +178,10 @@
         {
           "ID": 51784,
           "Title": "Kategorie:Strooss"
+        },
+        {
+          "ID": 9752,
+          "Title": "Kategorie:USA"
         }
       ]
     },
@@ -404,6 +416,14 @@
         {
           "ID": 17056,
           "Title": "Kategorie:Staatsoberhaupt"
+        },
+        {
+          "ID": 23125,
+          "Title": "Kategorie:US-Amerikaner"
+        },
+        {
+          "ID": 23121,
+          "Title": "Kategorie:Ängländer"
         }
       ]
     },
@@ -418,6 +438,10 @@
         {
           "ID": 22083,
           "Title": "Kategorie:Ideologii"
+        },
+        {
+          "ID": 26123,
+          "Title": "Kategorie:Liberalismus"
         },
         {
           "ID": 16248,

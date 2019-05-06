@@ -106,6 +106,10 @@
           "Title": "Kategori:Kunskap"
         },
         {
+          "ID": 1230744,
+          "Title": "Kategori:Kvartetter"
+        },
+        {
           "ID": 3920935,
           "Title": "Kategori:Källor"
         },
@@ -166,6 +170,10 @@
           "Title": "Kategori:Musikgrupper"
         },
         {
+          "ID": 1890290,
+          "Title": "Kategori:Musikgrupper efter genre och nationalitet"
+        },
+        {
           "ID": 218325,
           "Title": "Kategori:Musikverk"
         },
@@ -224,6 +232,10 @@
         {
           "ID": 55124,
           "Title": "Kategori:Sport"
+        },
+        {
+          "ID": 1603117,
+          "Title": "Kategori:TV-serier efter språk"
         },
         {
           "ID": 674739,
@@ -312,6 +324,10 @@
           "Title": "Kategori:Orter efter land"
         },
         {
+          "ID": 227665,
+          "Title": "Kategori:Orter i USA"
+        },
+        {
           "ID": 1003262,
           "Title": "Kategori:Palats"
         },
@@ -330,6 +346,14 @@
         {
           "ID": 51794,
           "Title": "Kategori:Städer"
+        },
+        {
+          "ID": 53306,
+          "Title": "Kategori:USA"
+        },
+        {
+          "ID": 54069,
+          "Title": "Kategori:USA:s delstater"
         },
         {
           "ID": 626435,
@@ -516,6 +540,10 @@
           "Title": "Kategori:Liv"
         },
         {
+          "ID": 1185054,
+          "Title": "Kategori:Livskraftiga arter"
+        },
+        {
           "ID": 92473,
           "Title": "Kategori:Miljövetenskap"
         },
@@ -558,8 +586,24 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 51745,
+          "Title": "Kategori:Amerikaner"
+        },
+        {
+          "ID": 920729,
+          "Title": "Kategori:Amerikaner efter yrke"
+        },
+        {
           "ID": 101536,
           "Title": "Kategori:Amerikanska generaler"
+        },
+        {
+          "ID": 492558,
+          "Title": "Kategori:Amerikanska rocksångare"
+        },
+        {
+          "ID": 4960703,
+          "Title": "Kategori:Amerikanska sångare under 2000-talet"
         },
         {
           "ID": 54113,
@@ -578,6 +622,14 @@
           "Title": "Kategori:Efternamn"
         },
         {
+          "ID": 195422,
+          "Title": "Kategori:Engelsmän"
+        },
+        {
+          "ID": 1209444,
+          "Title": "Kategori:Entreprenörer"
+        },
+        {
           "ID": 541194,
           "Title": "Kategori:Fiktiva figurer"
         },
@@ -590,8 +642,24 @@
           "Title": "Kategori:Filosofer"
         },
         {
+          "ID": 513060,
+          "Title": "Kategori:Filosofer efter verksamhetsområde"
+        },
+        {
           "ID": 254872,
           "Title": "Kategori:Forskare inom medicin"
+        },
+        {
+          "ID": 254339,
+          "Title": "Kategori:Födda 1700-talet"
+        },
+        {
+          "ID": 254338,
+          "Title": "Kategori:Födda 1800-talet"
+        },
+        {
+          "ID": 254337,
+          "Title": "Kategori:Födda 1900-talet"
         },
         {
           "ID": 51531,
@@ -626,6 +694,10 @@
           "Title": "Kategori:Musiker"
         },
         {
+          "ID": 1011580,
+          "Title": "Kategori:Nobelpristagare efter land"
+        },
+        {
           "ID": 50673,
           "Title": "Kategori:Personer"
         },
@@ -636,6 +708,14 @@
         {
           "ID": 498652,
           "Title": "Kategori:Personer efter verksamhetsområde"
+        },
+        {
+          "ID": 1531963,
+          "Title": "Kategori:Personer efter verksamhetsområde och tidsperiod"
+        },
+        {
+          "ID": 1531968,
+          "Title": "Kategori:Personer efter århundrade"
         },
         {
           "ID": 1134447,
@@ -708,12 +788,20 @@
           "Title": "Kategori:Filosofiska koncept"
         },
         {
+          "ID": 4910882,
+          "Title": "Kategori:Filosofiska rörelser"
+        },
+        {
           "ID": 405594,
           "Title": "Kategori:Filosofiska teorier"
         },
         {
           "ID": 1599020,
           "Title": "Kategori:Ideologier"
+        },
+        {
+          "ID": 58911,
+          "Title": "Kategori:Liberalism"
         },
         {
           "ID": 691288,
@@ -802,6 +890,10 @@
         {
           "ID": 52003,
           "Title": "Kategori:Internationella organisationer"
+        },
+        {
+          "ID": 317461,
+          "Title": "Kategori:Islamistiska organisationer"
         },
         {
           "ID": 51589,

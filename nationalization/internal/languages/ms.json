@@ -224,12 +224,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 29691,
+          "Title": "Kategori:Amerika Syarikat"
+        },
+        {
+          "ID": 799696,
+          "Title": "Kategori:Anggota Pertubuhan Bangsa-Bangsa Bersatu"
+        },
+        {
           "ID": 94523,
           "Title": "Kategori:Bandar"
         },
         {
           "ID": 75171,
           "Title": "Kategori:Bandar raya"
+        },
+        {
+          "ID": 167257,
+          "Title": "Kategori:Bandar raya di Amerika Syarikat"
         },
         {
           "ID": 8046,
@@ -252,8 +264,16 @@
           "Title": "Kategori:Negara"
         },
         {
+          "ID": 29690,
+          "Title": "Kategori:Negeri di Amerika Syarikat"
+        },
+        {
           "ID": 75170,
           "Title": "Kategori:Petempatan"
+        },
+        {
+          "ID": 165780,
+          "Title": "Kategori:Petempatan di Amerika Syarikat"
         },
         {
           "ID": 162627,
@@ -358,6 +378,10 @@
         {
           "ID": 81849,
           "Title": "Kategori:Sejarah mengikut negara"
+        },
+        {
+          "ID": 659874,
+          "Title": "Kategori:Sejarah mengikut negara dan topik"
         },
         {
           "ID": 82014,
@@ -484,6 +508,10 @@
           "Title": "Kategori:Sebatian kimia"
         },
         {
+          "ID": 719117,
+          "Title": "Kategori:Spesies kurang membimbangkan Senarai Merah IUCN"
+        },
+        {
           "ID": 27952,
           "Title": "Kategori:Tumbuhan"
         },
@@ -526,6 +554,18 @@
           "Title": "Kategori:Jurubina"
         },
         {
+          "ID": 300700,
+          "Title": "Kategori:Kelahiran abad ke-18"
+        },
+        {
+          "ID": 164969,
+          "Title": "Kategori:Kelahiran abad ke-19"
+        },
+        {
+          "ID": 123929,
+          "Title": "Kategori:Kelahiran abad ke-20"
+        },
+        {
           "ID": 17016,
           "Title": "Kategori:Kelahiran mengikut tahun"
         },
@@ -542,6 +582,18 @@
           "Title": "Kategori:Orang"
         },
         {
+          "ID": 165737,
+          "Title": "Kategori:Orang Amerika"
+        },
+        {
+          "ID": 91892,
+          "Title": "Kategori:Orang Amerika Syarikat mengikut pekerjaan"
+        },
+        {
+          "ID": 164400,
+          "Title": "Kategori:Orang Inggeris"
+        },
+        {
           "ID": 75916,
           "Title": "Kategori:Orang hidup"
         },
@@ -550,8 +602,16 @@
           "Title": "Kategori:Orang mati"
         },
         {
+          "ID": 162067,
+          "Title": "Kategori:Orang mengikut abad"
+        },
+        {
           "ID": 85716,
           "Title": "Kategori:Orang mengikut pekerjaan"
+        },
+        {
+          "ID": 165609,
+          "Title": "Kategori:Orang mengikut pekerjaan dan zaman"
         },
         {
           "ID": 82502,
@@ -628,12 +688,20 @@
           "Title": "Kategori:Falsafah"
         },
         {
+          "ID": 81809,
+          "Title": "Kategori:Gerakan falsafah"
+        },
+        {
           "ID": 164011,
           "Title": "Kategori:Ideologi"
         },
         {
           "ID": 82074,
           "Title": "Kategori:Konsep falsafah"
+        },
+        {
+          "ID": 47513,
+          "Title": "Kategori:Liberalisme"
         },
         {
           "ID": 76140,

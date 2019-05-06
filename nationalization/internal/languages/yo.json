@@ -76,6 +76,10 @@
           "Title": "Ẹ̀ka:Jẹ́ọ́gráfì"
         },
         {
+          "ID": 13173,
+          "Title": "Ẹ̀ka:Orílẹ̀-èdè Amẹ́ríkà"
+        },
+        {
           "ID": 20705,
           "Title": "Ẹ̀ka:Àwọn odò"
         },
@@ -84,8 +88,16 @@
           "Title": "Ẹ̀ka:Àwọn orílẹ̀-èdè"
         },
         {
+          "ID": 14897,
+          "Title": "Ẹ̀ka:Àwọn Ìpínlẹ̀ Orílẹ̀-èdè Amẹ́ríkà"
+        },
+        {
           "ID": 12334,
           "Title": "Ẹ̀ka:Àwọn ìlú"
+        },
+        {
+          "ID": 23018,
+          "Title": "Ẹ̀ka:Àwọn ìlú ní Orílẹ̀-èdè Amẹ́ríkà"
         }
       ]
     },
@@ -202,6 +214,14 @@
           "Title": "Ẹ̀ka:Àwọn amòye"
         },
         {
+          "ID": 14172,
+          "Title": "Ẹ̀ka:Àwọn ará Amẹ́ríkà"
+        },
+        {
+          "ID": 14818,
+          "Title": "Ẹ̀ka:Àwọn ará Ilẹ̀gẹ̀ẹ́sì"
+        },
+        {
           "ID": 15854,
           "Title": "Ẹ̀ka:Àwọn olórin"
         },
@@ -234,6 +254,10 @@
           "Title": "Ẹ̀ka:Àwọn ènìyàn alààyè"
         },
         {
+          "ID": 59474,
+          "Title": "Ẹ̀ka:Àwọn ènìyàn ará Amẹ́ríkà gẹ́gẹ́bí ìdawọ́bò"
+        },
+        {
           "ID": 59476,
           "Title": "Ẹ̀ka:Àwọn ènìyàn gẹ́gẹ́bí ìdawọ́bò"
         },
@@ -246,12 +270,20 @@
           "Title": "Ẹ̀ka:Àwọn òṣeré fílmù"
         },
         {
+          "ID": 37619,
+          "Title": "Ẹ̀ka:Àwọn ẹlẹ́bùn Nobel gẹ́gẹ́bí ọmọ orílẹ̀-èdè"
+        },
+        {
           "ID": 28588,
           "Title": "Ẹ̀ka:Àwọn ọjọ́aláìsí bíi ọdún"
         },
         {
           "ID": 28476,
           "Title": "Ẹ̀ka:Àwọn ọjọ́ìbí bíi ọdún"
+        },
+        {
+          "ID": 28589,
+          "Title": "Ẹ̀ka:Àwọn ọjọ́ìbí ní ọ̀rúndún 20k"
         }
       ]
     },

@@ -166,6 +166,10 @@
           "Title": "Category:Musical groups"
         },
         {
+          "ID": 381137,
+          "Title": "Category:Musical quartets"
+        },
+        {
           "ID": 43164,
           "Title": "Category:Newspapers"
         },
@@ -244,6 +248,10 @@
         {
           "ID": 52455,
           "Title": "Category:Writing"
+        },
+        {
+          "ID": 308670,
+          "Title": "Category:Years in professional wrestling"
         }
       ]
     },
@@ -254,6 +262,10 @@
         {
           "ID": 5211,
           "Title": "Category:Cities"
+        },
+        {
+          "ID": 5877,
+          "Title": "Category:Cities in the United States"
         },
         {
           "ID": 5209,
@@ -296,12 +308,28 @@
           "Title": "Category:Settlements by country"
         },
         {
+          "ID": 395587,
+          "Title": "Category:Settlements in the United States"
+        },
+        {
+          "ID": 342376,
+          "Title": "Category:States of the United States"
+        },
+        {
           "ID": 11412,
           "Title": "Category:Territories"
         },
         {
           "ID": 11456,
           "Title": "Category:Towns"
+        },
+        {
+          "ID": 383809,
+          "Title": "Category:Towns in the United States"
+        },
+        {
+          "ID": 8079,
+          "Title": "Category:United States"
         },
         {
           "ID": 410441,
@@ -374,6 +402,10 @@
         {
           "ID": 652942,
           "Title": "Category:Murder by year"
+        },
+        {
+          "ID": 218903,
+          "Title": "Category:Murders"
         },
         {
           "ID": 41122,
@@ -472,6 +504,10 @@
           "Title": "Category:Fruits"
         },
         {
+          "ID": 356575,
+          "Title": "Category:IUCN Red List least concern species"
+        },
+        {
           "ID": 55497,
           "Title": "Category:Life"
         },
@@ -514,12 +550,36 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 12776,
+          "Title": "Category:18th century births"
+        },
+        {
+          "ID": 12133,
+          "Title": "Category:19th century births"
+        },
+        {
+          "ID": 10422,
+          "Title": "Category:20th century births"
+        },
+        {
           "ID": 8406,
           "Title": "Category:Actors"
         },
         {
           "ID": 144047,
           "Title": "Category:American generals"
+        },
+        {
+          "ID": 122986,
+          "Title": "Category:American people"
+        },
+        {
+          "ID": 301968,
+          "Title": "Category:American people by occupation"
+        },
+        {
+          "ID": 296275,
+          "Title": "Category:American rock singers"
         },
         {
           "ID": 37305,
@@ -552,6 +612,10 @@
         {
           "ID": 437902,
           "Title": "Category:Deaths by time"
+        },
+        {
+          "ID": 12694,
+          "Title": "Category:English people"
         },
         {
           "ID": 6515,
@@ -594,6 +658,10 @@
           "Title": "Category:Musicians"
         },
         {
+          "ID": 352691,
+          "Title": "Category:Nobel Prize winners by nationality"
+        },
+        {
           "ID": 358137,
           "Title": "Category:Nurses"
         },
@@ -604,6 +672,10 @@
         {
           "ID": 5904,
           "Title": "Category:People"
+        },
+        {
+          "ID": 594539,
+          "Title": "Category:People by continent and occupation"
         },
         {
           "ID": 51209,
@@ -658,6 +730,10 @@
         {
           "ID": 25540,
           "Title": "Category:Ethics"
+        },
+        {
+          "ID": 445180,
+          "Title": "Category:Liberalism"
         },
         {
           "ID": 434935,
@@ -762,10 +838,6 @@
         {
           "ID": 18101,
           "Title": "Category:Money"
-        },
-        {
-          "ID": 218903,
-          "Title": "Category:Murders"
         },
         {
           "ID": 340166,

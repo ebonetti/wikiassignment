@@ -248,6 +248,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 12397,
+          "Title": "Kategorija:Američke savezne države"
+        },
+        {
           "ID": 15521,
           "Title": "Kategorija:Država"
         },
@@ -276,12 +280,20 @@
           "Title": "Kategorija:Gradovi"
         },
         {
+          "ID": 7097,
+          "Title": "Kategorija:Gradovi u SAD"
+        },
+        {
           "ID": 2024,
           "Title": "Kategorija:Naselja"
         },
         {
           "ID": 72873,
           "Title": "Kategorija:Naselja po državama"
+        },
+        {
+          "ID": 1459249,
+          "Title": "Kategorija:Naselja u SAD"
         },
         {
           "ID": 219782,
@@ -294,6 +306,10 @@
         {
           "ID": 2277,
           "Title": "Kategorija:Rijeke"
+        },
+        {
+          "ID": 83565,
+          "Title": "Kategorija:Sjedinjene Američke Države"
         },
         {
           "ID": 46933,
@@ -358,6 +374,10 @@
         {
           "ID": 1948,
           "Title": "Kategorija:Historija"
+        },
+        {
+          "ID": 204632,
+          "Title": "Kategorija:Historija SAD (1991–danas)"
         },
         {
           "ID": 70422,
@@ -526,8 +546,16 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 57041,
+          "Title": "Kategorija:Amerikanci po zanimanju"
+        },
+        {
           "ID": 93647,
           "Title": "Kategorija:Američki generali"
+        },
+        {
+          "ID": 85322,
+          "Title": "Kategorija:Američki rock pjevači"
         },
         {
           "ID": 2287,
@@ -544,6 +572,14 @@
         {
           "ID": 1830,
           "Title": "Kategorija:Biografije"
+        },
+        {
+          "ID": 95831,
+          "Title": "Kategorija:Biografije, Engleska"
+        },
+        {
+          "ID": 119989,
+          "Title": "Kategorija:Biografije, SAD"
         },
         {
           "ID": 4027489,
@@ -626,6 +662,18 @@
           "Title": "Kategorija:Revolucionari"
         },
         {
+          "ID": 132793,
+          "Title": "Kategorija:Rođeni u 18. vijeku"
+        },
+        {
+          "ID": 134246,
+          "Title": "Kategorija:Rođeni u 19. vijeku"
+        },
+        {
+          "ID": 134250,
+          "Title": "Kategorija:Rođeni u 20. vijeku"
+        },
+        {
           "ID": 134146,
           "Title": "Kategorija:Rođenja po godinama"
         },
@@ -680,8 +728,16 @@
           "Title": "Kategorija:Filozofski koncepti"
         },
         {
+          "ID": 116528,
+          "Title": "Kategorija:Filozofski pokreti"
+        },
+        {
           "ID": 20309,
           "Title": "Kategorija:Ideologije"
+        },
+        {
+          "ID": 158460,
+          "Title": "Kategorija:Liberalizam"
         },
         {
           "ID": 228678,

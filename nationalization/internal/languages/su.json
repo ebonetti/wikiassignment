@@ -100,6 +100,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 16058,
+          "Title": "Kategori:Amérika Sarikat"
+        },
+        {
           "ID": 2243,
           "Title": "Kategori:Géografi"
         },
@@ -202,6 +206,10 @@
         {
           "ID": 2263,
           "Title": "Kategori:Hirup-hurip"
+        },
+        {
+          "ID": 46731,
+          "Title": "Kategori:IUCN Red List least concern species"
         },
         {
           "ID": 1694,

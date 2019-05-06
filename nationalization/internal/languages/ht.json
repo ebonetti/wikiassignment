@@ -68,6 +68,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2655,
+          "Title": "Kategori:Eta nan Etazini"
+        },
+        {
+          "ID": 2656,
+          "Title": "Kategori:Etazini"
+        },
+        {
           "ID": 2653,
           "Title": "Kategori:Jewografi"
         },
@@ -82,6 +90,10 @@
         {
           "ID": 2673,
           "Title": "Kategori:Vil"
+        },
+        {
+          "ID": 4006,
+          "Title": "Kategori:Vil nan Etazini"
         }
       ]
     },
@@ -174,6 +186,10 @@
           "Title": "Kategori:Aktè sinema"
         },
         {
+          "ID": 62868,
+          "Title": "Kategori:Ameriken"
+        },
+        {
           "ID": 12414,
           "Title": "Kategori:Atis"
         },
@@ -196,6 +212,18 @@
         {
           "ID": 12415,
           "Title": "Kategori:Moun"
+        },
+        {
+          "ID": 62802,
+          "Title": "Kategori:Nesans nan XIXe syèk"
+        },
+        {
+          "ID": 62830,
+          "Title": "Kategori:Nesans nan XVIIIe syèk"
+        },
+        {
+          "ID": 62726,
+          "Title": "Kategori:Nesans nan XXe syèk"
         },
         {
           "ID": 58365,

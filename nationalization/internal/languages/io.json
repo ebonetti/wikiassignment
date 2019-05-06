@@ -212,12 +212,24 @@
           "Title": "Kategorio:Stati"
         },
         {
+          "ID": 4799,
+          "Title": "Kategorio:Stato di Usa"
+        },
+        {
           "ID": 25437,
           "Title": "Kategorio:Stradi"
         },
         {
           "ID": 37720,
           "Title": "Kategorio:Urbi"
+        },
+        {
+          "ID": 17964,
+          "Title": "Kategorio:Urbi en Usa"
+        },
+        {
+          "ID": 3251,
+          "Title": "Kategorio:Usa"
         }
       ]
     },
@@ -464,6 +476,10 @@
         {
           "ID": 16939,
           "Title": "Kategorio:Su"
+        },
+        {
+          "ID": 26646,
+          "Title": "Kategorio:Usani"
         }
       ]
     },
@@ -484,6 +500,10 @@
           "Title": "Kategorio:Filozofiala konceptaji"
         },
         {
+          "ID": 25332,
+          "Title": "Kategorio:Filozofiala movementi"
+        },
+        {
           "ID": 28386,
           "Title": "Kategorio:Filozofiala skoli e tradicioni"
         },
@@ -498,6 +518,10 @@
         {
           "ID": 25335,
           "Title": "Kategorio:Ideologii"
+        },
+        {
+          "ID": 35915,
+          "Title": "Kategorio:Liberalismo"
         },
         {
           "ID": 6081,

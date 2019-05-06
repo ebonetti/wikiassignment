@@ -78,6 +78,18 @@
         {
           "ID": 5706,
           "Title": "Klass:Gwlasow"
+        },
+        {
+          "ID": 3215,
+          "Title": "Klass:SUA"
+        },
+        {
+          "ID": 4757,
+          "Title": "Klass:Sitys y'n Statys Unys"
+        },
+        {
+          "ID": 3511,
+          "Title": "Klass:Statys an SUA"
         }
       ]
     },
@@ -150,6 +162,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 5993,
+          "Title": "Klass:Amerikanyon"
+        },
+        {
           "ID": 8349,
           "Title": "Klass:Artydhyon"
         },
@@ -164,6 +180,10 @@
         {
           "ID": 1027,
           "Title": "Klass:Pobel"
+        },
+        {
+          "ID": 3090,
+          "Title": "Klass:Sowson"
         }
       ]
     },

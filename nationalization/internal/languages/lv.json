@@ -204,6 +204,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6162,
+          "Title": "Kategorija:ASV"
+        },
+        {
+          "ID": 3545,
+          "Title": "Kategorija:ASV pilsētas"
+        },
+        {
+          "ID": 3376,
+          "Title": "Kategorija:ASV štati"
+        },
+        {
           "ID": 28085,
           "Title": "Kategorija:Apdzīvotas vietas"
         },
@@ -438,12 +450,36 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 31766,
+          "Title": "Kategorija:18. gadsimtā dzimušie"
+        },
+        {
+          "ID": 31753,
+          "Title": "Kategorija:19. gadsimtā dzimušie"
+        },
+        {
+          "ID": 21690,
+          "Title": "Kategorija:20. gadsimtā dzimušie"
+        },
+        {
+          "ID": 7443,
+          "Title": "Kategorija:ASV cilvēki"
+        },
+        {
           "ID": 77197,
           "Title": "Kategorija:ASV ģenerāļi"
         },
         {
           "ID": 7304,
           "Title": "Kategorija:Aktieri"
+        },
+        {
+          "ID": 12566,
+          "Title": "Kategorija:Amerikāņi pēc nodarbošanās"
+        },
+        {
+          "ID": 43055,
+          "Title": "Kategorija:Anglijas cilvēki"
         },
         {
           "ID": 75554,
@@ -456,6 +492,10 @@
         {
           "ID": 31750,
           "Title": "Kategorija:Cilvēki pēc dzimšanas gada"
+        },
+        {
+          "ID": 79185,
+          "Title": "Kategorija:Cilvēki pēc gadsimta"
         },
         {
           "ID": 34931,
@@ -568,6 +608,10 @@
           "Title": "Kategorija:Filozofijas jēdzieni"
         },
         {
+          "ID": 120871,
+          "Title": "Kategorija:Filozofijas kustības"
+        },
+        {
           "ID": 120873,
           "Title": "Kategorija:Filozofijas nozares"
         },
@@ -582,6 +626,10 @@
         {
           "ID": 37473,
           "Title": "Kategorija:Ideoloģijas"
+        },
+        {
+          "ID": 43001,
+          "Title": "Kategorija:Liberālisms"
         },
         {
           "ID": 120869,

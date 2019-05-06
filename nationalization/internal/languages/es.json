@@ -70,6 +70,10 @@
           "Title": "Categoría:Criaturas imaginarias"
         },
         {
+          "ID": 474293,
+          "Title": "Categoría:Cuartetos de música"
+        },
+        {
           "ID": 51310,
           "Title": "Categoría:Cultura"
         },
@@ -154,6 +158,10 @@
           "Title": "Categoría:Grupos de música"
         },
         {
+          "ID": 8444193,
+          "Title": "Categoría:Grupos de música por género y país"
+        },
+        {
           "ID": 2253349,
           "Title": "Categoría:Género"
         },
@@ -200,6 +208,10 @@
         {
           "ID": 577704,
           "Title": "Categoría:Lucha libre profesional"
+        },
+        {
+          "ID": 8634115,
+          "Title": "Categoría:Lucha libre profesional por año"
         },
         {
           "ID": 1132371,
@@ -256,6 +268,10 @@
         {
           "ID": 2041599,
           "Title": "Categoría:Platos por ingrediente principal"
+        },
+        {
+          "ID": 6318912,
+          "Title": "Categoría:Programas de televisión por idioma"
         },
         {
           "ID": 373050,
@@ -320,8 +336,24 @@
           "Title": "Categoría:Carreteras"
         },
         {
+          "ID": 8905315,
+          "Title": "Categoría:Ciudades"
+        },
+        {
+          "ID": 4667860,
+          "Title": "Categoría:Ciudades de Estados Unidos"
+        },
+        {
           "ID": 329095,
           "Title": "Categoría:Estado"
+        },
+        {
+          "ID": 51471,
+          "Title": "Categoría:Estados Unidos"
+        },
+        {
+          "ID": 150715,
+          "Title": "Categoría:Estados de Estados Unidos"
         },
         {
           "ID": 50649,
@@ -334,6 +366,10 @@
         {
           "ID": 104681,
           "Title": "Categoría:Localidades"
+        },
+        {
+          "ID": 150729,
+          "Title": "Categoría:Localidades de Estados Unidos"
         },
         {
           "ID": 934525,
@@ -358,6 +394,10 @@
         {
           "ID": 50847,
           "Title": "Categoría:Países"
+        },
+        {
+          "ID": 3587170,
+          "Title": "Categoría:Pueblos de Estados Unidos"
         },
         {
           "ID": 3771426,
@@ -448,6 +488,10 @@
           "Title": "Categoría:Aniversarios"
         },
         {
+          "ID": 175546,
+          "Title": "Categoría:Asesinatos"
+        },
+        {
           "ID": 157530,
           "Title": "Categoría:Atentados terroristas"
         },
@@ -480,6 +524,10 @@
           "Title": "Categoría:Historia"
         },
         {
+          "ID": 3614651,
+          "Title": "Categoría:Historia de Estados Unidos (1990-presente)"
+        },
+        {
           "ID": 204842,
           "Title": "Categoría:Historia de la tecnología"
         },
@@ -494,6 +542,10 @@
         {
           "ID": 5967630,
           "Title": "Categoría:Historia por ubicación"
+        },
+        {
+          "ID": 5113370,
+          "Title": "Categoría:Historia temática por país"
         },
         {
           "ID": 332983,
@@ -592,6 +644,10 @@
           "Title": "Categoría:Ecología"
         },
         {
+          "ID": 196981,
+          "Title": "Categoría:Especies no amenazadas"
+        },
+        {
           "ID": 1542253,
           "Title": "Categoría:Fauna por continente"
         },
@@ -662,6 +718,10 @@
           "Title": "Categoría:Apellidos"
         },
         {
+          "ID": 4839868,
+          "Title": "Categoría:Apátridas"
+        },
+        {
           "ID": 51730,
           "Title": "Categoría:Arquitectos"
         },
@@ -678,12 +738,28 @@
           "Title": "Categoría:Biógrafos"
         },
         {
+          "ID": 3175928,
+          "Title": "Categoría:Cantantes de rock de Estados Unidos"
+        },
+        {
+          "ID": 8426584,
+          "Title": "Categoría:Demócratas de Estados Unidos por estado"
+        },
+        {
           "ID": 2307044,
           "Title": "Categoría:Ego"
         },
         {
           "ID": 6042910,
           "Title": "Categoría:Escritores"
+        },
+        {
+          "ID": 173348,
+          "Title": "Categoría:Estadounidenses"
+        },
+        {
+          "ID": 2710787,
+          "Title": "Categoría:Estadounidenses por actividad"
         },
         {
           "ID": 72031,
@@ -698,8 +774,16 @@
           "Title": "Categoría:Fallecidos por año"
         },
         {
+          "ID": 599906,
+          "Title": "Categoría:Fallecidos por siglo"
+        },
+        {
           "ID": 52930,
           "Title": "Categoría:Filósofos"
+        },
+        {
+          "ID": 389802,
+          "Title": "Categoría:Filósofos por disciplina"
         },
         {
           "ID": 3804540,
@@ -708,6 +792,10 @@
         {
           "ID": 8162289,
           "Title": "Categoría:Hombres Músicos"
+        },
+        {
+          "ID": 190070,
+          "Title": "Categoría:Ingleses"
         },
         {
           "ID": 82060,
@@ -742,6 +830,18 @@
           "Title": "Categoría:Músicos"
         },
         {
+          "ID": 294926,
+          "Title": "Categoría:Nacidos en el siglo XIX"
+        },
+        {
+          "ID": 372829,
+          "Title": "Categoría:Nacidos en el siglo XVIII"
+        },
+        {
+          "ID": 293371,
+          "Title": "Categoría:Nacidos en el siglo XX"
+        },
+        {
           "ID": 1872578,
           "Title": "Categoría:Nacidos por año"
         },
@@ -766,12 +866,16 @@
           "Title": "Categoría:Personas por actividad"
         },
         {
+          "ID": 5180384,
+          "Title": "Categoría:Personas por actividad y periodo"
+        },
+        {
           "ID": 5853463,
           "Title": "Categoría:Personas por comportamiento"
         },
         {
-          "ID": 8620190,
-          "Title": "Categoría:Personas por rol"
+          "ID": 4416013,
+          "Title": "Categoría:Personas por siglo"
         },
         {
           "ID": 1238159,
@@ -784,6 +888,10 @@
         {
           "ID": 66614,
           "Title": "Categoría:Políticos"
+        },
+        {
+          "ID": 634632,
+          "Title": "Categoría:Premios Nobel por país"
         },
         {
           "ID": 1512522,
@@ -818,6 +926,10 @@
         {
           "ID": 119264,
           "Title": "Categoría:Ideología"
+        },
+        {
+          "ID": 54856,
+          "Title": "Categoría:Liberalismo"
         },
         {
           "ID": 166298,
@@ -900,16 +1012,16 @@
           "Title": "Categoría:Agencias gubernamentales"
         },
         {
-          "ID": 175546,
-          "Title": "Categoría:Asesinatos"
-        },
-        {
           "ID": 75373,
           "Title": "Categoría:Banderas nacionales"
         },
         {
           "ID": 54517,
           "Title": "Categoría:Ciencias sociales"
+        },
+        {
+          "ID": 6010020,
+          "Title": "Categoría:Decadencia urbana"
         },
         {
           "ID": 50644,
@@ -994,6 +1106,10 @@
         {
           "ID": 50651,
           "Title": "Categoría:Psicología"
+        },
+        {
+          "ID": 8910822,
+          "Title": "Categoría:Sistemas políticos"
         },
         {
           "ID": 61818,

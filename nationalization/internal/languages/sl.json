@@ -292,12 +292,20 @@
           "Title": "Kategorija:Mesta"
         },
         {
+          "ID": 134630,
+          "Title": "Kategorija:Mesta v Združenih državah Amerike"
+        },
+        {
           "ID": 47696,
           "Title": "Kategorija:Naselja"
         },
         {
           "ID": 70641,
           "Title": "Kategorija:Naselja po državah"
+        },
+        {
+          "ID": 134640,
+          "Title": "Kategorija:Naselja v Združenih državah Amerike"
         },
         {
           "ID": 378152,
@@ -318,6 +326,14 @@
         {
           "ID": 33782,
           "Title": "Kategorija:Urbanizem"
+        },
+        {
+          "ID": 11246,
+          "Title": "Kategorija:Združene države Amerike"
+        },
+        {
+          "ID": 29754,
+          "Title": "Kategorija:Zvezne države ZDA"
         }
       ]
     },
@@ -562,8 +578,24 @@
           "Title": "Kategorija:Alpinisti po narodnosti"
         },
         {
+          "ID": 18895,
+          "Title": "Kategorija:Američani"
+        },
+        {
+          "ID": 38334,
+          "Title": "Kategorija:Američani po poklicu"
+        },
+        {
           "ID": 18659,
           "Title": "Kategorija:Ameriški generali"
+        },
+        {
+          "ID": 86436,
+          "Title": "Kategorija:Ameriški rock pevci"
+        },
+        {
+          "ID": 20258,
+          "Title": "Kategorija:Angleži"
         },
         {
           "ID": 10645,
@@ -606,6 +638,10 @@
           "Title": "Kategorija:Književniki"
         },
         {
+          "ID": 447649,
+          "Title": "Kategorija:Kristjani po stoletju"
+        },
+        {
           "ID": 50151,
           "Title": "Kategorija:Letalci"
         },
@@ -616,6 +652,14 @@
         {
           "ID": 60570,
           "Title": "Kategorija:Ljudje po poklicu"
+        },
+        {
+          "ID": 439898,
+          "Title": "Kategorija:Ljudje po poklicu in obdobju"
+        },
+        {
+          "ID": 439499,
+          "Title": "Kategorija:Ljudje po stoletjih"
         },
         {
           "ID": 354272,
@@ -666,6 +710,18 @@
           "Title": "Kategorija:Rojeni po letih"
         },
         {
+          "ID": 54429,
+          "Title": "Kategorija:Rojeni v 18. stoletju"
+        },
+        {
+          "ID": 54428,
+          "Title": "Kategorija:Rojeni v 19. stoletju"
+        },
+        {
+          "ID": 54427,
+          "Title": "Kategorija:Rojeni v 20. stoletju"
+        },
+        {
           "ID": 12043,
           "Title": "Kategorija:Umetniki"
         },
@@ -680,6 +736,10 @@
         {
           "ID": 54465,
           "Title": "Kategorija:Umrli po letih"
+        },
+        {
+          "ID": 439732,
+          "Title": "Kategorija:Umrli po stoletju"
         },
         {
           "ID": 12005,
@@ -708,6 +768,10 @@
           "Title": "Kategorija:Filozofija"
         },
         {
+          "ID": 109131,
+          "Title": "Kategorija:Filozofska gibanja"
+        },
+        {
           "ID": 171457,
           "Title": "Kategorija:Filozofske teorije"
         },
@@ -722,6 +786,10 @@
         {
           "ID": 29593,
           "Title": "Kategorija:Ideologija"
+        },
+        {
+          "ID": 183519,
+          "Title": "Kategorija:Liberalizem"
         },
         {
           "ID": 354161,

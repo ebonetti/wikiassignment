@@ -246,6 +246,14 @@
           "Title": "Category:Musical groups"
         },
         {
+          "ID": 37458835,
+          "Title": "Category:Musical groups by genre and nationality"
+        },
+        {
+          "ID": 20151398,
+          "Title": "Category:Musical quartets"
+        },
+        {
           "ID": 1752847,
           "Title": "Category:News media"
         },
@@ -292,6 +300,10 @@
         {
           "ID": 690578,
           "Title": "Category:Professional wrestling"
+        },
+        {
+          "ID": 20234018,
+          "Title": "Category:Professional wrestling by year"
         },
         {
           "ID": 950525,
@@ -350,6 +362,10 @@
           "Title": "Category:Television"
         },
         {
+          "ID": 39950920,
+          "Title": "Category:Television programs by language"
+        },
+        {
           "ID": 3291649,
           "Title": "Category:Video games"
         },
@@ -388,6 +404,14 @@
         {
           "ID": 1166293,
           "Title": "Category:Writing"
+        },
+        {
+          "ID": 47046466,
+          "Title": "Category:YouTube channels by year"
+        },
+        {
+          "ID": 53672000,
+          "Title": "Category:YouTube-related lists"
         }
       ]
     },
@@ -396,12 +420,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 17291245,
+          "Title": "Category:Administrative territorial entities by language"
+        },
+        {
           "ID": 879404,
           "Title": "Category:Châteaux"
         },
         {
           "ID": 699805,
           "Title": "Category:Cities"
+        },
+        {
+          "ID": 707239,
+          "Title": "Category:Cities in the United States"
         },
         {
           "ID": 9467493,
@@ -432,6 +464,10 @@
           "Title": "Category:Human settlement"
         },
         {
+          "ID": 32089177,
+          "Title": "Category:Member states of the United Nations"
+        },
+        {
           "ID": 4869336,
           "Title": "Category:Monuments and memorials"
         },
@@ -450,6 +486,10 @@
         {
           "ID": 27100224,
           "Title": "Category:Populated places by country"
+        },
+        {
+          "ID": 27100608,
+          "Title": "Category:Populated places in the United States"
         },
         {
           "ID": 695393,
@@ -476,6 +516,10 @@
           "Title": "Category:Springs (hydrology)"
         },
         {
+          "ID": 2837635,
+          "Title": "Category:States of the United States"
+        },
+        {
           "ID": 5624754,
           "Title": "Category:Streets"
         },
@@ -494,6 +538,14 @@
         {
           "ID": 797819,
           "Title": "Category:Towns"
+        },
+        {
+          "ID": 900336,
+          "Title": "Category:Towns in the United States"
+        },
+        {
+          "ID": 692361,
+          "Title": "Category:United States"
         },
         {
           "ID": 10447340,
@@ -584,12 +636,24 @@
           "Title": "Category:History by country"
         },
         {
+          "ID": 38061863,
+          "Title": "Category:History by country and topic"
+        },
+        {
           "ID": 18985014,
           "Title": "Category:History by location"
         },
         {
           "ID": 707335,
           "Title": "Category:History of technology"
+        },
+        {
+          "ID": 15939766,
+          "Title": "Category:History of the United States (1991–present)"
+        },
+        {
+          "ID": 40611705,
+          "Title": "Category:Mass shootings by country"
         },
         {
           "ID": 24977547,
@@ -642,6 +706,10 @@
         {
           "ID": 694500,
           "Title": "Category:Wars"
+        },
+        {
+          "ID": 25093949,
+          "Title": "Category:Years in American politics"
         }
       ]
     },
@@ -732,6 +800,10 @@
           "Title": "Category:Ecology"
         },
         {
+          "ID": 39951547,
+          "Title": "Category:Edible fruits"
+        },
+        {
           "ID": 1645754,
           "Title": "Category:Environmental science"
         },
@@ -742,6 +814,10 @@
         {
           "ID": 691023,
           "Title": "Category:Fruit"
+        },
+        {
+          "ID": 19281854,
+          "Title": "Category:IUCN Red List least concern species"
         },
         {
           "ID": 2389032,
@@ -790,6 +866,26 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 52153056,
+          "Title": "Category:18th century births"
+        },
+        {
+          "ID": 21427028,
+          "Title": "Category:18th-century births"
+        },
+        {
+          "ID": 21424440,
+          "Title": "Category:19th-century births"
+        },
+        {
+          "ID": 21417887,
+          "Title": "Category:20th-century births"
+        },
+        {
+          "ID": 38635096,
+          "Title": "Category:21st-century American singers"
+        },
+        {
           "ID": 694842,
           "Title": "Category:Actors"
         },
@@ -798,8 +894,20 @@
           "Title": "Category:American generals"
         },
         {
+          "ID": 728944,
+          "Title": "Category:American people"
+        },
+        {
+          "ID": 1083885,
+          "Title": "Category:American people by occupation"
+        },
+        {
           "ID": 2595643,
           "Title": "Category:American pioneers"
+        },
+        {
+          "ID": 1612562,
+          "Title": "Category:American rock singers"
         },
         {
           "ID": 693868,
@@ -826,12 +934,32 @@
           "Title": "Category:Births by year"
         },
         {
+          "ID": 21131777,
+          "Title": "Category:Christians by century"
+        },
+        {
+          "ID": 33803726,
+          "Title": "Category:Company founders"
+        },
+        {
           "ID": 3778337,
           "Title": "Category:Dead people"
         },
         {
+          "ID": 53983899,
+          "Title": "Category:Deaths by century"
+        },
+        {
           "ID": 884638,
           "Title": "Category:Deaths by year"
+        },
+        {
+          "ID": 24671810,
+          "Title": "Category:Democrats (United States) by state"
+        },
+        {
+          "ID": 698702,
+          "Title": "Category:English people"
         },
         {
           "ID": 711730,
@@ -894,6 +1022,10 @@
           "Title": "Category:Musicians"
         },
         {
+          "ID": 1988316,
+          "Title": "Category:Nobel laureates by nationality"
+        },
+        {
           "ID": 948265,
           "Title": "Category:Nurses"
         },
@@ -910,8 +1042,20 @@
           "Title": "Category:People by behavior"
         },
         {
+          "ID": 11568297,
+          "Title": "Category:People by century"
+        },
+        {
+          "ID": 49430430,
+          "Title": "Category:People by continent and occupation"
+        },
+        {
           "ID": 1003409,
           "Title": "Category:People by occupation"
+        },
+        {
+          "ID": 17906376,
+          "Title": "Category:People by occupation and period"
         },
         {
           "ID": 26006416,
@@ -920,6 +1064,10 @@
         {
           "ID": 692185,
           "Title": "Category:Philosophers"
+        },
+        {
+          "ID": 2032885,
+          "Title": "Category:Philosophers by field"
         },
         {
           "ID": 718247,
@@ -946,12 +1094,24 @@
           "Title": "Category:Presidents by country"
         },
         {
+          "ID": 28631035,
+          "Title": "Category:Protestants by century"
+        },
+        {
+          "ID": 24777329,
+          "Title": "Category:Republicans (United States) by state"
+        },
+        {
           "ID": 1119912,
           "Title": "Category:Revolutionaries"
         },
         {
           "ID": 1055905,
           "Title": "Category:Self"
+        },
+        {
+          "ID": 37714633,
+          "Title": "Category:Stateless people"
         },
         {
           "ID": 911285,
@@ -984,6 +1144,10 @@
           "Title": "Category:Ideologies"
         },
         {
+          "ID": 724440,
+          "Title": "Category:Liberalism"
+        },
+        {
           "ID": 12730866,
           "Title": "Category:Metaphilosophy"
         },
@@ -996,6 +1160,10 @@
           "Title": "Category:Philosophical concepts"
         },
         {
+          "ID": 3074444,
+          "Title": "Category:Philosophical movements"
+        },
+        {
           "ID": 2764307,
           "Title": "Category:Philosophical schools and traditions"
         },
@@ -1006,6 +1174,10 @@
         {
           "ID": 691810,
           "Title": "Category:Philosophy"
+        },
+        {
+          "ID": 50504510,
+          "Title": "Category:Philosophy of science by discipline"
         },
         {
           "ID": 724233,
@@ -1032,6 +1204,10 @@
         {
           "ID": 956054,
           "Title": "Category:Belief"
+        },
+        {
+          "ID": 29126749,
+          "Title": "Category:Christianity and death"
         },
         {
           "ID": 6124149,
@@ -1092,12 +1268,20 @@
           "Title": "Category:Currency"
         },
         {
+          "ID": 33464374,
+          "Title": "Category:Daylight saving time"
+        },
+        {
           "ID": 696763,
           "Title": "Category:Education"
         },
         {
           "ID": 1445941,
           "Title": "Category:Education by country"
+        },
+        {
+          "ID": 52331877,
+          "Title": "Category:Fake news"
         },
         {
           "ID": 701235,
@@ -1152,6 +1336,10 @@
           "Title": "Category:International organizations"
         },
         {
+          "ID": 727346,
+          "Title": "Category:Islamist groups"
+        },
+        {
           "ID": 691928,
           "Title": "Category:Law"
         },
@@ -1170,6 +1358,10 @@
         {
           "ID": 708101,
           "Title": "Category:Organizations"
+        },
+        {
+          "ID": 8873464,
+          "Title": "Category:Organized crime activity"
         },
         {
           "ID": 1056420,
@@ -1200,6 +1392,10 @@
           "Title": "Category:Rights"
         },
         {
+          "ID": 25788421,
+          "Title": "Category:Schools in the United States by county"
+        },
+        {
           "ID": 695042,
           "Title": "Category:Social sciences"
         },
@@ -1218,6 +1414,10 @@
         {
           "ID": 2679971,
           "Title": "Category:Universities and colleges by country"
+        },
+        {
+          "ID": 8706679,
+          "Title": "Category:Urban decay"
         }
       ]
     },
@@ -1368,6 +1568,10 @@
         {
           "ID": 17200193,
           "Title": "Category:Technology by type"
+        },
+        {
+          "ID": 39701160,
+          "Title": "Category:Technology companies by year of establishment"
         },
         {
           "ID": 846098,

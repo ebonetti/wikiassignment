@@ -288,6 +288,10 @@
           "Title": "Kategorie:Města"
         },
         {
+          "ID": 123192,
+          "Title": "Kategorie:Města v USA"
+        },
+        {
           "ID": 107441,
           "Title": "Kategorie:Paláce"
         },
@@ -308,6 +312,10 @@
           "Title": "Kategorie:Silnice"
         },
         {
+          "ID": 4643,
+          "Title": "Kategorie:Spojené státy americké"
+        },
+        {
           "ID": 4729,
           "Title": "Kategorie:Stát"
         },
@@ -316,12 +324,20 @@
           "Title": "Kategorie:Státy a území"
         },
         {
+          "ID": 20012,
+          "Title": "Kategorie:Státy v USA"
+        },
+        {
           "ID": 43322,
           "Title": "Kategorie:Sídla"
         },
         {
           "ID": 366479,
           "Title": "Kategorie:Sídla podle zemí"
+        },
+        {
+          "ID": 1136666,
+          "Title": "Kategorie:Sídla v USA"
         },
         {
           "ID": 277527,
@@ -532,6 +548,10 @@
           "Title": "Kategorie:Katastrofy"
         },
         {
+          "ID": 179791,
+          "Title": "Kategorie:Málo dotčené taxony"
+        },
+        {
           "ID": 7867,
           "Title": "Kategorie:Ovoce"
         },
@@ -574,12 +594,24 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 90834,
+          "Title": "Kategorie:Američané"
+        },
+        {
+          "ID": 435844,
+          "Title": "Kategorie:Američané podle činnosti"
+        },
+        {
           "ID": 235179,
           "Title": "Kategorie:Američtí generálové"
         },
         {
           "ID": 1237425,
           "Title": "Kategorie:Američtí pionýři"
+        },
+        {
+          "ID": 42238,
+          "Title": "Kategorie:Angličané"
         },
         {
           "ID": 6238,
@@ -600,6 +632,10 @@
         {
           "ID": 6655,
           "Title": "Kategorie:Filozofové"
+        },
+        {
+          "ID": 1091752,
+          "Title": "Kategorie:Filozofové podle oborů"
         },
         {
           "ID": 27623,
@@ -626,6 +662,14 @@
           "Title": "Kategorie:Lidé"
         },
         {
+          "ID": 844460,
+          "Title": "Kategorie:Lidé bez státní příslušnosti"
+        },
+        {
+          "ID": 817649,
+          "Title": "Kategorie:Lidé podle století"
+        },
+        {
           "ID": 154301,
           "Title": "Kategorie:Lidé podle činnosti"
         },
@@ -638,8 +682,24 @@
           "Title": "Kategorie:Matematici"
         },
         {
+          "ID": 21988,
+          "Title": "Kategorie:Narození 18. století"
+        },
+        {
+          "ID": 21754,
+          "Title": "Kategorie:Narození 19. století"
+        },
+        {
+          "ID": 21744,
+          "Title": "Kategorie:Narození 20. století"
+        },
+        {
           "ID": 333665,
           "Title": "Kategorie:Narození podle let"
+        },
+        {
+          "ID": 312955,
+          "Title": "Kategorie:Nositelé Nobelovy ceny podle zemí"
         },
         {
           "ID": 5765,
@@ -720,6 +780,10 @@
           "Title": "Kategorie:Etika"
         },
         {
+          "ID": 73555,
+          "Title": "Kategorie:Filosofická hnutí"
+        },
+        {
           "ID": 115002,
           "Title": "Kategorie:Filosofické disciplíny"
         },
@@ -734,6 +798,10 @@
         {
           "ID": 11349,
           "Title": "Kategorie:Ideologie"
+        },
+        {
+          "ID": 21588,
+          "Title": "Kategorie:Liberalismus"
         },
         {
           "ID": 25905,
@@ -814,6 +882,10 @@
         {
           "ID": 1365112,
           "Title": "Kategorie:Humanitní vědy"
+        },
+        {
+          "ID": 900752,
+          "Title": "Kategorie:Islamistické skupiny"
         },
         {
           "ID": 115519,

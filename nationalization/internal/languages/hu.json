@@ -208,6 +208,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 211760,
+          "Title": "Kategória:Amerikai Egyesült Államok"
+        },
+        {
+          "ID": 80747,
+          "Title": "Kategória:Az USA tagállamai"
+        },
+        {
+          "ID": 80745,
+          "Title": "Kategória:Az USA települései"
+        },
+        {
           "ID": 463886,
           "Title": "Kategória:Emlékművek"
         },
@@ -446,6 +458,30 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 898777,
+          "Title": "Kategória:A 18. században született személyek"
+        },
+        {
+          "ID": 896478,
+          "Title": "Kategória:A 19. században született személyek"
+        },
+        {
+          "ID": 896368,
+          "Title": "Kategória:A 20. században született személyek"
+        },
+        {
+          "ID": 88246,
+          "Title": "Kategória:Amerikaiak"
+        },
+        {
+          "ID": 289742,
+          "Title": "Kategória:Amerikaiak foglalkozás szerint"
+        },
+        {
+          "ID": 97651,
+          "Title": "Kategória:Angolok"
+        },
+        {
           "ID": 61217,
           "Title": "Kategória:Feltalálók"
         },
@@ -478,6 +514,10 @@
           "Title": "Kategória:Művészek"
         },
         {
+          "ID": 986770,
+          "Title": "Kategória:Nobel-díjasok nemzetiség szerint"
+        },
+        {
           "ID": 212436,
           "Title": "Kategória:Nő"
         },
@@ -504,6 +544,10 @@
         {
           "ID": 102116,
           "Title": "Kategória:Személyek foglalkozás szerint"
+        },
+        {
+          "ID": 1422437,
+          "Title": "Kategória:Személyek évszázadok szerint"
         },
         {
           "ID": 16727,
@@ -564,8 +608,16 @@
           "Title": "Kategória:Filozófiai fogalmak"
         },
         {
+          "ID": 364464,
+          "Title": "Kategória:Filozófiai irányzatok"
+        },
+        {
           "ID": 248400,
           "Title": "Kategória:Ideológiák"
+        },
+        {
+          "ID": 1243431,
+          "Title": "Kategória:Liberalizmus"
         },
         {
           "ID": 231738,
@@ -610,6 +662,10 @@
         {
           "ID": 730789,
           "Title": "Kategória:Feminizmus"
+        },
+        {
+          "ID": 1617470,
+          "Title": "Kategória:Iszlám csoportok"
         },
         {
           "ID": 19776,

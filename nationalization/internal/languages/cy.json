@@ -22,6 +22,10 @@
           "Title": "Categori:Bandiau"
         },
         {
+          "ID": 137882,
+          "Title": "Categori:Bandiau yn ôl genre a chenedligrwydd"
+        },
+        {
           "ID": 8737,
           "Title": "Categori:Bwyd"
         },
@@ -56,6 +60,10 @@
         {
           "ID": 230107,
           "Title": "Categori:Coginiaeth"
+        },
+        {
+          "ID": 238891,
+          "Title": "Categori:Consuriaeth (lledrith)"
         },
         {
           "ID": 89097,
@@ -106,8 +114,8 @@
           "Title": "Categori:Diwylliant poblogaidd"
         },
         {
-          "ID": 32982,
-          "Title": "Categori:Diwylliant rhyngrwyd"
+          "ID": 239486,
+          "Title": "Categori:Diwylliant y rhyngrwyd"
         },
         {
           "ID": 24066,
@@ -194,6 +202,10 @@
           "Title": "Categori:Papurau newydd"
         },
         {
+          "ID": 29591,
+          "Title": "Categori:Rhaglenni teledu yn ôl iaith"
+        },
+        {
           "ID": 33099,
           "Title": "Categori:Rhith gymunedau"
         },
@@ -244,6 +256,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 212707,
+          "Title": "Categori:Aelod-wladwriaethau'r Cenhedloedd Unedig"
+        },
+        {
           "ID": 8340,
           "Title": "Categori:Afonydd"
         },
@@ -256,6 +272,10 @@
           "Title": "Categori:Aneddiadau yn ôl gwlad"
         },
         {
+          "ID": 26382,
+          "Title": "Categori:Aneddiadau'r Unol Daleithiau"
+        },
+        {
           "ID": 94755,
           "Title": "Categori:Cofebion"
         },
@@ -266,6 +286,10 @@
         {
           "ID": 11058,
           "Title": "Categori:Dinasoedd"
+        },
+        {
+          "ID": 11399,
+          "Title": "Categori:Dinasoedd yr Unol Daleithiau"
         },
         {
           "ID": 18595,
@@ -292,8 +316,20 @@
           "Title": "Categori:Strydoedd"
         },
         {
+          "ID": 21626,
+          "Title": "Categori:Taleithiau'r Unol Daleithiau"
+        },
+        {
           "ID": 4210,
           "Title": "Categori:Trefi"
+        },
+        {
+          "ID": 26946,
+          "Title": "Categori:Trefi'r Unol Daleithiau"
+        },
+        {
+          "ID": 12832,
+          "Title": "Categori:Unol Daleithiau America"
         }
       ]
     },
@@ -364,8 +400,16 @@
           "Title": "Categori:Hanes gwleidyddol"
         },
         {
+          "ID": 239489,
+          "Title": "Categori:Hanes technoleg"
+        },
+        {
           "ID": 20253,
           "Title": "Categori:Hanes yn ôl gwlad"
+        },
+        {
+          "ID": 237542,
+          "Title": "Categori:Hanes yn ôl gwlad a phwnc"
         },
         {
           "ID": 13105,
@@ -484,6 +528,10 @@
           "Title": "Categori:Protinau"
         },
         {
+          "ID": 149068,
+          "Title": "Categori:Rhywogaethau o bryder lleiaf yn ôl Rhestr Goch yr IUCN"
+        },
+        {
           "ID": 90838,
           "Title": "Categori:Sylweddau cemegol"
         },
@@ -514,6 +562,14 @@
           "Title": "Categori:Actorion ffilm"
         },
         {
+          "ID": 24123,
+          "Title": "Categori:Americanwyr"
+        },
+        {
+          "ID": 24128,
+          "Title": "Categori:Americanwyr yn ôl galwedigaeth"
+        },
+        {
           "ID": 6096,
           "Title": "Categori:Arlunwyr"
         },
@@ -536,6 +592,10 @@
         {
           "ID": 72244,
           "Title": "Categori:Awyrenwyr"
+        },
+        {
+          "ID": 120718,
+          "Title": "Categori:Cantorion roc Americanaidd"
         },
         {
           "ID": 10086,
@@ -564,6 +624,18 @@
         {
           "ID": 14423,
           "Title": "Categori:Genedigaethau yn ôl blwyddyn"
+        },
+        {
+          "ID": 20216,
+          "Title": "Categori:Genedigaethau'r 18fed ganrif"
+        },
+        {
+          "ID": 14427,
+          "Title": "Categori:Genedigaethau'r 19eg ganrif"
+        },
+        {
+          "ID": 14421,
+          "Title": "Categori:Genedigaethau'r 20fed ganrif"
         },
         {
           "ID": 14070,
@@ -626,16 +698,36 @@
           "Title": "Categori:Pobl farw"
         },
         {
+          "ID": 90242,
+          "Title": "Categori:Pobl heb ddinasyddiaeth"
+        },
+        {
           "ID": 24874,
           "Title": "Categori:Pobl wleidyddol"
+        },
+        {
+          "ID": 147950,
+          "Title": "Categori:Pobl yn ôl canrif"
+        },
+        {
+          "ID": 237947,
+          "Title": "Categori:Pobl yn ôl cyfandir a galwedigaeth"
         },
         {
           "ID": 22543,
           "Title": "Categori:Pobl yn ôl galwedigaeth"
         },
         {
+          "ID": 225979,
+          "Title": "Categori:Pobl yn ôl galwedigaeth a chyfnod"
+        },
+        {
           "ID": 84373,
           "Title": "Categori:Pobl yn ôl ymddygiad"
+        },
+        {
+          "ID": 19563,
+          "Title": "Categori:Saeson"
         }
       ]
     },
@@ -664,8 +756,16 @@
           "Title": "Categori:Moeseg"
         },
         {
+          "ID": 228771,
+          "Title": "Categori:Mudiadau athronyddol"
+        },
+        {
           "ID": 33105,
           "Title": "Categori:Realiti"
+        },
+        {
+          "ID": 19933,
+          "Title": "Categori:Rhyddfrydiaeth"
         },
         {
           "ID": 12363,
@@ -786,6 +886,10 @@
         {
           "ID": 21592,
           "Title": "Categori:Marchnata"
+        },
+        {
+          "ID": 12870,
+          "Title": "Categori:Mudiadau Islamaidd"
         },
         {
           "ID": 29422,
@@ -914,10 +1018,6 @@
           "Title": "Categori:Rheoli data"
         },
         {
-          "ID": 15558,
-          "Title": "Categori:Rhyngrwyd"
-        },
-        {
           "ID": 33092,
           "Title": "Categori:Safonau"
         },
@@ -940,6 +1040,10 @@
         {
           "ID": 124722,
           "Title": "Categori:Technoleg ynni"
+        },
+        {
+          "ID": 239479,
+          "Title": "Categori:Y rhyngrwyd"
         }
       ]
     }

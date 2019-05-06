@@ -180,6 +180,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 20457,
+          "Title": "Categoria:Civitates Foederatae Americae"
+        },
+        {
+          "ID": 53953,
+          "Title": "Categoria:Civitatum Foederatarum civitates"
+        },
+        {
           "ID": 106904,
           "Title": "Categoria:Domus principales"
         },
@@ -206,6 +214,10 @@
         {
           "ID": 185790,
           "Title": "Categoria:Loci habitati"
+        },
+        {
+          "ID": 191464,
+          "Title": "Categoria:Loci habitati Civitatum Foederatarum"
         },
         {
           "ID": 4577,
@@ -438,6 +450,14 @@
           "Title": "Categoria:Homines vivi"
         },
         {
+          "ID": 60616,
+          "Title": "Categoria:Incolae Angliae"
+        },
+        {
+          "ID": 60668,
+          "Title": "Categoria:Incolae Civitatum Foederatarum"
+        },
+        {
           "ID": 8027,
           "Title": "Categoria:Inventores"
         },
@@ -456,6 +476,18 @@
         {
           "ID": 5015,
           "Title": "Categoria:Musici"
+        },
+        {
+          "ID": 53529,
+          "Title": "Categoria:Nati saeculo 18"
+        },
+        {
+          "ID": 53528,
+          "Title": "Categoria:Nati saeculo 19"
+        },
+        {
+          "ID": 53527,
+          "Title": "Categoria:Nati saeculo 20"
         },
         {
           "ID": 25501,
@@ -500,12 +532,20 @@
           "Title": "Categoria:Ideologia"
         },
         {
+          "ID": 181750,
+          "Title": "Categoria:Liberalismus"
+        },
+        {
           "ID": 212038,
           "Title": "Categoria:Metaphilosophia"
         },
         {
           "ID": 6843,
           "Title": "Categoria:Metaphysica"
+        },
+        {
+          "ID": 211266,
+          "Title": "Categoria:Motus philosophici"
         },
         {
           "ID": 118500,

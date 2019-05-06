@@ -188,8 +188,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2598,
+          "Title": "Kategorii:Amerikan Ühtenzoittud Valdkundad"
+        },
+        {
+          "ID": 4199,
+          "Title": "Kategorii:Amerikan Ühtenzoittud Valdkundoiden eländpunktad"
+        },
+        {
+          "ID": 4182,
+          "Title": "Kategorii:Amerikan Ühtenzoittud Valdkundoiden lidnad"
+        },
+        {
           "ID": 14308,
           "Title": "Kategorii:Avtoted"
+        },
+        {
+          "ID": 12684,
+          "Title": "Kategorii:AÜV:oiden štatad"
         },
         {
           "ID": 4577,
@@ -386,6 +402,10 @@
         {
           "ID": 1044,
           "Title": "Kategorii:Živatad"
+        },
+        {
+          "ID": 10184,
+          "Title": "Kategorii:Živatoiden klassifikacii"
         }
       ]
     },
@@ -400,6 +420,10 @@
         {
           "ID": 852,
           "Title": "Kategorii:Arhitektorad"
+        },
+        {
+          "ID": 19232,
+          "Title": "Kategorii:AÜV:oiden personalijad"
         },
         {
           "ID": 891,

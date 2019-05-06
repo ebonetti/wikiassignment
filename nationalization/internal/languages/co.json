@@ -50,6 +50,14 @@
         {
           "ID": 5960,
           "Title": "Categoria:Geografia"
+        },
+        {
+          "ID": 15799,
+          "Title": "Categoria:Stati Uniti d'America"
+        },
+        {
+          "ID": 11706,
+          "Title": "Categoria:Stati di i SUA"
         }
       ]
     },
@@ -137,6 +145,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 11708,
+          "Title": "Categoria:Americanu"
+        },
         {
           "ID": 17921,
           "Title": "Categoria:Architettu"

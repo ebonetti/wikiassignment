@@ -80,12 +80,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 9568,
+          "Title": "Kaarangay:Estados Unidos"
+        },
+        {
           "ID": 34,
           "Title": "Kaarangay:Heyograpiya"
         },
         {
           "ID": 166393,
           "Title": "Kaarangay:Heyomorpolohiya"
+        },
+        {
+          "ID": 9567,
+          "Title": "Kaarangay:Mga Estado han Estados Unidos"
         },
         {
           "ID": 3498,
@@ -172,6 +180,10 @@
           "Title": "Kaarangay:Hayop"
         },
         {
+          "ID": 1748172,
+          "Title": "Kaarangay:IUCN Red List least concern species"
+        },
+        {
           "ID": 127767,
           "Title": "Kaarangay:Kalibutan"
         },
@@ -220,6 +232,18 @@
         {
           "ID": 162615,
           "Title": "Kaarangay:Mga buhi nga tawo"
+        },
+        {
+          "ID": 140921,
+          "Title": "Kaarangay:Mga natawo han ika-18 nga gatostuig"
+        },
+        {
+          "ID": 140923,
+          "Title": "Kaarangay:Mga natawo han ika-19 nga gatostuig"
+        },
+        {
+          "ID": 140926,
+          "Title": "Kaarangay:Mga natawo han ika-20 nga gatostuig"
         }
       ]
     },
@@ -230,6 +254,10 @@
         {
           "ID": 163910,
           "Title": "Kaarangay:Etika"
+        },
+        {
+          "ID": 2870884,
+          "Title": "Kaarangay:Liberalismo"
         },
         {
           "ID": 155477,

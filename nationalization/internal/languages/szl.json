@@ -160,6 +160,10 @@
           "Title": "Kategoryjo:Mjasta"
         },
         {
+          "ID": 12696,
+          "Title": "Kategoryjo:Mjasta Zjednoczůnych Sztatůw"
+        },
+        {
           "ID": 12833,
           "Title": "Kategoryjo:Pałace"
         },
@@ -172,6 +176,10 @@
           "Title": "Kategoryjo:Rzyki"
         },
         {
+          "ID": 7182,
+          "Title": "Kategoryjo:Stany USA"
+        },
+        {
           "ID": 12363,
           "Title": "Kategoryjo:Uosadńictwo"
         },
@@ -182,6 +190,10 @@
         {
           "ID": 13265,
           "Title": "Kategoryjo:Wykonawczo władza"
+        },
+        {
+          "ID": 13104,
+          "Title": "Kategoryjo:Zjednoczůne Sztaty"
         }
       ]
     },
@@ -334,6 +346,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 254,
+          "Title": "Kategoryjo:Amerikůny"
+        },
+        {
           "ID": 11964,
           "Title": "Kategoryjo:Bjografije"
         },
@@ -382,6 +398,18 @@
           "Title": "Kategoryjo:Rewolucjonisty"
         },
         {
+          "ID": 10579,
+          "Title": "Kategoryjo:Rodzyńi we XIX stoleću"
+        },
+        {
+          "ID": 10583,
+          "Title": "Kategoryjo:Rodzyńi we XVIII stoleću"
+        },
+        {
+          "ID": 10584,
+          "Title": "Kategoryjo:Rodzyńi we XX stoleću"
+        },
+        {
           "ID": 11852,
           "Title": "Kategoryjo:Szauszpilery"
         },
@@ -392,6 +420,10 @@
         {
           "ID": 12943,
           "Title": "Kategoryjo:Wynukwjůne postaće"
+        },
+        {
+          "ID": 3126,
+          "Title": "Kategoryjo:Ynglyndry"
         }
       ]
     },

@@ -232,6 +232,10 @@
           "Title": "Kategorya:Estado"
         },
         {
+          "ID": 2648,
+          "Title": "Kategorya:Estados Unidos"
+        },
+        {
           "ID": 1890,
           "Title": "Kategorya:Heograpiya"
         },
@@ -248,6 +252,14 @@
           "Title": "Kategorya:Mga bayan at lungsod"
         },
         {
+          "ID": 11308,
+          "Title": "Kategorya:Mga bayan at lungsod sa Estados Unidos"
+        },
+        {
+          "ID": 13326,
+          "Title": "Kategorya:Mga estado ng Estados Unidos"
+        },
+        {
           "ID": 11755,
           "Title": "Kategorya:Mga lansangan"
         },
@@ -258,6 +270,14 @@
         {
           "ID": 78646,
           "Title": "Kategorya:Mga lungsod"
+        },
+        {
+          "ID": 30214,
+          "Title": "Kategorya:Mga lungsod ng Estados Unidos"
+        },
+        {
+          "ID": 287279,
+          "Title": "Kategorya:Mga pamayanan o lokalidad ayon sa bansa"
         }
       ]
     },
@@ -450,12 +470,32 @@
           "Title": "Kategorya:Babae"
         },
         {
+          "ID": 116677,
+          "Title": "Kategorya:Ipinanganak noong ika-18 siglo"
+        },
+        {
+          "ID": 116678,
+          "Title": "Kategorya:Ipinanganak noong ika-19 siglo"
+        },
+        {
+          "ID": 116003,
+          "Title": "Kategorya:Ipinanganak noong ika-20 siglo"
+        },
+        {
           "ID": 117463,
           "Title": "Kategorya:Kamatayan ayon sa taon"
         },
         {
           "ID": 117464,
           "Title": "Kategorya:Kapanganakan ayon sa taon"
+        },
+        {
+          "ID": 9256,
+          "Title": "Kategorya:Mga Amerikano"
+        },
+        {
+          "ID": 254460,
+          "Title": "Kategorya:Mga Amerikano ayon sa hanapbuhay"
         },
         {
           "ID": 180056,
@@ -480,6 +520,10 @@
         {
           "ID": 271752,
           "Title": "Kategorya:Mga karakter sa pelikula"
+        },
+        {
+          "ID": 196182,
+          "Title": "Kategorya:Mga mang-aawit ng rock mula sa Estados Unidos"
         },
         {
           "ID": 8628,
@@ -530,8 +574,16 @@
           "Title": "Kategorya:Mga tao ayon sa hanapbuhay"
         },
         {
+          "ID": 218588,
+          "Title": "Kategorya:Mga tao ayon sa siglo"
+        },
+        {
           "ID": 198693,
           "Title": "Kategorya:Mga tao ayon sa ugali"
+        },
+        {
+          "ID": 287693,
+          "Title": "Kategorya:Mga tao sa tungkulin"
         },
         {
           "ID": 116250,
@@ -556,12 +608,20 @@
           "Title": "Kategorya:Ideolohiya"
         },
         {
+          "ID": 110908,
+          "Title": "Kategorya:Liberalismo"
+        },
+        {
           "ID": 110925,
           "Title": "Kategorya:Metapilosopiya"
         },
         {
           "ID": 21351,
           "Title": "Kategorya:Metapisika"
+        },
+        {
+          "ID": 196945,
+          "Title": "Kategorya:Mga kilusang pilosopiko"
         },
         {
           "ID": 194106,
@@ -682,6 +742,10 @@
         {
           "ID": 3882,
           "Title": "Kategorya:Mga sistemang pampolitika"
+        },
+        {
+          "ID": 227415,
+          "Title": "Kategorya:Organisadong gawaing krimen"
         },
         {
           "ID": 1878,

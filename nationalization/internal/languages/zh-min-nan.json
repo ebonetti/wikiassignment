@@ -192,6 +192,22 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2609,
+          "Title": "Lūi-pia̍t:Bí-kok"
+        },
+        {
+          "ID": 7016,
+          "Title": "Lūi-pia̍t:Bí-kok siâⁿ-chhī"
+        },
+        {
+          "ID": 12261,
+          "Title": "Lūi-pia̍t:Bí-kok ê chiu"
+        },
+        {
+          "ID": 514063,
+          "Title": "Lūi-pia̍t:Bí-kok ê chng-thâu"
+        },
+        {
           "ID": 468652,
           "Title": "Lūi-pia̍t:Chhia-lō͘"
         },
@@ -426,6 +442,14 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 41396,
+          "Title": "Lūi-pia̍t:20 sè-kí chhut-sì"
+        },
+        {
+          "ID": 2610,
+          "Title": "Lūi-pia̍t:Bí-kok jîn-bu̍t"
+        },
+        {
           "ID": 9727,
           "Title": "Lūi-pia̍t:Bí-su̍t-ka"
         },
@@ -444,6 +468,10 @@
         {
           "ID": 38266,
           "Title": "Lūi-pia̍t:Chāi-sè jîn-bu̍t"
+        },
+        {
+          "ID": 11495,
+          "Title": "Lūi-pia̍t:Eng-lân jîn-bu̍t"
         },
         {
           "ID": 639191,
@@ -515,6 +543,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 443664,
+          "Title": "Lūi-pia̍t:Chū-iû-chú-gī"
+        },
         {
           "ID": 15519,
           "Title": "Lūi-pia̍t:Lûn-lí-ha̍k"

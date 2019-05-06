@@ -84,6 +84,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3373,
+          "Title": "Kategoreja:Amerikys Saškierstuos Vaļsteibys"
+        },
+        {
           "ID": 1628,
           "Title": "Kategoreja:Dzeivojamuos vītys"
         },
@@ -209,6 +213,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 3528,
+          "Title": "Kategoreja:ASV ļauds"
+        },
         {
           "ID": 1629,
           "Title": "Kategoreja:Cylvāki"

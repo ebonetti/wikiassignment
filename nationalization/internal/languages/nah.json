@@ -36,8 +36,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 12796,
+          "Title": "Neneuhcāyōtl:Altepetl ipan Tlacetililli Tlahtohcayotl"
+        },
+        {
           "ID": 4555,
           "Title": "Neneuhcāyōtl:Tlacatiyan"
+        },
+        {
+          "ID": 12786,
+          "Title": "Neneuhcāyōtl:Tlacetililli Tlahtohcayotl"
         },
         {
           "ID": 4293,
@@ -128,6 +136,18 @@
         {
           "ID": 5946,
           "Title": "Neneuhcāyōtl:Cuīcatiani"
+        },
+        {
+          "ID": 19410,
+          "Title": "Neneuhcāyōtl:Otlacatqueh ipan macuilpohualxihuitl XIX"
+        },
+        {
+          "ID": 20026,
+          "Title": "Neneuhcāyōtl:Otlacatqueh ipan macuilpohualxihuitl XVIII"
+        },
+        {
+          "ID": 19215,
+          "Title": "Neneuhcāyōtl:Otlacatqueh ipan macuilpohualxihuitl XX"
         }
       ]
     },

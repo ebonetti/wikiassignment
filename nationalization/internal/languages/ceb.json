@@ -80,12 +80,28 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 36756,
+          "Title": "Kategoriya:Estados Unidos"
+        },
+        {
           "ID": 35111,
           "Title": "Kategoriya:Heyograpiya"
         },
         {
+          "ID": 50500,
+          "Title": "Kategoriya:Mga dakbayan sa Estados Unidos"
+        },
+        {
           "ID": 43269,
           "Title": "Kategoriya:Mga dalan"
+        },
+        {
+          "ID": 50502,
+          "Title": "Kategoriya:Mga estado ug teritoryo sa Estados Unidos"
+        },
+        {
+          "ID": 6568693,
+          "Title": "Kategoriya:Mga lungsod sa Estados Unidos"
         },
         {
           "ID": 2799572,
@@ -205,6 +221,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 41716,
+          "Title": "Kategoriya:Mga Amerikano"
+        },
         {
           "ID": 54641,
           "Title": "Kategoriya:Mga aktor"

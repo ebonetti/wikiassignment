@@ -59,11 +59,15 @@
         },
         {
           "ID": 19787,
-          "Title": "Categurìa:Múseca"
+          "Title": "Categurìa:Museca"
         },
         {
           "ID": 60899,
           "Title": "Categurìa:Quatre"
+        },
+        {
+          "ID": 60922,
+          "Title": "Categurìa:Serie 'e televisione a ssicond''a lengua"
         },
         {
           "ID": 5517,
@@ -106,6 +110,14 @@
         {
           "ID": 20202,
           "Title": "Categurìa:State"
+        },
+        {
+          "ID": 20219,
+          "Title": "Categurìa:State Aunite"
+        },
+        {
+          "ID": 20985,
+          "Title": "Categurìa:State USA"
         }
       ]
     },
@@ -202,6 +214,10 @@
           "Title": "Categurìa:Matemàtece"
         },
         {
+          "ID": 64010,
+          "Title": "Categurìa:Musiciste"
+        },
+        {
           "ID": 26034,
           "Title": "Categurìa:Puliteche"
         },
@@ -252,10 +268,6 @@
           "Title": "Categurìa:Munete"
         },
         {
-          "ID": 27684,
-          "Title": "Categurìa:Personaggi"
-        },
-        {
           "ID": 24768,
           "Title": "Categurìa:Scienzie soggiale"
         },
@@ -290,8 +302,8 @@
           "Title": "Categurìa:Scienzie apprecate"
         },
         {
-          "ID": 27365,
-          "Title": "Categurìa:Tecnica"
+          "ID": 63783,
+          "Title": "Categurìa:Tecnologgia"
         },
         {
           "ID": 27372,

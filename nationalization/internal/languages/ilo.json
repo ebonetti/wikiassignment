@@ -62,6 +62,10 @@
           "Title": "Kategoria:Dagiti salisal"
         },
         {
+          "ID": 33243,
+          "Title": "Kategoria:Dagiti uppat nga agkankanta"
+        },
+        {
           "ID": 3177,
           "Title": "Kategoria:Edukasion"
         },
@@ -180,6 +184,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 18411,
+          "Title": "Kategoria:Dagiti estado a kameng ti Nagkaykaysa a Pagpagilian"
+        },
+        {
+          "ID": 20375,
+          "Title": "Kategoria:Dagiti estado ti Estados Unidos"
+        },
+        {
           "ID": 42538,
           "Title": "Kategoria:Dagiti ili"
         },
@@ -196,8 +208,16 @@
           "Title": "Kategoria:Dagiti siudad"
         },
         {
+          "ID": 24712,
+          "Title": "Kategoria:Dagiti siudad idiay Estados Unidos"
+        },
+        {
           "ID": 27291,
           "Title": "Kategoria:Dagiti teritorio"
+        },
+        {
+          "ID": 2030,
+          "Title": "Kategoria:Estados Unidos"
         },
         {
           "ID": 12862,
@@ -404,6 +424,10 @@
           "Title": "Kategoria:Mulmula"
         },
         {
+          "ID": 26147,
+          "Title": "Kategoria:Nalabbasit a Listaan ti IUCN kadagiti kabassitan a pakadanagan a sebbangan"
+        },
+        {
           "ID": 16241,
           "Title": "Kategoria:Pisika"
         },
@@ -490,6 +514,18 @@
           "Title": "Kategoria:Dagiti umiiweng a lalaki"
         },
         {
+          "ID": 20684,
+          "Title": "Kategoria:Maika-18 a siglo a pannakaipasngay"
+        },
+        {
+          "ID": 20512,
+          "Title": "Kategoria:Maika-19 a siglo a pannakaipasngay"
+        },
+        {
+          "ID": 20511,
+          "Title": "Kategoria:Maika-20 a siglo a pannakaipasngay"
+        },
+        {
           "ID": 282,
           "Title": "Kategoria:Mamannurat"
         },
@@ -506,8 +542,24 @@
           "Title": "Kategoria:Tattao a natay"
         },
         {
+          "ID": 22574,
+          "Title": "Kategoria:Tattao babaen ti siglo"
+        },
+        {
           "ID": 21809,
           "Title": "Kategoria:Tattao babaen ti trabaho"
+        },
+        {
+          "ID": 27677,
+          "Title": "Kategoria:Tattao babaen ti trabaho ken paset ti panawen"
+        },
+        {
+          "ID": 39835,
+          "Title": "Kategoria:Tattao nga Amerikano"
+        },
+        {
+          "ID": 40204,
+          "Title": "Kategoria:Tattao nga Ingles"
         }
       ]
     },
@@ -528,6 +580,10 @@
           "Title": "Kategoria:Dagiti pilosopiko a teoria"
         },
         {
+          "ID": 24698,
+          "Title": "Kategoria:Dagiti pilosopiko a tignay"
+        },
+        {
           "ID": 20672,
           "Title": "Kategoria:Dagiti politikal a teoria"
         },
@@ -542,6 +598,10 @@
         {
           "ID": 20713,
           "Title": "Kategoria:Kinapudno"
+        },
+        {
+          "ID": 22138,
+          "Title": "Kategoria:Liberalismo"
         },
         {
           "ID": 18101,
@@ -654,6 +714,10 @@
         {
           "ID": 18134,
           "Title": "Kategoria:Linteg"
+        },
+        {
+          "ID": 25571,
+          "Title": "Kategoria:Oras a panagin-inut ti lawag"
         },
         {
           "ID": 25846,

@@ -314,6 +314,18 @@
         {
           "ID": 28062,
           "Title": "Luokka:Valtiot"
+        },
+        {
+          "ID": 20195,
+          "Title": "Luokka:Yhdysvallat"
+        },
+        {
+          "ID": 210839,
+          "Title": "Luokka:Yhdysvaltain kaupungit"
+        },
+        {
+          "ID": 210826,
+          "Title": "Luokka:Yhdysvaltain osavaltiot"
         }
       ]
     },
@@ -378,6 +390,10 @@
         {
           "ID": 45744,
           "Title": "Luokka:Kulttuuritapahtumat"
+        },
+        {
+          "ID": 148961,
+          "Title": "Luokka:Murhat"
         },
         {
           "ID": 51615,
@@ -534,6 +550,18 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 878873,
+          "Title": "Luokka:1700-luvulla syntyneet"
+        },
+        {
+          "ID": 878872,
+          "Title": "Luokka:1800-luvulla syntyneet"
+        },
+        {
+          "ID": 878871,
+          "Title": "Luokka:1900-luvulla syntyneet"
+        },
+        {
           "ID": 18145,
           "Title": "Luokka:Arkkitehdit"
         },
@@ -544,6 +572,10 @@
         {
           "ID": 872471,
           "Title": "Luokka:Elävät henkilöt"
+        },
+        {
+          "ID": 519417,
+          "Title": "Luokka:Englantilaiset henkilöt"
         },
         {
           "ID": 20823,
@@ -560,6 +592,10 @@
         {
           "ID": 868345,
           "Title": "Luokka:Henkilöt kuolinvuosittain"
+        },
+        {
+          "ID": 1442160,
+          "Title": "Luokka:Henkilöt maanosittain ja ammateittain"
         },
         {
           "ID": 868333,
@@ -622,6 +658,10 @@
           "Title": "Luokka:Presidentit"
         },
         {
+          "ID": 1510267,
+          "Title": "Luokka:Presidentit maittain"
+        },
+        {
           "ID": 186927,
           "Title": "Luokka:Sairaanhoitajat"
         },
@@ -642,12 +682,24 @@
           "Title": "Luokka:Valtionpäämiehet"
         },
         {
+          "ID": 113607,
+          "Title": "Luokka:Yhdysvaltalaiset henkilöt"
+        },
+        {
           "ID": 124747,
           "Title": "Luokka:Yhdysvaltalaiset kenraalit"
         },
         {
+          "ID": 350853,
+          "Title": "Luokka:Yhdysvaltalaiset rocklaulajat"
+        },
+        {
           "ID": 108122,
           "Title": "Luokka:Yhteiskunnalliset vaikuttajat"
+        },
+        {
+          "ID": 223547,
+          "Title": "Luokka:Yrittäjät"
         }
       ]
     },
@@ -678,6 +730,10 @@
         {
           "ID": 674872,
           "Title": "Luokka:Filosofiset teoriat"
+        },
+        {
+          "ID": 44262,
+          "Title": "Luokka:Liberalismi"
         },
         {
           "ID": 616569,
@@ -766,10 +822,6 @@
         {
           "ID": 30559,
           "Title": "Luokka:Markkinointi"
-        },
-        {
-          "ID": 148961,
-          "Title": "Luokka:Murhat"
         },
         {
           "ID": 26825,

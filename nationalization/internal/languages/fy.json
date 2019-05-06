@@ -162,6 +162,10 @@
           "Title": "Kategory:Telefyzje"
         },
         {
+          "ID": 127161,
+          "Title": "Kategory:Telefyzjeprogramma nei taal"
+        },
+        {
           "ID": 96614,
           "Title": "Kategory:Tsjoenderij"
         },
@@ -192,6 +196,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 12229,
+          "Title": "Kategory:Feriene Steaten"
+        },
+        {
           "ID": 7040,
           "Title": "Kategory:Geografy"
         },
@@ -220,8 +228,16 @@
           "Title": "Kategory:Plak nei lân"
         },
         {
+          "ID": 18457,
+          "Title": "Kategory:Plak yn de Feriene Steaten"
+        },
+        {
           "ID": 12025,
           "Title": "Kategory:Rivier"
+        },
+        {
+          "ID": 12476,
+          "Title": "Kategory:Steat yn de Feriene Steaten"
         },
         {
           "ID": 93416,
@@ -258,6 +274,10 @@
           "Title": "Kategory:Hygiëne"
         },
         {
+          "ID": 135536,
+          "Title": "Kategory:Medysk spesjalisme"
+        },
+        {
           "ID": 116060,
           "Title": "Kategory:Minsklike anatomy"
         },
@@ -282,6 +302,10 @@
         {
           "ID": 111103,
           "Title": "Kategory:Barren"
+        },
+        {
+          "ID": 118347,
+          "Title": "Kategory:Moardsaak"
         },
         {
           "ID": 36430,
@@ -446,6 +470,10 @@
           "Title": "Kategory:Frou"
         },
         {
+          "ID": 7769,
+          "Title": "Kategory:Ingelsk persoan"
+        },
+        {
           "ID": 7708,
           "Title": "Kategory:Keunstner"
         },
@@ -458,12 +486,32 @@
           "Title": "Kategory:Persoan"
         },
         {
+          "ID": 106713,
+          "Title": "Kategory:Persoan berne yn de 18e iuw"
+        },
+        {
+          "ID": 106704,
+          "Title": "Kategory:Persoan berne yn de 19e iuw"
+        },
+        {
+          "ID": 106696,
+          "Title": "Kategory:Persoan berne yn de 20e iuw"
+        },
+        {
           "ID": 8723,
           "Title": "Kategory:Persoan nei berop"
         },
         {
+          "ID": 97603,
+          "Title": "Kategory:Persoan nei berop en histoarysk tiidrek"
+        },
+        {
           "ID": 106901,
           "Title": "Kategory:Persoan nei ferstjerren"
+        },
+        {
+          "ID": 106900,
+          "Title": "Kategory:Persoan nei ferstjerren nei iuw"
         },
         {
           "ID": 84977,
@@ -530,6 +578,10 @@
         {
           "ID": 53437,
           "Title": "Kategory:Filosofyske streaming"
+        },
+        {
+          "ID": 26396,
+          "Title": "Kategory:Liberalisme"
         }
       ]
     },
@@ -586,10 +638,6 @@
         {
           "ID": 28243,
           "Title": "Kategory:Marketing"
-        },
-        {
-          "ID": 118347,
-          "Title": "Kategory:Moardsaak"
         },
         {
           "ID": 16085,
@@ -660,6 +708,10 @@
         {
           "ID": 16074,
           "Title": "Kategory:Elektroanika"
+        },
+        {
+          "ID": 135265,
+          "Title": "Kategory:Enerzjytechnyk"
         },
         {
           "ID": 14268,

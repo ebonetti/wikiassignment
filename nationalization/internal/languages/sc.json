@@ -88,6 +88,14 @@
           "Title": "Categoria:Geografia"
         },
         {
+          "ID": 8965,
+          "Title": "Categoria:Istados Unidos"
+        },
+        {
+          "ID": 10390,
+          "Title": "Categoria:Istados de sos Istados Unidos"
+        },
+        {
           "ID": 11626,
           "Title": "Categoria:Natziones"
         },
@@ -98,6 +106,10 @@
         {
           "ID": 4640,
           "Title": "Categoria:Tzitades"
+        },
+        {
+          "ID": 8208,
+          "Title": "Categoria:Tzitades de sos USA"
         }
       ]
     },
@@ -178,6 +190,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 4669,
+          "Title": "Categoria:Americanos (USA)"
+        },
+        {
           "ID": 7073,
           "Title": "Categoria:Architetos"
         },
@@ -226,6 +242,10 @@
         {
           "ID": 3260,
           "Title": "Categoria:Filosofia"
+        },
+        {
+          "ID": 8411,
+          "Title": "Categoria:Liberalismu"
         }
       ]
     },

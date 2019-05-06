@@ -84,8 +84,20 @@
           "Title": "Jamii:Jiografia"
         },
         {
+          "ID": 6839,
+          "Title": "Jamii:Majimbo ya Marekani"
+        },
+        {
+          "ID": 4123,
+          "Title": "Jamii:Marekani"
+        },
+        {
           "ID": 1700,
           "Title": "Jamii:Miji"
+        },
+        {
+          "ID": 4122,
+          "Title": "Jamii:Miji ya Marekani"
         },
         {
           "ID": 2192,
@@ -226,6 +238,18 @@
           "Title": "Jamii:Waigizaji Filamu"
         },
         {
+          "ID": 8997,
+          "Title": "Jamii:Waliozaliwa karne ya 18"
+        },
+        {
+          "ID": 8996,
+          "Title": "Jamii:Waliozaliwa karne ya 19"
+        },
+        {
+          "ID": 8957,
+          "Title": "Jamii:Waliozaliwa karne ya 20"
+        },
+        {
           "ID": 5873,
           "Title": "Jamii:Wanafalsafa"
         },
@@ -264,6 +288,14 @@
         {
           "ID": 10025,
           "Title": "Jamii:Watu kutokana na kazi"
+        },
+        {
+          "ID": 6603,
+          "Title": "Jamii:Watu wa Marekani"
+        },
+        {
+          "ID": 6608,
+          "Title": "Jamii:Watu wa Uingereza"
         },
         {
           "ID": 55545,

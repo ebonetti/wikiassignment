@@ -68,6 +68,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 12636,
+          "Title": "Saachjrupp:Bundesland (USA)"
+        },
+        {
           "ID": 527572,
           "Title": "Saachjrupp:Dengkmool"
         },
@@ -86,6 +90,14 @@
         {
           "ID": 527486,
           "Title": "Saachjrupp:Stadt"
+        },
+        {
+          "ID": 527128,
+          "Title": "Saachjrupp:Stadt en dr USA"
+        },
+        {
+          "ID": 1978,
+          "Title": "Saachjrupp:USA"
         },
         {
           "ID": 11181,

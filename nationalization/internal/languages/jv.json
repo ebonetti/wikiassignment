@@ -144,6 +144,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 23680,
+          "Title": "Kategori:Amérika Sarékat"
+        },
+        {
           "ID": 59747,
           "Title": "Kategori:Géografi"
         },
@@ -164,12 +168,24 @@
           "Title": "Kategori:Kutha"
         },
         {
+          "ID": 23679,
+          "Title": "Kategori:Kutha ing Amérika Sarékat"
+        },
+        {
           "ID": 8075,
           "Title": "Kategori:Nagara"
         },
         {
+          "ID": 129445,
+          "Title": "Kategori:Nagara bagéan Amérika Sarékat"
+        },
+        {
           "ID": 107588,
           "Title": "Kategori:Shtetl"
+        },
+        {
+          "ID": 129429,
+          "Title": "Kategori:Wewengkon administratif miturut basa"
         }
       ]
     },
@@ -284,6 +300,10 @@
           "Title": "Kategori:Senyawa kimia"
         },
         {
+          "ID": 140821,
+          "Title": "Kategori:Spésies sing ora nyamari miturut Pratélan Abang IUCN"
+        },
+        {
           "ID": 42999,
           "Title": "Kategori:Zoologi"
         },
@@ -326,6 +346,18 @@
           "Title": "Kategori:Kepala negara"
         },
         {
+          "ID": 63902,
+          "Title": "Kategori:Lair abad ping 18"
+        },
+        {
+          "ID": 63914,
+          "Title": "Kategori:Lair abad ping 19"
+        },
+        {
+          "ID": 63736,
+          "Title": "Kategori:Lair abad ping 20"
+        },
+        {
           "ID": 43226,
           "Title": "Kategori:Matematikawan"
         },
@@ -352,6 +384,14 @@
         {
           "ID": 50290,
           "Title": "Kategori:Seniman"
+        },
+        {
+          "ID": 35238,
+          "Title": "Kategori:Tokoh Amérika Sarékat"
+        },
+        {
+          "ID": 8433,
+          "Title": "Kategori:Tokoh Inggris"
         },
         {
           "ID": 42574,
@@ -394,6 +434,10 @@
         {
           "ID": 24410,
           "Title": "Kategori:Idéologi"
+        },
+        {
+          "ID": 42866,
+          "Title": "Kategori:Liberalisme"
         },
         {
           "ID": 60786,

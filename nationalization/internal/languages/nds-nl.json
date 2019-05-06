@@ -112,6 +112,10 @@
           "Title": "Kategorie:Laand"
         },
         {
+          "ID": 11690,
+          "Title": "Kategorie:Plaatse in de VSA"
+        },
+        {
           "ID": 9930,
           "Title": "Kategorie:Plaose"
         },
@@ -126,6 +130,18 @@
         {
           "ID": 9928,
           "Title": "Kategorie:Stad"
+        },
+        {
+          "ID": 21306,
+          "Title": "Kategorie:Stad in de Verenigde Stoaten"
+        },
+        {
+          "ID": 19782,
+          "Title": "Kategorie:Staoten van Amerika"
+        },
+        {
+          "ID": 4068,
+          "Title": "Kategorie:Verenigde Stoatn van Amerika"
         },
         {
           "ID": 26115,
@@ -405,6 +421,10 @@
     }
   ],
   "Filters": [
+    {
+      "ID": 27232,
+      "Title": "Kategorie:Verbörgen kategorieën"
+    },
     {
       "ID": 2729,
       "Title": "Kategorie:Wikipedie:Deurverwiespagina"

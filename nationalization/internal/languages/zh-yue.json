@@ -260,6 +260,18 @@
           "Title": "Category:皇宮"
         },
         {
+          "ID": 4169,
+          "Title": "Category:美國"
+        },
+        {
+          "ID": 97009,
+          "Title": "Category:美國嘅州"
+        },
+        {
+          "ID": 9100,
+          "Title": "Category:美國城市"
+        },
+        {
           "ID": 179326,
           "Title": "Category:聚居地"
         },
@@ -388,6 +400,10 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 130102,
+          "Title": "Category:IUCN無危物種"
+        },
+        {
           "ID": 4388,
           "Title": "Category:動物"
         },
@@ -470,6 +486,18 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 117315,
+          "Title": "Category:18世紀出世"
+        },
+        {
+          "ID": 116238,
+          "Title": "Category:19世紀出世"
+        },
+        {
+          "ID": 110252,
+          "Title": "Category:20世紀出世"
+        },
+        {
           "ID": 3275,
           "Title": "Category:人物"
         },
@@ -548,6 +576,18 @@
         {
           "ID": 136107,
           "Title": "Category:總統"
+        },
+        {
+          "ID": 6831,
+          "Title": "Category:美國人"
+        },
+        {
+          "ID": 33272,
+          "Title": "Category:美國搖滾歌手"
+        },
+        {
+          "ID": 139674,
+          "Title": "Category:英倫人"
         },
         {
           "ID": 72912,

@@ -114,6 +114,10 @@
           "Title": "Categorie:Kunst"
         },
         {
+          "ID": 1842224,
+          "Title": "Categorie:Kwartet"
+        },
+        {
           "ID": 67269,
           "Title": "Categorie:Lichaamsbeweging"
         },
@@ -156,6 +160,10 @@
         {
           "ID": 572927,
           "Title": "Categorie:Professioneel worstelen"
+        },
+        {
+          "ID": 1729092,
+          "Title": "Categorie:Professioneel worstelen naar jaar"
         },
         {
           "ID": 81792,
@@ -276,6 +284,10 @@
           "Title": "Categorie:Plaats"
         },
         {
+          "ID": 201902,
+          "Title": "Categorie:Plaats in de Verenigde Staten"
+        },
+        {
           "ID": 1779212,
           "Title": "Categorie:Plaats naar land"
         },
@@ -292,8 +304,16 @@
           "Title": "Categorie:Staat"
         },
         {
+          "ID": 585942,
+          "Title": "Categorie:Staat van de Verenigde Staten"
+        },
+        {
           "ID": 63511,
           "Title": "Categorie:Stad"
+        },
+        {
+          "ID": 586290,
+          "Title": "Categorie:Stad in de Verenigde Staten"
         },
         {
           "ID": 140853,
@@ -310,6 +330,10 @@
         {
           "ID": 80417,
           "Title": "Categorie:Uitvoerende macht"
+        },
+        {
+          "ID": 64714,
+          "Title": "Categorie:Verenigde Staten"
         },
         {
           "ID": 67660,
@@ -380,8 +404,16 @@
           "Title": "Categorie:Geschiedenis naar plaats"
         },
         {
+          "ID": 1250255,
+          "Title": "Categorie:Geschiedenis van de Verenigde Staten (1988-heden)"
+        },
+        {
           "ID": 563863,
           "Title": "Categorie:Geschiedenis van de techniek"
+        },
+        {
+          "ID": 1869180,
+          "Title": "Categorie:Moordzaak"
         },
         {
           "ID": 63578,
@@ -394,6 +426,10 @@
         {
           "ID": 68079,
           "Title": "Categorie:Revolutie"
+        },
+        {
+          "ID": 4595352,
+          "Title": "Categorie:Schietpartij naar land"
         },
         {
           "ID": 1062985,
@@ -472,6 +508,10 @@
           "Title": "Categorie:Fruit"
         },
         {
+          "ID": 2706642,
+          "Title": "Categorie:IUCN-status niet bedreigd"
+        },
+        {
           "ID": 1387558,
           "Title": "Categorie:Milieuwetenschappen"
         },
@@ -526,6 +566,10 @@
           "Title": "Categorie:Acteur"
         },
         {
+          "ID": 4351201,
+          "Title": "Categorie:Amerikaans rockzanger"
+        },
+        {
           "ID": 67268,
           "Title": "Categorie:Architect"
         },
@@ -534,12 +578,20 @@
           "Title": "Categorie:Biograaf"
         },
         {
+          "ID": 67890,
+          "Title": "Categorie:Engels persoon"
+        },
+        {
           "ID": 67475,
           "Title": "Categorie:Filmacteur"
         },
         {
           "ID": 64379,
           "Title": "Categorie:Filosoof"
+        },
+        {
+          "ID": 713356,
+          "Title": "Categorie:Filosoof naar vakgebied"
         },
         {
           "ID": 67357,
@@ -574,6 +626,10 @@
           "Title": "Categorie:Persoon naar beroep"
         },
         {
+          "ID": 3005817,
+          "Title": "Categorie:Persoon naar eeuw"
+        },
+        {
           "ID": 104784,
           "Title": "Categorie:Persoon naar eigenschap"
         },
@@ -600,6 +656,10 @@
         {
           "ID": 64040,
           "Title": "Categorie:Schrijver"
+        },
+        {
+          "ID": 1862013,
+          "Title": "Categorie:Staatloos persoon"
         },
         {
           "ID": 67388,
@@ -650,6 +710,10 @@
         {
           "ID": 148839,
           "Title": "Categorie:Filosofische stroming"
+        },
+        {
+          "ID": 70358,
+          "Title": "Categorie:Liberalisme"
         },
         {
           "ID": 701220,
@@ -734,10 +798,6 @@
         {
           "ID": 176685,
           "Title": "Categorie:Mens en maatschappij"
-        },
-        {
-          "ID": 1869180,
-          "Title": "Categorie:Moordzaak"
         },
         {
           "ID": 63697,

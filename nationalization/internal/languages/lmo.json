@@ -126,6 +126,10 @@
         {
           "ID": 134435,
           "Title": "Categuria:Stat"
+        },
+        {
+          "ID": 134248,
+          "Title": "Categuria:Stat Ünii d'America"
         }
       ]
     },
@@ -246,6 +250,18 @@
           "Title": "Categuria:Medegh"
         },
         {
+          "ID": 209262,
+          "Title": "Categuria:Nassuu in del XIX secol"
+        },
+        {
+          "ID": 209273,
+          "Title": "Categuria:Nassuu in del XVIII secol"
+        },
+        {
+          "ID": 209266,
+          "Title": "Categuria:Nassuu in del XX secol"
+        },
+        {
           "ID": 130370,
           "Title": "Categuria:Politich"
         }
@@ -258,6 +274,10 @@
         {
           "ID": 193564,
           "Title": "Categuria:Filusufìa"
+        },
+        {
+          "ID": 149575,
+          "Title": "Categuria:Liberalism"
         }
       ]
     },

@@ -146,6 +146,10 @@
           "Title": "Category:Muisical groups"
         },
         {
+          "ID": 15970,
+          "Title": "Category:Muisical quartets"
+        },
+        {
           "ID": 187906,
           "Title": "Category:Newspapers"
         },
@@ -236,6 +240,10 @@
           "Title": "Category:Ceeties"
         },
         {
+          "ID": 10977,
+          "Title": "Category:Ceeties in the Unitit States"
+        },
+        {
           "ID": 51271,
           "Title": "Category:Ceety"
         },
@@ -250,6 +258,10 @@
         {
           "ID": 3629,
           "Title": "Category:Kintras"
+        },
+        {
+          "ID": 46043,
+          "Title": "Category:Member states o the Unitit Naitions"
         },
         {
           "ID": 195709,
@@ -272,6 +284,10 @@
           "Title": "Category:Populatit places bi kintra"
         },
         {
+          "ID": 14575,
+          "Title": "Category:Populatit places in the Unitit States"
+        },
+        {
           "ID": 47621,
           "Title": "Category:Rivers"
         },
@@ -284,6 +300,10 @@
           "Title": "Category:Shtetls"
         },
         {
+          "ID": 13750,
+          "Title": "Category:States o the Unitit States"
+        },
+        {
           "ID": 198219,
           "Title": "Category:Streets"
         },
@@ -294,6 +314,14 @@
         {
           "ID": 8476,
           "Title": "Category:Touns"
+        },
+        {
+          "ID": 46353,
+          "Title": "Category:Touns in the Unitit States"
+        },
+        {
+          "ID": 1709,
+          "Title": "Category:Unitit States"
         }
       ]
     },
@@ -360,12 +388,28 @@
           "Title": "Category:History bi kintra"
         },
         {
+          "ID": 126192,
+          "Title": "Category:History bi kintra an topic"
+        },
+        {
           "ID": 18726,
           "Title": "Category:History bi location"
         },
         {
           "ID": 162048,
           "Title": "Category:History o technology"
+        },
+        {
+          "ID": 147226,
+          "Title": "Category:History o the Unitit States (1991–present)"
+        },
+        {
+          "ID": 177724,
+          "Title": "Category:Mass shuitins bi kintra"
+        },
+        {
+          "ID": 128318,
+          "Title": "Category:Murthers"
         },
         {
           "ID": 89764,
@@ -472,12 +516,20 @@
           "Title": "Category:Ecologie"
         },
         {
+          "ID": 168480,
+          "Title": "Category:Edible fruits"
+        },
+        {
           "ID": 70313,
           "Title": "Category:Fauna bi continent"
         },
         {
           "ID": 9170,
           "Title": "Category:Fruit"
+        },
+        {
+          "ID": 57541,
+          "Title": "Category:IUCN Reid Leet least concern species"
         },
         {
           "ID": 70416,
@@ -530,6 +582,22 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 95252,
+          "Title": "Category:18t-century births"
+        },
+        {
+          "ID": 61040,
+          "Title": "Category:19t-century births"
+        },
+        {
+          "ID": 45825,
+          "Title": "Category:20t-century births"
+        },
+        {
+          "ID": 80597,
+          "Title": "Category:21st-century American sangsters"
+        },
+        {
           "ID": 19718,
           "Title": "Category:Actors"
         },
@@ -542,8 +610,20 @@
           "Title": "Category:Airtists"
         },
         {
+          "ID": 8223,
+          "Title": "Category:American fowk"
+        },
+        {
+          "ID": 18769,
+          "Title": "Category:American fowk bi thrift"
+        },
+        {
           "ID": 160056,
           "Title": "Category:American generals"
+        },
+        {
+          "ID": 44305,
+          "Title": "Category:American rock sangsters"
         },
         {
           "ID": 189479,
@@ -554,12 +634,24 @@
           "Title": "Category:Births bi year"
         },
         {
+          "ID": 146934,
+          "Title": "Category:Christians bi century"
+        },
+        {
+          "ID": 166080,
+          "Title": "Category:Company foonders"
+        },
+        {
           "ID": 47209,
           "Title": "Category:Daiths bi year"
         },
         {
           "ID": 125638,
           "Title": "Category:Deid fowk"
+        },
+        {
+          "ID": 125608,
+          "Title": "Category:Democrats (Unitit States) bi state"
         },
         {
           "ID": 6452,
@@ -586,8 +678,16 @@
           "Title": "Category:Filosofers"
         },
         {
+          "ID": 165590,
+          "Title": "Category:Filosofers bi field"
+        },
+        {
           "ID": 6473,
           "Title": "Category:Fowk"
+        },
+        {
+          "ID": 94913,
+          "Title": "Category:Fowk bi century"
         },
         {
           "ID": 134331,
@@ -598,8 +698,16 @@
           "Title": "Category:Fowk bi thrift"
         },
         {
+          "ID": 128532,
+          "Title": "Category:Fowk bi thrift an period"
+        },
+        {
           "ID": 87854,
           "Title": "Category:Heids o state"
+        },
+        {
+          "ID": 8289,
+          "Title": "Category:Inglis fowk"
         },
         {
           "ID": 87676,
@@ -624,6 +732,10 @@
         {
           "ID": 19749,
           "Title": "Category:Muisickers"
+        },
+        {
+          "ID": 82869,
+          "Title": "Category:Nobel laureates bi naitionality"
         },
         {
           "ID": 197270,
@@ -654,8 +766,16 @@
           "Title": "Category:Preses bi kintra"
         },
         {
+          "ID": 138128,
+          "Title": "Category:Republicans (Unitit States) bi state"
+        },
+        {
           "ID": 88491,
           "Title": "Category:Sel"
+        },
+        {
+          "ID": 165522,
+          "Title": "Category:Stateless fowk"
         },
         {
           "ID": 32845,
@@ -688,6 +808,10 @@
           "Title": "Category:Filosofical concepts"
         },
         {
+          "ID": 164824,
+          "Title": "Category:Filosofical muivements"
+        },
+        {
           "ID": 187016,
           "Title": "Category:Filosofical schuils an tradeetions"
         },
@@ -702,6 +826,14 @@
         {
           "ID": 205672,
           "Title": "Category:Ideologies"
+        },
+        {
+          "ID": 70812,
+          "Title": "Category:Leeberalism"
+        },
+        {
+          "ID": 203715,
+          "Title": "Category:Liberalism"
         },
         {
           "ID": 187087,
@@ -830,10 +962,6 @@
         {
           "ID": 88862,
           "Title": "Category:Mercatin"
-        },
-        {
-          "ID": 128318,
-          "Title": "Category:Murthers"
         },
         {
           "ID": 10932,

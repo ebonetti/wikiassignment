@@ -206,8 +206,16 @@
           "Title": "Categoria:Premsa"
         },
         {
+          "ID": 1221581,
+          "Title": "Categoria:Programes de televisió per llengua"
+        },
+        {
           "ID": 83122,
           "Title": "Categoria:Pràctiques sexuals"
+        },
+        {
+          "ID": 268875,
+          "Title": "Categoria:Quartets"
         },
         {
           "ID": 43319,
@@ -256,12 +264,28 @@
           "Title": "Categoria:Ciutats"
         },
         {
+          "ID": 37126,
+          "Title": "Categoria:Ciutats dels Estats Units"
+        },
+        {
           "ID": 323101,
           "Title": "Categoria:Entitats de població"
         },
         {
+          "ID": 1105013,
+          "Title": "Categoria:Entitats de població dels Estats Units"
+        },
+        {
           "ID": 980253,
           "Title": "Categoria:Estats"
+        },
+        {
+          "ID": 13489,
+          "Title": "Categoria:Estats Units"
+        },
+        {
+          "ID": 23951,
+          "Title": "Categoria:Estats dels Estats Units"
         },
         {
           "ID": 13525,
@@ -290,6 +314,10 @@
         {
           "ID": 1171856,
           "Title": "Categoria:Pobles"
+        },
+        {
+          "ID": 1171861,
+          "Title": "Categoria:Pobles dels Estats Units"
         },
         {
           "ID": 16192,
@@ -351,6 +379,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 905631,
+          "Title": "Categoria:Assassinats"
+        },
         {
           "ID": 262249,
           "Title": "Categoria:Atemptats"
@@ -534,6 +566,10 @@
           "Title": "Categoria:Actors de cinema"
         },
         {
+          "ID": 13817,
+          "Title": "Categoria:Anglesos"
+        },
+        {
           "ID": 16751,
           "Title": "Categoria:Arquitectes"
         },
@@ -562,6 +598,14 @@
           "Title": "Categoria:Biografies per data de defunció"
         },
         {
+          "ID": 1180320,
+          "Title": "Categoria:Biografies per segle"
+        },
+        {
+          "ID": 1387448,
+          "Title": "Categoria:Cantants de rock estatunidencs"
+        },
+        {
           "ID": 1008714,
           "Title": "Categoria:Caps d'estat"
         },
@@ -578,12 +622,24 @@
           "Title": "Categoria:Escriptors"
         },
         {
+          "ID": 25508,
+          "Title": "Categoria:Estatunidencs"
+        },
+        {
+          "ID": 200756,
+          "Title": "Categoria:Estatunidencs per activitat"
+        },
+        {
           "ID": 15670,
           "Title": "Categoria:Exploradors"
         },
         {
           "ID": 15158,
           "Title": "Categoria:Filòsofs"
+        },
+        {
+          "ID": 418683,
+          "Title": "Categoria:Filòsofs per disciplina"
         },
         {
           "ID": 1019122,
@@ -664,6 +720,10 @@
           "Title": "Categoria:Filosofia"
         },
         {
+          "ID": 480183,
+          "Title": "Categoria:Liberalisme"
+        },
+        {
           "ID": 1073386,
           "Title": "Categoria:Metafísica"
         },
@@ -710,10 +770,6 @@
         {
           "ID": 80364,
           "Title": "Categoria:Aerolínies"
-        },
-        {
-          "ID": 905631,
-          "Title": "Categoria:Assassinats"
         },
         {
           "ID": 12457,

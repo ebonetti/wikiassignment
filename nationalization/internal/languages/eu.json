@@ -138,6 +138,10 @@
           "Title": "Kategoria:Jolasa"
         },
         {
+          "ID": 294193,
+          "Title": "Kategoria:Kirola"
+        },
+        {
           "ID": 21556,
           "Title": "Kategoria:Kirolak"
         },
@@ -263,6 +267,22 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 50586,
+          "Title": "Kategoria:Ameriketako Estatu Batuak"
+        },
+        {
+          "ID": 866880,
+          "Title": "Kategoria:Ameriketako Estatu Batuetako biztanle-entitateak"
+        },
+        {
+          "ID": 50603,
+          "Title": "Kategoria:Ameriketako Estatu Batuetako estatuak"
+        },
+        {
+          "ID": 50601,
+          "Title": "Kategoria:Ameriketako Estatu Batuetako hiriak"
+        },
         {
           "ID": 48417,
           "Title": "Kategoria:Errepideak"
@@ -408,6 +428,10 @@
           "Title": "Kategoria:Historia"
         },
         {
+          "ID": 340046,
+          "Title": "Kategoria:Historia gaiaren eta herrialdearen arabera"
+        },
+        {
           "ID": 39757,
           "Title": "Kategoria:Historia herrialdearen arabera"
         },
@@ -484,6 +508,10 @@
           "Title": "Kategoria:Animaliak"
         },
         {
+          "ID": 158069,
+          "Title": "Kategoria:Arrisku txikiko egoeran dauden espezieak"
+        },
+        {
           "ID": 64255,
           "Title": "Kategoria:Bizia"
         },
@@ -554,6 +582,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 727901,
+          "Title": "Kategoria:Aberrigabeak"
+        },
+        {
           "ID": 103918,
           "Title": "Kategoria:Abizenak"
         },
@@ -568,6 +600,10 @@
         {
           "ID": 290455,
           "Title": "Kategoria:Ameriketako Estatu Batuetako jeneralak"
+        },
+        {
+          "ID": 639971,
+          "Title": "Kategoria:Ameriketako Estatu Batuetako rock abeslariak"
         },
         {
           "ID": 6557,
@@ -594,6 +630,14 @@
           "Title": "Kategoria:Biografiak lanbidearen arabera"
         },
         {
+          "ID": 241964,
+          "Title": "Kategoria:Biografiak lanbidearen eta aroaren arabera"
+        },
+        {
+          "ID": 239855,
+          "Title": "Kategoria:Biografiak mendearen arabera"
+        },
+        {
           "ID": 670188,
           "Title": "Kategoria:Biografoak"
         },
@@ -610,6 +654,14 @@
           "Title": "Kategoria:Esploratzaileak"
         },
         {
+          "ID": 23866,
+          "Title": "Kategoria:Estatubatuarrak"
+        },
+        {
+          "ID": 111396,
+          "Title": "Kategoria:Estatubatuarrak lanbidearen arabera"
+        },
+        {
           "ID": 678588,
           "Title": "Kategoria:Estatuburuak"
         },
@@ -620,6 +672,10 @@
         {
           "ID": 3932,
           "Title": "Kategoria:Filosofoak"
+        },
+        {
+          "ID": 218529,
+          "Title": "Kategoria:Filosofoak gaiaren arabera"
         },
         {
           "ID": 368848,
@@ -640,6 +696,10 @@
         {
           "ID": 3427,
           "Title": "Kategoria:Idazleak"
+        },
+        {
+          "ID": 33185,
+          "Title": "Kategoria:Ingelesak"
         },
         {
           "ID": 18830,
@@ -682,6 +742,18 @@
           "Title": "Kategoria:Presidenteak herrialdearen arabera"
         },
         {
+          "ID": 160218,
+          "Title": "Kategoria:XIX. mendeko jaiotzak"
+        },
+        {
+          "ID": 160217,
+          "Title": "Kategoria:XVIII. mendeko jaiotzak"
+        },
+        {
+          "ID": 160219,
+          "Title": "Kategoria:XX. mendeko jaiotzak"
+        },
+        {
           "ID": 294258,
           "Title": "Kategoria:Zinemako pertsonaiak"
         }
@@ -720,12 +792,20 @@
           "Title": "Kategoria:Kontzeptu filosofikoak"
         },
         {
+          "ID": 286061,
+          "Title": "Kategoria:Liberalismoa"
+        },
+        {
           "ID": 598972,
           "Title": "Kategoria:Metafilosofia"
         },
         {
           "ID": 36263,
           "Title": "Kategoria:Metafisika"
+        },
+        {
+          "ID": 372687,
+          "Title": "Kategoria:Mugimendu filosofikoak"
         },
         {
           "ID": 105594,
@@ -738,6 +818,10 @@
         {
           "ID": 679022,
           "Title": "Kategoria:Teoria politikoak"
+        },
+        {
+          "ID": 675895,
+          "Title": "Kategoria:Zientziaren filosofia arloaren arabera"
         }
       ]
     },

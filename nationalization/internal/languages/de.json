@@ -288,6 +288,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1687794,
+          "Title": "Kategorie:Bundesstaat der Vereinigten Staaten"
+        },
+        {
+          "ID": 10768819,
+          "Title": "Kategorie:City in den Vereinigten Staaten"
+        },
+        {
           "ID": 243956,
           "Title": "Kategorie:Denkmal"
         },
@@ -312,8 +320,16 @@
           "Title": "Kategorie:Liste (Geographie)"
         },
         {
+          "ID": 7625195,
+          "Title": "Kategorie:Mitgliedstaat der Vereinten Nationen"
+        },
+        {
           "ID": 237336,
           "Title": "Kategorie:Ort"
+        },
+        {
+          "ID": 1660802,
+          "Title": "Kategorie:Ort in den Vereinigten Staaten"
         },
         {
           "ID": 1764824,
@@ -358,6 +374,10 @@
         {
           "ID": 8263033,
           "Title": "Kategorie:Territorium"
+        },
+        {
+          "ID": 1335049,
+          "Title": "Kategorie:Vereinigte Staaten"
         }
       ]
     },
@@ -426,6 +446,10 @@
         {
           "ID": 224908,
           "Title": "Kategorie:Geschichte"
+        },
+        {
+          "ID": 2995956,
+          "Title": "Kategorie:Geschichte der Vereinigten Staaten (seit 1988)"
         },
         {
           "ID": 1855988,
@@ -602,6 +626,10 @@
           "Title": "Kategorie:Bergsteiger nach Land"
         },
         {
+          "ID": 254391,
+          "Title": "Kategorie:Engländer"
+        },
+        {
           "ID": 237755,
           "Title": "Kategorie:Entdecker"
         },
@@ -628,6 +656,18 @@
         {
           "ID": 6697147,
           "Title": "Kategorie:Frauen"
+        },
+        {
+          "ID": 2113914,
+          "Title": "Kategorie:Geboren (18. Jahrhundert)"
+        },
+        {
+          "ID": 2113915,
+          "Title": "Kategorie:Geboren (19. Jahrhundert)"
+        },
+        {
+          "ID": 2113916,
+          "Title": "Kategorie:Geboren (20. Jahrhundert)"
         },
         {
           "ID": 238613,
@@ -662,6 +702,18 @@
           "Title": "Kategorie:Person (Politik)"
         },
         {
+          "ID": 9641696,
+          "Title": "Kategorie:Person (Vereinigte Staaten) nach Tätigkeit"
+        },
+        {
+          "ID": 4803537,
+          "Title": "Kategorie:Person nach Jahrhundert"
+        },
+        {
+          "ID": 1738944,
+          "Title": "Kategorie:Person nach Todesjahrhundert"
+        },
+        {
           "ID": 1788033,
           "Title": "Kategorie:Person nach Tätigkeit"
         },
@@ -672,6 +724,10 @@
         {
           "ID": 235993,
           "Title": "Kategorie:Philosoph"
+        },
+        {
+          "ID": 2204387,
+          "Title": "Kategorie:Philosoph nach Disziplin"
         },
         {
           "ID": 242559,
@@ -694,12 +750,20 @@
           "Title": "Kategorie:Schauspieler"
         },
         {
+          "ID": 6178465,
+          "Title": "Kategorie:Staatenloser"
+        },
+        {
           "ID": 269498,
           "Title": "Kategorie:Staatsoberhaupt"
         },
         {
           "ID": 509762,
           "Title": "Kategorie:Staatspräsident"
+        },
+        {
+          "ID": 236256,
+          "Title": "Kategorie:US-Amerikaner"
         },
         {
           "ID": 6879927,
@@ -718,6 +782,10 @@
         {
           "ID": 247240,
           "Title": "Kategorie:Ideologie"
+        },
+        {
+          "ID": 287199,
+          "Title": "Kategorie:Liberalismus"
         },
         {
           "ID": 616324,
@@ -818,6 +886,10 @@
         {
           "ID": 527139,
           "Title": "Kategorie:Internationale Organisation"
+        },
+        {
+          "ID": 1001603,
+          "Title": "Kategorie:Islamistische Organisation"
         },
         {
           "ID": 243650,

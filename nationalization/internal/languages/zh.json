@@ -62,6 +62,10 @@
           "Title": "Category:各类体育运动"
         },
         {
+          "ID": 3156777,
+          "Title": "Category:各語言電視節目"
+        },
+        {
           "ID": 1609708,
           "Title": "Category:各類音樂"
         },
@@ -408,6 +412,30 @@
           "Title": "Category:纪念性建筑物"
         },
         {
+          "ID": 1166487,
+          "Title": "Category:美国"
+        },
+        {
+          "ID": 41014,
+          "Title": "Category:美国州份"
+        },
+        {
+          "ID": 56768,
+          "Title": "Category:美國城市"
+        },
+        {
+          "ID": 1853008,
+          "Title": "Category:美國城鎮"
+        },
+        {
+          "ID": 1564935,
+          "Title": "Category:美國聚居地"
+        },
+        {
+          "ID": 1072518,
+          "Title": "Category:联合国会员国"
+        },
+        {
           "ID": 1564901,
           "Title": "Category:聚居地"
         },
@@ -484,6 +512,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 4969871,
+          "Title": "Category:1991年后的美国历史"
+        },
+        {
           "ID": 792152,
           "Title": "Category:事件"
         },
@@ -494,6 +526,10 @@
         {
           "ID": 33580,
           "Title": "Category:历史"
+        },
+        {
+          "ID": 3297468,
+          "Title": "Category:各国家与主题历史"
         },
         {
           "ID": 56675,
@@ -552,8 +588,16 @@
           "Title": "Category:纪念日"
         },
         {
+          "ID": 5054306,
+          "Title": "Category:美国各年政治"
+        },
+        {
           "ID": 248239,
           "Title": "Category:美国最高法院案例"
+        },
+        {
+          "ID": 3182640,
+          "Title": "Category:谋杀案"
         },
         {
           "ID": 83048,
@@ -624,12 +668,20 @@
           "Title": "Category:化学品"
         },
         {
+          "ID": 6200965,
+          "Title": "Category:可食用水果"
+        },
+        {
           "ID": 914075,
           "Title": "Category:各大洲動物"
         },
         {
           "ID": 33918,
           "Title": "Category:地球"
+        },
+        {
+          "ID": 943567,
+          "Title": "Category:无危物种"
         },
         {
           "ID": 32858,
@@ -694,6 +746,22 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 66800,
+          "Title": "Category:18世纪出生"
+        },
+        {
+          "ID": 66304,
+          "Title": "Category:19世纪出生"
+        },
+        {
+          "ID": 66300,
+          "Title": "Category:20世纪出生"
+        },
+        {
+          "ID": 3966845,
+          "Title": "Category:21世紀美國歌手"
+        },
+        {
           "ID": 33578,
           "Title": "Category:人物"
         },
@@ -714,6 +782,22 @@
           "Title": "Category:医生"
         },
         {
+          "ID": 1762021,
+          "Title": "Category:各世紀人物"
+        },
+        {
+          "ID": 6567197,
+          "Title": "Category:各世紀新教徒"
+        },
+        {
+          "ID": 6358959,
+          "Title": "Category:各世紀死者"
+        },
+        {
+          "ID": 3480450,
+          "Title": "Category:各世纪基督徒"
+        },
+        {
           "ID": 5387304,
           "Title": "Category:各传媒艺术家"
         },
@@ -726,12 +810,24 @@
           "Title": "Category:各国登山家"
         },
         {
+          "ID": 1113261,
+          "Title": "Category:各國諾貝爾獎獲得者"
+        },
+        {
           "ID": 80653,
           "Title": "Category:各年份死者"
         },
         {
+          "ID": 415293,
+          "Title": "Category:各职业美国人"
+        },
+        {
           "ID": 5588528,
           "Title": "Category:各職業人物"
+        },
+        {
+          "ID": 1180587,
+          "Title": "Category:各職業各時期人物"
         },
         {
           "ID": 1543765,
@@ -740,6 +836,10 @@
         {
           "ID": 5355159,
           "Title": "Category:各行為人物"
+        },
+        {
+          "ID": 5683921,
+          "Title": "Category:各领域哲学家"
         },
         {
           "ID": 33577,
@@ -798,6 +898,10 @@
           "Title": "Category:演员"
         },
         {
+          "ID": 1575105,
+          "Title": "Category:無國籍人士"
+        },
+        {
           "ID": 1563010,
           "Title": "Category:現任國家領導人"
         },
@@ -818,8 +922,24 @@
           "Title": "Category:發明家"
         },
         {
+          "ID": 41464,
+          "Title": "Category:美国人"
+        },
+        {
+          "ID": 4813478,
+          "Title": "Category:美国各州共和党人"
+        },
+        {
+          "ID": 4804622,
+          "Title": "Category:美国各州民主党人"
+        },
+        {
           "ID": 1437024,
           "Title": "Category:美國將軍"
+        },
+        {
+          "ID": 1158308,
+          "Title": "Category:美國搖滾歌手"
         },
         {
           "ID": 1244713,
@@ -832,6 +952,10 @@
         {
           "ID": 71616,
           "Title": "Category:艺术家"
+        },
+        {
+          "ID": 735089,
+          "Title": "Category:英格兰人"
         },
         {
           "ID": 83034,
@@ -876,6 +1000,10 @@
           "Title": "Category:元哲学"
         },
         {
+          "ID": 6006656,
+          "Title": "Category:各領域科學哲學"
+        },
+        {
           "ID": 33576,
           "Title": "Category:哲学"
         },
@@ -890,6 +1018,10 @@
         {
           "ID": 544680,
           "Title": "Category:哲学理论"
+        },
+        {
+          "ID": 1678301,
+          "Title": "Category:哲学运动"
         },
         {
           "ID": 73396,
@@ -914,6 +1046,10 @@
         {
           "ID": 1146391,
           "Title": "Category:現實"
+        },
+        {
+          "ID": 113785,
+          "Title": "Category:自由主义"
         }
       ]
     },
@@ -928,6 +1064,10 @@
         {
           "ID": 406631,
           "Title": "Category:各種宗教宗派及運動"
+        },
+        {
+          "ID": 5447912,
+          "Title": "Category:基督教与死亡"
         },
         {
           "ID": 33582,
@@ -962,6 +1102,10 @@
         {
           "ID": 4272746,
           "Title": "Category:人文科學"
+        },
+        {
+          "ID": 1595337,
+          "Title": "Category:伊斯蘭主義團體"
         },
         {
           "ID": 51786,
@@ -1004,6 +1148,10 @@
           "Title": "Category:地缘政治"
         },
         {
+          "ID": 5948641,
+          "Title": "Category:夏令时"
+        },
+        {
           "ID": 54908,
           "Title": "Category:女性主義"
         },
@@ -1044,6 +1192,10 @@
           "Title": "Category:政治制度"
         },
         {
+          "ID": 1840644,
+          "Title": "Category:有组织犯罪活动"
+        },
+        {
           "ID": 58103,
           "Title": "Category:權利"
         },
@@ -1072,12 +1224,12 @@
           "Title": "Category:组织"
         },
         {
-          "ID": 59306,
-          "Title": "Category:航空公司"
+          "ID": 5392091,
+          "Title": "Category:美国各县学校"
         },
         {
-          "ID": 3182640,
-          "Title": "Category:谋杀案"
+          "ID": 59306,
+          "Title": "Category:航空公司"
         },
         {
           "ID": 51160,
@@ -1086,6 +1238,10 @@
         {
           "ID": 1689693,
           "Title": "Category:通貨"
+        },
+        {
+          "ID": 6255437,
+          "Title": "Category:都市衰退"
         },
         {
           "ID": 168518,

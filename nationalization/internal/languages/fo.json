@@ -104,8 +104,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 14898,
+          "Title": "Bólkur:Amerikanskir lutstatir"
+        },
+        {
           "ID": 17508,
           "Title": "Bólkur:Býir"
+        },
+        {
+          "ID": 16261,
+          "Title": "Bólkur:Býir og bygdir í USA"
         },
         {
           "ID": 29731,
@@ -122,6 +130,10 @@
         {
           "ID": 21527,
           "Title": "Bólkur:Minnisvarðar"
+        },
+        {
+          "ID": 5687,
+          "Title": "Bólkur:USA"
         },
         {
           "ID": 11782,
@@ -224,6 +236,10 @@
           "Title": "Bólkur:Lívið"
         },
         {
+          "ID": 8265,
+          "Title": "Bólkur:Minst stúrin sløg"
+        },
+        {
           "ID": 21411,
           "Title": "Bólkur:Náttúra"
         },
@@ -254,6 +270,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 14889,
+          "Title": "Bólkur:Amerikanarar"
+        },
+        {
           "ID": 19448,
           "Title": "Bólkur:Andlát eftir ári"
         },
@@ -282,6 +302,18 @@
           "Title": "Bólkur:Føðingar eftir ári"
         },
         {
+          "ID": 2433,
+          "Title": "Bólkur:Føðingar í 18. øld"
+        },
+        {
+          "ID": 2428,
+          "Title": "Bólkur:Føðingar í 19. øld"
+        },
+        {
+          "ID": 2424,
+          "Title": "Bólkur:Føðingar í 20. øld"
+        },
+        {
           "ID": 7080,
           "Title": "Bólkur:Heimspekingar"
         },
@@ -296,6 +328,10 @@
         {
           "ID": 16216,
           "Title": "Bólkur:Læknar"
+        },
+        {
+          "ID": 7744,
+          "Title": "Bólkur:Onglendingar"
         },
         {
           "ID": 11583,

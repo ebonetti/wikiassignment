@@ -140,8 +140,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3698,
+          "Title": "Flokkur:Bandaríkin"
+        },
+        {
           "ID": 10975,
           "Title": "Flokkur:Borgir"
+        },
+        {
+          "ID": 21050,
+          "Title": "Flokkur:Borgir í Bandaríkjunum"
+        },
+        {
+          "ID": 10645,
+          "Title": "Flokkur:Fylki í Bandaríkjunum"
         },
         {
           "ID": 1705,
@@ -304,6 +316,10 @@
           "Title": "Flokkur:Prótín"
         },
         {
+          "ID": 75485,
+          "Title": "Flokkur:Tegundir í fullu fjöri"
+        },
+        {
           "ID": 2992,
           "Title": "Flokkur:Vistfræði"
         },
@@ -326,8 +342,16 @@
           "Title": "Flokkur:Arkitektar"
         },
         {
+          "ID": 3273,
+          "Title": "Flokkur:Bandaríkjamenn"
+        },
+        {
           "ID": 139297,
           "Title": "Flokkur:Byltingarmenn"
+        },
+        {
+          "ID": 11450,
+          "Title": "Flokkur:Englendingar"
         },
         {
           "ID": 145733,
@@ -354,8 +378,24 @@
           "Title": "Flokkur:Fólk eftir fæðingarárum"
         },
         {
+          "ID": 33948,
+          "Title": "Flokkur:Fólk fætt á 18. öld"
+        },
+        {
+          "ID": 33949,
+          "Title": "Flokkur:Fólk fætt á 19. öld"
+        },
+        {
+          "ID": 33933,
+          "Title": "Flokkur:Fólk fætt á 20. öld"
+        },
+        {
           "ID": 3769,
           "Title": "Flokkur:Heimspekingar"
+        },
+        {
+          "ID": 20233,
+          "Title": "Flokkur:Heimspekingar eftir undirgreinum"
         },
         {
           "ID": 114928,

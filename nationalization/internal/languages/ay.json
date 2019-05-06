@@ -48,6 +48,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 4688,
+          "Title": "Categoría:Istadus Unidus"
+        },
+        {
           "ID": 4273,
           "Title": "Categoría:Jach'a marka"
         },
@@ -58,6 +62,14 @@
         {
           "ID": 4296,
           "Title": "Categoría:Marka"
+        },
+        {
+          "ID": 4687,
+          "Title": "Categoría:Marka (Istadus Unidus)"
+        },
+        {
+          "ID": 8762,
+          "Title": "Categoría:Suyu (Istadus Unidus)"
         },
         {
           "ID": 2951,
@@ -133,6 +145,14 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 8678,
+          "Title": "Categoría:Inlatirra jaqinaka"
+        },
+        {
+          "ID": 4807,
+          "Title": "Categoría:Istadus Unidus jaqinaka"
+        },
         {
           "ID": 2783,
           "Title": "Categoría:Jaqinaka"

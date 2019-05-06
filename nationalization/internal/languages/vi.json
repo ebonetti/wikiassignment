@@ -74,6 +74,10 @@
           "Title": "Thể loại:Hư cấu"
         },
         {
+          "ID": 14604939,
+          "Title": "Thể loại:Kênh YouTube theo năm"
+        },
+        {
           "ID": 3297757,
           "Title": "Thể loại:Kỹ thuật nấu ăn"
         },
@@ -108,6 +112,10 @@
         {
           "ID": 3119901,
           "Title": "Thể loại:Nhàn rỗi"
+        },
+        {
+          "ID": 3390579,
+          "Title": "Thể loại:Nhóm nhạc theo thể loại và quốc gia"
         },
         {
           "ID": 1738103,
@@ -344,8 +352,16 @@
           "Title": "Thể loại:Cung điện"
         },
         {
+          "ID": 3228418,
+          "Title": "Thể loại:Các quốc gia thành viên của Liên Hiệp Quốc"
+        },
+        {
           "ID": 12475415,
           "Title": "Thể loại:Danh sách địa lý"
+        },
+        {
+          "ID": 3254,
+          "Title": "Thể loại:Hoa Kỳ"
         },
         {
           "ID": 2421396,
@@ -354,6 +370,10 @@
         {
           "ID": 2421394,
           "Title": "Thể loại:Khu dân cư theo quốc gia"
+        },
+        {
+          "ID": 2454182,
+          "Title": "Thể loại:Khu vực đông dân ở Hoa Kỳ"
         },
         {
           "ID": 14518693,
@@ -396,8 +416,20 @@
           "Title": "Thể loại:Thành phố"
         },
         {
+          "ID": 6764,
+          "Title": "Thể loại:Thành phố Hoa Kỳ"
+        },
+        {
           "ID": 1644880,
           "Title": "Thể loại:Thị trấn"
+        },
+        {
+          "ID": 2876800,
+          "Title": "Thể loại:Thị trấn của Hoa Kỳ"
+        },
+        {
+          "ID": 68032,
+          "Title": "Thể loại:Tiểu bang Hoa Kỳ"
         },
         {
           "ID": 14213,
@@ -410,6 +442,10 @@
         {
           "ID": 3102443,
           "Title": "Thể loại:Xa lộ"
+        },
+        {
+          "ID": 7444798,
+          "Title": "Thể loại:Đơn vị lãnh thổ hành chính theo ngôn ngữ"
         },
         {
           "ID": 806778,
@@ -500,6 +536,10 @@
           "Title": "Thể loại:Chiến tranh"
         },
         {
+          "ID": 14751556,
+          "Title": "Thể loại:Chính trị Hoa Kỳ theo năm"
+        },
+        {
           "ID": 5324524,
           "Title": "Thể loại:Các cuộc chiến tranh"
         },
@@ -524,6 +564,10 @@
           "Title": "Thể loại:Lịch sử"
         },
         {
+          "ID": 3151504,
+          "Title": "Thể loại:Lịch sử Hoa Kỳ (1991–nay)"
+        },
+        {
           "ID": 64067,
           "Title": "Thể loại:Lịch sử chính trị"
         },
@@ -538,6 +582,10 @@
         {
           "ID": 33278,
           "Title": "Thể loại:Lịch sử theo quốc gia"
+        },
+        {
+          "ID": 2454189,
+          "Title": "Thể loại:Lịch sử theo quốc gia và chủ đề"
         },
         {
           "ID": 1772198,
@@ -558,6 +606,10 @@
         {
           "ID": 3121928,
           "Title": "Thể loại:Thời biểu công nghệ"
+        },
+        {
+          "ID": 14515391,
+          "Title": "Thể loại:Vụ giết người"
         },
         {
           "ID": 2459451,
@@ -656,6 +708,10 @@
           "Title": "Thể loại:Khoa học tự nhiên"
         },
         {
+          "ID": 91501,
+          "Title": "Thể loại:Loài ít quan tâm"
+        },
+        {
           "ID": 17168,
           "Title": "Thể loại:Protein"
         },
@@ -714,6 +770,14 @@
           "Title": "Thể loại:Bác sĩ"
         },
         {
+          "ID": 3209395,
+          "Title": "Thể loại:Ca sĩ Mỹ thế kỷ 21"
+        },
+        {
+          "ID": 3210511,
+          "Title": "Thể loại:Ca sĩ nhạc rock Mỹ"
+        },
+        {
           "ID": 6855,
           "Title": "Thể loại:Chính khách"
         },
@@ -762,20 +826,48 @@
           "Title": "Thể loại:Nguyên thủ quốc gia"
         },
         {
+          "ID": 10646,
+          "Title": "Thể loại:Người Anh"
+        },
+        {
+          "ID": 9695,
+          "Title": "Thể loại:Người Mỹ"
+        },
+        {
+          "ID": 58523,
+          "Title": "Thể loại:Người Mỹ theo nghề nghiệp"
+        },
+        {
           "ID": 1762554,
           "Title": "Thể loại:Người chết"
+        },
+        {
+          "ID": 14733937,
+          "Title": "Thể loại:Người sáng lập công ty"
         },
         {
           "ID": 1614168,
           "Title": "Thể loại:Người theo hành vi"
         },
         {
+          "ID": 3641703,
+          "Title": "Thể loại:Người theo lục địa và nghề nghiệp"
+        },
+        {
           "ID": 241269,
           "Title": "Thể loại:Người theo nghề nghiệp"
         },
         {
+          "ID": 2442841,
+          "Title": "Thể loại:Người theo nghề nghiệp và thời kỳ"
+        },
+        {
           "ID": 38489,
           "Title": "Thể loại:Người theo năm mất"
+        },
+        {
+          "ID": 1684162,
+          "Title": "Thể loại:Người theo thế kỷ"
         },
         {
           "ID": 2447712,
@@ -784,6 +876,10 @@
         {
           "ID": 3247893,
           "Title": "Thể loại:Người viết tiểu sử"
+        },
+        {
+          "ID": 341975,
+          "Title": "Thể loại:Người đoạt giải Nobel theo quốc tịch"
         },
         {
           "ID": 23718,
@@ -808,6 +904,10 @@
         {
           "ID": 28197,
           "Title": "Thể loại:Nhà triết học"
+        },
+        {
+          "ID": 14171983,
+          "Title": "Thể loại:Nhà triết học theo lĩnh vực"
         },
         {
           "ID": 6284,
@@ -858,8 +958,24 @@
           "Title": "Thể loại:Sinh theo năm"
         },
         {
+          "ID": 19345,
+          "Title": "Thể loại:Sinh thế kỷ 18"
+        },
+        {
+          "ID": 19344,
+          "Title": "Thể loại:Sinh thế kỷ 19"
+        },
+        {
+          "ID": 19342,
+          "Title": "Thể loại:Sinh thế kỷ 20"
+        },
+        {
           "ID": 39246,
           "Title": "Thể loại:Thầy thuốc"
+        },
+        {
+          "ID": 14669619,
+          "Title": "Thể loại:Tín hữu Kitô giáo theo thế kỷ"
         },
         {
           "ID": 144753,
@@ -884,6 +1000,14 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
+          "ID": 3387975,
+          "Title": "Thể loại:Chuyên ngành triết học"
+        },
+        {
+          "ID": 45522,
+          "Title": "Thể loại:Chủ nghĩa tự do"
+        },
+        {
           "ID": 48836,
           "Title": "Thể loại:Học thuyết chính trị"
         },
@@ -898,6 +1022,10 @@
         {
           "ID": 1680538,
           "Title": "Thể loại:Lý thuyết triết học"
+        },
+        {
+          "ID": 302584,
+          "Title": "Thể loại:Phong trào triết học"
         },
         {
           "ID": 62165,
@@ -1008,6 +1136,10 @@
           "Title": "Thể loại:Giáo dục theo quốc gia"
         },
         {
+          "ID": 13483576,
+          "Title": "Thể loại:Hoạt động tội phạm có tổ chức"
+        },
+        {
           "ID": 92608,
           "Title": "Thể loại:Hãng hàng không"
         },
@@ -1040,8 +1172,16 @@
           "Title": "Thể loại:Nhân văn học"
         },
         {
+          "ID": 12486402,
+          "Title": "Thể loại:Nhóm Hồi giáo chủ nghĩa"
+        },
+        {
           "ID": 14247986,
           "Title": "Thể loại:Nhóm đoàn thể"
+        },
+        {
+          "ID": 14251533,
+          "Title": "Thể loại:Phân rã đô thị"
         },
         {
           "ID": 263145,
@@ -1066,6 +1206,10 @@
         {
           "ID": 34053,
           "Title": "Thể loại:Tiền tệ"
+        },
+        {
+          "ID": 7966642,
+          "Title": "Thể loại:Trường học Hoa Kỳ theo quận"
         },
         {
           "ID": 88920,
@@ -1096,10 +1240,6 @@
           "Title": "Thể loại:Tổ chức quốc tế"
         },
         {
-          "ID": 14515391,
-          "Title": "Thể loại:Vụ giết người"
-        },
-        {
           "ID": 7494,
           "Title": "Thể loại:Xã hội"
         },
@@ -1128,6 +1268,10 @@
         {
           "ID": 2208,
           "Title": "Thể loại:Công nghệ"
+        },
+        {
+          "ID": 3143525,
+          "Title": "Thể loại:Công nghệ năng lượng"
         },
         {
           "ID": 7624018,

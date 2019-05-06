@@ -7,7 +7,13 @@
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places"
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 5148,
+          "Title": "विभाग:संयुक्त राज्य अमेरिका"
+        }
+      ]
     },
     {
       "ID": 2147483639,

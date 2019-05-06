@@ -256,6 +256,10 @@
           "Title": "Kategori:Byer"
         },
         {
+          "ID": 37487,
+          "Title": "Kategori:Byer i USA"
+        },
+        {
           "ID": 65549,
           "Title": "Kategori:Byplanlegging"
         },
@@ -306,6 +310,14 @@
         {
           "ID": 1648660,
           "Title": "Kategori:Territorier"
+        },
+        {
+          "ID": 37486,
+          "Title": "Kategori:USA"
+        },
+        {
+          "ID": 469278,
+          "Title": "Kategori:USAs delstater"
         },
         {
           "ID": 18910,
@@ -360,6 +372,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 21622,
+          "Title": "Kategori:Hendelser"
+        },
+        {
           "ID": 13177,
           "Title": "Kategori:Historie"
         },
@@ -372,7 +388,7 @@
           "Title": "Kategori:Historie etter område"
         },
         {
-          "ID": 21622,
+          "ID": 1683225,
           "Title": "Kategori:Historiske hendelser"
         },
         {
@@ -394,10 +410,6 @@
         {
           "ID": 14185,
           "Title": "Kategori:Revolusjoner"
-        },
-        {
-          "ID": 913202,
-          "Title": "Kategori:Revolusjoner etter land"
         },
         {
           "ID": 1040166,
@@ -500,6 +512,10 @@
           "Title": "Kategori:Livet"
         },
         {
+          "ID": 1233197,
+          "Title": "Kategori:Livskraftige arter på IUCNs rødliste"
+        },
+        {
           "ID": 30752,
           "Title": "Kategori:Natur"
         },
@@ -550,6 +566,10 @@
           "Title": "Kategori:Dødsfall etter årstall"
         },
         {
+          "ID": 9126,
+          "Title": "Kategori:Engelskmenn"
+        },
+        {
           "ID": 16652,
           "Title": "Kategori:Etternavn"
         },
@@ -566,6 +586,10 @@
           "Title": "Kategori:Filosofer"
         },
         {
+          "ID": 634317,
+          "Title": "Kategori:Filosofer etter disiplin"
+        },
+        {
           "ID": 12207,
           "Title": "Kategori:Flyvere"
         },
@@ -578,8 +602,24 @@
           "Title": "Kategori:Fødsler etter årstall"
         },
         {
+          "ID": 41145,
+          "Title": "Kategori:Fødsler på 1700-tallet"
+        },
+        {
+          "ID": 41167,
+          "Title": "Kategori:Fødsler på 1800-tallet"
+        },
+        {
+          "ID": 41054,
+          "Title": "Kategori:Fødsler på 1900-tallet"
+        },
+        {
           "ID": 469481,
           "Title": "Kategori:Generaler fra USA"
+        },
+        {
+          "ID": 707501,
+          "Title": "Kategori:Gründere"
         },
         {
           "ID": 16234,
@@ -602,6 +642,10 @@
           "Title": "Kategori:Musikere"
         },
         {
+          "ID": 808623,
+          "Title": "Kategori:Nobelprisvinnere etter nasjonalitet"
+        },
+        {
           "ID": 9218,
           "Title": "Kategori:Oppdagere"
         },
@@ -616,6 +660,14 @@
         {
           "ID": 46354,
           "Title": "Kategori:Personer etter beskjeftigelse"
+        },
+        {
+          "ID": 1555245,
+          "Title": "Kategori:Personer etter århundre"
+        },
+        {
+          "ID": 920381,
+          "Title": "Kategori:Personer fra USA etter beskjeftigelse"
         },
         {
           "ID": 9124,
@@ -672,6 +724,10 @@
           "Title": "Kategori:Ideologier"
         },
         {
+          "ID": 20125,
+          "Title": "Kategori:Liberalisme"
+        },
+        {
           "ID": 1584663,
           "Title": "Kategori:Metafilosofi"
         },
@@ -697,6 +753,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 1694317,
+          "Title": "Kategori:Dharmiske religioner"
+        },
         {
           "ID": 16455,
           "Title": "Kategori:Religion"

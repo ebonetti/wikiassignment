@@ -230,6 +230,10 @@
           "Title": "Categoria:Luta profissional"
         },
         {
+          "ID": 3859526,
+          "Title": "Categoria:Luta profissional por ano"
+        },
+        {
           "ID": 544696,
           "Title": "Categoria:Magia"
         },
@@ -276,6 +280,10 @@
         {
           "ID": 4557735,
           "Title": "Categoria:Práticas sexuais"
+        },
+        {
+          "ID": 2444598,
+          "Title": "Categoria:Quartetos musicais"
         },
         {
           "ID": 620175,
@@ -340,12 +348,28 @@
           "Title": "Categoria:Cidades"
         },
         {
+          "ID": 57025,
+          "Title": "Categoria:Cidades dos Estados Unidos"
+        },
+        {
           "ID": 5581392,
           "Title": "Categoria:Desenho urbano"
         },
         {
           "ID": 3077104,
           "Title": "Categoria:Estado"
+        },
+        {
+          "ID": 52504,
+          "Title": "Categoria:Estados Unidos"
+        },
+        {
+          "ID": 2521600,
+          "Title": "Categoria:Estados dos Estados Unidos"
+        },
+        {
+          "ID": 3721995,
+          "Title": "Categoria:Estados-membros da Organização das Nações Unidas"
         },
         {
           "ID": 538413,
@@ -362,6 +386,10 @@
         {
           "ID": 66405,
           "Title": "Categoria:Listas de geografia"
+        },
+        {
+          "ID": 3268086,
+          "Title": "Categoria:Localidades dos Estados Unidos"
         },
         {
           "ID": 1028082,
@@ -410,6 +438,10 @@
         {
           "ID": 2164908,
           "Title": "Categoria:Vilas"
+        },
+        {
+          "ID": 2521615,
+          "Title": "Categoria:Vilas dos Estados Unidos"
         }
       ]
     },
@@ -459,6 +491,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 2114779,
+          "Title": "Categoria:Assassinatos"
+        },
         {
           "ID": 41451,
           "Title": "Categoria:Atentados terroristas"
@@ -516,12 +552,24 @@
           "Title": "Categoria:História por país"
         },
         {
+          "ID": 4636885,
+          "Title": "Categoria:História por país e tema"
+        },
+        {
+          "ID": 5980664,
+          "Title": "Categoria:Política dos Estados Unidos por ano"
+        },
+        {
           "ID": 4162380,
           "Title": "Categoria:Repressão política"
         },
         {
           "ID": 19159,
           "Title": "Categoria:Revoluções"
+        },
+        {
+          "ID": 5959123,
+          "Title": "Categoria:Tiroteios em massa por país"
         }
       ]
     },
@@ -616,6 +664,10 @@
           "Title": "Categoria:Ecologia"
         },
         {
+          "ID": 1035228,
+          "Title": "Categoria:Espécies pouco preocupantes"
+        },
+        {
           "ID": 1244045,
           "Title": "Categoria:Fauna por continente"
         },
@@ -706,6 +758,10 @@
           "Title": "Categoria:Cientistas políticos"
         },
         {
+          "ID": 4474746,
+          "Title": "Categoria:Cristãos por século"
+        },
+        {
           "ID": 2270850,
           "Title": "Categoria:Ego"
         },
@@ -718,6 +774,14 @@
           "Title": "Categoria:Escritores"
         },
         {
+          "ID": 14948,
+          "Title": "Categoria:Estado-unidenses"
+        },
+        {
+          "ID": 1741880,
+          "Title": "Categoria:Estado-unidenses por ocupação"
+        },
+        {
           "ID": 14429,
           "Title": "Categoria:Exploradores"
         },
@@ -726,12 +790,24 @@
           "Title": "Categoria:Filósofos"
         },
         {
+          "ID": 4218183,
+          "Title": "Categoria:Filósofos por assunto"
+        },
+        {
           "ID": 2835350,
           "Title": "Categoria:Generais dos Estados Unidos"
         },
         {
+          "ID": 14073,
+          "Title": "Categoria:Ingleses"
+        },
+        {
           "ID": 22283,
           "Title": "Categoria:Inventores"
+        },
+        {
+          "ID": 3878888,
+          "Title": "Categoria:Laureados com o Nobel por país"
         },
         {
           "ID": 3633477,
@@ -750,6 +826,10 @@
           "Title": "Categoria:Mortos por ano"
         },
         {
+          "ID": 5380737,
+          "Title": "Categoria:Mortos por século"
+        },
+        {
           "ID": 1434825,
           "Title": "Categoria:Mulher"
         },
@@ -764,6 +844,18 @@
         {
           "ID": 14423,
           "Title": "Categoria:Músicos"
+        },
+        {
+          "ID": 3480724,
+          "Title": "Categoria:Nascidos no século XIX"
+        },
+        {
+          "ID": 3504552,
+          "Title": "Categoria:Nascidos no século XVIII"
+        },
+        {
+          "ID": 3476058,
+          "Title": "Categoria:Nascidos no século XX"
         },
         {
           "ID": 3555242,
@@ -798,8 +890,20 @@
           "Title": "Categoria:Pessoas por comportamento"
         },
         {
+          "ID": 5877451,
+          "Title": "Categoria:Pessoas por continente e ocupação"
+        },
+        {
           "ID": 41144,
           "Title": "Categoria:Pessoas por ocupação"
+        },
+        {
+          "ID": 2262771,
+          "Title": "Categoria:Pessoas por ocupação e período"
+        },
+        {
+          "ID": 3444805,
+          "Title": "Categoria:Pessoas por século"
         },
         {
           "ID": 3630896,
@@ -852,12 +956,20 @@
           "Title": "Categoria:Ideologias"
         },
         {
+          "ID": 100702,
+          "Title": "Categoria:Liberalismo"
+        },
+        {
           "ID": 2848637,
           "Title": "Categoria:Metafilosofia"
         },
         {
           "ID": 153434,
           "Title": "Categoria:Metafísica"
+        },
+        {
+          "ID": 296227,
+          "Title": "Categoria:Movimentos filosóficos"
         },
         {
           "ID": 1403247,
@@ -898,6 +1010,10 @@
           "Title": "Categoria:Crenças, tradições e movimentos religiosos"
         },
         {
+          "ID": 5349868,
+          "Title": "Categoria:Cristianismo e morte"
+        },
+        {
           "ID": 2538328,
           "Title": "Categoria:Criticismo de religião"
         },
@@ -928,10 +1044,6 @@
           "Title": "Categoria:Agências governamentais"
         },
         {
-          "ID": 2114779,
-          "Title": "Categoria:Assassinatos"
-        },
-        {
           "ID": 26820,
           "Title": "Categoria:Bandeiras nacionais"
         },
@@ -942,6 +1054,10 @@
         {
           "ID": 15662,
           "Title": "Categoria:Ciências sociais"
+        },
+        {
+          "ID": 4117183,
+          "Title": "Categoria:Decadência urbana"
         },
         {
           "ID": 2658293,
@@ -992,6 +1108,10 @@
           "Title": "Categoria:Guildas"
         },
         {
+          "ID": 5232393,
+          "Title": "Categoria:Horário de verão"
+        },
+        {
           "ID": 4939824,
           "Title": "Categoria:Humanidades"
         },
@@ -1014,6 +1134,10 @@
         {
           "ID": 22787,
           "Title": "Categoria:Moedas"
+        },
+        {
+          "ID": 5992469,
+          "Title": "Categoria:Moedas circulantes"
         },
         {
           "ID": 16863,

@@ -20,6 +20,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 5914,
+          "Title": "Grup:Ol Yunaitet Stet"
+        },
+        {
           "ID": 2882,
           "Title": "Grup:Ol kantri"
         },
@@ -30,6 +34,10 @@
         {
           "ID": 5992,
           "Title": "Grup:Ol siti na taun bilong kantri"
+        },
+        {
+          "ID": 5938,
+          "Title": "Grup:Ol stet bilong Ol Yunaitet Stet"
         },
         {
           "ID": 5888,
