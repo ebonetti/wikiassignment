@@ -58,8 +58,16 @@
           "Title": "Kategori:Dergiler"
         },
         {
+          "ID": 1320561,
+          "Title": "Kategori:Dillerine göre eserler"
+        },
+        {
           "ID": 1659620,
           "Title": "Kategori:Dillerine göre televizyon programları"
+        },
+        {
+          "ID": 12670,
+          "Title": "Kategori:Dönemlere göre tarih"
         },
         {
           "ID": 5624,
@@ -138,6 +146,10 @@
           "Title": "Kategori:Kişisel hayat"
         },
         {
+          "ID": 64888,
+          "Title": "Kategori:Kuleler"
+        },
+        {
           "ID": 81449,
           "Title": "Kategori:Kurgu"
         },
@@ -160,6 +172,10 @@
         {
           "ID": 838867,
           "Title": "Kategori:Kültür sözleşmeleri"
+        },
+        {
+          "ID": 378931,
+          "Title": "Kategori:Kültürel hareketler"
         },
         {
           "ID": 599640,
@@ -282,6 +298,10 @@
           "Title": "Kategori:Tahta oyunları"
         },
         {
+          "ID": 1200664,
+          "Title": "Kategori:Tarih çağları"
+        },
+        {
           "ID": 1550222,
           "Title": "Kategori:Tarz ve milletlerine göre müzik grupları"
         },
@@ -330,6 +350,10 @@
           "Title": "Kategori:YouTube ile ilgili listeler"
         },
         {
+          "ID": 12381,
+          "Title": "Kategori:Çağlar"
+        },
+        {
           "ID": 433997,
           "Title": "Kategori:Öğretim"
         },
@@ -344,6 +368,10 @@
         {
           "ID": 167154,
           "Title": "Kategori:İnternet kültürü"
+        },
+        {
+          "ID": 1297743,
+          "Title": "Kategori:İtalya'daki futbol kulüpleri"
         }
       ]
     },
@@ -351,6 +379,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 662076,
+          "Title": "Kategori:Afrika kıtasındaki ülkeler"
+        },
         {
           "ID": 7724,
           "Title": "Kategori:Amerika Birleşik Devletleri"
@@ -376,6 +408,18 @@
           "Title": "Kategori:Anıtlar"
         },
         {
+          "ID": 22441,
+          "Title": "Kategori:Asya kıtasındaki ülkeler"
+        },
+        {
+          "ID": 22318,
+          "Title": "Kategori:Avrupa ülkeleri"
+        },
+        {
+          "ID": 24088,
+          "Title": "Kategori:Beldeler"
+        },
+        {
           "ID": 1605520,
           "Title": "Kategori:Birleşmiş Milletler üyesi ülkeler"
         },
@@ -394,6 +438,10 @@
         {
           "ID": 2096,
           "Title": "Kategori:Devlet"
+        },
+        {
+          "ID": 71457,
+          "Title": "Kategori:Güney Amerika ülkeleri"
         },
         {
           "ID": 16879,
@@ -416,8 +464,20 @@
           "Title": "Kategori:Kraliyet ikametgahları"
         },
         {
+          "ID": 116813,
+          "Title": "Kategori:Kuzey Amerika ülkeleri"
+        },
+        {
+          "ID": 1243086,
+          "Title": "Kategori:Kıtalara göre ülkeler"
+        },
+        {
           "ID": 160786,
           "Title": "Kategori:Nehirler"
+        },
+        {
+          "ID": 190230,
+          "Title": "Kategori:Okyanusya ülkeleri"
         },
         {
           "ID": 747831,
@@ -532,6 +592,10 @@
           "Title": "Kategori:Amerika Birleşik Devletleri tarihi (1991-bugün)"
         },
         {
+          "ID": 593713,
+          "Title": "Kategori:Avrupa Birliği tarihi"
+        },
+        {
           "ID": 74091,
           "Title": "Kategori:Belirli günler ve haftalar"
         },
@@ -542,6 +606,10 @@
         {
           "ID": 23528,
           "Title": "Kategori:Devrimler"
+        },
+        {
+          "ID": 379157,
+          "Title": "Kategori:Eski etnik gruplar"
         },
         {
           "ID": 1039630,
@@ -744,6 +812,10 @@
           "Title": "Kategori:Yenilebilir meyve"
         },
         {
+          "ID": 261867,
+          "Title": "Kategori:Yıldız türleri"
+        },
+        {
           "ID": 10436,
           "Title": "Kategori:Zooloji"
         },
@@ -786,6 +858,10 @@
           "Title": "Kategori:Amerikalılar"
         },
         {
+          "ID": 1212275,
+          "Title": "Kategori:Atina doğumlular"
+        },
+        {
           "ID": 357179,
           "Title": "Kategori:Başkanlar"
         },
@@ -808,6 +884,10 @@
         {
           "ID": 23525,
           "Title": "Kategori:Devrimciler"
+        },
+        {
+          "ID": 2353453,
+          "Title": "Kategori:Doğduğu şehirlere göre kişiler"
         },
         {
           "ID": 24301,
@@ -864,6 +944,10 @@
         {
           "ID": 412235,
           "Title": "Kategori:Kâşifler"
+        },
+        {
+          "ID": 23524,
+          "Title": "Kategori:Kübalı siyasetçiler"
         },
         {
           "ID": 3303,
@@ -974,6 +1058,10 @@
           "Title": "Kategori:İngilizler"
         },
         {
+          "ID": 102303,
+          "Title": "Kategori:İtalyan futbolcular"
+        },
+        {
           "ID": 1480449,
           "Title": "Kategori:Şirket kurucuları"
         }
@@ -1034,6 +1122,10 @@
         {
           "ID": 6335,
           "Title": "Kategori:Politik kuramlar"
+        },
+        {
+          "ID": 10399,
+          "Title": "Kategori:Yönetim biçimleri"
         },
         {
           "ID": 125208,

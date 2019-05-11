@@ -126,8 +126,16 @@
           "Title": "Kategorija:Seksualnost"
         },
         {
+          "ID": 50857,
+          "Title": "Kategorija:Talijanski nogometni klubovi"
+        },
+        {
           "ID": 41724,
           "Title": "Kategorija:Televizija"
+        },
+        {
+          "ID": 78781,
+          "Title": "Kategorija:Tornjevi"
         },
         {
           "ID": 155139,
@@ -176,6 +184,26 @@
           "Title": "Kategorija:Države svijeta"
         },
         {
+          "ID": 52669,
+          "Title": "Kategorija:Države u Africi"
+        },
+        {
+          "ID": 153505,
+          "Title": "Kategorija:Države u Australiji i Oceaniji"
+        },
+        {
+          "ID": 52937,
+          "Title": "Kategorija:Države u Aziji"
+        },
+        {
+          "ID": 52807,
+          "Title": "Kategorija:Države u Europi"
+        },
+        {
+          "ID": 52816,
+          "Title": "Kategorija:Države u Južnoj Americi"
+        },
+        {
           "ID": 187228,
           "Title": "Kategorija:Geografija"
         },
@@ -202,6 +230,10 @@
         {
           "ID": 153332,
           "Title": "Kategorija:Naselja u SAD-u"
+        },
+        {
+          "ID": 14517,
+          "Title": "Kategorija:Općine"
         },
         {
           "ID": 205482,
@@ -270,6 +302,10 @@
         {
           "ID": 10542,
           "Title": "Kategorija:Ratovi"
+        },
+        {
+          "ID": 181396,
+          "Title": "Kategorija:Stari narodi i civilizacije"
         }
       ]
     },
@@ -422,6 +458,10 @@
           "Title": "Kategorija:Književnici"
         },
         {
+          "ID": 157902,
+          "Title": "Kategorija:Kubanski političari"
+        },
+        {
           "ID": 20840,
           "Title": "Kategorija:Liječnici"
         },
@@ -454,6 +494,10 @@
           "Title": "Kategorija:Revolucionari"
         },
         {
+          "ID": 49572,
+          "Title": "Kategorija:Talijanski nogometaši"
+        },
+        {
           "ID": 16771,
           "Title": "Kategorija:Umjetnici"
         },
@@ -468,6 +512,10 @@
         {
           "ID": 469185,
           "Title": "Kategorija:Životopisi"
+        },
+        {
+          "ID": 602925,
+          "Title": "Kategorija:Životopisi po gradovima"
         },
         {
           "ID": 474404,
@@ -498,6 +546,10 @@
         {
           "ID": 89161,
           "Title": "Kategorija:Metafizika"
+        },
+        {
+          "ID": 63031,
+          "Title": "Kategorija:Oblici vladavine"
         }
       ]
     },

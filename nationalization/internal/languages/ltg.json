@@ -84,8 +84,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3426,
+          "Title": "Kategoreja:Afrikys vaļsteibys"
+        },
+        {
           "ID": 3373,
           "Title": "Kategoreja:Amerikys Saškierstuos Vaļsteibys"
+        },
+        {
+          "ID": 3410,
+          "Title": "Kategoreja:Azejys vaļsteibys"
         },
         {
           "ID": 1628,
@@ -94,6 +102,14 @@
         {
           "ID": 1620,
           "Title": "Kategoreja:Dzeivojamuos vītys pa vaļsteibai"
+        },
+        {
+          "ID": 3501,
+          "Title": "Kategoreja:Dīnavydu Amerikys vaļsteibys"
+        },
+        {
+          "ID": 3466,
+          "Title": "Kategoreja:Europys vaļsteibys"
         },
         {
           "ID": 716,
@@ -110,6 +126,14 @@
         {
           "ID": 801,
           "Title": "Kategoreja:Pasauļa vaļsteibys"
+        },
+        {
+          "ID": 3542,
+          "Title": "Kategoreja:Pūstumu Amerikys vaļsteibys"
+        },
+        {
+          "ID": 3522,
+          "Title": "Kategoreja:Vaļsteibys pa koņtinentim"
         },
         {
           "ID": 1110,

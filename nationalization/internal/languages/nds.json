@@ -90,6 +90,14 @@
           "Title": "Kategorie:Tietschrift"
         },
         {
+          "ID": 4111,
+          "Title": "Kategorie:Tietöller"
+        },
+        {
+          "ID": 26203,
+          "Title": "Kategorie:Toorn"
+        },
+        {
           "ID": 25385,
           "Title": "Kategorie:Wettstriet"
         }
@@ -99,6 +107,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 6985,
+          "Title": "Kategorie:Gemeen"
+        },
         {
           "ID": 18928,
           "Title": "Kategorie:Geografie"
@@ -296,6 +308,10 @@
         {
           "ID": 18604,
           "Title": "Kategorie:Familiennaam"
+        },
+        {
+          "ID": 23955,
+          "Title": "Kategorie:Footballspeler (Italien)"
         },
         {
           "ID": 2571,

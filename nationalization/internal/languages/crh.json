@@ -48,6 +48,14 @@
           "Title": "Kategoriya:Amerika Qoşma Ştatları"
         },
         {
+          "ID": 8787,
+          "Title": "Kategoriya:Asiyadaki memleketler"
+        },
+        {
+          "ID": 8786,
+          "Title": "Kategoriya:Avropadaki memleketler"
+        },
+        {
           "ID": 710,
           "Title": "Kategoriya:Coğrafiya"
         },
@@ -69,6 +77,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 4007,
+          "Title": "Kategoriya:Qadimiy halqlar"
+        },
         {
           "ID": 707,
           "Title": "Kategoriya:Tarih"

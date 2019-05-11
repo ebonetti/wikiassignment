@@ -158,12 +158,24 @@
           "Title": "Category:Foodservice"
         },
         {
+          "ID": 34431018,
+          "Title": "Category:Football clubs in Italy"
+        },
+        {
           "ID": 47960709,
           "Title": "Category:Gastronomy"
         },
         {
           "ID": 699703,
           "Title": "Category:Gender"
+        },
+        {
+          "ID": 925351,
+          "Title": "Category:Historical eras"
+        },
+        {
+          "ID": 895831,
+          "Title": "Category:History by period"
         },
         {
           "ID": 698271,
@@ -366,6 +378,10 @@
           "Title": "Category:Television programs by language"
         },
         {
+          "ID": 791935,
+          "Title": "Category:Towers"
+        },
+        {
           "ID": 3291649,
           "Title": "Category:Video games"
         },
@@ -392,6 +408,10 @@
         {
           "ID": 26218640,
           "Title": "Category:Works by creator"
+        },
+        {
+          "ID": 32346049,
+          "Title": "Category:Works by language"
         },
         {
           "ID": 38163544,
@@ -444,6 +464,34 @@
           "Title": "Category:Countries"
         },
         {
+          "ID": 5112305,
+          "Title": "Category:Countries by continent"
+        },
+        {
+          "ID": 37690776,
+          "Title": "Category:Countries in Africa"
+        },
+        {
+          "ID": 37691781,
+          "Title": "Category:Countries in Asia"
+        },
+        {
+          "ID": 37691805,
+          "Title": "Category:Countries in Europe"
+        },
+        {
+          "ID": 37691698,
+          "Title": "Category:Countries in North America"
+        },
+        {
+          "ID": 37693999,
+          "Title": "Category:Countries in Oceania"
+        },
+        {
+          "ID": 37691705,
+          "Title": "Category:Countries in South America"
+        },
+        {
           "ID": 693800,
           "Title": "Category:Geography"
         },
@@ -470,6 +518,10 @@
         {
           "ID": 4869336,
           "Title": "Category:Monuments and memorials"
+        },
+        {
+          "ID": 909258,
+          "Title": "Category:Municipalities"
         },
         {
           "ID": 879433,
@@ -612,6 +664,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 996116,
+          "Title": "Category:Ancient peoples"
+        },
+        {
           "ID": 1440139,
           "Title": "Category:Anniversaries"
         },
@@ -646,6 +702,10 @@
         {
           "ID": 707335,
           "Title": "Category:History of technology"
+        },
+        {
+          "ID": 1906876,
+          "Title": "Category:History of the European Union"
         },
         {
           "ID": 15939766,
@@ -856,6 +916,10 @@
           "Title": "Category:Scientific disciplines"
         },
         {
+          "ID": 3177479,
+          "Title": "Category:Star types"
+        },
+        {
           "ID": 694590,
           "Title": "Category:Zoology"
         }
@@ -930,6 +994,10 @@
           "Title": "Category:Biographers"
         },
         {
+          "ID": 14538335,
+          "Title": "Category:Births"
+        },
+        {
           "ID": 915435,
           "Title": "Category:Births by year"
         },
@@ -940,6 +1008,10 @@
         {
           "ID": 33803726,
           "Title": "Category:Company founders"
+        },
+        {
+          "ID": 731592,
+          "Title": "Category:Cuban politicians"
         },
         {
           "ID": 3778337,
@@ -988,6 +1060,10 @@
         {
           "ID": 745438,
           "Title": "Category:Inventors"
+        },
+        {
+          "ID": 740402,
+          "Title": "Category:Italian footballers"
         },
         {
           "ID": 3782398,
@@ -1044,6 +1120,10 @@
         {
           "ID": 11568297,
           "Title": "Category:People by century"
+        },
+        {
+          "ID": 20691270,
+          "Title": "Category:People by city"
         },
         {
           "ID": 49430430,
@@ -1138,6 +1218,10 @@
         {
           "ID": 691802,
           "Title": "Category:Ethics"
+        },
+        {
+          "ID": 737235,
+          "Title": "Category:Forms of government"
         },
         {
           "ID": 6822085,

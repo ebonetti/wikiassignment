@@ -96,6 +96,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 5071,
+          "Title": "Katõgooria:Aasia maaq"
+        },
+        {
+          "ID": 3372,
+          "Title": "Katõgooria:Aasia riigiq"
+        },
+        {
+          "ID": 5217,
+          "Title": "Katõgooria:Afriga maaq"
+        },
+        {
           "ID": 6771,
           "Title": "Katõgooria:Ameeriga Ütisriigiq"
         },
@@ -112,6 +124,10 @@
           "Title": "Katõgooria:Liinaq"
         },
         {
+          "ID": 3005,
+          "Title": "Katõgooria:Lõunõ-Ameeriga riigiq"
+        },
+        {
           "ID": 990,
           "Title": "Katõgooria:Maailma maaq"
         },
@@ -124,12 +140,28 @@
           "Title": "Katõgooria:Mälehtüsmärgiq"
         },
         {
+          "ID": 5213,
+          "Title": "Katõgooria:Okõaania maaq"
+        },
+        {
+          "ID": 7088,
+          "Title": "Katõgooria:Põh'a-Ameeriga riigiq"
+        },
+        {
           "ID": 6950,
           "Title": "Katõgooria:Riigiq"
         },
         {
           "ID": 8800,
           "Title": "Katõgooria:Riik"
+        },
+        {
+          "ID": 5084,
+          "Title": "Katõgooria:Õuruupa maaq"
+        },
+        {
+          "ID": 2779,
+          "Title": "Katõgooria:Õuruupa riigiq"
         }
       ]
     },
@@ -256,6 +288,10 @@
         {
           "ID": 4516,
           "Title": "Katõgooria:Kunstniguq"
+        },
+        {
+          "ID": 10869,
+          "Title": "Katõgooria:Kuuba poliitiguq"
         },
         {
           "ID": 6686,

@@ -30,6 +30,10 @@
           "Title": "Bólkur:Fólkaminni"
         },
         {
+          "ID": 18813,
+          "Title": "Bólkur:Italsk fótbóltsfeløg"
+        },
+        {
           "ID": 19419,
           "Title": "Bólkur:Kappingar"
         },
@@ -58,12 +62,20 @@
           "Title": "Bólkur:Sjónvarp"
         },
         {
+          "ID": 4501,
+          "Title": "Bólkur:Søga eftir tíðarskeiði"
+        },
+        {
           "ID": 18539,
           "Title": "Bólkur:Telduspøl"
         },
         {
           "ID": 26338,
           "Title": "Bólkur:Tíðarrit"
+        },
+        {
+          "ID": 9527,
+          "Title": "Bólkur:Tíðarskeið"
         },
         {
           "ID": 11597,
@@ -120,12 +132,24 @@
           "Title": "Bólkur:Gøtur"
         },
         {
+          "ID": 4016,
+          "Title": "Bólkur:Kommunur"
+        },
+        {
           "ID": 4329,
           "Title": "Bólkur:Landafrøði"
         },
         {
           "ID": 31931,
           "Title": "Bólkur:Lond"
+        },
+        {
+          "ID": 31933,
+          "Title": "Bólkur:Lond í Afrika"
+        },
+        {
+          "ID": 31939,
+          "Title": "Bólkur:Lond í Evropa"
         },
         {
           "ID": 21527,
@@ -298,6 +322,10 @@
           "Title": "Bólkur:Fólk eftir yrki"
         },
         {
+          "ID": 18365,
+          "Title": "Bólkur:Fótbóltsleikarar úr Italia"
+        },
+        {
           "ID": 15801,
           "Title": "Bólkur:Føðingar eftir ári"
         },
@@ -382,6 +410,10 @@
         {
           "ID": 9960,
           "Title": "Bólkur:Siðafrøði"
+        },
+        {
+          "ID": 24288,
+          "Title": "Bólkur:Stýrisskipanir"
         }
       ]
     },

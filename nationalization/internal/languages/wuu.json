@@ -100,6 +100,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2796,
+          "Title": "Category:亚洲国家"
+        },
+        {
+          "ID": 33999,
+          "Title": "Category:南美洲国家"
+        },
+        {
           "ID": 2701,
           "Title": "Category:国家"
         },
@@ -120,8 +128,16 @@
           "Title": "Category:城市"
         },
         {
+          "ID": 22895,
+          "Title": "Category:大洋洲国家"
+        },
+        {
           "ID": 34033,
           "Title": "Category:宫殿"
+        },
+        {
+          "ID": 7202,
+          "Title": "Category:欧洲国家"
         },
         {
           "ID": 2863,
@@ -138,6 +154,10 @@
         {
           "ID": 20647,
           "Title": "Category:美国州"
+        },
+        {
+          "ID": 18357,
+          "Title": "Category:非洲国家"
         }
       ]
     },

@@ -110,6 +110,10 @@
           "Title": "Kategória:Oktatás"
         },
         {
+          "ID": 122400,
+          "Title": "Kategória:Olasz labdarúgócsapatok"
+        },
+        {
           "ID": 456701,
           "Title": "Kategória:Pankráció"
         },
@@ -146,6 +150,10 @@
           "Title": "Kategória:Televízió"
         },
         {
+          "ID": 650287,
+          "Title": "Kategória:Tornyok"
+        },
+        {
           "ID": 165663,
           "Title": "Kategória:Táblajátékok"
         },
@@ -156,6 +164,10 @@
         {
           "ID": 1097573,
           "Title": "Kategória:Társadalmi nem"
+        },
+        {
+          "ID": 822453,
+          "Title": "Kategória:Történeti korok"
         },
         {
           "ID": 387785,
@@ -208,8 +220,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 13854,
+          "Title": "Kategória:Afrika országai"
+        },
+        {
           "ID": 211760,
           "Title": "Kategória:Amerikai Egyesült Államok"
+        },
+        {
+          "ID": 13855,
+          "Title": "Kategória:Ausztrália és Óceánia országai"
         },
         {
           "ID": 80747,
@@ -220,8 +240,16 @@
           "Title": "Kategória:Az USA települései"
         },
         {
+          "ID": 56387,
+          "Title": "Kategória:Dél-Amerika országai"
+        },
+        {
           "ID": 463886,
           "Title": "Kategória:Emlékművek"
+        },
+        {
+          "ID": 13837,
+          "Title": "Kategória:Európa országai"
         },
         {
           "ID": 12622,
@@ -260,6 +288,10 @@
           "Title": "Kategória:Országok"
         },
         {
+          "ID": 845554,
+          "Title": "Kategória:Országok kontinensek szerint"
+        },
+        {
           "ID": 32129,
           "Title": "Kategória:Települések"
         },
@@ -282,6 +314,14 @@
         {
           "ID": 1142267,
           "Title": "Kategória:Állam"
+        },
+        {
+          "ID": 13848,
+          "Title": "Kategória:Ázsia országai"
+        },
+        {
+          "ID": 88066,
+          "Title": "Kategória:Észak-Amerika országai"
         }
       ]
     },
@@ -354,6 +394,10 @@
         {
           "ID": 1512096,
           "Title": "Kategória:Választások évek szerint"
+        },
+        {
+          "ID": 75725,
+          "Title": "Kategória:Ókori népek"
         }
       ]
     },
@@ -502,6 +546,10 @@
           "Title": "Kategória:Kitalált személyek, lények"
         },
         {
+          "ID": 135625,
+          "Title": "Kategória:Kubai politikusok"
+        },
+        {
           "ID": 6467,
           "Title": "Kategória:Költők, írók"
         },
@@ -520,6 +568,10 @@
         {
           "ID": 212436,
           "Title": "Kategória:Nő"
+        },
+        {
+          "ID": 97424,
+          "Title": "Kategória:Olasz labdarúgók"
         },
         {
           "ID": 10121,
@@ -544,6 +596,10 @@
         {
           "ID": 102116,
           "Title": "Kategória:Személyek foglalkozás szerint"
+        },
+        {
+          "ID": 579117,
+          "Title": "Kategória:Személyek település szerint"
         },
         {
           "ID": 1422437,

@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 67491,
+          "Title": "Categoria:Aeva historica"
+        },
+        {
           "ID": 7339,
           "Title": "Categoria:Alimenta"
         },
@@ -154,6 +158,10 @@
           "Title": "Categoria:Sexualitas humana"
         },
         {
+          "ID": 212340,
+          "Title": "Categoria:Societates italicae pediludii"
+        },
+        {
           "ID": 15499,
           "Title": "Categoria:Sollemnia"
         },
@@ -172,6 +180,10 @@
         {
           "ID": 7012,
           "Title": "Categoria:Televisio"
+        },
+        {
+          "ID": 50016,
+          "Title": "Categoria:Turres"
         }
       ]
     },
@@ -182,6 +194,10 @@
         {
           "ID": 20457,
           "Title": "Categoria:Civitates Foederatae Americae"
+        },
+        {
+          "ID": 81414,
+          "Title": "Categoria:Civitates continente digestae"
         },
         {
           "ID": 53953,
@@ -220,8 +236,28 @@
           "Title": "Categoria:Loci habitati Civitatum Foederatarum"
         },
         {
+          "ID": 192819,
+          "Title": "Categoria:Municipia"
+        },
+        {
           "ID": 4577,
           "Title": "Categoria:Nationes"
+        },
+        {
+          "ID": 8029,
+          "Title": "Categoria:Nationes Africae"
+        },
+        {
+          "ID": 8030,
+          "Title": "Categoria:Nationes Asiae"
+        },
+        {
+          "ID": 7176,
+          "Title": "Categoria:Nationes Europae"
+        },
+        {
+          "ID": 11678,
+          "Title": "Categoria:Nationes Oceaniae"
         },
         {
           "ID": 7484,
@@ -268,12 +304,20 @@
           "Title": "Categoria:Bella"
         },
         {
+          "ID": 95472,
+          "Title": "Categoria:Gentes antiquae"
+        },
+        {
           "ID": 168071,
           "Title": "Categoria:Gesta tromocratica"
         },
         {
           "ID": 7001,
           "Title": "Categoria:Historia"
+        },
+        {
+          "ID": 185772,
+          "Title": "Categoria:Historia Unionis Europaeae"
         },
         {
           "ID": 166173,
@@ -446,6 +490,10 @@
           "Title": "Categoria:Homines per ultimos vitae annos digesti"
         },
         {
+          "ID": 268152,
+          "Title": "Categoria:Homines per urbes digesti"
+        },
+        {
           "ID": 59909,
           "Title": "Categoria:Homines vivi"
         },
@@ -490,6 +538,10 @@
           "Title": "Categoria:Nati saeculo 20"
         },
         {
+          "ID": 73235,
+          "Title": "Categoria:Pedilusores Italiae"
+        },
+        {
           "ID": 25501,
           "Title": "Categoria:Personae ficticiae"
         },
@@ -500,6 +552,10 @@
         {
           "ID": 195070,
           "Title": "Categoria:Politici"
+        },
+        {
+          "ID": 195278,
+          "Title": "Categoria:Politici Cubae"
         },
         {
           "ID": 225365,
@@ -526,6 +582,10 @@
         {
           "ID": 62727,
           "Title": "Categoria:Ethica"
+        },
+        {
+          "ID": 77950,
+          "Title": "Categoria:Formae administrationis"
         },
         {
           "ID": 29962,

@@ -66,6 +66,10 @@
           "Title": "Rummad:Livadurioù"
         },
         {
+          "ID": 82697,
+          "Title": "Rummad:Luskadoù sevenadurel"
+        },
+        {
           "ID": 94659,
           "Title": "Rummad:Meuzioù"
         },
@@ -124,6 +128,10 @@
         {
           "ID": 50900,
           "Title": "Rummad:Strolladoù sonerien"
+        },
+        {
+          "ID": 89455,
+          "Title": "Rummad:Tourioù"
         }
       ]
     },
@@ -148,6 +156,10 @@
           "Title": "Rummad:Hentoù"
         },
         {
+          "ID": 130371,
+          "Title": "Rummad:Kumunioù"
+        },
+        {
           "ID": 23968,
           "Title": "Rummad:Kêrioù SUA"
         },
@@ -162,6 +174,22 @@
         {
           "ID": 99670,
           "Title": "Rummad:Rolloù a denn d'an douaroniezh"
+        },
+        {
+          "ID": 24934,
+          "Title": "Rummad:Stadoù Afrika"
+        },
+        {
+          "ID": 24961,
+          "Title": "Rummad:Stadoù Azia"
+        },
+        {
+          "ID": 17519,
+          "Title": "Rummad:Stadoù Europa"
+        },
+        {
+          "ID": 26610,
+          "Title": "Rummad:Stadoù Okeania"
         },
         {
           "ID": 48924,
@@ -222,6 +250,10 @@
         {
           "ID": 44182,
           "Title": "Rummad:Istor ar broioù"
+        },
+        {
+          "ID": 29100,
+          "Title": "Rummad:Pobloù an Henamzer"
         }
       ]
     },
@@ -350,6 +382,10 @@
           "Title": "Rummad:Medisined"
         },
         {
+          "ID": 86035,
+          "Title": "Rummad:Melldroaderien Italia"
+        },
+        {
           "ID": 8574,
           "Title": "Rummad:Merc'hed"
         },
@@ -364,6 +400,10 @@
         {
           "ID": 55150,
           "Title": "Rummad:Politikourien"
+        },
+        {
+          "ID": 79841,
+          "Title": "Rummad:Politikourien Kuba"
         },
         {
           "ID": 16905,
@@ -415,6 +455,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 45196,
+          "Title": "Rummad:Doareoù gouarnamant"
+        },
         {
           "ID": 11742,
           "Title": "Rummad:Etik"

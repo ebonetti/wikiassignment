@@ -70,6 +70,14 @@
           "Title": "Kategori:Fritid"
         },
         {
+          "ID": 296442,
+          "Title": "Kategori:Historiske epokar"
+        },
+        {
+          "ID": 42106,
+          "Title": "Kategori:Historiske tidsrom"
+        },
+        {
           "ID": 204582,
           "Title": "Kategori:Hobbyar"
         },
@@ -84,6 +92,10 @@
         {
           "ID": 237577,
           "Title": "Kategori:Internettkultur"
+        },
+        {
+          "ID": 123483,
+          "Title": "Kategori:Italienske fotballag"
         },
         {
           "ID": 48804,
@@ -250,6 +262,10 @@
           "Title": "Kategori:Trening"
         },
         {
+          "ID": 38345,
+          "Title": "Kategori:Tårn"
+        },
+        {
           "ID": 6527,
           "Title": "Kategori:Underhaldning"
         },
@@ -332,12 +348,44 @@
           "Title": "Kategori:Geomorfologi"
         },
         {
+          "ID": 10261,
+          "Title": "Kategori:Kommunar"
+        },
+        {
           "ID": 289873,
           "Title": "Kategori:Kongebustader"
         },
         {
           "ID": 1872,
           "Title": "Kategori:Land"
+        },
+        {
+          "ID": 296456,
+          "Title": "Kategori:Land etter verdsdel"
+        },
+        {
+          "ID": 3653,
+          "Title": "Kategori:Land i Afrika"
+        },
+        {
+          "ID": 2008,
+          "Title": "Kategori:Land i Asia"
+        },
+        {
+          "ID": 1871,
+          "Title": "Kategori:Land i Europa"
+        },
+        {
+          "ID": 52408,
+          "Title": "Kategori:Land i Nord-Amerika"
+        },
+        {
+          "ID": 3129,
+          "Title": "Kategori:Land i Oseania"
+        },
+        {
+          "ID": 2562,
+          "Title": "Kategori:Land i Sør-Amerika"
         },
         {
           "ID": 316256,
@@ -436,6 +484,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 333090,
+          "Title": "Kategori:EU-historie"
+        },
+        {
           "ID": 68459,
           "Title": "Kategori:Hendingar"
         },
@@ -470,6 +522,10 @@
         {
           "ID": 278872,
           "Title": "Kategori:Mord etter år"
+        },
+        {
+          "ID": 226612,
+          "Title": "Kategori:Oldtidsfolk"
         },
         {
           "ID": 68682,
@@ -624,6 +680,10 @@
           "Title": "Kategori:Protein"
         },
         {
+          "ID": 97106,
+          "Title": "Kategori:Stjernetypar"
+        },
+        {
           "ID": 1969,
           "Title": "Kategori:Vitskapar"
         },
@@ -652,6 +712,10 @@
         {
           "ID": 332091,
           "Title": "Kategori:Biografar"
+        },
+        {
+          "ID": 45345,
+          "Title": "Kategori:Cubanske politikarar"
         },
         {
           "ID": 207982,
@@ -740,6 +804,10 @@
         {
           "ID": 191701,
           "Title": "Kategori:Gründerar"
+        },
+        {
+          "ID": 132975,
+          "Title": "Kategori:Italienske fotballspelarar"
         },
         {
           "ID": 3089,
@@ -902,6 +970,10 @@
         {
           "ID": 68652,
           "Title": "Kategori:Røyndom"
+        },
+        {
+          "ID": 5245,
+          "Title": "Kategori:Styresett"
         },
         {
           "ID": 68119,

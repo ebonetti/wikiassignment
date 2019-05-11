@@ -30,6 +30,10 @@
           "Title": "Kategorie:Gerecht"
         },
         {
+          "ID": 18213,
+          "Title": "Kategorie:Geschiedenis naor periode"
+        },
+        {
           "ID": 3653,
           "Title": "Kategorie:Keunst"
         },
@@ -40,6 +44,10 @@
         {
           "ID": 2366,
           "Title": "Kategorie:Kultuur"
+        },
+        {
+          "ID": 4061,
+          "Title": "Kategorie:Kunstperiode"
         },
         {
           "ID": 10078,
@@ -103,6 +111,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 2138,
+          "Title": "Kategorie:Gemiente"
+        },
         {
           "ID": 1474,
           "Title": "Kategorie:Geografie"

@@ -50,6 +50,10 @@
           "Title": "Kategori:Ensiklopedia"
         },
         {
+          "ID": 75645,
+          "Title": "Kategori:Era sejarah"
+        },
+        {
           "ID": 15438,
           "Title": "Kategori:Festival"
         },
@@ -94,6 +98,10 @@
           "Title": "Kategori:Karya biografi"
         },
         {
+          "ID": 1449443,
+          "Title": "Kategori:Karya menurut bahasa"
+        },
+        {
           "ID": 224494,
           "Title": "Kategori:Karya menurut seniman"
         },
@@ -136,6 +144,10 @@
         {
           "ID": 288276,
           "Title": "Kategori:Masakan"
+        },
+        {
+          "ID": 52553,
+          "Title": "Kategori:Menara"
         },
         {
           "ID": 112370,
@@ -194,6 +206,10 @@
           "Title": "Kategori:Sastra"
         },
         {
+          "ID": 86162,
+          "Title": "Kategori:Sejarah menurut periode"
+        },
+        {
           "ID": 40024,
           "Title": "Kategori:Seks"
         },
@@ -242,6 +258,10 @@
           "Title": "Kategori:Tempat fiktif"
         },
         {
+          "ID": 18323,
+          "Title": "Kategori:Tim sepak bola Italia"
+        },
+        {
           "ID": 16631,
           "Title": "Kategori:Warna"
         }
@@ -284,12 +304,44 @@
           "Title": "Kategori:Monumen"
         },
         {
+          "ID": 599637,
+          "Title": "Kategori:Munisipalitas"
+        },
+        {
           "ID": 14449,
           "Title": "Kategori:Negara"
         },
         {
           "ID": 747527,
           "Title": "Kategori:Negara bagian di Amerika Serikat"
+        },
+        {
+          "ID": 234725,
+          "Title": "Kategori:Negara di Afrika"
+        },
+        {
+          "ID": 234742,
+          "Title": "Kategori:Negara di Amerika Selatan"
+        },
+        {
+          "ID": 234734,
+          "Title": "Kategori:Negara di Amerika Utara"
+        },
+        {
+          "ID": 234705,
+          "Title": "Kategori:Negara di Asia"
+        },
+        {
+          "ID": 234731,
+          "Title": "Kategori:Negara di Eropa"
+        },
+        {
+          "ID": 234743,
+          "Title": "Kategori:Negara di Oseania"
+        },
+        {
+          "ID": 270001,
+          "Title": "Kategori:Negara menurut kawasan"
         },
         {
           "ID": 112473,
@@ -372,6 +424,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 720985,
+          "Title": "Kategori:Bangsa kuno"
+        },
+        {
           "ID": 837431,
           "Title": "Kategori:Pembunuhan menurut tahun"
         },
@@ -402,6 +458,10 @@
         {
           "ID": 8501,
           "Title": "Kategori:Sejarah"
+        },
+        {
+          "ID": 184837,
+          "Title": "Kategori:Sejarah Uni Eropa"
         },
         {
           "ID": 19403,
@@ -520,6 +580,10 @@
           "Title": "Kategori:Ilmu lingkungan"
         },
         {
+          "ID": 336949,
+          "Title": "Kategori:Jenis bintang"
+        },
+        {
           "ID": 91073,
           "Title": "Kategori:Kehidupan"
         },
@@ -630,6 +694,10 @@
           "Title": "Kategori:Orang mati"
         },
         {
+          "ID": 65337,
+          "Title": "Kategori:Pemain sepak bola Italia"
+        },
+        {
           "ID": 308784,
           "Title": "Kategori:Pemenang Hadiah Nobel menurut kewarganegaraan"
         },
@@ -668,6 +736,10 @@
         {
           "ID": 15479,
           "Title": "Kategori:Politikus"
+        },
+        {
+          "ID": 186694,
+          "Title": "Kategori:Politikus Kuba"
         },
         {
           "ID": 6120,
@@ -714,6 +786,10 @@
           "Title": "Kategori:Tokoh menurut benua dan pekerjaan"
         },
         {
+          "ID": 263713,
+          "Title": "Kategori:Tokoh menurut kota"
+        },
+        {
           "ID": 180337,
           "Title": "Kategori:Tokoh menurut pekerjaan"
         },
@@ -743,6 +819,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 19414,
+          "Title": "Kategori:Bentuk pemerintahan"
+        },
         {
           "ID": 136442,
           "Title": "Kategori:Cabang filsafat"

@@ -34,6 +34,10 @@
           "Title": "Categorîa:Sport"
         },
         {
+          "ID": 8885,
+          "Title": "Categorîa:Squaddre de ballon in Italia"
+        },
+        {
           "ID": 1384,
           "Title": "Categorîa:Televixon"
         }
@@ -48,12 +52,32 @@
           "Title": "Categorîa:Geografia"
         },
         {
+          "ID": 1874,
+          "Title": "Categorîa:Naçioin de l'America do Sud"
+        },
+        {
           "ID": 5020,
           "Title": "Categorîa:Sciummi"
         },
         {
           "ID": 3676,
           "Title": "Categorîa:Stati Unïi d'America"
+        },
+        {
+          "ID": 1850,
+          "Title": "Categorîa:Stati de l'Africa"
+        },
+        {
+          "ID": 2611,
+          "Title": "Categorîa:Stati de l'Asia"
+        },
+        {
+          "ID": 1800,
+          "Title": "Categorîa:Stati de l'Euròpa"
+        },
+        {
+          "ID": 2688,
+          "Title": "Categorîa:Stati de l'Oçeania"
         },
         {
           "ID": 1872,
@@ -162,6 +186,10 @@
         {
           "ID": 2425,
           "Title": "Categorîa:Filozofîa"
+        },
+        {
+          "ID": 3559,
+          "Title": "Categorîa:Forme de Governo"
         }
       ]
     },

@@ -60,12 +60,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 10261,
+          "Title": "Kategoriýa:Afrikanyň ýurtlary"
+        },
+        {
           "ID": 9493,
           "Title": "Kategoriýa:Amerikanyň Birleşen Ştatlary"
         },
         {
           "ID": 9491,
           "Title": "Kategoriýa:Amerikanyň Birleşen Ştatlarynyň şäherleri"
+        },
+        {
+          "ID": 10011,
+          "Title": "Kategoriýa:Aziýanyň ýurtlary"
+        },
+        {
+          "ID": 10047,
+          "Title": "Kategoriýa:Demirgazyk Amerikanyň ýurtlary"
         },
         {
           "ID": 3315,
@@ -82,6 +94,10 @@
         {
           "ID": 13909,
           "Title": "Kategoriýa:Geomorfologiýa"
+        },
+        {
+          "ID": 9741,
+          "Title": "Kategoriýa:Ýewropanyň ýurtlary"
         },
         {
           "ID": 4953,
@@ -103,6 +119,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 9721,
+          "Title": "Kategoriýa:Gadymy halklar"
+        },
         {
           "ID": 10266,
           "Title": "Kategoriýa:Syýasy taryh"
@@ -247,6 +267,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 9943,
+          "Title": "Kategoriýa:Döwlet formalary"
+        },
         {
           "ID": 13763,
           "Title": "Kategoriýa:Filosofiýa"

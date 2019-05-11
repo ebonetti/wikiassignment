@@ -66,6 +66,10 @@
           "Title": "Kategorio:Gazetoj"
         },
         {
+          "ID": 219829,
+          "Title": "Kategorio:Historio laŭ periodoj"
+        },
+        {
           "ID": 442364,
           "Title": "Kategorio:Homa sekseco"
         },
@@ -84,6 +88,10 @@
         {
           "ID": 383380,
           "Title": "Kategorio:Interreta kulturo"
+        },
+        {
+          "ID": 240096,
+          "Title": "Kategorio:Italaj futbalteamoj"
         },
         {
           "ID": 578236,
@@ -116,6 +124,10 @@
         {
           "ID": 592859,
           "Title": "Kategorio:Kuiraĵoj laŭ ĉefaj ingrediencoj"
+        },
+        {
+          "ID": 448723,
+          "Title": "Kategorio:Kulturaj movadoj"
         },
         {
           "ID": 26391,
@@ -278,12 +290,20 @@
           "Title": "Kategorio:Televido"
         },
         {
+          "ID": 225541,
+          "Title": "Kategorio:Turoj"
+        },
+        {
           "ID": 197522,
           "Title": "Kategorio:Verkoj laŭ artistoj"
         },
         {
           "ID": 293188,
           "Title": "Kategorio:Verkoj laŭ aŭtoroj"
+        },
+        {
+          "ID": 495380,
+          "Title": "Kategorio:Verkoj laŭ lingvoj"
         },
         {
           "ID": 578235,
@@ -316,8 +336,20 @@
           "Title": "Kategorio:Administraj unuoj laŭ lingvoj"
         },
         {
+          "ID": 33634,
+          "Title": "Kategorio:Afrikaj landoj"
+        },
+        {
           "ID": 576992,
           "Title": "Kategorio:Akvofontoj"
+        },
+        {
+          "ID": 33949,
+          "Title": "Kategorio:Aziaj landoj"
+        },
+        {
+          "ID": 39031,
+          "Title": "Kategorio:Eŭropaj landoj"
         },
         {
           "ID": 392311,
@@ -338,6 +370,10 @@
         {
           "ID": 33635,
           "Title": "Kategorio:Landoj"
+        },
+        {
+          "ID": 312845,
+          "Title": "Kategorio:Landoj laŭ kontinentoj"
         },
         {
           "ID": 467986,
@@ -364,6 +400,18 @@
           "Title": "Kategorio:Monumentoj"
         },
         {
+          "ID": 314807,
+          "Title": "Kategorio:Municipoj"
+        },
+        {
+          "ID": 312851,
+          "Title": "Kategorio:Nordamerikaj landoj"
+        },
+        {
+          "ID": 39036,
+          "Title": "Kategorio:Oceaniaj landoj"
+        },
+        {
           "ID": 80839,
           "Title": "Kategorio:Palacoj"
         },
@@ -382,6 +430,10 @@
         {
           "ID": 542853,
           "Title": "Kategorio:Subŝtatoj de Usono"
+        },
+        {
+          "ID": 312847,
+          "Title": "Kategorio:Sudamerikaj landoj"
         },
         {
           "ID": 439845,
@@ -468,6 +520,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 37872,
+          "Title": "Kategorio:Antikvaj etnoj"
+        },
+        {
           "ID": 262097,
           "Title": "Kategorio:Balotoj laŭ jaroj"
         },
@@ -482,6 +538,10 @@
         {
           "ID": 29769,
           "Title": "Kategorio:Historio"
+        },
+        {
+          "ID": 225537,
+          "Title": "Kategorio:Historio de Eŭropa Unio"
         },
         {
           "ID": 329749,
@@ -660,6 +720,10 @@
           "Title": "Kategorio:Scienco"
         },
         {
+          "ID": 163545,
+          "Title": "Kategorio:Specoj de steloj"
+        },
+        {
           "ID": 104811,
           "Title": "Kategorio:Substancoj"
         },
@@ -770,8 +834,20 @@
           "Title": "Kategorio:Homoj laŭ roloj"
         },
         {
+          "ID": 305649,
+          "Title": "Kategorio:Homoj laŭ urboj"
+        },
+        {
           "ID": 57716,
           "Title": "Kategorio:Inventistoj"
+        },
+        {
+          "ID": 123778,
+          "Title": "Kategorio:Italaj futbalistoj"
+        },
+        {
+          "ID": 216501,
+          "Title": "Kategorio:Kubaj politikistoj"
         },
         {
           "ID": 54829,
@@ -800,6 +876,14 @@
         {
           "ID": 31762,
           "Title": "Kategorio:Muzikistoj"
+        },
+        {
+          "ID": 60414,
+          "Title": "Kategorio:Naskiĝintoj"
+        },
+        {
+          "ID": 523060,
+          "Title": "Kategorio:Naskiĝintoj en Ateno"
         },
         {
           "ID": 60539,
@@ -856,6 +940,10 @@
         {
           "ID": 317733,
           "Title": "Kategorio:Revoluciuloj"
+        },
+        {
+          "ID": 274332,
+          "Title": "Kategorio:Universalaj kleruloj"
         },
         {
           "ID": 231035,
@@ -950,6 +1038,14 @@
         {
           "ID": 437217,
           "Title": "Kategorio:Realo"
+        },
+        {
+          "ID": 197175,
+          "Title": "Kategorio:Reĝimoj"
+        },
+        {
+          "ID": 490880,
+          "Title": "Kategorio:Tipoj de registaro"
         }
       ]
     },

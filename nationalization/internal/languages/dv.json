@@ -43,7 +43,13 @@
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking"
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2332,
+          "Title": "ޤިސްމު:Forms of government"
+        }
+      ]
     },
     {
       "ID": 2147483645,

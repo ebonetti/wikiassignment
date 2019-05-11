@@ -188,6 +188,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2579,
+          "Title": "Kategorii:Afrikan valdkundad"
+        },
+        {
           "ID": 2598,
           "Title": "Kategorii:Amerikan Ühtenzoittud Valdkundad"
         },
@@ -204,6 +208,10 @@
           "Title": "Kategorii:Avtoted"
         },
         {
+          "ID": 2505,
+          "Title": "Kategorii:Azijan valdkundad"
+        },
+        {
           "ID": 12684,
           "Title": "Kategorii:AÜV:oiden štatad"
         },
@@ -218,6 +226,10 @@
         {
           "ID": 3940,
           "Title": "Kategorii:Eländpunktad valdkundoiden mödhe"
+        },
+        {
+          "ID": 2516,
+          "Title": "Kategorii:Evropan valdkundad"
         },
         {
           "ID": 900,
@@ -244,8 +256,16 @@
           "Title": "Kategorii:Pert'kulud"
         },
         {
+          "ID": 2597,
+          "Title": "Kategorii:Pohjoižamerikan valdkundad"
+        },
+        {
           "ID": 14914,
           "Title": "Kategorii:Sijad"
+        },
+        {
+          "ID": 2908,
+          "Title": "Kategorii:Suviamerikan valdkundad"
         },
         {
           "ID": 14128,
@@ -258,6 +278,10 @@
         {
           "ID": 1022,
           "Title": "Kategorii:Valdkundad"
+        },
+        {
+          "ID": 8286,
+          "Title": "Kategorii:Valdmerimaiden valdkundad"
         }
       ]
     },
@@ -430,6 +454,10 @@
           "Title": "Kategorii:Filosofad"
         },
         {
+          "ID": 17716,
+          "Title": "Kategorii:Italijan futbolistad"
+        },
+        {
           "ID": 935,
           "Title": "Kategorii:Kirjutajad"
         },
@@ -492,6 +520,14 @@
         {
           "ID": 9582,
           "Title": "Kategorii:Ristitud professijan mödhe"
+        },
+        {
+          "ID": 17494,
+          "Title": "Kategorii:Sündnuded"
+        },
+        {
+          "ID": 17622,
+          "Title": "Kategorii:Sündnuded Afinihe"
         },
         {
           "ID": 19517,

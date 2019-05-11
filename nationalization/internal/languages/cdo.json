@@ -80,8 +80,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 7012,
+          "Title": "分類:Báe̤k Mī-ciŭ guók-gă"
+        },
+        {
           "ID": 28756,
           "Title": "分類:Cê̤ṳ-gṳ̆-dê"
+        },
+        {
+          "ID": 7016,
+          "Title": "分類:Dâi-iòng-ciŭ guók-gă"
         },
         {
           "ID": 2154,
@@ -92,6 +100,10 @@
           "Title": "分類:Guók-gă"
         },
         {
+          "ID": 6999,
+          "Title": "分類:Hĭ-ciŭ guók-gă"
+        },
+        {
           "ID": 4705,
           "Title": "分類:Mī-guók"
         },
@@ -100,12 +112,24 @@
           "Title": "分類:Mī-guók gì ciŭ"
         },
         {
+          "ID": 7015,
+          "Title": "分類:Nàng Mī-ciŭ guók-gă"
+        },
+        {
           "ID": 109,
           "Title": "分類:Siàng-chê"
         },
         {
           "ID": 2153,
           "Title": "分類:Ò̤"
+        },
+        {
+          "ID": 6959,
+          "Title": "分類:Ā-ciŭ guók-gă"
+        },
+        {
+          "ID": 6979,
+          "Title": "分類:Ĕu-ciŭ guók-gă"
         }
       ]
     },

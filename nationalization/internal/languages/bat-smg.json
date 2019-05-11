@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 23638,
+          "Title": "Kateguorėjė:Buokštā"
+        },
+        {
           "ID": 4671,
           "Title": "Kateguorėjė:Filmā"
         },
@@ -108,6 +112,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 7130,
+          "Title": "Kateguorėjė:Afrėkas valstībės"
+        },
+        {
+          "ID": 7128,
+          "Title": "Kateguorėjė:Azėjės valstībės"
+        },
+        {
+          "ID": 7119,
+          "Title": "Kateguorėjė:Euruopas valstībės"
+        },
+        {
           "ID": 2754,
           "Title": "Kateguorėjė:Geuograpėjė"
         },
@@ -136,12 +152,24 @@
           "Title": "Kateguorėjė:Miestā"
         },
         {
+          "ID": 9045,
+          "Title": "Kateguorėjė:Okeanėjės valstībės"
+        },
+        {
           "ID": 7312,
           "Title": "Kateguorėjė:Opis"
         },
         {
+          "ID": 12582,
+          "Title": "Kateguorėjė:Pėitū Amerėkas valstībės"
+        },
+        {
           "ID": 3231,
           "Title": "Kateguorėjė:Valstībės"
+        },
+        {
+          "ID": 7131,
+          "Title": "Kateguorėjė:Šiaurės Amerėkas valstībės"
         }
       ]
     },
@@ -350,6 +378,10 @@
         {
           "ID": 25846,
           "Title": "Kateguorėjė:Puolitėnės teuorėjės"
+        },
+        {
+          "ID": 18055,
+          "Title": "Kateguorėjė:Valdīma skvarmas"
         }
       ]
     },

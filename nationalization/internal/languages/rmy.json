@@ -10,6 +10,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2325,
+          "Title": "Shopni:Asiyake thema"
+        },
+        {
+          "ID": 2030,
+          "Title": "Shopni:Europake thema"
+        },
+        {
           "ID": 4490,
           "Title": "Shopni:PhSA"
         },
@@ -28,6 +36,10 @@
         {
           "ID": 2159,
           "Title": "Shopni:Thema"
+        },
+        {
+          "ID": 2033,
+          "Title": "Shopni:Thema palal o kontinento"
         }
       ]
     },

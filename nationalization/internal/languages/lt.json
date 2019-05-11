@@ -14,6 +14,10 @@
           "Title": "Kategorija:Atlikėjai"
         },
         {
+          "ID": 209154,
+          "Title": "Kategorija:Bokštai"
+        },
+        {
           "ID": 88671,
           "Title": "Kategorija:Buitis"
         },
@@ -40,6 +44,10 @@
         {
           "ID": 193213,
           "Title": "Kategorija:Imtynės"
+        },
+        {
+          "ID": 59054,
+          "Title": "Kategorija:Italijos futbolo klubai"
         },
         {
           "ID": 291374,
@@ -224,6 +232,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2941,
+          "Title": "Kategorija:Afrikos valstybės"
+        },
+        {
+          "ID": 2447,
+          "Title": "Kategorija:Azijos valstybės"
+        },
+        {
+          "ID": 2442,
+          "Title": "Kategorija:Europos valstybės"
+        },
+        {
           "ID": 236304,
           "Title": "Kategorija:Gatvės"
         },
@@ -268,8 +288,16 @@
           "Title": "Kategorija:Miestai"
         },
         {
+          "ID": 3209,
+          "Title": "Kategorija:Okeanijos valstybės"
+        },
+        {
           "ID": 129366,
           "Title": "Kategorija:Paminklai"
+        },
+        {
+          "ID": 2667,
+          "Title": "Kategorija:Pietų Amerikos valstybės"
         },
         {
           "ID": 197085,
@@ -288,12 +316,20 @@
           "Title": "Kategorija:Valstybės"
         },
         {
+          "ID": 4723,
+          "Title": "Kategorija:Valstybės pagal žemynus"
+        },
+        {
           "ID": 362769,
           "Title": "Kategorija:Versmės"
         },
         {
           "ID": 313923,
           "Title": "Kategorija:Vykdomoji valdžia"
+        },
+        {
+          "ID": 2444,
+          "Title": "Kategorija:Šiaurės Amerikos valstybės"
         }
       ]
     },
@@ -350,6 +386,10 @@
         {
           "ID": 9248,
           "Title": "Kategorija:Revoliucijos"
+        },
+        {
+          "ID": 69873,
+          "Title": "Kategorija:Senovės tautos"
         },
         {
           "ID": 25811,
@@ -466,6 +506,10 @@
         {
           "ID": 208062,
           "Title": "Kategorija:Žemė"
+        },
+        {
+          "ID": 401348,
+          "Title": "Kategorija:Žvaigždžių tipai"
         }
       ]
     },
@@ -510,6 +554,10 @@
           "Title": "Kategorija:Filosofai"
         },
         {
+          "ID": 51806,
+          "Title": "Kategorija:Italijos futbolininkai"
+        },
+        {
           "ID": 4067,
           "Title": "Kategorija:Išradėjai"
         },
@@ -528,6 +576,10 @@
         {
           "ID": 4822,
           "Title": "Kategorija:Keliautojai"
+        },
+        {
+          "ID": 34113,
+          "Title": "Kategorija:Kubos politikai"
         },
         {
           "ID": 28016,
@@ -606,6 +658,10 @@
         {
           "ID": 26477,
           "Title": "Kategorija:Politinės teorijos"
+        },
+        {
+          "ID": 9300,
+          "Title": "Kategorija:Valdymo formos"
         }
       ]
     },

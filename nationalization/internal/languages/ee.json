@@ -10,8 +10,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2007,
+          "Title": "Category:Afrika dukɔwo"
+        },
+        {
+          "ID": 7872,
+          "Title": "Category:Anyiehe Amerika dukɔwo"
+        },
+        {
+          "ID": 2286,
+          "Title": "Category:Asia dukɔwo"
+        },
+        {
           "ID": 2067,
           "Title": "Category:Dukɔwo"
+        },
+        {
+          "ID": 2270,
+          "Title": "Category:Europa dukɔwo"
         }
       ]
     },

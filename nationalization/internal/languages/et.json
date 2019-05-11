@@ -14,6 +14,10 @@
           "Title": "Kategooria:Ajalehed"
         },
         {
+          "ID": 177167,
+          "Title": "Kategooria:Ajaloolised perioodid"
+        },
+        {
           "ID": 27050,
           "Title": "Kategooria:Ansamblid"
         },
@@ -52,6 +56,10 @@
         {
           "ID": 205917,
           "Title": "Kategooria:Internetikultuur"
+        },
+        {
+          "ID": 128564,
+          "Title": "Kategooria:Itaalia jalgpalliklubid"
         },
         {
           "ID": 356210,
@@ -170,6 +178,10 @@
           "Title": "Kategooria:Toitumine"
         },
         {
+          "ID": 193113,
+          "Title": "Kategooria:Tornid"
+        },
+        {
           "ID": 279673,
           "Title": "Kategooria:Videomängud"
         },
@@ -200,6 +212,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 9659,
+          "Title": "Kategooria:Aafrika maad"
+        },
+        {
+          "ID": 9443,
+          "Title": "Kategooria:Aasia maad"
+        },
+        {
+          "ID": 153011,
+          "Title": "Kategooria:Aasia riigid"
+        },
+        {
           "ID": 132954,
           "Title": "Kategooria:Allikad"
         },
@@ -228,6 +252,18 @@
           "Title": "Kategooria:Asulad riigiti"
         },
         {
+          "ID": 14084,
+          "Title": "Kategooria:Austraalia ja Okeaania maad"
+        },
+        {
+          "ID": 9445,
+          "Title": "Kategooria:Euroopa maad"
+        },
+        {
+          "ID": 153026,
+          "Title": "Kategooria:Euroopa riigid"
+        },
+        {
           "ID": 9910,
           "Title": "Kategooria:Geograafia"
         },
@@ -252,6 +288,10 @@
           "Title": "Kategooria:Lossid"
         },
         {
+          "ID": 152995,
+          "Title": "Kategooria:Lõuna-Ameerika riigid"
+        },
+        {
           "ID": 9444,
           "Title": "Kategooria:Maailma maad"
         },
@@ -264,8 +304,16 @@
           "Title": "Kategooria:Mälestusmärgid"
         },
         {
+          "ID": 152988,
+          "Title": "Kategooria:Põhja-Ameerika riigid"
+        },
+        {
           "ID": 10043,
           "Title": "Kategooria:Riigid"
+        },
+        {
+          "ID": 152987,
+          "Title": "Kategooria:Riigid maailmajaoti"
         },
         {
           "ID": 9925,
@@ -444,6 +492,10 @@
           "Title": "Kategooria:Teadused"
         },
         {
+          "ID": 445782,
+          "Title": "Kategooria:Tähetüübid"
+        },
+        {
           "ID": 16877,
           "Title": "Kategooria:Valgud"
         },
@@ -514,12 +566,20 @@
           "Title": "Kategooria:Inimesed valdkonniti"
         },
         {
+          "ID": 49043,
+          "Title": "Kategooria:Itaalia jalgpallurid"
+        },
+        {
           "ID": 14737,
           "Title": "Kategooria:Kirjanikud"
         },
         {
           "ID": 14881,
           "Title": "Kategooria:Kunstnikud"
+        },
+        {
+          "ID": 137075,
+          "Title": "Kategooria:Kuuba poliitikud"
         },
         {
           "ID": 22325,
@@ -626,6 +686,10 @@
         {
           "ID": 274664,
           "Title": "Kategooria:Metafüüsika"
+        },
+        {
+          "ID": 191655,
+          "Title": "Kategooria:Valitsemisvormid"
         }
       ]
     },

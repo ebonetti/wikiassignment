@@ -58,6 +58,10 @@
           "Title": "Category:性行為"
         },
         {
+          "ID": 82871,
+          "Title": "Category:意大利足球球會"
+        },
+        {
           "ID": 27233,
           "Title": "Category:摔角"
         },
@@ -80,6 +84,10 @@
         {
           "ID": 3270,
           "Title": "Category:文藝"
+        },
+        {
+          "ID": 38131,
+          "Title": "Category:時代"
         },
         {
           "ID": 8758,
@@ -166,6 +174,10 @@
           "Title": "Category:表演藝術"
         },
         {
+          "ID": 170318,
+          "Title": "Category:西洋塔"
+        },
+        {
           "ID": 195281,
           "Title": "Category:資源"
         },
@@ -220,8 +232,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 5435,
+          "Title": "Category:亞洲國"
+        },
+        {
           "ID": 136842,
           "Title": "Category:公路"
+        },
+        {
+          "ID": 5446,
+          "Title": "Category:北美洲國"
+        },
+        {
+          "ID": 5452,
+          "Title": "Category:南美洲國"
         },
         {
           "ID": 3636,
@@ -244,8 +268,16 @@
           "Title": "Category:城市規劃"
         },
         {
+          "ID": 5448,
+          "Title": "Category:大洋洲國"
+        },
+        {
           "ID": 180792,
           "Title": "Category:宮"
+        },
+        {
+          "ID": 5445,
+          "Title": "Category:歐洲國"
         },
         {
           "ID": 5476,
@@ -286,6 +318,10 @@
         {
           "ID": 145566,
           "Title": "Category:鎮"
+        },
+        {
+          "ID": 5451,
+          "Title": "Category:非洲國"
         }
       ]
     },
@@ -334,6 +370,10 @@
         {
           "ID": 169506,
           "Title": "Category:仗"
+        },
+        {
+          "ID": 132861,
+          "Title": "Category:古民族"
         },
         {
           "ID": 7285,
@@ -510,6 +550,10 @@
           "Title": "Category:元首"
         },
         {
+          "ID": 197454,
+          "Title": "Category:古巴政治人"
+        },
+        {
           "ID": 122627,
           "Title": "Category:各職業人物"
         },
@@ -528,6 +572,10 @@
         {
           "ID": 30975,
           "Title": "Category:姓氏"
+        },
+        {
+          "ID": 41271,
+          "Title": "Category:意大利足球員"
         },
         {
           "ID": 75825,
@@ -650,6 +698,10 @@
         {
           "ID": 33458,
           "Title": "Category:政治理論"
+        },
+        {
+          "ID": 12656,
+          "Title": "Category:政體"
         }
       ]
     },

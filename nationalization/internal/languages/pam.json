@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 4478,
+          "Title": "Category:Amlat agpang keng Panaun"
+        },
+        {
           "ID": 10150,
           "Title": "Category:Bantug a Kalinangan"
         },
@@ -43,6 +47,14 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 4453,
+          "Title": "Category:Bangsa king Asia"
+        },
+        {
+          "ID": 4284,
+          "Title": "Category:Bangsa king Europa"
+        },
         {
           "ID": 1422,
           "Title": "Category:Geografía"

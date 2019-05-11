@@ -44,6 +44,10 @@
         {
           "ID": 8149,
           "Title": "Categorie:Tillevisie"
+        },
+        {
+          "ID": 10806,
+          "Title": "Categorie:Toren"
         }
       ]
     },
@@ -51,6 +55,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 10988,
+          "Title": "Categorie:Gemeênte"
+        },
         {
           "ID": 3263,
           "Title": "Categorie:Geografie"

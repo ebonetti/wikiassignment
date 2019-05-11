@@ -78,6 +78,10 @@
           "Title": "Categorie:Sjport"
         },
         {
+          "ID": 8735,
+          "Title": "Categorie:Sjtielperiode"
+        },
+        {
           "ID": 8967,
           "Title": "Categorie:Voeding"
         }
@@ -87,6 +91,14 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 1648,
+          "Title": "Categorie:Europese len"
+        },
+        {
+          "ID": 32417,
+          "Title": "Categorie:Gemeintes"
+        },
         {
           "ID": 2251,
           "Title": "Categorie:Geografie"

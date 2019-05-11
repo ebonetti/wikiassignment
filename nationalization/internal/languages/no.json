@@ -66,12 +66,20 @@
           "Title": "Kategori:Folkeminne"
         },
         {
+          "ID": 904070,
+          "Title": "Kategori:Fotballag i Italia"
+        },
+        {
           "ID": 1031485,
           "Title": "Kategori:Fritid"
         },
         {
           "ID": 966702,
           "Title": "Kategori:Gastronomi"
+        },
+        {
+          "ID": 19002,
+          "Title": "Kategori:Historiske perioder"
         },
         {
           "ID": 30746,
@@ -222,6 +230,10 @@
           "Title": "Kategori:Trylling"
         },
         {
+          "ID": 168241,
+          "Title": "Kategori:Tårn"
+        },
+        {
           "ID": 14135,
           "Title": "Kategori:Underholdning"
         },
@@ -284,12 +296,40 @@
           "Title": "Kategori:Kilder"
         },
         {
+          "ID": 15769,
+          "Title": "Kategori:Kommuner"
+        },
+        {
           "ID": 1255382,
           "Title": "Kategori:Kongelige eiendommer"
         },
         {
           "ID": 15275,
           "Title": "Kategori:Land"
+        },
+        {
+          "ID": 19051,
+          "Title": "Kategori:Land i Afrika"
+        },
+        {
+          "ID": 19043,
+          "Title": "Kategori:Land i Asia"
+        },
+        {
+          "ID": 19041,
+          "Title": "Kategori:Land i Europa"
+        },
+        {
+          "ID": 19055,
+          "Title": "Kategori:Land i Nord-Amerika"
+        },
+        {
+          "ID": 19060,
+          "Title": "Kategori:Land i Oseania"
+        },
+        {
+          "ID": 19054,
+          "Title": "Kategori:Land i Sør-Amerika"
         },
         {
           "ID": 138232,
@@ -372,6 +412,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 806907,
+          "Title": "Kategori:Den europeiske unions historie"
+        },
+        {
           "ID": 21622,
           "Title": "Kategori:Hendelser"
         },
@@ -402,6 +446,10 @@
         {
           "ID": 379411,
           "Title": "Kategori:Merkedager"
+        },
+        {
+          "ID": 154079,
+          "Title": "Kategori:Oldtidsfolk"
         },
         {
           "ID": 1324230,
@@ -532,6 +580,10 @@
           "Title": "Kategori:Proteiner"
         },
         {
+          "ID": 986286,
+          "Title": "Kategori:Stjernetyper"
+        },
+        {
           "ID": 9816,
           "Title": "Kategori:Vitenskap"
         },
@@ -560,6 +612,10 @@
         {
           "ID": 182158,
           "Title": "Kategori:Biografier om levende personer"
+        },
+        {
+          "ID": 149709,
+          "Title": "Kategori:Cubanske politikere"
         },
         {
           "ID": 201988,
@@ -598,6 +654,10 @@
           "Title": "Kategori:Forfattere"
         },
         {
+          "ID": 1453867,
+          "Title": "Kategori:Fødsler"
+        },
+        {
           "ID": 202186,
           "Title": "Kategori:Fødsler etter årstall"
         },
@@ -620,6 +680,10 @@
         {
           "ID": 707501,
           "Title": "Kategori:Gründere"
+        },
+        {
+          "ID": 55492,
+          "Title": "Kategori:Italienske fotballspillere"
         },
         {
           "ID": 16234,
@@ -672,6 +736,10 @@
         {
           "ID": 9124,
           "Title": "Kategori:Politikere"
+        },
+        {
+          "ID": 655500,
+          "Title": "Kategori:Polyhistorer"
         },
         {
           "ID": 14063,
@@ -738,6 +806,10 @@
         {
           "ID": 34710,
           "Title": "Kategori:Politiske teorier"
+        },
+        {
+          "ID": 25730,
+          "Title": "Kategori:Styreformer"
         },
         {
           "ID": 1341873,

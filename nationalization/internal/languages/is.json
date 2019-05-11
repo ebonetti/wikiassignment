@@ -86,6 +86,10 @@
           "Title": "Flokkur:Næring"
         },
         {
+          "ID": 11689,
+          "Title": "Flokkur:Saga eftir tímabilum"
+        },
+        {
           "ID": 2659,
           "Title": "Flokkur:Sjónvarp"
         },
@@ -118,6 +122,10 @@
           "Title": "Flokkur:Tölvuleikir"
         },
         {
+          "ID": 102820,
+          "Title": "Flokkur:Ítölsk knattspyrnufélög"
+        },
+        {
           "ID": 11675,
           "Title": "Flokkur:Íþróttagreinar"
         },
@@ -140,6 +148,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6702,
+          "Title": "Flokkur:Afríkulönd"
+        },
+        {
+          "ID": 2790,
+          "Title": "Flokkur:Asíulönd"
+        },
+        {
           "ID": 3698,
           "Title": "Flokkur:Bandaríkin"
         },
@@ -150,6 +166,10 @@
         {
           "ID": 21050,
           "Title": "Flokkur:Borgir í Bandaríkjunum"
+        },
+        {
+          "ID": 1498,
+          "Title": "Flokkur:Evrópulönd"
         },
         {
           "ID": 10645,
@@ -166,6 +186,10 @@
         {
           "ID": 2787,
           "Title": "Flokkur:Lönd"
+        },
+        {
+          "ID": 6698,
+          "Title": "Flokkur:Suður-Ameríkulönd"
         },
         {
           "ID": 5426,
@@ -402,6 +426,10 @@
           "Title": "Flokkur:Kvikmyndapersónur"
         },
         {
+          "ID": 60735,
+          "Title": "Flokkur:Kúbverskir stjórnmálamenn"
+        },
+        {
           "ID": 11724,
           "Title": "Flokkur:Landkönnuðir"
         },
@@ -438,6 +466,10 @@
           "Title": "Flokkur:Tónlistarmenn"
         },
         {
+          "ID": 84606,
+          "Title": "Flokkur:Ítalskir knattspyrnumenn"
+        },
+        {
           "ID": 3887,
           "Title": "Flokkur:Þjóðhöfðingjar"
         }
@@ -466,6 +498,10 @@
         {
           "ID": 12991,
           "Title": "Flokkur:Siðfræði"
+        },
+        {
+          "ID": 2039,
+          "Title": "Flokkur:Tegundir stjórnarfars"
         }
       ]
     },

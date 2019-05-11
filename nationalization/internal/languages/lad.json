@@ -56,6 +56,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 14860,
+          "Title": "Kateggoría:Belediyes"
+        },
+        {
           "ID": 5568,
           "Title": "Kateggoría:Estados Unidos"
         },
@@ -78,6 +82,22 @@
         {
           "ID": 14262,
           "Title": "Kateggoría:Paizes"
+        },
+        {
+          "ID": 14478,
+          "Title": "Kateggoría:Paizes de Afrika"
+        },
+        {
+          "ID": 14477,
+          "Title": "Kateggoría:Paizes de Asia"
+        },
+        {
+          "ID": 14476,
+          "Title": "Kateggoría:Paizes de Evropa"
+        },
+        {
+          "ID": 14602,
+          "Title": "Kateggoría:Paizes de Oseania"
         },
         {
           "ID": 6075,
@@ -200,6 +220,10 @@
         {
           "ID": 4832,
           "Title": "Kateggoría:Filosofiya"
+        },
+        {
+          "ID": 13207,
+          "Title": "Kateggoría:Formas de governo"
         }
       ]
     },

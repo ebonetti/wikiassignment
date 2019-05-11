@@ -34,8 +34,16 @@
           "Title": "Luokka:Harrastukset"
         },
         {
+          "ID": 232183,
+          "Title": "Luokka:Historian ajanjaksot"
+        },
+        {
           "ID": 222961,
           "Title": "Luokka:Internet-kulttuuri"
+        },
+        {
+          "ID": 50939,
+          "Title": "Luokka:Italialaiset jalkapalloseurat"
         },
         {
           "ID": 106169,
@@ -222,6 +230,10 @@
           "Title": "Luokka:Tietosanakirjat"
         },
         {
+          "ID": 25180,
+          "Title": "Luokka:Tornit"
+        },
+        {
           "ID": 18692,
           "Title": "Luokka:Urheilu"
         },
@@ -264,8 +276,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 20245,
+          "Title": "Luokka:Aasian valtiot"
+        },
+        {
+          "ID": 20247,
+          "Title": "Luokka:Afrikan valtiot"
+        },
+        {
           "ID": 1119827,
           "Title": "Luokka:Asutut paikat"
+        },
+        {
+          "ID": 20243,
+          "Title": "Luokka:Etelä-Amerikan valtiot"
+        },
+        {
+          "ID": 20109,
+          "Title": "Luokka:Euroopan valtiot"
         },
         {
           "ID": 68922,
@@ -288,6 +316,10 @@
           "Title": "Luokka:Kaupunkisuunnittelu"
         },
         {
+          "ID": 67484,
+          "Title": "Luokka:Kunnat"
+        },
+        {
           "ID": 83190,
           "Title": "Luokka:Luettelot maantieteestä"
         },
@@ -304,8 +336,16 @@
           "Title": "Luokka:Muistomerkit"
         },
         {
+          "ID": 20291,
+          "Title": "Luokka:Oseanian valtiot"
+        },
+        {
           "ID": 40729,
           "Title": "Luokka:Palatsit"
+        },
+        {
+          "ID": 20196,
+          "Title": "Luokka:Pohjois-Amerikan valtiot"
         },
         {
           "ID": 19812,
@@ -376,6 +416,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 1417911,
+          "Title": "Luokka:Euroopan unionin historia"
+        },
+        {
           "ID": 18187,
           "Title": "Luokka:Historia"
         },
@@ -390,6 +434,10 @@
         {
           "ID": 45744,
           "Title": "Luokka:Kulttuuritapahtumat"
+        },
+        {
+          "ID": 39359,
+          "Title": "Luokka:Muinaiset kansat"
         },
         {
           "ID": 148961,
@@ -536,6 +584,10 @@
           "Title": "Luokka:Tiede"
         },
         {
+          "ID": 350243,
+          "Title": "Luokka:Tähtityypit"
+        },
+        {
           "ID": 27547,
           "Title": "Luokka:Yhdisteet"
         },
@@ -606,6 +658,10 @@
           "Title": "Luokka:Ilmailualan ammatit"
         },
         {
+          "ID": 57835,
+          "Title": "Luokka:Italialaiset jalkapalloilijat"
+        },
+        {
           "ID": 23255,
           "Title": "Luokka:Keksijät"
         },
@@ -616,6 +672,10 @@
         {
           "ID": 1080488,
           "Title": "Luokka:Kuolleet henkilöt"
+        },
+        {
+          "ID": 186677,
+          "Title": "Luokka:Kuubalaiset poliitikot"
         },
         {
           "ID": 296499,

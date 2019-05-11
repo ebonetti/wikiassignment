@@ -30,6 +30,10 @@
           "Title": "Thể loại:Cuộc thi"
         },
         {
+          "ID": 29803,
+          "Title": "Thể loại:Câu lạc bộ bóng đá Ý"
+        },
+        {
           "ID": 1645567,
           "Title": "Thể loại:Cộng đồng ảo"
         },
@@ -86,6 +90,10 @@
           "Title": "Thể loại:Lễ hội"
         },
         {
+          "ID": 1438962,
+          "Title": "Thể loại:Lịch sử theo giai đoạn"
+        },
+        {
           "ID": 575615,
           "Title": "Thể loại:Ma thuật"
         },
@@ -138,6 +146,10 @@
           "Title": "Thể loại:Phong cách âm nhạc cổ điển phương Tây"
         },
         {
+          "ID": 91126,
+          "Title": "Thể loại:Phong trào văn hóa"
+        },
+        {
           "ID": 14634221,
           "Title": "Thể loại:Phương tiện truyền thông tin tức"
         },
@@ -166,6 +178,10 @@
           "Title": "Thể loại:Thuật phù thủy"
         },
         {
+          "ID": 184371,
+          "Title": "Thể loại:Tháp"
+        },
+        {
           "ID": 262234,
           "Title": "Thể loại:Thể dục"
         },
@@ -180,6 +196,10 @@
         {
           "ID": 6834,
           "Title": "Thể loại:Thể thao"
+        },
+        {
+          "ID": 1438964,
+          "Title": "Thể loại:Thời đại lịch sử"
         },
         {
           "ID": 2458067,
@@ -232,6 +252,10 @@
         {
           "ID": 13938185,
           "Title": "Thể loại:Tác phẩm theo nghệ sĩ"
+        },
+        {
+          "ID": 1613842,
+          "Title": "Thể loại:Tác phẩm theo ngôn ngữ"
         },
         {
           "ID": 13855421,
@@ -372,6 +396,10 @@
           "Title": "Thể loại:Khu dân cư theo quốc gia"
         },
         {
+          "ID": 3215369,
+          "Title": "Thể loại:Khu tự quản"
+        },
+        {
           "ID": 2454182,
           "Title": "Thể loại:Khu vực đông dân ở Hoa Kỳ"
         },
@@ -402,6 +430,34 @@
         {
           "ID": 1358,
           "Title": "Thể loại:Quốc gia"
+        },
+        {
+          "ID": 1536569,
+          "Title": "Thể loại:Quốc gia Bắc Mỹ"
+        },
+        {
+          "ID": 90300,
+          "Title": "Thể loại:Quốc gia Châu Đại Dương"
+        },
+        {
+          "ID": 3154220,
+          "Title": "Thể loại:Quốc gia Nam Mỹ"
+        },
+        {
+          "ID": 61980,
+          "Title": "Thể loại:Quốc gia châu Phi"
+        },
+        {
+          "ID": 61997,
+          "Title": "Thể loại:Quốc gia châu Á"
+        },
+        {
+          "ID": 74062,
+          "Title": "Thể loại:Quốc gia châu Âu"
+        },
+        {
+          "ID": 61981,
+          "Title": "Thể loại:Quốc gia theo lục địa"
         },
         {
           "ID": 5252,
@@ -552,6 +608,10 @@
           "Title": "Thể loại:Cách mạng theo quốc gia"
         },
         {
+          "ID": 7451572,
+          "Title": "Thể loại:Dân tộc cổ đại"
+        },
+        {
           "ID": 3251747,
           "Title": "Thể loại:Giết người theo năm"
         },
@@ -566,6 +626,10 @@
         {
           "ID": 3151504,
           "Title": "Thể loại:Lịch sử Hoa Kỳ (1991–nay)"
+        },
+        {
+          "ID": 3705177,
+          "Title": "Thể loại:Lịch sử Liên minh châu Âu"
         },
         {
           "ID": 64067,
@@ -712,6 +776,10 @@
           "Title": "Thể loại:Loài ít quan tâm"
         },
         {
+          "ID": 52598,
+          "Title": "Thể loại:Loại sao"
+        },
+        {
           "ID": 17168,
           "Title": "Thể loại:Protein"
         },
@@ -782,8 +850,16 @@
           "Title": "Thể loại:Chính khách"
         },
         {
+          "ID": 3645164,
+          "Title": "Thể loại:Chính khách Cuba"
+        },
+        {
           "ID": 831920,
           "Title": "Thể loại:Cá nhân"
+        },
+        {
+          "ID": 30852,
+          "Title": "Thể loại:Cầu thủ bóng đá Ý"
         },
         {
           "ID": 27729,
@@ -864,6 +940,10 @@
         {
           "ID": 38489,
           "Title": "Thể loại:Người theo năm mất"
+        },
+        {
+          "ID": 2442835,
+          "Title": "Thể loại:Người theo thành phố"
         },
         {
           "ID": 1684162,
@@ -1002,6 +1082,10 @@
         {
           "ID": 3387975,
           "Title": "Thể loại:Chuyên ngành triết học"
+        },
+        {
+          "ID": 62848,
+          "Title": "Thể loại:Chính thể"
         },
         {
           "ID": 45522,

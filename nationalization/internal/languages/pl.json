@@ -66,6 +66,10 @@
           "Title": "Kategoria:Gry planszowe"
         },
         {
+          "ID": 458538,
+          "Title": "Kategoria:Historia według epok"
+        },
+        {
           "ID": 93893,
           "Title": "Kategoria:Hobby"
         },
@@ -230,8 +234,16 @@
           "Title": "Kategoria:Utwory muzyczne"
         },
         {
+          "ID": 249696,
+          "Title": "Kategoria:Wieże"
+        },
+        {
           "ID": 553847,
           "Title": "Kategoria:Wrestling"
+        },
+        {
+          "ID": 148682,
+          "Title": "Kategoria:Włoskie kluby piłkarskie"
         },
         {
           "ID": 113555,
@@ -310,6 +322,34 @@
         {
           "ID": 555738,
           "Title": "Kategoria:Pałace"
+        },
+        {
+          "ID": 64033,
+          "Title": "Kategoria:Państwa w Afryce"
+        },
+        {
+          "ID": 64035,
+          "Title": "Kategoria:Państwa w Ameryce Południowej"
+        },
+        {
+          "ID": 64034,
+          "Title": "Kategoria:Państwa w Ameryce Północnej"
+        },
+        {
+          "ID": 64036,
+          "Title": "Kategoria:Państwa w Australii i Oceanii"
+        },
+        {
+          "ID": 64031,
+          "Title": "Kategoria:Państwa w Azji"
+        },
+        {
+          "ID": 64032,
+          "Title": "Kategoria:Państwa w Europie"
+        },
+        {
+          "ID": 2853295,
+          "Title": "Kategoria:Państwa według kontynentów"
         },
         {
           "ID": 64037,
@@ -404,6 +444,10 @@
           "Title": "Kategoria:Historia"
         },
         {
+          "ID": 384438,
+          "Title": "Kategoria:Historia Unii Europejskiej"
+        },
+        {
           "ID": 74311,
           "Title": "Kategoria:Historia techniki"
         },
@@ -422,6 +466,10 @@
         {
           "ID": 103103,
           "Title": "Kategoria:Rewolucje"
+        },
+        {
+          "ID": 1099458,
+          "Title": "Kategoria:Starożytne ludy"
         },
         {
           "ID": 65357,
@@ -544,6 +592,10 @@
           "Title": "Kategoria:Substancje chemiczne"
         },
         {
+          "ID": 3988607,
+          "Title": "Kategoria:Typy gwiazd"
+        },
+        {
           "ID": 140184,
           "Title": "Kategoria:Ziemia"
         },
@@ -618,6 +670,10 @@
           "Title": "Kategoria:Biografie według daty śmierci"
         },
         {
+          "ID": 149152,
+          "Title": "Kategoria:Biografie według miast"
+        },
+        {
           "ID": 403057,
           "Title": "Kategoria:Biografie według profesji"
         },
@@ -634,12 +690,20 @@
           "Title": "Kategoria:Kobieta"
         },
         {
+          "ID": 319438,
+          "Title": "Kategoria:Kubańscy politycy"
+        },
+        {
           "ID": 66995,
           "Title": "Kategoria:Lekarze"
         },
         {
           "ID": 67061,
           "Title": "Kategoria:Lotnicy"
+        },
+        {
+          "ID": 3881561,
+          "Title": "Kategoria:Ludzie urodzeni w Atenach"
         },
         {
           "ID": 65700,
@@ -704,6 +768,10 @@
         {
           "ID": 87144,
           "Title": "Kategoria:Wynalazcy"
+        },
+        {
+          "ID": 181399,
+          "Title": "Kategoria:Włoscy piłkarze"
         }
       ]
     },
@@ -742,6 +810,10 @@
         {
           "ID": 1158227,
           "Title": "Kategoria:Teoria polityki"
+        },
+        {
+          "ID": 387784,
+          "Title": "Kategoria:Ustroje polityczne"
         }
       ]
     },

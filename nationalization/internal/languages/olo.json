@@ -36,6 +36,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 187,
+          "Title": "Kategourii:Aazien muat"
+        },
+        {
+          "ID": 190,
+          "Title": "Kategourii:Afriekan muat"
+        },
+        {
+          "ID": 223,
+          "Title": "Kategourii:Jevroupan muat"
+        },
+        {
           "ID": 225,
           "Title": "Kategourii:Jovet"
         },
@@ -50,6 +62,10 @@
         {
           "ID": 266,
           "Title": "Kategourii:Muat"
+        },
+        {
+          "ID": 270,
+          "Title": "Kategourii:Okeanien muat"
         }
       ]
     },
@@ -114,6 +130,10 @@
         {
           "ID": 4980,
           "Title": "Kategourii:Ristikanzat"
+        },
+        {
+          "ID": 5239,
+          "Title": "Kategourii:Rodivunnuot"
         }
       ]
     },

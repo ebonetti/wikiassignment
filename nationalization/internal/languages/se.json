@@ -96,6 +96,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6964,
+          "Title": "Kategoriija:Afrihká riikkat"
+        },
+        {
           "ID": 5881,
           "Title": "Kategoriija:Amerihká ovttastuvvan stáhtaid oassestáhtat"
         },
@@ -104,12 +108,24 @@
           "Title": "Kategoriija:Amerihká ovttastuvvan stáhtat"
         },
         {
+          "ID": 7607,
+          "Title": "Kategoriija:Davvi-Amerihká riikkat"
+        },
+        {
           "ID": 6223,
           "Title": "Kategoriija:Eatnandiehtu"
         },
         {
+          "ID": 6288,
+          "Title": "Kategoriija:Eurohpá riikkat"
+        },
+        {
           "ID": 6403,
           "Title": "Kategoriija:Geainnut"
+        },
+        {
+          "ID": 6220,
+          "Title": "Kategoriija:Gielddat"
         },
         {
           "ID": 6238,
@@ -120,8 +136,20 @@
           "Title": "Kategoriija:Jogat ja eanut"
         },
         {
+          "ID": 7311,
+          "Title": "Kategoriija:Lulli-Amerihká riikkat"
+        },
+        {
+          "ID": 17511,
+          "Title": "Kategoriija:Oseania riikkat"
+        },
+        {
           "ID": 1713,
           "Title": "Kategoriija:Riikkat"
+        },
+        {
+          "ID": 6308,
+          "Title": "Kategoriija:Ásia riikkat"
         }
       ]
     },
@@ -288,6 +316,10 @@
         {
           "ID": 2340,
           "Title": "Kategoriija:Girječállit"
+        },
+        {
+          "ID": 7287,
+          "Title": "Kategoriija:Italiálaš spábbačiekčit"
         },
         {
           "ID": 3259,

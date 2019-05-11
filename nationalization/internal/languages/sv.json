@@ -50,6 +50,10 @@
           "Title": "Kategori:Folkminnen"
         },
         {
+          "ID": 726723,
+          "Title": "Kategori:Fotbollsklubbar i Italien"
+        },
+        {
           "ID": 347184,
           "Title": "Kategori:Fribrottning"
         },
@@ -72,6 +76,14 @@
         {
           "ID": 3363777,
           "Title": "Kategori:Genus"
+        },
+        {
+          "ID": 2781766,
+          "Title": "Kategori:Historia efter tidsperiod"
+        },
+        {
+          "ID": 170355,
+          "Title": "Kategori:Historiska epoker"
         },
         {
           "ID": 426476,
@@ -250,6 +262,10 @@
           "Title": "Kategori:Tidskrifter"
         },
         {
+          "ID": 100961,
+          "Title": "Kategori:Torn"
+        },
+        {
           "ID": 295423,
           "Title": "Kategori:Trolleri"
         },
@@ -292,6 +308,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 51616,
+          "Title": "Kategori:Afrikas länder"
+        },
+        {
+          "ID": 51811,
+          "Title": "Kategori:Asiens länder"
+        },
+        {
+          "ID": 50729,
+          "Title": "Kategori:Europas länder"
+        },
+        {
           "ID": 264451,
           "Title": "Kategori:Gator"
         },
@@ -304,6 +332,10 @@
           "Title": "Kategori:Geomorfologi"
         },
         {
+          "ID": 63652,
+          "Title": "Kategori:Kommuner"
+        },
+        {
           "ID": 567290,
           "Title": "Kategori:Listor med anknytning till geografi"
         },
@@ -312,8 +344,20 @@
           "Title": "Kategori:Länder"
         },
         {
+          "ID": 8099562,
+          "Title": "Kategori:Länder efter världsdel"
+        },
+        {
           "ID": 3902103,
           "Title": "Kategori:Minnesmärken"
+        },
+        {
+          "ID": 51887,
+          "Title": "Kategori:Nordamerikas länder"
+        },
+        {
+          "ID": 52416,
+          "Title": "Kategori:Oceaniens länder"
         },
         {
           "ID": 391297,
@@ -346,6 +390,10 @@
         {
           "ID": 51794,
           "Title": "Kategori:Städer"
+        },
+        {
+          "ID": 57852,
+          "Title": "Kategori:Sydamerikas länder"
         },
         {
           "ID": 53306,
@@ -407,6 +455,14 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 401811,
+          "Title": "Kategori:Antikens folkslag"
+        },
+        {
+          "ID": 1036438,
+          "Title": "Kategori:Europeiska unionens historia"
+        },
         {
           "ID": 163380,
           "Title": "Kategori:Evenemang"
@@ -568,6 +624,10 @@
           "Title": "Kategori:Proteiner"
         },
         {
+          "ID": 891917,
+          "Title": "Kategori:Stjärntyper"
+        },
+        {
           "ID": 51575,
           "Title": "Kategori:Vetenskap"
         },
@@ -650,6 +710,10 @@
           "Title": "Kategori:Forskare inom medicin"
         },
         {
+          "ID": 215156,
+          "Title": "Kategori:Födda"
+        },
+        {
           "ID": 254339,
           "Title": "Kategori:Födda 1700-talet"
         },
@@ -666,8 +730,16 @@
           "Title": "Kategori:Författare"
         },
         {
+          "ID": 50337,
+          "Title": "Kategori:Italienska fotbollsspelare"
+        },
+        {
           "ID": 55520,
           "Title": "Kategori:Konstnärer"
+        },
+        {
+          "ID": 109934,
+          "Title": "Kategori:Kubanska politiker"
         },
         {
           "ID": 865075,
@@ -704,6 +776,10 @@
         {
           "ID": 3896710,
           "Title": "Kategori:Personer efter beteende"
+        },
+        {
+          "ID": 1252801,
+          "Title": "Kategori:Personer efter ort"
         },
         {
           "ID": 498652,

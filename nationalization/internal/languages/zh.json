@@ -58,8 +58,16 @@
           "Title": "Category:各國文化"
         },
         {
+          "ID": 76914,
+          "Title": "Category:各时期历史"
+        },
+        {
           "ID": 1616915,
           "Title": "Category:各类体育运动"
+        },
+        {
+          "ID": 3156782,
+          "Title": "Category:各語言作品"
         },
         {
           "ID": 3156777,
@@ -80,6 +88,10 @@
         {
           "ID": 1519344,
           "Title": "Category:圖版遊戲"
+        },
+        {
+          "ID": 906852,
+          "Title": "Category:塔式建筑"
         },
         {
           "ID": 1022547,
@@ -118,6 +130,10 @@
           "Title": "Category:性行为"
         },
         {
+          "ID": 177270,
+          "Title": "Category:意大利足球俱樂部"
+        },
+        {
           "ID": 52396,
           "Title": "Category:报纸"
         },
@@ -140,6 +156,10 @@
         {
           "ID": 6217728,
           "Title": "Category:文化类型"
+        },
+        {
+          "ID": 54861,
+          "Title": "Category:文化運動"
         },
         {
           "ID": 33586,
@@ -172,6 +192,10 @@
         {
           "ID": 72610,
           "Title": "Category:武术"
+        },
+        {
+          "ID": 1156250,
+          "Title": "Category:歷史時代"
         },
         {
           "ID": 110879,
@@ -340,12 +364,28 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 33590,
+          "Title": "Category:亚洲国家"
+        },
+        {
           "ID": 66094,
           "Title": "Category:公路"
         },
         {
+          "ID": 74556,
+          "Title": "Category:北美洲國家"
+        },
+        {
+          "ID": 74560,
+          "Title": "Category:南美洲國家"
+        },
+        {
           "ID": 1564939,
           "Title": "Category:各國聚居地"
+        },
+        {
+          "ID": 1258243,
+          "Title": "Category:各大洲國家"
         },
         {
           "ID": 33603,
@@ -384,8 +424,16 @@
           "Title": "Category:城镇"
         },
         {
+          "ID": 45202,
+          "Title": "Category:大洋洲国家"
+        },
+        {
           "ID": 70905,
           "Title": "Category:宮殿"
+        },
+        {
+          "ID": 35611,
+          "Title": "Category:欧洲国家"
         },
         {
           "ID": 46926,
@@ -454,6 +502,10 @@
         {
           "ID": 610410,
           "Title": "Category:都市設計"
+        },
+        {
+          "ID": 33259,
+          "Title": "Category:非洲国家"
         }
       ]
     },
@@ -528,6 +580,10 @@
           "Title": "Category:历史"
         },
         {
+          "ID": 78025,
+          "Title": "Category:古代族群"
+        },
+        {
           "ID": 3297468,
           "Title": "Category:各国家与主题历史"
         },
@@ -578,6 +634,10 @@
         {
           "ID": 208132,
           "Title": "Category:政治迫害"
+        },
+        {
+          "ID": 1054203,
+          "Title": "Category:欧盟历史"
         },
         {
           "ID": 1266522,
@@ -678,6 +738,10 @@
         {
           "ID": 33918,
           "Title": "Category:地球"
+        },
+        {
+          "ID": 808177,
+          "Title": "Category:恆星類型"
         },
         {
           "ID": 943567,
@@ -782,6 +846,10 @@
           "Title": "Category:医生"
         },
         {
+          "ID": 340730,
+          "Title": "Category:古巴政治人物"
+        },
+        {
           "ID": 1762021,
           "Title": "Category:各世紀人物"
         },
@@ -812,6 +880,10 @@
         {
           "ID": 1113261,
           "Title": "Category:各國諾貝爾獎獲得者"
+        },
+        {
+          "ID": 1211303,
+          "Title": "Category:各城市人物"
         },
         {
           "ID": 80653,
@@ -872,6 +944,10 @@
         {
           "ID": 34996,
           "Title": "Category:总统"
+        },
+        {
+          "ID": 107452,
+          "Title": "Category:意大利足球运动员"
         },
         {
           "ID": 34428,
@@ -1038,6 +1114,10 @@
         {
           "ID": 42773,
           "Title": "Category:意识形态"
+        },
+        {
+          "ID": 44263,
+          "Title": "Category:政体"
         },
         {
           "ID": 71033,

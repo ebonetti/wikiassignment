@@ -107,7 +107,13 @@
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking"
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5326,
+          "Title": "ܣܕܪܐ:ܪܘܟܒ ܫܘܠܛܢܘܬܐ"
+        }
+      ]
     },
     {
       "ID": 2147483645,

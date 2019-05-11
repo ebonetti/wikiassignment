@@ -118,6 +118,10 @@
           "Title": "Categoría:Entretenimiento"
         },
         {
+          "ID": 114638,
+          "Title": "Categoría:Equipos de fútbol de Italia"
+        },
+        {
           "ID": 52207,
           "Title": "Categoría:Escritura"
         },
@@ -174,6 +178,14 @@
           "Title": "Categoría:Géneros y formas musicales"
         },
         {
+          "ID": 167367,
+          "Title": "Categoría:Historia por edades"
+        },
+        {
+          "ID": 407747,
+          "Title": "Categoría:Historia por período"
+        },
+        {
           "ID": 182389,
           "Title": "Categoría:Ilusionismo"
         },
@@ -220,6 +232,10 @@
         {
           "ID": 210532,
           "Title": "Categoría:Magia"
+        },
+        {
+          "ID": 791467,
+          "Title": "Categoría:Movimientos culturales"
         },
         {
           "ID": 50615,
@@ -298,6 +314,10 @@
           "Title": "Categoría:Televisión"
         },
         {
+          "ID": 119906,
+          "Title": "Categoría:Torres"
+        },
+        {
           "ID": 147644,
           "Title": "Categoría:Técnicas culinarias"
         },
@@ -344,6 +364,10 @@
           "Title": "Categoría:Ciudades de Estados Unidos"
         },
         {
+          "ID": 365772,
+          "Title": "Categoría:Comunas"
+        },
+        {
           "ID": 329095,
           "Title": "Categoría:Estado"
         },
@@ -388,12 +412,44 @@
           "Title": "Categoría:Monumentos"
         },
         {
+          "ID": 365775,
+          "Title": "Categoría:Municipios"
+        },
+        {
           "ID": 243815,
           "Title": "Categoría:Palacios"
         },
         {
           "ID": 50847,
           "Title": "Categoría:Países"
+        },
+        {
+          "ID": 50865,
+          "Title": "Categoría:Países de América del Norte"
+        },
+        {
+          "ID": 50846,
+          "Title": "Categoría:Países de América del Sur"
+        },
+        {
+          "ID": 50866,
+          "Title": "Categoría:Países de Asia"
+        },
+        {
+          "ID": 50857,
+          "Title": "Categoría:Países de Europa"
+        },
+        {
+          "ID": 50868,
+          "Title": "Categoría:Países de Oceanía"
+        },
+        {
+          "ID": 50863,
+          "Title": "Categoría:Países de África"
+        },
+        {
+          "ID": 442230,
+          "Title": "Categoría:Países por continente"
         },
         {
           "ID": 3587170,
@@ -528,6 +584,10 @@
           "Title": "Categoría:Historia de Estados Unidos (1990-presente)"
         },
         {
+          "ID": 76069,
+          "Title": "Categoría:Historia de la Unión Europea"
+        },
+        {
           "ID": 204842,
           "Title": "Categoría:Historia de la tecnología"
         },
@@ -546,6 +606,10 @@
         {
           "ID": 5113370,
           "Title": "Categoría:Historia temática por país"
+        },
+        {
+          "ID": 252308,
+          "Title": "Categoría:Pueblos antiguos"
         },
         {
           "ID": 332983,
@@ -688,6 +752,10 @@
           "Title": "Categoría:Tierra"
         },
         {
+          "ID": 271479,
+          "Title": "Categoría:Tipos de estrellas"
+        },
+        {
           "ID": 4591556,
           "Title": "Categoría:Vida"
         },
@@ -786,6 +854,10 @@
           "Title": "Categoría:Filósofos por disciplina"
         },
         {
+          "ID": 114302,
+          "Title": "Categoría:Futbolistas de Italia"
+        },
+        {
           "ID": 3804540,
           "Title": "Categoría:Generales de Estados Unidos"
         },
@@ -870,6 +942,10 @@
           "Title": "Categoría:Personas por actividad y periodo"
         },
         {
+          "ID": 7504132,
+          "Title": "Categoría:Personas por ciudad"
+        },
+        {
           "ID": 5853463,
           "Title": "Categoría:Personas por comportamiento"
         },
@@ -886,8 +962,16 @@
           "Title": "Categoría:Politólogos"
         },
         {
+          "ID": 2445652,
+          "Title": "Categoría:Polímatas"
+        },
+        {
           "ID": 66614,
           "Title": "Categoría:Políticos"
+        },
+        {
+          "ID": 87684,
+          "Title": "Categoría:Políticos de Cuba"
         },
         {
           "ID": 634632,
@@ -922,6 +1006,10 @@
         {
           "ID": 50647,
           "Title": "Categoría:Filosofía"
+        },
+        {
+          "ID": 1744497,
+          "Title": "Categoría:Formas de gobierno"
         },
         {
           "ID": 119264,

@@ -98,6 +98,10 @@
           "Title": "Lūi-pia̍t:Kàu-io̍k ê chhiú-lō͘"
         },
         {
+          "ID": 673696,
+          "Title": "Lūi-pia̍t:Le̍k-sú sî-tāi"
+        },
+        {
           "ID": 720724,
           "Title": "Lūi-pia̍t:Lâng ê sèng"
         },
@@ -150,6 +154,10 @@
           "Title": "Lūi-pia̍t:Sèng-pia̍t"
         },
         {
+          "ID": 626476,
+          "Title": "Lūi-pia̍t:Thah"
+        },
+        {
           "ID": 25153,
           "Title": "Lūi-pia̍t:Thoân-soat"
         },
@@ -192,6 +200,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 7805,
+          "Title": "Lūi-pia̍t:A-chiu kok-ka"
+        },
+        {
+          "ID": 7806,
+          "Title": "Lūi-pia̍t:Au-chiu kok-ka"
+        },
+        {
           "ID": 2609,
           "Title": "Lūi-pia̍t:Bí-kok"
         },
@@ -216,6 +232,10 @@
           "Title": "Lūi-pia̍t:Chôaⁿ"
         },
         {
+          "ID": 7810,
+          "Title": "Lūi-pia̍t:Hui-chiu kok-ka"
+        },
+        {
           "ID": 627278,
           "Title": "Lūi-pia̍t:Hêng-chèng"
         },
@@ -232,12 +252,24 @@
           "Title": "Lūi-pia̍t:Kok-ka"
         },
         {
+          "ID": 7842,
+          "Title": "Lūi-pia̍t:Lâm Bí-chiu kok-ka"
+        },
+        {
+          "ID": 7841,
+          "Title": "Lūi-pia̍t:Pak Bí-chiu kok-ka"
+        },
+        {
           "ID": 10813,
           "Title": "Lūi-pia̍t:Siâⁿ-chhī"
         },
         {
           "ID": 20559,
           "Title": "Lūi-pia̍t:To͘-chhī kè-ōe"
+        },
+        {
+          "ID": 7808,
+          "Title": "Lūi-pia̍t:Tāi-iûⁿ-chiu kok-ka"
         },
         {
           "ID": 587234,
@@ -543,6 +575,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 11926,
+          "Title": "Lūi-pia̍t:Chèng-thé"
+        },
         {
           "ID": 443664,
           "Title": "Lūi-pia̍t:Chū-iû-chú-gī"

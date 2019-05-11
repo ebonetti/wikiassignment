@@ -3,7 +3,13 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts"
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 3174,
+          "Title": "Kawan:Grup sipak bhan Italia"
+        }
+      ]
     },
     {
       "ID": 2147483638,
@@ -56,6 +62,10 @@
         {
           "ID": 5073,
           "Title": "Kawan:Aktor"
+        },
+        {
+          "ID": 3176,
+          "Title": "Kawan:Ureueng meu'èn sipak bhan asai Italia"
         },
         {
           "ID": 4580,

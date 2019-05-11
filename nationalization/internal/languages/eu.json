@@ -18,6 +18,10 @@
           "Title": "Kategoria:Ariketa fisikoa"
         },
         {
+          "ID": 229460,
+          "Title": "Kategoria:Aro historikoak"
+        },
+        {
           "ID": 24697,
           "Title": "Kategoria:Arte eszenikoak"
         },
@@ -40,6 +44,10 @@
         {
           "ID": 239967,
           "Title": "Kategoria:Borroka arteak"
+        },
+        {
+          "ID": 8114,
+          "Title": "Kategoria:Dorreak"
         },
         {
           "ID": 580468,
@@ -106,6 +114,10 @@
           "Title": "Kategoria:Hezkuntza"
         },
         {
+          "ID": 41659,
+          "Title": "Kategoria:Historia aroaren arabera"
+        },
+        {
           "ID": 22534,
           "Title": "Kategoria:Idazketa"
         },
@@ -124,6 +136,10 @@
         {
           "ID": 9506,
           "Title": "Kategoria:Irrati kateak"
+        },
+        {
+          "ID": 18263,
+          "Title": "Kategoria:Italiako futbol taldeak"
         },
         {
           "ID": 7444,
@@ -164,6 +180,10 @@
         {
           "ID": 48477,
           "Title": "Kategoria:Kultura herrialdearen arabera"
+        },
+        {
+          "ID": 584133,
+          "Title": "Kategoria:Kultura mugimenduak"
         },
         {
           "ID": 98160,
@@ -268,6 +288,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 15850,
+          "Title": "Kategoria:Afrikako herrialdeak"
+        },
+        {
           "ID": 50586,
           "Title": "Kategoria:Ameriketako Estatu Batuak"
         },
@@ -284,12 +308,20 @@
           "Title": "Kategoria:Ameriketako Estatu Batuetako hiriak"
         },
         {
+          "ID": 15851,
+          "Title": "Kategoria:Asiako herrialdeak"
+        },
+        {
           "ID": 48417,
           "Title": "Kategoria:Errepideak"
         },
         {
           "ID": 45462,
           "Title": "Kategoria:Estatua"
+        },
+        {
+          "ID": 15852,
+          "Title": "Kategoria:Europako herrialdeak"
         },
         {
           "ID": 3436,
@@ -306,6 +338,10 @@
         {
           "ID": 21583,
           "Title": "Kategoria:Herrialdeak"
+        },
+        {
+          "ID": 598131,
+          "Title": "Kategoria:Herrialdeak kontinenteen arabera"
         },
         {
           "ID": 741111,
@@ -344,8 +380,16 @@
           "Title": "Kategoria:Monumentuak"
         },
         {
+          "ID": 15853,
+          "Title": "Kategoria:Ozeaniako herrialdeak"
+        },
+        {
           "ID": 239641,
           "Title": "Kategoria:Tokiak"
+        },
+        {
+          "ID": 24790,
+          "Title": "Kategoria:Udalerriak"
         }
       ]
     },
@@ -403,6 +447,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 286042,
+          "Title": "Kategoria:Antzinako etniak"
+        },
         {
           "ID": 109756,
           "Title": "Kategoria:Eraso terroristak"
@@ -536,6 +584,10 @@
           "Title": "Kategoria:Hondamenak eta istripuak"
         },
         {
+          "ID": 610673,
+          "Title": "Kategoria:Izar motak"
+        },
+        {
           "ID": 3460,
           "Title": "Kategoria:Kimika"
         },
@@ -622,6 +674,10 @@
           "Title": "Kategoria:Biografiak"
         },
         {
+          "ID": 123935,
+          "Title": "Kategoria:Biografiak hiriaren arabera"
+        },
+        {
           "ID": 241947,
           "Title": "Kategoria:Biografiak jokabidearen arabera"
         },
@@ -706,8 +762,16 @@
           "Title": "Kategoria:Iraultzaileak"
         },
         {
+          "ID": 23789,
+          "Title": "Kategoria:Italiako futbolariak"
+        },
+        {
           "ID": 160520,
           "Title": "Kategoria:Jaiotzak urtearen arabera"
+        },
+        {
+          "ID": 155843,
+          "Title": "Kategoria:Kubako politikariak"
         },
         {
           "ID": 290732,
@@ -782,6 +846,10 @@
         {
           "ID": 100090,
           "Title": "Kategoria:Filosofiaren adarrak"
+        },
+        {
+          "ID": 23920,
+          "Title": "Kategoria:Gobernu erak"
         },
         {
           "ID": 6415,
