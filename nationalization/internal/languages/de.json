@@ -18,8 +18,16 @@
           "Title": "Kategorie:Biografie"
         },
         {
+          "ID": 429547,
+          "Title": "Kategorie:Brasilianischer Fußballverein"
+        },
+        {
           "ID": 238338,
           "Title": "Kategorie:Brettspiel"
+        },
+        {
+          "ID": 7501680,
+          "Title": "Kategorie:Briefroman"
         },
         {
           "ID": 7713342,
@@ -58,12 +66,32 @@
           "Title": "Kategorie:Esskultur"
         },
         {
+          "ID": 4885143,
+          "Title": "Kategorie:Fantasy-Fernsehserie"
+        },
+        {
           "ID": 594705,
           "Title": "Kategorie:Farben"
         },
         {
           "ID": 290987,
           "Title": "Kategorie:Fernsehen"
+        },
+        {
+          "ID": 6808124,
+          "Title": "Kategorie:Fernsehsendung (Portugal)"
+        },
+        {
+          "ID": 363000,
+          "Title": "Kategorie:Fernsehserie"
+        },
+        {
+          "ID": 1764586,
+          "Title": "Kategorie:Fernsehserie (Brasilien)"
+        },
+        {
+          "ID": 2248484,
+          "Title": "Kategorie:Fernsehserie nach Staat"
         },
         {
           "ID": 1040026,
@@ -88,6 +116,10 @@
         {
           "ID": 2145798,
           "Title": "Kategorie:Freizeit"
+        },
+        {
+          "ID": 8564199,
+          "Title": "Kategorie:Fußballverein nach Staat"
         },
         {
           "ID": 494641,
@@ -122,6 +154,10 @@
           "Title": "Kategorie:Hobby"
         },
         {
+          "ID": 6726793,
+          "Title": "Kategorie:Home Box Office"
+        },
+        {
           "ID": 306052,
           "Title": "Kategorie:Hörfunksender"
         },
@@ -136,6 +172,10 @@
         {
           "ID": 1856130,
           "Title": "Kategorie:Kultur nach Staat"
+        },
+        {
+          "ID": 3145478,
+          "Title": "Kategorie:Kunst der Moderne"
         },
         {
           "ID": 7926712,
@@ -170,6 +210,10 @@
           "Title": "Kategorie:Magie"
         },
         {
+          "ID": 509909,
+          "Title": "Kategorie:Mannschaftssport"
+        },
+        {
           "ID": 235486,
           "Title": "Kategorie:Musik"
         },
@@ -196,6 +240,10 @@
         {
           "ID": 348231,
           "Title": "Kategorie:Netzkultur"
+        },
+        {
+          "ID": 3684987,
+          "Title": "Kategorie:Olympische Sportart"
         },
         {
           "ID": 2799551,
@@ -286,6 +334,10 @@
           "Title": "Kategorie:Zauberkunst"
         },
         {
+          "ID": 1923122,
+          "Title": "Kategorie:Zeitgenössische Kunst"
+        },
+        {
           "ID": 268373,
           "Title": "Kategorie:Zeitschrift"
         },
@@ -328,8 +380,24 @@
           "Title": "Kategorie:Geographie"
         },
         {
+          "ID": 603908,
+          "Title": "Kategorie:Geographie (Europa)"
+        },
+        {
+          "ID": 1857997,
+          "Title": "Kategorie:Geographie nach Kontinent"
+        },
+        {
           "ID": 236005,
           "Title": "Kategorie:Geomorphologie"
+        },
+        {
+          "ID": 637519,
+          "Title": "Kategorie:Hauptstadt in Europa"
+        },
+        {
+          "ID": 235810,
+          "Title": "Kategorie:Kontinent"
         },
         {
           "ID": 676986,
@@ -368,12 +436,24 @@
           "Title": "Kategorie:Siedlungsgeographie"
         },
         {
+          "ID": 345573,
+          "Title": "Kategorie:Spanische Provinz"
+        },
+        {
+          "ID": 1035794,
+          "Title": "Kategorie:Spanische autonome Gemeinschaft"
+        },
+        {
           "ID": 237857,
           "Title": "Kategorie:Staat"
         },
         {
           "ID": 2121510,
           "Title": "Kategorie:Staat in Afrika"
+        },
+        {
+          "ID": 2122069,
+          "Title": "Kategorie:Staat in Amerika"
         },
         {
           "ID": 2121401,
@@ -466,8 +546,16 @@
           "Title": "Kategorie:Medizin nach Fachgebiet"
         },
         {
+          "ID": 1863511,
+          "Title": "Kategorie:Paraphilie"
+        },
+        {
           "ID": 796377,
           "Title": "Kategorie:Pflege"
+        },
+        {
+          "ID": 1241969,
+          "Title": "Kategorie:Sanitärtechnik"
         }
       ]
     },
@@ -508,12 +596,24 @@
           "Title": "Kategorie:Geschichte nach räumlicher Zuordnung"
         },
         {
+          "ID": 6958798,
+          "Title": "Kategorie:Historischer Staat in Europa"
+        },
+        {
+          "ID": 6589303,
+          "Title": "Kategorie:Katastrophe nach Jahr"
+        },
+        {
           "ID": 241606,
           "Title": "Kategorie:Krieg"
         },
         {
           "ID": 8317046,
           "Title": "Kategorie:Kulturelle Veranstaltung"
+        },
+        {
+          "ID": 6546269,
+          "Title": "Kategorie:Militärgeschichte nach Jahrhundert"
         },
         {
           "ID": 7167355,
@@ -596,6 +696,10 @@
           "Title": "Kategorie:Anatomie"
         },
         {
+          "ID": 2383569,
+          "Title": "Kategorie:Astronomisches Objekt"
+        },
+        {
           "ID": 235238,
           "Title": "Kategorie:Chemie"
         },
@@ -606,6 +710,14 @@
         {
           "ID": 233544,
           "Title": "Kategorie:Erde"
+        },
+        {
+          "ID": 241921,
+          "Title": "Kategorie:Haustier"
+        },
+        {
+          "ID": 7603032,
+          "Title": "Kategorie:Haustierrasse"
         },
         {
           "ID": 320855,
@@ -678,6 +790,10 @@
           "Title": "Kategorie:Bergsteiger nach Land"
         },
         {
+          "ID": 6750431,
+          "Title": "Kategorie:Ehrendoktor"
+        },
+        {
           "ID": 254391,
           "Title": "Kategorie:Engländer"
         },
@@ -688,6 +804,10 @@
         {
           "ID": 844333,
           "Title": "Kategorie:Erfinder"
+        },
+        {
+          "ID": 524908,
+          "Title": "Kategorie:Evangelischer Theologe"
         },
         {
           "ID": 242347,
@@ -710,8 +830,16 @@
           "Title": "Kategorie:Frauen"
         },
         {
+          "ID": 391851,
+          "Title": "Kategorie:Fußballspieler (Frankreich)"
+        },
+        {
           "ID": 391818,
           "Title": "Kategorie:Fußballspieler (Italien)"
+        },
+        {
+          "ID": 5414820,
+          "Title": "Kategorie:Fußballspieler nach Staat"
         },
         {
           "ID": 2113914,
@@ -724,6 +852,10 @@
         {
           "ID": 2113916,
           "Title": "Kategorie:Geboren (20. Jahrhundert)"
+        },
+        {
+          "ID": 7308954,
+          "Title": "Kategorie:Journalist (Frankreich)"
         },
         {
           "ID": 238613,
@@ -742,12 +874,32 @@
           "Title": "Kategorie:Mediziner"
         },
         {
+          "ID": 5533591,
+          "Title": "Kategorie:Mitglied der Ehrenlegion (Kommandeur)"
+        },
+        {
+          "ID": 5530709,
+          "Title": "Kategorie:Mitglied der Ehrenlegion (Offizier)"
+        },
+        {
+          "ID": 9869347,
+          "Title": "Kategorie:Mitglied von En Marche"
+        },
+        {
           "ID": 235523,
           "Title": "Kategorie:Musiker"
         },
         {
+          "ID": 5422440,
+          "Title": "Kategorie:Parteimitglied (Frankreich)"
+        },
+        {
           "ID": 234852,
           "Title": "Kategorie:Person"
+        },
+        {
+          "ID": 5667837,
+          "Title": "Kategorie:Person (Computerspiele)"
         },
         {
           "ID": 4104391,
@@ -760,6 +912,14 @@
         {
           "ID": 9641696,
           "Title": "Kategorie:Person (Vereinigte Staaten) nach Tätigkeit"
+        },
+        {
+          "ID": 2659585,
+          "Title": "Kategorie:Person der Antike"
+        },
+        {
+          "ID": 1738939,
+          "Title": "Kategorie:Person nach Geburtsjahrhundert"
         },
         {
           "ID": 4803537,
@@ -778,6 +938,10 @@
           "Title": "Kategorie:Person nach Tätigkeit"
         },
         {
+          "ID": 4803551,
+          "Title": "Kategorie:Person nach Tätigkeit und Jahrhundert"
+        },
+        {
           "ID": 5596103,
           "Title": "Kategorie:Personen"
         },
@@ -786,8 +950,16 @@
           "Title": "Kategorie:Philosoph"
         },
         {
+          "ID": 2105912,
+          "Title": "Kategorie:Philosoph (20. Jahrhundert)"
+        },
+        {
           "ID": 2204387,
           "Title": "Kategorie:Philosoph nach Disziplin"
+        },
+        {
+          "ID": 2204385,
+          "Title": "Kategorie:Philosoph nach Jahrhundert"
         },
         {
           "ID": 242559,
@@ -806,8 +978,16 @@
           "Title": "Kategorie:Politikwissenschaftler"
         },
         {
+          "ID": 337267,
+          "Title": "Kategorie:Religionsstifter"
+        },
+        {
           "ID": 242939,
           "Title": "Kategorie:Revolutionär"
+        },
+        {
+          "ID": 8328181,
+          "Title": "Kategorie:Ritter des Hosenbandordens"
         },
         {
           "ID": 235885,
@@ -885,6 +1065,18 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 292541,
+          "Title": "Kategorie:Gottheit"
+        },
+        {
+          "ID": 5604370,
+          "Title": "Kategorie:Gottheit nach Funktion"
+        },
+        {
+          "ID": 6064071,
+          "Title": "Kategorie:Männliche Gottheit"
+        },
         {
           "ID": 235991,
           "Title": "Kategorie:Religion"
@@ -1002,6 +1194,10 @@
         {
           "ID": 4085735,
           "Title": "Kategorie:Regierung"
+        },
+        {
+          "ID": 1132293,
+          "Title": "Kategorie:Soziale Gruppe"
         },
         {
           "ID": 851000,

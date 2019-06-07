@@ -14,6 +14,10 @@
           "Title": "Kategorija:Borilačke vještine i športovi"
         },
         {
+          "ID": 153400,
+          "Title": "Kategorija:Brazilski nogometni klubovi"
+        },
+        {
           "ID": 56563,
           "Title": "Kategorija:Enciklopedistika"
         },
@@ -98,6 +102,10 @@
           "Title": "Kategorija:Legenda"
         },
         {
+          "ID": 45694,
+          "Title": "Kategorija:Nogometni klubovi po državama"
+        },
+        {
           "ID": 16909,
           "Title": "Kategorija:Odgoj i obrazovanje"
         },
@@ -132,6 +140,14 @@
         {
           "ID": 41724,
           "Title": "Kategorija:Televizija"
+        },
+        {
+          "ID": 14244,
+          "Title": "Kategorija:Televizijske serije"
+        },
+        {
+          "ID": 96029,
+          "Title": "Kategorija:Televizijske serije po državama"
         },
         {
           "ID": 78781,
@@ -212,12 +228,20 @@
           "Title": "Kategorija:Geomorfologija"
         },
         {
+          "ID": 113095,
+          "Title": "Kategorija:Glavni gradovi u Europi"
+        },
+        {
           "ID": 13389,
           "Title": "Kategorija:Gradovi"
         },
         {
           "ID": 14064,
           "Title": "Kategorija:Gradovi u SAD-u"
+        },
+        {
+          "ID": 32407,
+          "Title": "Kategorija:Kontinenti"
         },
         {
           "ID": 143744,
@@ -260,8 +284,24 @@
           "Title": "Kategorija:Urbanizam"
         },
         {
+          "ID": 153483,
+          "Title": "Kategorija:Zemljopis Europe"
+        },
+        {
+          "ID": 153480,
+          "Title": "Kategorija:Zemljopis po kontinentima"
+        },
+        {
           "ID": 317163,
           "Title": "Kategorija:Zemljopisni popisi"
+        },
+        {
+          "ID": 142646,
+          "Title": "Kategorija:Španjolske autonomne zajednice"
+        },
+        {
+          "ID": 142501,
+          "Title": "Kategorija:Španjolske pokrajine"
         }
       ]
     },
@@ -306,6 +346,10 @@
         {
           "ID": 181396,
           "Title": "Kategorija:Stari narodi i civilizacije"
+        },
+        {
+          "ID": 583462,
+          "Title": "Kategorija:Vojna povijest po stoljećima"
         }
       ]
     },
@@ -352,6 +396,10 @@
           "Title": "Kategorija:Bjelančevine"
         },
         {
+          "ID": 256902,
+          "Title": "Kategorija:Domaće životinje"
+        },
+        {
           "ID": 20952,
           "Title": "Kategorija:Ekologija"
         },
@@ -374,6 +422,10 @@
         {
           "ID": 32715,
           "Title": "Kategorija:Kemijski spojevi"
+        },
+        {
+          "ID": 37561,
+          "Title": "Kategorija:Nebeska tijela"
         },
         {
           "ID": 16922,
@@ -434,6 +486,10 @@
           "Title": "Kategorija:Filozofi"
         },
         {
+          "ID": 50261,
+          "Title": "Kategorija:Francuski nogometaši"
+        },
+        {
           "ID": 12276,
           "Title": "Kategorija:Glazbenici"
         },
@@ -468,6 +524,14 @@
         {
           "ID": 16482,
           "Title": "Kategorija:Matematičari"
+        },
+        {
+          "ID": 47157,
+          "Title": "Kategorija:Nogometaši po državama"
+        },
+        {
+          "ID": 126063,
+          "Title": "Kategorija:Osnivači religija"
         },
         {
           "ID": 12038,
@@ -558,8 +622,16 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 294540,
+          "Title": "Kategorija:Božanstva"
+        },
+        {
           "ID": 496735,
           "Title": "Kategorija:Kritika religije"
+        },
+        {
+          "ID": 69888,
+          "Title": "Kategorija:Olimpski bogovi"
         },
         {
           "ID": 10531,

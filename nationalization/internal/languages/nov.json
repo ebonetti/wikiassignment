@@ -44,8 +44,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3838,
+          "Title": "Category:Chef-urbes de Europa"
+        },
+        {
           "ID": 4849,
           "Title": "Category:Geografia"
+        },
+        {
+          "ID": 5473,
+          "Title": "Category:Komunies de Spania"
+        },
+        {
+          "ID": 6384,
+          "Title": "Category:Kontinentes"
         },
         {
           "ID": 1790,
@@ -124,6 +136,10 @@
         {
           "ID": 7534,
           "Title": "Category:Animales"
+        },
+        {
+          "ID": 4726,
+          "Title": "Category:Astronomial objektes"
         },
         {
           "ID": 4628,

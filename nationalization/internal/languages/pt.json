@@ -18,12 +18,24 @@
           "Title": "Categoria:Arte"
         },
         {
+          "ID": 65136,
+          "Title": "Categoria:Arte contemporânea"
+        },
+        {
+          "ID": 64951,
+          "Title": "Categoria:Arte moderna"
+        },
+        {
           "ID": 15293,
           "Title": "Categoria:Artes cénicas"
         },
         {
           "ID": 18776,
           "Title": "Categoria:Artes marciais"
+        },
+        {
+          "ID": 3411753,
+          "Title": "Categoria:Associações de futebol de Portugal"
         },
         {
           "ID": 14826,
@@ -38,8 +50,32 @@
           "Title": "Categoria:Bruxaria"
         },
         {
+          "ID": 3505897,
+          "Title": "Categoria:Categorias de séries de televisão"
+        },
+        {
+          "ID": 2263048,
+          "Title": "Categoria:Clubes da Superleague Fórmula"
+        },
+        {
+          "ID": 4274031,
+          "Title": "Categoria:Clubes de futebol da Europa"
+        },
+        {
           "ID": 62244,
           "Title": "Categoria:Clubes de futebol da Itália"
+        },
+        {
+          "ID": 61675,
+          "Title": "Categoria:Clubes de futebol do Brasil"
+        },
+        {
+          "ID": 869587,
+          "Title": "Categoria:Clubes de futebol por ano de fundação"
+        },
+        {
+          "ID": 2051868,
+          "Title": "Categoria:Clubes de futebol por país"
         },
         {
           "ID": 1562370,
@@ -92,6 +128,14 @@
         {
           "ID": 1937695,
           "Title": "Categoria:Desportos"
+        },
+        {
+          "ID": 4144585,
+          "Title": "Categoria:Desportos coletivos"
+        },
+        {
+          "ID": 23929,
+          "Title": "Categoria:Desportos olímpicos"
         },
         {
           "ID": 2994030,
@@ -290,6 +334,30 @@
           "Title": "Categoria:Pratos por ingrediente principal"
         },
         {
+          "ID": 510170,
+          "Title": "Categoria:Programas da HBO"
+        },
+        {
+          "ID": 4507449,
+          "Title": "Categoria:Programas da Netflix"
+        },
+        {
+          "ID": 522859,
+          "Title": "Categoria:Programas de televisão de Portugal"
+        },
+        {
+          "ID": 4282894,
+          "Title": "Categoria:Programas de televisão de Taiwan por emissora"
+        },
+        {
+          "ID": 4703996,
+          "Title": "Categoria:Programas de televisão em língua portuguesa"
+        },
+        {
+          "ID": 442381,
+          "Title": "Categoria:Programas de televisão por emissoras"
+        },
+        {
           "ID": 4557735,
           "Title": "Categoria:Práticas sexuais"
         },
@@ -310,6 +378,10 @@
           "Title": "Categoria:Revistas semanais de informação"
         },
         {
+          "ID": 3841328,
+          "Title": "Categoria:Romances epistolares"
+        },
+        {
           "ID": 2009545,
           "Title": "Categoria:Secularismo"
         },
@@ -324,6 +396,22 @@
         {
           "ID": 158835,
           "Title": "Categoria:Sexualidade humana"
+        },
+        {
+          "ID": 4349508,
+          "Title": "Categoria:Séries de fantasia"
+        },
+        {
+          "ID": 50476,
+          "Title": "Categoria:Séries de televisão"
+        },
+        {
+          "ID": 144760,
+          "Title": "Categoria:Séries de televisão do Brasil"
+        },
+        {
+          "ID": 144758,
+          "Title": "Categoria:Séries de televisão por país"
         },
         {
           "ID": 29480,
@@ -344,6 +432,10 @@
         {
           "ID": 469929,
           "Title": "Categoria:Vida pessoal"
+        },
+        {
+          "ID": 187955,
+          "Title": "Categoria:Vilões da Marvel Comics"
         }
       ]
     },
@@ -356,6 +448,10 @@
           "Title": "Categoria:Assentamentos"
         },
         {
+          "ID": 54501,
+          "Title": "Categoria:Capitais da Europa"
+        },
+        {
           "ID": 2663761,
           "Title": "Categoria:Cidade"
         },
@@ -364,12 +460,24 @@
           "Title": "Categoria:Cidades"
         },
         {
+          "ID": 4565700,
+          "Title": "Categoria:Cidades da Europa"
+        },
+        {
           "ID": 57025,
           "Title": "Categoria:Cidades dos Estados Unidos"
         },
         {
           "ID": 100361,
           "Title": "Categoria:Comunas"
+        },
+        {
+          "ID": 2472843,
+          "Title": "Categoria:Comunidades autônomas da Espanha"
+        },
+        {
+          "ID": 15421,
+          "Title": "Categoria:Continentes"
         },
         {
           "ID": 5581392,
@@ -398,6 +506,14 @@
         {
           "ID": 14746,
           "Title": "Categoria:Geografia"
+        },
+        {
+          "ID": 98530,
+          "Title": "Categoria:Geografia da Europa"
+        },
+        {
+          "ID": 1405981,
+          "Title": "Categoria:Geografia por continente"
         },
         {
           "ID": 541014,
@@ -440,6 +556,10 @@
           "Title": "Categoria:Países"
         },
         {
+          "ID": 20087,
+          "Title": "Categoria:Países da América"
+        },
+        {
           "ID": 15226,
           "Title": "Categoria:Países da América do Norte"
         },
@@ -466,6 +586,10 @@
         {
           "ID": 2548217,
           "Title": "Categoria:Países por continente"
+        },
+        {
+          "ID": 92299,
+          "Title": "Categoria:Províncias da Espanha"
         },
         {
           "ID": 2218176,
@@ -534,6 +658,10 @@
           "Title": "Categoria:Medicina"
         },
         {
+          "ID": 2930084,
+          "Title": "Categoria:Parafilias"
+        },
+        {
           "ID": 43114,
           "Title": "Categoria:Saúde"
         }
@@ -556,8 +684,16 @@
           "Title": "Categoria:Casos da Suprema Corte dos Estados Unidos"
         },
         {
+          "ID": 3850421,
+          "Title": "Categoria:Civilizações da Antiguidade"
+        },
+        {
           "ID": 3161028,
           "Title": "Categoria:Cronologias de tecnologia"
+        },
+        {
+          "ID": 2084615,
+          "Title": "Categoria:Desastres por ano"
         },
         {
           "ID": 18651,
@@ -566,6 +702,10 @@
         {
           "ID": 1866736,
           "Title": "Categoria:Eleições por ano"
+        },
+        {
+          "ID": 1789610,
+          "Title": "Categoria:Estados extintos da Europa"
         },
         {
           "ID": 61537,
@@ -598,6 +738,10 @@
         {
           "ID": 262533,
           "Title": "Categoria:História da tecnologia"
+        },
+        {
+          "ID": 5457474,
+          "Title": "Categoria:História militar por século"
         },
         {
           "ID": 2657522,
@@ -658,6 +802,10 @@
           "Title": "Categoria:Matemática aplicada"
         },
         {
+          "ID": 5553345,
+          "Title": "Categoria:Matemática elementar"
+        },
+        {
           "ID": 1051994,
           "Title": "Categoria:Probabilidade e estatística"
         },
@@ -686,6 +834,14 @@
         {
           "ID": 19978,
           "Title": "Categoria:Animais"
+        },
+        {
+          "ID": 67793,
+          "Title": "Categoria:Animais domésticos"
+        },
+        {
+          "ID": 1689237,
+          "Title": "Categoria:Antropometria"
         },
         {
           "ID": 40676,
@@ -744,6 +900,10 @@
           "Title": "Categoria:Natureza"
         },
         {
+          "ID": 2167900,
+          "Title": "Categoria:Objetos astronómicos"
+        },
+        {
           "ID": 15202,
           "Title": "Categoria:Plantas"
         },
@@ -754,6 +914,10 @@
         {
           "ID": 14748,
           "Title": "Categoria:Química"
+        },
+        {
+          "ID": 5937814,
+          "Title": "Categoria:Raças de animais"
         },
         {
           "ID": 5439470,
@@ -814,6 +978,10 @@
           "Title": "Categoria:Biógrafos"
         },
         {
+          "ID": 220394,
+          "Title": "Categoria:Cavaleiros da Ordem da Jarreteira"
+        },
+        {
           "ID": 19826,
           "Title": "Categoria:Chefes de Estado"
         },
@@ -826,6 +994,14 @@
           "Title": "Categoria:Cristãos por século"
         },
         {
+          "ID": 4494986,
+          "Title": "Categoria:Deputados no Parlamento Europeu por país"
+        },
+        {
+          "ID": 3772636,
+          "Title": "Categoria:Doutores Honoris Causa"
+        },
+        {
           "ID": 2270850,
           "Title": "Categoria:Ego"
         },
@@ -836,6 +1012,10 @@
         {
           "ID": 14069,
           "Title": "Categoria:Escritores"
+        },
+        {
+          "ID": 4644252,
+          "Title": "Categoria:Escritores do século XX"
         },
         {
           "ID": 14948,
@@ -854,12 +1034,40 @@
           "Title": "Categoria:Filósofos"
         },
         {
+          "ID": 1518635,
+          "Title": "Categoria:Filósofos do século XX"
+        },
+        {
           "ID": 4218183,
           "Title": "Categoria:Filósofos por assunto"
         },
         {
+          "ID": 3511462,
+          "Title": "Categoria:Filósofos por século"
+        },
+        {
+          "ID": 4839131,
+          "Title": "Categoria:Franceses do século XX"
+        },
+        {
+          "ID": 4036123,
+          "Title": "Categoria:Franceses por século"
+        },
+        {
+          "ID": 5243172,
+          "Title": "Categoria:Fundadores de religiões"
+        },
+        {
+          "ID": 71971,
+          "Title": "Categoria:Futebolistas da França"
+        },
+        {
           "ID": 71959,
           "Title": "Categoria:Futebolistas da Itália"
+        },
+        {
+          "ID": 1430423,
+          "Title": "Categoria:Futebolistas por país"
         },
         {
           "ID": 2835350,
@@ -872,6 +1080,10 @@
         {
           "ID": 22283,
           "Title": "Categoria:Inventores"
+        },
+        {
+          "ID": 119538,
+          "Title": "Categoria:Jornalistas da França"
         },
         {
           "ID": 3878888,
@@ -930,8 +1142,16 @@
           "Title": "Categoria:Nascidos por ano"
         },
         {
+          "ID": 5405456,
+          "Title": "Categoria:Nascidos por século"
+        },
+        {
           "ID": 2802824,
           "Title": "Categoria:Naturais de Atenas"
+        },
+        {
+          "ID": 4888757,
+          "Title": "Categoria:Oficiais da Ordem Nacional da Legião de Honra"
         },
         {
           "ID": 22154,
@@ -948,6 +1168,18 @@
         {
           "ID": 20070,
           "Title": "Categoria:Pessoas"
+        },
+        {
+          "ID": 5133728,
+          "Title": "Categoria:Pessoas com dupla nacionalidade"
+        },
+        {
+          "ID": 5327209,
+          "Title": "Categoria:Pessoas da Antiguidade"
+        },
+        {
+          "ID": 4404271,
+          "Title": "Categoria:Pessoas da indústria de jogos eletrônicos"
         },
         {
           "ID": 2945431,
@@ -978,6 +1210,10 @@
           "Title": "Categoria:Pessoas por ocupação e período"
         },
         {
+          "ID": 3444802,
+          "Title": "Categoria:Pessoas por ocupação e século"
+        },
+        {
           "ID": 3444805,
           "Title": "Categoria:Pessoas por século"
         },
@@ -992,6 +1228,10 @@
         {
           "ID": 14430,
           "Title": "Categoria:Políticos"
+        },
+        {
+          "ID": 2693283,
+          "Title": "Categoria:Políticos da França por partido"
         },
         {
           "ID": 109309,
@@ -1012,6 +1252,14 @@
         {
           "ID": 589387,
           "Title": "Categoria:Sobrenomes"
+        },
+        {
+          "ID": 2563063,
+          "Title": "Categoria:Teólogos protestantes"
+        },
+        {
+          "ID": 1734476,
+          "Title": "Categoria:Vegetarianos"
         }
       ]
     },
@@ -1106,6 +1354,22 @@
           "Title": "Categoria:Criticismo de religião"
         },
         {
+          "ID": 586445,
+          "Title": "Categoria:Deidades"
+        },
+        {
+          "ID": 3459000,
+          "Title": "Categoria:Deuses"
+        },
+        {
+          "ID": 1494560,
+          "Title": "Categoria:Deuses olímpicos"
+        },
+        {
+          "ID": 1918527,
+          "Title": "Categoria:Deuses por esfera de influência"
+        },
+        {
           "ID": 3860561,
           "Title": "Categoria:Não-teísmo"
         },
@@ -1190,6 +1454,10 @@
         {
           "ID": 3101096,
           "Title": "Categoria:Grupos corporativos"
+        },
+        {
+          "ID": 2390333,
+          "Title": "Categoria:Grupos sociais"
         },
         {
           "ID": 2473439,

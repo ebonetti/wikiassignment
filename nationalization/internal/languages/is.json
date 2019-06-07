@@ -14,6 +14,10 @@
           "Title": "Flokkur:Borðspil"
         },
         {
+          "ID": 119839,
+          "Title": "Flokkur:Brasilískir sjónvarpsþættir"
+        },
+        {
           "ID": 19867,
           "Title": "Flokkur:Bækur"
         },
@@ -30,8 +34,16 @@
           "Title": "Flokkur:Hljómsveitir"
         },
         {
+          "ID": 11663,
+          "Title": "Flokkur:Hópíþróttir"
+        },
+        {
           "ID": 94452,
           "Title": "Flokkur:Jólamatur"
+        },
+        {
+          "ID": 102817,
+          "Title": "Flokkur:Knattspyrnufélög eftir löndum"
         },
         {
           "ID": 5408,
@@ -94,6 +106,14 @@
           "Title": "Flokkur:Sjónvarp"
         },
         {
+          "ID": 2658,
+          "Title": "Flokkur:Sjónvarpsþættir"
+        },
+        {
+          "ID": 53500,
+          "Title": "Flokkur:Sjónvarpsþættir eftir löndum"
+        },
+        {
           "ID": 62084,
           "Title": "Flokkur:Skemmtun"
         },
@@ -134,6 +154,10 @@
           "Title": "Flokkur:Íþróttir"
         },
         {
+          "ID": 11674,
+          "Title": "Flokkur:Ólympíugreinar"
+        },
+        {
           "ID": 13054,
           "Title": "Flokkur:Þekking"
         },
@@ -168,6 +192,10 @@
           "Title": "Flokkur:Borgir í Bandaríkjunum"
         },
         {
+          "ID": 10974,
+          "Title": "Flokkur:Borgir í Evrópu"
+        },
+        {
           "ID": 1498,
           "Title": "Flokkur:Evrópulönd"
         },
@@ -176,8 +204,16 @@
           "Title": "Flokkur:Fylki í Bandaríkjunum"
         },
         {
+          "ID": 3298,
+          "Title": "Flokkur:Heimsálfur"
+        },
+        {
           "ID": 1705,
           "Title": "Flokkur:Landafræði"
+        },
+        {
+          "ID": 10871,
+          "Title": "Flokkur:Landafræði Evrópu"
         },
         {
           "ID": 11370,
@@ -234,6 +270,10 @@
         {
           "ID": 149375,
           "Title": "Flokkur:Dómsmál fyrir hæstarétti Bandaríkjanna"
+        },
+        {
+          "ID": 29267,
+          "Title": "Flokkur:Fyrrum Evrópuríki"
         },
         {
           "ID": 143245,
@@ -312,6 +352,10 @@
           "Title": "Flokkur:Hamfarir"
         },
         {
+          "ID": 73687,
+          "Title": "Flokkur:Húsdýr"
+        },
+        {
           "ID": 28663,
           "Title": "Flokkur:Jörðin"
         },
@@ -338,6 +382,10 @@
         {
           "ID": 113953,
           "Title": "Flokkur:Prótín"
+        },
+        {
+          "ID": 19892,
+          "Title": "Flokkur:Stjarnfræðileg fyrirbæri"
         },
         {
           "ID": 75485,
@@ -390,6 +438,18 @@
           "Title": "Flokkur:Forsetar eftir löndum"
         },
         {
+          "ID": 118986,
+          "Title": "Flokkur:Franskir blaðamenn"
+        },
+        {
+          "ID": 146586,
+          "Title": "Flokkur:Franskir kaþólskir dýrlingar"
+        },
+        {
+          "ID": 139043,
+          "Title": "Flokkur:Franskir knattspyrnumenn"
+        },
+        {
           "ID": 2087,
           "Title": "Flokkur:Fólk"
         },
@@ -418,8 +478,20 @@
           "Title": "Flokkur:Heimspekingar"
         },
         {
+          "ID": 12901,
+          "Title": "Flokkur:Heimspekingar 20. aldar"
+        },
+        {
           "ID": 20233,
           "Title": "Flokkur:Heimspekingar eftir undirgreinum"
+        },
+        {
+          "ID": 146585,
+          "Title": "Flokkur:Kaþólskir dýrlingar eftir löndum"
+        },
+        {
+          "ID": 102407,
+          "Title": "Flokkur:Knattspyrnumenn eftir þjóðerni"
         },
         {
           "ID": 114928,
@@ -520,6 +592,10 @@
         {
           "ID": 3804,
           "Title": "Flokkur:Trúarbrögð"
+        },
+        {
+          "ID": 83790,
+          "Title": "Flokkur:Ólympsguðir"
         }
       ]
     },

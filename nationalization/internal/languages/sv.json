@@ -10,6 +10,14 @@
           "Title": "Kategori:Biografier"
         },
         {
+          "ID": 1202012,
+          "Title": "Kategori:Brasilianska TV-serier"
+        },
+        {
+          "ID": 740446,
+          "Title": "Kategori:Brevromaner"
+        },
+        {
           "ID": 74542,
           "Title": "Kategori:Brottning"
         },
@@ -24,6 +32,10 @@
         {
           "ID": 61111,
           "Title": "Kategori:Datorspel"
+        },
+        {
+          "ID": 885194,
+          "Title": "Kategori:Fantasy-TV-serier"
         },
         {
           "ID": 163379,
@@ -48,6 +60,18 @@
         {
           "ID": 352616,
           "Title": "Kategori:Folkminnen"
+        },
+        {
+          "ID": 3359937,
+          "Title": "Kategori:Fotbollsklubbar efter land"
+        },
+        {
+          "ID": 726655,
+          "Title": "Kategori:Fotbollsklubbar i Brasilien"
+        },
+        {
+          "ID": 796209,
+          "Title": "Kategori:Fotbollsklubbar i Europa"
         },
         {
           "ID": 726723,
@@ -128,6 +152,10 @@
         {
           "ID": 613545,
           "Title": "Kategori:Kön"
+        },
+        {
+          "ID": 1018207,
+          "Title": "Kategori:Lagsport"
         },
         {
           "ID": 400900,
@@ -214,6 +242,10 @@
           "Title": "Kategori:Populärkultur"
         },
         {
+          "ID": 2932157,
+          "Title": "Kategori:Portugisiskspråkiga TV-serier"
+        },
+        {
           "ID": 388975,
           "Title": "Kategori:Radiostationer"
         },
@@ -224,6 +256,10 @@
         {
           "ID": 701494,
           "Title": "Kategori:Rekreation"
+        },
+        {
+          "ID": 517512,
+          "Title": "Kategori:Samtidskonst"
         },
         {
           "ID": 234561,
@@ -246,8 +282,32 @@
           "Title": "Kategori:Sport"
         },
         {
+          "ID": 1249957,
+          "Title": "Kategori:Sporter i olympiska spelen"
+        },
+        {
+          "ID": 3923148,
+          "Title": "Kategori:TV-program av Netflix"
+        },
+        {
+          "ID": 1615525,
+          "Title": "Kategori:TV-program efter kanal"
+        },
+        {
+          "ID": 2894284,
+          "Title": "Kategori:TV-program i HBO"
+        },
+        {
+          "ID": 53673,
+          "Title": "Kategori:TV-serier"
+        },
+        {
           "ID": 1603117,
           "Title": "Kategori:TV-serier efter språk"
+        },
+        {
+          "ID": 448164,
+          "Title": "Kategori:TV-serier indelade efter land"
         },
         {
           "ID": 674739,
@@ -316,6 +376,14 @@
           "Title": "Kategori:Asiens länder"
         },
         {
+          "ID": 58333,
+          "Title": "Kategori:Europas geografi"
+        },
+        {
+          "ID": 52490,
+          "Title": "Kategori:Europas huvudstäder"
+        },
+        {
           "ID": 50729,
           "Title": "Kategori:Europas länder"
         },
@@ -326,6 +394,10 @@
         {
           "ID": 51163,
           "Title": "Kategori:Geografi"
+        },
+        {
+          "ID": 500936,
+          "Title": "Kategori:Geografi efter världsdel"
         },
         {
           "ID": 420565,
@@ -384,12 +456,24 @@
           "Title": "Kategori:Slott"
         },
         {
+          "ID": 454254,
+          "Title": "Kategori:Spaniens provinser"
+        },
+        {
+          "ID": 126802,
+          "Title": "Kategori:Spaniens regioner"
+        },
+        {
           "ID": 184962,
           "Title": "Kategori:Stadsplanering"
         },
         {
           "ID": 51794,
           "Title": "Kategori:Städer"
+        },
+        {
+          "ID": 2678235,
+          "Title": "Kategori:Städer i Europa"
         },
         {
           "ID": 57852,
@@ -410,6 +494,10 @@
         {
           "ID": 73795,
           "Title": "Kategori:Vägar"
+        },
+        {
+          "ID": 81383,
+          "Title": "Kategori:Världsdelar"
         }
       ]
     },
@@ -446,6 +534,14 @@
           "Title": "Kategori:Omvårdnad"
         },
         {
+          "ID": 69375,
+          "Title": "Kategori:Parafilier"
+        },
+        {
+          "ID": 189730,
+          "Title": "Kategori:Sexuella funktionsstörningar"
+        },
+        {
           "ID": 54642,
           "Title": "Kategori:Sjukvård"
         }
@@ -476,12 +572,20 @@
           "Title": "Kategori:Historia efter land"
         },
         {
+          "ID": 816473,
+          "Title": "Kategori:Historiska länder och riken i Europa"
+        },
+        {
           "ID": 51313,
           "Title": "Kategori:Krig"
         },
         {
           "ID": 1400523,
           "Title": "Kategori:Mord och mordförsök efter år"
+        },
+        {
+          "ID": 1407021,
+          "Title": "Kategori:Olyckor efter år"
         },
         {
           "ID": 539289,
@@ -513,6 +617,10 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 3892135,
+          "Title": "Kategori:Klassisk geometri"
+        },
         {
           "ID": 51523,
           "Title": "Kategori:Logik"
@@ -556,6 +664,10 @@
           "Title": "Kategori:Animalia"
         },
         {
+          "ID": 581766,
+          "Title": "Kategori:Astronomiska objekt"
+        },
+        {
           "ID": 53648,
           "Title": "Kategori:Djur"
         },
@@ -574,6 +686,10 @@
         {
           "ID": 50448,
           "Title": "Kategori:Fysik"
+        },
+        {
+          "ID": 104823,
+          "Title": "Kategori:Husdjur"
         },
         {
           "ID": 227559,
@@ -706,8 +822,28 @@
           "Title": "Kategori:Filosofer efter verksamhetsområde"
         },
         {
+          "ID": 4917757,
+          "Title": "Kategori:Filosofer under 1900-talet"
+        },
+        {
           "ID": 254872,
           "Title": "Kategori:Forskare inom medicin"
+        },
+        {
+          "ID": 1615214,
+          "Title": "Kategori:Fotbollsspelare efter nationalitet"
+        },
+        {
+          "ID": 54671,
+          "Title": "Kategori:Franska fotbollsspelare"
+        },
+        {
+          "ID": 4960816,
+          "Title": "Kategori:Franska författare efter sekel"
+        },
+        {
+          "ID": 228319,
+          "Title": "Kategori:Franska journalister"
         },
         {
           "ID": 215156,
@@ -730,8 +866,20 @@
           "Title": "Kategori:Författare"
         },
         {
+          "ID": 3894865,
+          "Title": "Kategori:Författare under 1900-talet"
+        },
+        {
+          "ID": 623710,
+          "Title": "Kategori:Hedersdoktorer"
+        },
+        {
           "ID": 50337,
           "Title": "Kategori:Italienska fotbollsspelare"
+        },
+        {
+          "ID": 6556390,
+          "Title": "Kategori:Kommendörer av Hederslegionen"
         },
         {
           "ID": 55520,
@@ -770,6 +918,10 @@
           "Title": "Kategori:Nobelpristagare efter land"
         },
         {
+          "ID": 6556410,
+          "Title": "Kategori:Officerare av Hederslegionen"
+        },
+        {
           "ID": 50673,
           "Title": "Kategori:Personer"
         },
@@ -790,12 +942,32 @@
           "Title": "Kategori:Personer efter verksamhetsområde och tidsperiod"
         },
         {
+          "ID": 1531967,
+          "Title": "Kategori:Personer efter verksamhetsområde och århundrade"
+        },
+        {
           "ID": 1531968,
           "Title": "Kategori:Personer efter århundrade"
         },
         {
+          "ID": 1338455,
+          "Title": "Kategori:Personer i Frankrike under 1900-talet"
+        },
+        {
+          "ID": 1923644,
+          "Title": "Kategori:Personer inom datorspelsbranschen"
+        },
+        {
           "ID": 1134447,
           "Title": "Kategori:Personer inom politik"
+        },
+        {
+          "ID": 1684794,
+          "Title": "Kategori:Personer inom vegetarianism"
+        },
+        {
+          "ID": 54867,
+          "Title": "Kategori:Personer under antiken"
         },
         {
           "ID": 800774,
@@ -810,8 +982,16 @@
           "Title": "Kategori:Presidenter"
         },
         {
+          "ID": 1167532,
+          "Title": "Kategori:Religionsstiftare"
+        },
+        {
           "ID": 1207780,
           "Title": "Kategori:Revolutionärer"
+        },
+        {
+          "ID": 171140,
+          "Title": "Kategori:Riddare av Strumpebandsorden"
         },
         {
           "ID": 107138,
@@ -824,6 +1004,10 @@
         {
           "ID": 51746,
           "Title": "Kategori:Skådespelare"
+        },
+        {
+          "ID": 8128769,
+          "Title": "Kategori:Spelinriktade youtubare"
         },
         {
           "ID": 501522,
@@ -909,6 +1093,14 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 725435,
+          "Title": "Kategori:Gudomar"
+        },
+        {
+          "ID": 7998828,
+          "Title": "Kategori:Gudomar efter typ"
+        },
         {
           "ID": 52023,
           "Title": "Kategori:Religion"

@@ -14,6 +14,14 @@
           "Title": "Kategori:Biografiar"
         },
         {
+          "ID": 176275,
+          "Title": "Kategori:Brasilianske fjernsynsseriar"
+        },
+        {
+          "ID": 215965,
+          "Title": "Kategori:Brasilianske fotballag"
+        },
+        {
           "ID": 11624,
           "Title": "Kategori:Brettspel"
         },
@@ -62,8 +70,28 @@
           "Title": "Kategori:Fjernsyn"
         },
         {
+          "ID": 352616,
+          "Title": "Kategori:Fjernsynsprogram etter kanal"
+        },
+        {
+          "ID": 12213,
+          "Title": "Kategori:Fjernsynsseriar"
+        },
+        {
+          "ID": 176272,
+          "Title": "Kategori:Fjernsynsseriar etter land"
+        },
+        {
           "ID": 103356,
           "Title": "Kategori:Folkeminne"
+        },
+        {
+          "ID": 255825,
+          "Title": "Kategori:Fotballag etter grunnleggingsår"
+        },
+        {
+          "ID": 340033,
+          "Title": "Kategori:Fotballag etter land"
         },
         {
           "ID": 8453,
@@ -138,8 +166,16 @@
           "Title": "Kategori:Kunst"
         },
         {
+          "ID": 138784,
+          "Title": "Kategori:Lagsport"
+        },
+        {
           "ID": 3047,
           "Title": "Kategori:Litteratur"
+        },
+        {
+          "ID": 27228,
+          "Title": "Kategori:Litterære verk"
         },
         {
           "ID": 133892,
@@ -168,6 +204,10 @@
         {
           "ID": 291730,
           "Title": "Kategori:Menneskeleg seksualitet"
+        },
+        {
+          "ID": 149767,
+          "Title": "Kategori:Moderne kunst"
         },
         {
           "ID": 1901,
@@ -202,6 +242,10 @@
           "Title": "Kategori:Nyhendemedia"
         },
         {
+          "ID": 326601,
+          "Title": "Kategori:Olympiske sportsgreiner"
+        },
+        {
           "ID": 41090,
           "Title": "Kategori:Oppdikta stader"
         },
@@ -228,6 +272,10 @@
         {
           "ID": 129519,
           "Title": "Kategori:Ressursar"
+        },
+        {
+          "ID": 149769,
+          "Title": "Kategori:Samtidskunst"
         },
         {
           "ID": 123784,
@@ -316,6 +364,10 @@
           "Title": "Kategori:Byar"
         },
         {
+          "ID": 20136,
+          "Title": "Kategori:Byar i Europa"
+        },
+        {
           "ID": 8842,
           "Title": "Kategori:Byar i USA"
         },
@@ -336,6 +388,10 @@
           "Title": "Kategori:Elvar"
         },
         {
+          "ID": 3075,
+          "Title": "Kategori:Europeisk geografi"
+        },
+        {
           "ID": 112781,
           "Title": "Kategori:Gater"
         },
@@ -344,8 +400,16 @@
           "Title": "Kategori:Geografi"
         },
         {
+          "ID": 217351,
+          "Title": "Kategori:Geografi etter verdsdel"
+        },
+        {
           "ID": 29167,
           "Title": "Kategori:Geomorfologi"
+        },
+        {
+          "ID": 19810,
+          "Title": "Kategori:Hovudstader i Europa"
         },
         {
           "ID": 10261,
@@ -366,6 +430,10 @@
         {
           "ID": 3653,
           "Title": "Kategori:Land i Afrika"
+        },
+        {
+          "ID": 6298,
+          "Title": "Kategori:Land i Amerika"
         },
         {
           "ID": 2008,
@@ -400,12 +468,20 @@
           "Title": "Kategori:Palass"
         },
         {
+          "ID": 131738,
+          "Title": "Kategori:Provinsar i Spania"
+        },
+        {
           "ID": 229863,
           "Title": "Kategori:Shtetlekh"
         },
         {
           "ID": 147420,
           "Title": "Kategori:Slott"
+        },
+        {
+          "ID": 23572,
+          "Title": "Kategori:Spanske autonome regionar"
         },
         {
           "ID": 41091,
@@ -470,6 +546,10 @@
           "Title": "Kategori:Menneskeanatomi"
         },
         {
+          "ID": 183064,
+          "Title": "Kategori:Parafiliar"
+        },
+        {
           "ID": 115924,
           "Title": "Kategori:Reinsemd"
         },
@@ -508,6 +588,10 @@
           "Title": "Kategori:Historie etter område"
         },
         {
+          "ID": 81766,
+          "Title": "Kategori:Katastrofar etter år"
+        },
+        {
           "ID": 3243,
           "Title": "Kategori:Krig"
         },
@@ -518,6 +602,10 @@
         {
           "ID": 29997,
           "Title": "Kategori:Merkedagar"
+        },
+        {
+          "ID": 332064,
+          "Title": "Kategori:Militærhistorie etter hundreår"
         },
         {
           "ID": 278872,
@@ -556,6 +644,10 @@
           "Title": "Kategori:Terroråtak"
         },
         {
+          "ID": 12801,
+          "Title": "Kategori:Tidlegare land i Europa"
+        },
+        {
           "ID": 323075,
           "Title": "Kategori:Val etter år"
         }
@@ -568,6 +660,14 @@
         {
           "ID": 199709,
           "Title": "Kategori:Bruksmatematikk"
+        },
+        {
+          "ID": 49969,
+          "Title": "Kategori:Elementær matematikk"
+        },
+        {
+          "ID": 49972,
+          "Title": "Kategori:Klassisk geometri"
         },
         {
           "ID": 68128,
@@ -612,6 +712,10 @@
           "Title": "Kategori:Anatomi"
         },
         {
+          "ID": 291690,
+          "Title": "Kategori:Antropometri"
+        },
+        {
           "ID": 5303,
           "Title": "Kategori:Dyr"
         },
@@ -620,12 +724,24 @@
           "Title": "Kategori:Dyr etter verdsdel"
         },
         {
+          "ID": 35987,
+          "Title": "Kategori:Dyrerasar"
+        },
+        {
           "ID": 6566,
           "Title": "Kategori:Frukt"
         },
         {
           "ID": 2827,
           "Title": "Kategori:Fysikk"
+        },
+        {
+          "ID": 101143,
+          "Title": "Kategori:Himmellekamar"
+        },
+        {
+          "ID": 7830,
+          "Title": "Kategori:Husdyr"
         },
         {
           "ID": 5662,
@@ -738,6 +854,14 @@
           "Title": "Kategori:Filosofar etter fagområde"
         },
         {
+          "ID": 245076,
+          "Title": "Kategori:Filosofar etter hundreår"
+        },
+        {
+          "ID": 139469,
+          "Title": "Kategori:Filosofar på 1900-talet"
+        },
+        {
           "ID": 252085,
           "Title": "Kategori:Fjellklatrarar etter nasjonalitet"
         },
@@ -774,6 +898,10 @@
           "Title": "Kategori:Folk etter yrke"
         },
         {
+          "ID": 202934,
+          "Title": "Kategori:Folk etter yrke og hundreår"
+        },
+        {
           "ID": 329804,
           "Title": "Kategori:Folk etter yrke og tidsrom"
         },
@@ -786,8 +914,24 @@
           "Title": "Kategori:Folk frå USA"
         },
         {
+          "ID": 168336,
+          "Title": "Kategori:Folk frå antikken"
+        },
+        {
           "ID": 2462,
           "Title": "Kategori:Forfattarar"
+        },
+        {
+          "ID": 296243,
+          "Title": "Kategori:Forfattarar frå 1900-talet"
+        },
+        {
+          "ID": 151483,
+          "Title": "Kategori:Franske fotballspelarar"
+        },
+        {
+          "ID": 199495,
+          "Title": "Kategori:Franske politikarar etter parti"
         },
         {
           "ID": 32040,
@@ -804,6 +948,10 @@
         {
           "ID": 191701,
           "Title": "Kategori:Gründerar"
+        },
+        {
+          "ID": 183019,
+          "Title": "Kategori:Hosebandsordenen"
         },
         {
           "ID": 132975,
@@ -866,6 +1014,10 @@
           "Title": "Kategori:Presidentar"
         },
         {
+          "ID": 10337,
+          "Title": "Kategori:Religionsstiftarar"
+        },
+        {
           "ID": 196052,
           "Title": "Kategori:Revolusjonære"
         },
@@ -912,6 +1064,10 @@
         {
           "ID": 285305,
           "Title": "Kategori:USA-amerikanske rockesongarar"
+        },
+        {
+          "ID": 295478,
+          "Title": "Kategori:Æresdoktorar"
         }
       ]
     },
@@ -988,6 +1144,18 @@
         {
           "ID": 78140,
           "Title": "Kategori:Dharmiske religionar"
+        },
+        {
+          "ID": 2777,
+          "Title": "Kategori:Gudar"
+        },
+        {
+          "ID": 5435,
+          "Title": "Kategori:Guddomelege vesen"
+        },
+        {
+          "ID": 148528,
+          "Title": "Kategori:Guddommar etter tilknytting"
         },
         {
           "ID": 1861,
@@ -1102,6 +1270,10 @@
         {
           "ID": 33587,
           "Title": "Kategori:Samfunnsvitskapar"
+        },
+        {
+          "ID": 110090,
+          "Title": "Kategori:Sosiale grupper"
         },
         {
           "ID": 68877,

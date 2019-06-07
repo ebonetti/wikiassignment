@@ -88,8 +88,20 @@
           "Title": "Ẹ̀ka:Àwọn odò"
         },
         {
+          "ID": 14539,
+          "Title": "Ẹ̀ka:Àwọn olúìlú ní Europe"
+        },
+        {
+          "ID": 13498,
+          "Title": "Ẹ̀ka:Àwọn orílẹ̀"
+        },
+        {
           "ID": 13492,
           "Title": "Ẹ̀ka:Àwọn orílẹ̀-èdè"
+        },
+        {
+          "ID": 27979,
+          "Title": "Ẹ̀ka:Àwọn orílẹ̀-èdè Amẹ́ríkà"
         },
         {
           "ID": 13505,
@@ -212,6 +224,10 @@
           "Title": "Ẹ̀ka:Àwọn àdàpọ̀ kẹ́míkà"
         },
         {
+          "ID": 14122,
+          "Title": "Ẹ̀ka:Àwọn ẹran ọ̀sìn"
+        },
+        {
           "ID": 14123,
           "Title": "Ẹ̀ka:Àwọn ẹranko"
         },
@@ -237,6 +253,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 30249,
+          "Title": "Ẹ̀ka:Àwọn agbábọ́ọ̀lù-ẹlẹ́sẹ̀ gẹ́gẹ́ bíi orílẹ̀-èdè"
+        },
         {
           "ID": 26597,
           "Title": "Ẹ̀ka:Àwọn amòye"

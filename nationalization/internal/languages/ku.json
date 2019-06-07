@@ -132,6 +132,10 @@
           "Title": "Kategorî:Dewletên Afrîkayê"
         },
         {
+          "ID": 55796,
+          "Title": "Kategorî:Dewletên Amerîkayê"
+        },
+        {
           "ID": 41046,
           "Title": "Kategorî:Dewletên Asyayê"
         },
@@ -144,12 +148,20 @@
           "Title": "Kategorî:Dewletên Okyanûsyayê"
         },
         {
+          "ID": 58854,
+          "Title": "Kategorî:Erdnîgariya Ewropayê"
+        },
+        {
           "ID": 5082,
           "Title": "Kategorî:Erdnîgarî"
         },
         {
           "ID": 57411,
           "Title": "Kategorî:Gund li gorî welatan"
+        },
+        {
+          "ID": 1395,
+          "Title": "Kategorî:Parzemîn"
         },
         {
           "ID": 1394,
@@ -362,6 +374,10 @@
           "Title": "Kategorî:Nivîskar"
         },
         {
+          "ID": 49434,
+          "Title": "Kategorî:Rojnamevanên fransî"
+        },
+        {
           "ID": 30434,
           "Title": "Kategorî:Serokdewlet"
         },
@@ -420,6 +436,10 @@
         {
           "ID": 64308,
           "Title": "Kategorî:Dîn"
+        },
+        {
+          "ID": 52539,
+          "Title": "Kategorî:Xweda"
         }
       ]
     },

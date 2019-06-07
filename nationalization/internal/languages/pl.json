@@ -6,12 +6,28 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 3743798,
+          "Title": "Kategoria:Amerykańskie telewizyjne seriale fantasy"
+        },
+        {
           "ID": 2801879,
           "Title": "Kategoria:Biografia"
         },
         {
+          "ID": 521199,
+          "Title": "Kategoria:Brazylijskie kluby piłkarskie"
+        },
+        {
+          "ID": 690796,
+          "Title": "Kategoria:Brazylijskie seriale telewizyjne"
+        },
+        {
           "ID": 76060,
           "Title": "Kategoria:Czasopisma"
+        },
+        {
+          "ID": 2421628,
+          "Title": "Kategoria:Dyscypliny olimpijskie"
         },
         {
           "ID": 1030024,
@@ -76,6 +92,14 @@
         {
           "ID": 739713,
           "Title": "Kategoria:Istoty i stworzenia fantastyczne"
+        },
+        {
+          "ID": 2462338,
+          "Title": "Kategoria:Kluby piłkarskie według daty założenia"
+        },
+        {
+          "ID": 2987905,
+          "Title": "Kategoria:Kluby piłkarskie według państw"
         },
         {
           "ID": 714212,
@@ -158,6 +182,10 @@
           "Title": "Kategoria:Prasa"
         },
         {
+          "ID": 1023180,
+          "Title": "Kategoria:Programy telewizyjne według stacji telewizyjnej"
+        },
+        {
           "ID": 756158,
           "Title": "Kategoria:Rekreacja"
         },
@@ -174,12 +202,32 @@
           "Title": "Kategoria:Seksualność człowieka"
         },
         {
+          "ID": 2529749,
+          "Title": "Kategoria:Seriale HBO"
+        },
+        {
+          "ID": 3835811,
+          "Title": "Kategoria:Seriale Netfliksa"
+        },
+        {
+          "ID": 71790,
+          "Title": "Kategoria:Seriale telewizyjne"
+        },
+        {
+          "ID": 832056,
+          "Title": "Kategoria:Seriale telewizyjne według państw produkcji"
+        },
+        {
           "ID": 1158516,
           "Title": "Kategoria:Serwisy społecznościowe"
         },
         {
           "ID": 66363,
           "Title": "Kategoria:Sport"
+        },
+        {
+          "ID": 4447250,
+          "Title": "Kategoria:Sporty zespołowe"
         },
         {
           "ID": 851816,
@@ -198,12 +246,20 @@
           "Title": "Kategoria:Sztuka kulinarna"
         },
         {
+          "ID": 482069,
+          "Title": "Kategoria:Sztuka współczesna"
+        },
+        {
           "ID": 85889,
           "Title": "Kategoria:Sztuki walki"
         },
         {
           "ID": 71788,
           "Title": "Kategoria:Telewizja"
+        },
+        {
+          "ID": 3743121,
+          "Title": "Kategoria:Telewizyjne seriale fantasy"
         },
         {
           "ID": 162277,
@@ -288,12 +344,24 @@
           "Title": "Kategoria:Geografia"
         },
         {
+          "ID": 63891,
+          "Title": "Kategoria:Geografia Europy"
+        },
+        {
           "ID": 641069,
           "Title": "Kategoria:Geografia osadnictwa"
         },
         {
+          "ID": 963214,
+          "Title": "Kategoria:Geografia według kontynentów"
+        },
+        {
           "ID": 79508,
           "Title": "Kategoria:Geomorfologia"
+        },
+        {
+          "ID": 64021,
+          "Title": "Kategoria:Kontynenty"
         },
         {
           "ID": 4158041,
@@ -302,6 +370,10 @@
         {
           "ID": 64162,
           "Title": "Kategoria:Miasta"
+        },
+        {
+          "ID": 64156,
+          "Title": "Kategoria:Miasta w Europie"
         },
         {
           "ID": 1161556,
@@ -364,6 +436,10 @@
           "Title": "Kategoria:Pomniki"
         },
         {
+          "ID": 518980,
+          "Title": "Kategoria:Prowincje Hiszpanii"
+        },
+        {
           "ID": 63890,
           "Title": "Kategoria:Rzeki"
         },
@@ -376,12 +452,20 @@
           "Title": "Kategoria:Stany Zjednoczone"
         },
         {
+          "ID": 64328,
+          "Title": "Kategoria:Stolice państw w Europie"
+        },
+        {
           "ID": 867166,
           "Title": "Kategoria:Ulice i place"
         },
         {
           "ID": 69789,
           "Title": "Kategoria:Urbanistyka"
+        },
+        {
+          "ID": 518975,
+          "Title": "Kategoria:Wspólnoty autonomiczne Hiszpanii"
         },
         {
           "ID": 337846,
@@ -426,6 +510,10 @@
           "Title": "Kategoria:System opieki zdrowotnej"
         },
         {
+          "ID": 110714,
+          "Title": "Kategoria:Zaburzenia preferencji seksualnych"
+        },
+        {
           "ID": 2630184,
           "Title": "Kategoria:Zawody medyczne"
         },
@@ -456,12 +544,20 @@
           "Title": "Kategoria:Historia według państw"
         },
         {
+          "ID": 1791955,
+          "Title": "Kategoria:Katastrofy według lat"
+        },
+        {
           "ID": 3889979,
           "Title": "Kategoria:Obchody rocznicowe"
         },
         {
           "ID": 1462043,
           "Title": "Kategoria:Orzecznictwo Sądu Najwyższego Stanów Zjednoczonych"
+        },
+        {
+          "ID": 722370,
+          "Title": "Kategoria:Państwa historyczne w Europie"
         },
         {
           "ID": 103103,
@@ -572,6 +668,10 @@
           "Title": "Kategoria:Nauki ścisłe"
         },
         {
+          "ID": 655394,
+          "Title": "Kategoria:Obiekty astronomiczne"
+        },
+        {
           "ID": 119046,
           "Title": "Kategoria:Owoce"
         },
@@ -606,6 +706,10 @@
         {
           "ID": 63663,
           "Title": "Kategoria:Zwierzęta"
+        },
+        {
+          "ID": 174027,
+          "Title": "Kategoria:Zwierzęta hodowlane"
         },
         {
           "ID": 782141,
@@ -682,12 +786,48 @@
           "Title": "Kategoria:Biografie według wieku"
         },
         {
+          "ID": 493853,
+          "Title": "Kategoria:Doktorzy honoris causa"
+        },
+        {
+          "ID": 1695288,
+          "Title": "Kategoria:Działacze francuskich partii politycznych"
+        },
+        {
           "ID": 66744,
           "Title": "Kategoria:Filozofowie"
         },
         {
+          "ID": 4337809,
+          "Title": "Kategoria:Filozofowie XX wieku"
+        },
+        {
+          "ID": 3035738,
+          "Title": "Kategoria:Filozofowie według wieku"
+        },
+        {
+          "ID": 623892,
+          "Title": "Kategoria:Francuscy dziennikarze"
+        },
+        {
+          "ID": 4330498,
+          "Title": "Kategoria:Francuscy pisarze według wieku"
+        },
+        {
+          "ID": 181357,
+          "Title": "Kategoria:Francuscy piłkarze"
+        },
+        {
+          "ID": 1892797,
+          "Title": "Kategoria:Francuscy święci katoliccy"
+        },
+        {
           "ID": 2500776,
           "Title": "Kategoria:Kobieta"
+        },
+        {
+          "ID": 2353301,
+          "Title": "Kategoria:Komandorzy Legii Honorowej"
         },
         {
           "ID": 319438,
@@ -718,12 +858,36 @@
           "Title": "Kategoria:Nazwiska"
         },
         {
+          "ID": 1927394,
+          "Title": "Kategoria:Odznaczeni Orderem Podwiązki"
+        },
+        {
+          "ID": 2353299,
+          "Title": "Kategoria:Oficerowie Legii Honorowej"
+        },
+        {
+          "ID": 4024590,
+          "Title": "Kategoria:Osobowości YouTube według narodowości"
+        },
+        {
           "ID": 1409811,
           "Title": "Kategoria:Pielęgniarki i pielęgniarze"
         },
         {
           "ID": 65563,
           "Title": "Kategoria:Pisarze"
+        },
+        {
+          "ID": 4330565,
+          "Title": "Kategoria:Pisarze XX wieku"
+        },
+        {
+          "ID": 529440,
+          "Title": "Kategoria:Piłkarze według narodowości"
+        },
+        {
+          "ID": 968186,
+          "Title": "Kategoria:Piłkarze ze 100 i więcej występami w reprezentacji"
         },
         {
           "ID": 65576,
@@ -738,6 +902,10 @@
           "Title": "Kategoria:Politycy"
         },
         {
+          "ID": 3989588,
+          "Title": "Kategoria:Politycy En Marche!"
+        },
+        {
           "ID": 69840,
           "Title": "Kategoria:Postacie fikcyjne"
         },
@@ -746,12 +914,20 @@
           "Title": "Kategoria:Postacie filmowe"
         },
         {
+          "ID": 621176,
+          "Title": "Kategoria:Postacie starożytności"
+        },
+        {
           "ID": 503991,
           "Title": "Kategoria:Prezydenci państw świata"
         },
         {
           "ID": 149449,
           "Title": "Kategoria:Rewolucjoniści"
+        },
+        {
+          "ID": 546483,
+          "Title": "Kategoria:Teolodzy protestanccy"
         },
         {
           "ID": 592240,
@@ -772,6 +948,10 @@
         {
           "ID": 181399,
           "Title": "Kategoria:Włoscy piłkarze"
+        },
+        {
+          "ID": 1892929,
+          "Title": "Kategoria:Święci katoliccy według narodowości"
         }
       ]
     },
@@ -826,6 +1006,18 @@
           "Title": "Kategoria:Antropologia religii"
         },
         {
+          "ID": 2545267,
+          "Title": "Kategoria:Bogowie"
+        },
+        {
+          "ID": 986186,
+          "Title": "Kategoria:Bogowie olimpijscy"
+        },
+        {
+          "ID": 63675,
+          "Title": "Kategoria:Bóstwa"
+        },
+        {
           "ID": 2959884,
           "Title": "Kategoria:Krytyka religii"
         },
@@ -862,6 +1054,10 @@
         {
           "ID": 1507074,
           "Title": "Kategoria:Geopolityka"
+        },
+        {
+          "ID": 153551,
+          "Title": "Kategoria:Grupy społeczne"
         },
         {
           "ID": 77641,

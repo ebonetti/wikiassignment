@@ -122,6 +122,10 @@
           "Title": "Categoria:Sport"
         },
         {
+          "ID": 18161,
+          "Title": "Categoria:Sports olympic"
+        },
+        {
           "ID": 12635,
           "Title": "Categoria:Television"
         },
@@ -136,6 +140,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 17589,
+          "Title": "Categoria:Capitales de Europa"
+        },
+        {
           "ID": 33453,
           "Title": "Categoria:Citate"
         },
@@ -148,12 +156,24 @@
           "Title": "Categoria:Citates in Statos Unite"
         },
         {
+          "ID": 20243,
+          "Title": "Categoria:Communitates Autonome de Espania"
+        },
+        {
+          "ID": 8484,
+          "Title": "Categoria:Continente"
+        },
+        {
           "ID": 9637,
           "Title": "Categoria:Fluvios"
         },
         {
           "ID": 6050,
           "Title": "Categoria:Geographia"
+        },
+        {
+          "ID": 22665,
+          "Title": "Categoria:Geographia de Europa"
         },
         {
           "ID": 18664,
@@ -166,6 +186,10 @@
         {
           "ID": 22428,
           "Title": "Categoria:Paises de Africa"
+        },
+        {
+          "ID": 22431,
+          "Title": "Categoria:Paises de America"
         },
         {
           "ID": 22435,
@@ -186,6 +210,10 @@
         {
           "ID": 22429,
           "Title": "Categoria:Paises de Oceania"
+        },
+        {
+          "ID": 18264,
+          "Title": "Categoria:Provincias de Espania"
         },
         {
           "ID": 8089,
@@ -266,6 +294,10 @@
         {
           "ID": 11358,
           "Title": "Categoria:Historia per pais"
+        },
+        {
+          "ID": 31112,
+          "Title": "Categoria:Statos historic de Europa"
         }
       ]
     },
@@ -294,6 +326,10 @@
           "Title": "Categoria:Mathematica applicate"
         },
         {
+          "ID": 29606,
+          "Title": "Categoria:Mathematica elementari"
+        },
+        {
           "ID": 11366,
           "Title": "Categoria:Probabilitate e statistica"
         },
@@ -320,6 +356,10 @@
           "Title": "Categoria:Anatomia"
         },
         {
+          "ID": 11355,
+          "Title": "Categoria:Animales domesticate"
+        },
+        {
           "ID": 9347,
           "Title": "Categoria:Animalia"
         },
@@ -330,6 +370,10 @@
         {
           "ID": 18706,
           "Title": "Categoria:Compositos chimic"
+        },
+        {
+          "ID": 11415,
+          "Title": "Categoria:Corpores celeste"
         },
         {
           "ID": 8341,
@@ -400,6 +444,10 @@
         {
           "ID": 18018,
           "Title": "Categoria:Gente anglese"
+        },
+        {
+          "ID": 18816,
+          "Title": "Categoria:Gente antique"
         },
         {
           "ID": 9628,
@@ -518,6 +566,10 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 24777,
+          "Title": "Categoria:Deos olympie"
+        },
+        {
           "ID": 6122,
           "Title": "Categoria:Religion"
         },
@@ -554,6 +606,10 @@
         {
           "ID": 17564,
           "Title": "Categoria:Governamento"
+        },
+        {
+          "ID": 31101,
+          "Title": "Categoria:Gruppos social"
         },
         {
           "ID": 24056,

@@ -26,12 +26,20 @@
           "Title": "Kategooria:Biograafia"
         },
         {
+          "ID": 251537,
+          "Title": "Kategooria:Brasiilia jalgpalliklubid"
+        },
+        {
           "ID": 278445,
           "Title": "Kategooria:Elulooraamatud"
         },
         {
           "ID": 68428,
           "Title": "Kategooria:Entsüklopeediad"
+        },
+        {
+          "ID": 234510,
+          "Title": "Kategooria:Fantaasiasarjad"
         },
         {
           "ID": 147807,
@@ -44,6 +52,10 @@
         {
           "ID": 477838,
           "Title": "Kategooria:Folkloor"
+        },
+        {
+          "ID": 455022,
+          "Title": "Kategooria:HBO telesarjad"
         },
         {
           "ID": 16080,
@@ -146,12 +158,24 @@
           "Title": "Kategooria:Spordialad"
         },
         {
+          "ID": 37781,
+          "Title": "Kategooria:Spordialad olümpiamängudel"
+        },
+        {
           "ID": 21161,
           "Title": "Kategooria:Sport"
         },
         {
           "ID": 68429,
           "Title": "Kategooria:Teatmeteosed"
+        },
+        {
+          "ID": 29349,
+          "Title": "Kategooria:Telesarjad"
+        },
+        {
+          "ID": 234453,
+          "Title": "Kategooria:Telesarjad riigiti"
         },
         {
           "ID": 15989,
@@ -228,6 +252,10 @@
           "Title": "Kategooria:Allikad"
         },
         {
+          "ID": 152985,
+          "Title": "Kategooria:Ameerika riigid"
+        },
+        {
           "ID": 9446,
           "Title": "Kategooria:Ameerika Ühendriigid"
         },
@@ -256,6 +284,10 @@
           "Title": "Kategooria:Austraalia ja Okeaania maad"
         },
         {
+          "ID": 31425,
+          "Title": "Kategooria:Euroopa geograafia"
+        },
+        {
           "ID": 9445,
           "Title": "Kategooria:Euroopa maad"
         },
@@ -272,8 +304,20 @@
           "Title": "Kategooria:Geograafia loendid"
         },
         {
+          "ID": 157748,
+          "Title": "Kategooria:Geograafia maailmajaoti"
+        },
+        {
           "ID": 14160,
           "Title": "Kategooria:Geomorfoloogia"
+        },
+        {
+          "ID": 45891,
+          "Title": "Kategooria:Hispaania autonoomsed piirkonnad"
+        },
+        {
+          "ID": 34780,
+          "Title": "Kategooria:Hispaania provintsid"
         },
         {
           "ID": 9947,
@@ -294,6 +338,10 @@
         {
           "ID": 9444,
           "Title": "Kategooria:Maailma maad"
+        },
+        {
+          "ID": 57166,
+          "Title": "Kategooria:Maailmajaod"
         },
         {
           "ID": 92266,
@@ -350,6 +398,10 @@
           "Title": "Kategooria:Meditsiinilised erialad"
         },
         {
+          "ID": 465255,
+          "Title": "Kategooria:Parafiilia"
+        },
+        {
           "ID": 90818,
           "Title": "Kategooria:Tervis"
         },
@@ -374,6 +426,10 @@
         {
           "ID": 46308,
           "Title": "Kategooria:Ajalugu riigiti"
+        },
+        {
+          "ID": 360581,
+          "Title": "Kategooria:Euroopa ajaloolised riigid"
         },
         {
           "ID": 180342,
@@ -409,6 +465,14 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 160481,
+          "Title": "Kategooria:Elementaarmatemaatika"
+        },
+        {
+          "ID": 545612,
+          "Title": "Kategooria:Klassikaline geomeetria"
+        },
         {
           "ID": 16003,
           "Title": "Kategooria:Loogika"
@@ -460,6 +524,10 @@
           "Title": "Kategooria:Keemilised ained"
         },
         {
+          "ID": 16523,
+          "Title": "Kategooria:Koduloomad"
+        },
+        {
           "ID": 167967,
           "Title": "Kategooria:Loodus"
         },
@@ -472,12 +540,20 @@
           "Title": "Kategooria:Loomad"
         },
         {
+          "ID": 438529,
+          "Title": "Kategooria:Loomatõud"
+        },
+        {
           "ID": 157768,
           "Title": "Kategooria:Maa"
         },
         {
           "ID": 71032,
           "Title": "Kategooria:Puuviljad"
+        },
+        {
+          "ID": 11736,
+          "Title": "Kategooria:Taevakehad"
         },
         {
           "ID": 13339,
@@ -532,6 +608,14 @@
         {
           "ID": 91116,
           "Title": "Kategooria:Arstiteadlased"
+        },
+        {
+          "ID": 469676,
+          "Title": "Kategooria:Auleegioni komandörid"
+        },
+        {
+          "ID": 469675,
+          "Title": "Kategooria:Auleegioni ohvitserid"
         },
         {
           "ID": 256972,
@@ -626,6 +710,14 @@
           "Title": "Kategooria:Politoloogid"
         },
         {
+          "ID": 277633,
+          "Title": "Kategooria:Prantsusmaa ajakirjanikud"
+        },
+        {
+          "ID": 44832,
+          "Title": "Kategooria:Prantsusmaa jalgpallurid"
+        },
+        {
           "ID": 13038,
           "Title": "Kategooria:Presidendid"
         },
@@ -656,6 +748,10 @@
         {
           "ID": 256067,
           "Title": "Kategooria:Sünnid aastati"
+        },
+        {
+          "ID": 290951,
+          "Title": "Kategooria:Taimetoitlased"
         },
         {
           "ID": 164600,
@@ -697,6 +793,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 51242,
+          "Title": "Kategooria:Jumalad"
+        },
         {
           "ID": 16007,
           "Title": "Kategooria:Religioon"
@@ -770,6 +870,10 @@
         {
           "ID": 256165,
           "Title": "Kategooria:Riigilipud"
+        },
+        {
+          "ID": 206704,
+          "Title": "Kategooria:Sotsiaalsed grupid"
         },
         {
           "ID": 16210,

@@ -42,8 +42,16 @@
           "Title": "Katiguriya:Pilikula"
         },
         {
+          "ID": 48408,
+          "Title": "Katiguriya:Piluta hayt'ay klubkuna (Brasil)"
+        },
+        {
           "ID": 51796,
           "Title": "Katiguriya:Piluta hayt'ay klubkuna (Italya)"
+        },
+        {
+          "ID": 34790,
+          "Title": "Katiguriya:Piluta hayt'ay klubkuna (Mama llaqta)"
         },
         {
           "ID": 11372,
@@ -72,8 +80,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6330,
+          "Title": "Katiguriya:Allpa pacha"
+        },
+        {
           "ID": 2571,
           "Title": "Katiguriya:Allpamanta yachaykuna"
+        },
+        {
+          "ID": 34584,
+          "Title": "Katiguriya:Allpamanta yachaykuna (Allpa pacha)"
+        },
+        {
+          "ID": 13063,
+          "Title": "Katiguriya:Allpamanta yachaykuna (Iwrupa)"
         },
         {
           "ID": 6065,
@@ -96,6 +116,10 @@
           "Title": "Katiguriya:Llaqta (Hukllachasqa Amirika Suyukuna)"
         },
         {
+          "ID": 6171,
+          "Title": "Katiguriya:Llaqta (Iwrupa)"
+        },
+        {
           "ID": 3639,
           "Title": "Katiguriya:Mama llaqta"
         },
@@ -108,6 +132,10 @@
           "Title": "Katiguriya:Mama llaqta (Asya)"
         },
         {
+          "ID": 14883,
+          "Title": "Katiguriya:Mama llaqta (Awya Yala)"
+        },
+        {
           "ID": 6166,
           "Title": "Katiguriya:Mama llaqta (Iwrupa)"
         },
@@ -118,6 +146,14 @@
         {
           "ID": 3201,
           "Title": "Katiguriya:Mayu"
+        },
+        {
+          "ID": 16574,
+          "Title": "Katiguriya:Suyu (Ispaña)"
+        },
+        {
+          "ID": 9302,
+          "Title": "Katiguriya:Uma llaqta (Iwrupa)"
         }
       ]
     },
@@ -236,6 +272,14 @@
         {
           "ID": 29507,
           "Title": "Katiguriya:Piluta hayt'aq (Italya)"
+        },
+        {
+          "ID": 33479,
+          "Title": "Katiguriya:Piluta hayt'aq (Mama llaqta)"
+        },
+        {
+          "ID": 51889,
+          "Title": "Katiguriya:Piluta hayt'aq (Ransiya)"
         },
         {
           "ID": 4601,

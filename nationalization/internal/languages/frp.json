@@ -40,8 +40,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2239,
+          "Title": "Catègorie:Continent"
+        },
+        {
           "ID": 2309,
           "Title": "Catègorie:G·eografia"
+        },
+        {
+          "ID": 9294,
+          "Title": "Catègorie:G·eografia de l’Eropa"
+        },
+        {
+          "ID": 9295,
+          "Title": "Catègorie:G·eografia per continent"
         },
         {
           "ID": 9344,
@@ -54,6 +66,10 @@
         {
           "ID": 1525,
           "Title": "Catègorie:Payis d’Africa"
+        },
+        {
+          "ID": 1484,
+          "Title": "Catègorie:Payis d’Amèrica"
         },
         {
           "ID": 1633,
@@ -110,6 +126,10 @@
         {
           "ID": 9973,
           "Title": "Catègorie:Histouère"
+        },
+        {
+          "ID": 9335,
+          "Title": "Catègorie:Viely payis d’Eropa"
         }
       ]
     },
@@ -146,6 +166,14 @@
         {
           "ID": 3418,
           "Title": "Catègorie:Ch·èf d’Ètat"
+        },
+        {
+          "ID": 8595,
+          "Title": "Catègorie:Jouyor de calço francês"
+        },
+        {
+          "ID": 8601,
+          "Title": "Catègorie:Jouyor de calço per citoyenitât"
         },
         {
           "ID": 8810,

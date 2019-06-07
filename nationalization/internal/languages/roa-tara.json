@@ -36,6 +36,14 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 17100,
+          "Title": "Categoria:Comunetate autonome d'a Spagne"
+        },
+        {
+          "ID": 17102,
+          "Title": "Categoria:Provinge spagnole"
+        },
+        {
           "ID": 17576,
           "Title": "Categoria:Sceomorfologgije"
         },
@@ -54,6 +62,10 @@
         {
           "ID": 17302,
           "Title": "Categoria:Statère de l'Afriche"
+        },
+        {
+          "ID": 17303,
+          "Title": "Categoria:Statère de l'Americhe"
         },
         {
           "ID": 17305,

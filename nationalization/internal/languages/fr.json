@@ -18,8 +18,20 @@
           "Title": "Catégorie:Art"
         },
         {
+          "ID": 141461,
+          "Title": "Catégorie:Art contemporain"
+        },
+        {
           "ID": 93402,
           "Title": "Catégorie:Art martial"
+        },
+        {
+          "ID": 3600517,
+          "Title": "Catégorie:Art moderne"
+        },
+        {
+          "ID": 1197681,
+          "Title": "Catégorie:Art par forme d'expression"
         },
         {
           "ID": 84979,
@@ -38,8 +50,24 @@
           "Title": "Catégorie:Chronologie du catch"
         },
         {
+          "ID": 11284423,
+          "Title": "Catégorie:Classement mondial en sport"
+        },
+        {
+          "ID": 335856,
+          "Title": "Catégorie:Club de football au Brésil"
+        },
+        {
           "ID": 336317,
           "Title": "Catégorie:Club de football en Italie"
+        },
+        {
+          "ID": 1187727,
+          "Title": "Catégorie:Club de football par année de fondation"
+        },
+        {
+          "ID": 6567500,
+          "Title": "Catégorie:Club de football par pays"
         },
         {
           "ID": 3987130,
@@ -238,6 +266,14 @@
           "Title": "Catégorie:Restauration"
         },
         {
+          "ID": 9255027,
+          "Title": "Catégorie:Roman par type"
+        },
+        {
+          "ID": 144859,
+          "Title": "Catégorie:Roman épistolaire"
+        },
+        {
           "ID": 84922,
           "Title": "Catégorie:Sexualité"
         },
@@ -262,6 +298,14 @@
           "Title": "Catégorie:Sport"
         },
         {
+          "ID": 369932,
+          "Title": "Catégorie:Sport collectif"
+        },
+        {
+          "ID": 988634,
+          "Title": "Catégorie:Sport olympique"
+        },
+        {
           "ID": 8619977,
           "Title": "Catégorie:Spécialité culinaire de Noël"
         },
@@ -272,6 +316,34 @@
         {
           "ID": 7835284,
           "Title": "Catégorie:Station de radio"
+        },
+        {
+          "ID": 509577,
+          "Title": "Catégorie:Super-vilain Marvel"
+        },
+        {
+          "ID": 83309,
+          "Title": "Catégorie:Série télévisée"
+        },
+        {
+          "ID": 112696,
+          "Title": "Catégorie:Série télévisée brésilienne"
+        },
+        {
+          "ID": 5003612,
+          "Title": "Catégorie:Série télévisée de HBO"
+        },
+        {
+          "ID": 5698098,
+          "Title": "Catégorie:Série télévisée de fantasy"
+        },
+        {
+          "ID": 6139983,
+          "Title": "Catégorie:Série télévisée par diffuseur"
+        },
+        {
+          "ID": 4657986,
+          "Title": "Catégorie:Série télévisée par pays"
         },
         {
           "ID": 131578,
@@ -310,6 +382,10 @@
           "Title": "Catégorie:Émission de télévision par langue"
         },
         {
+          "ID": 3367617,
+          "Title": "Catégorie:Émission de télévision produite au Portugal"
+        },
+        {
           "ID": 741818,
           "Title": "Catégorie:Œuvre littéraire"
         },
@@ -328,16 +404,40 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1103240,
+          "Title": "Catégorie:Basilique à Paris"
+        },
+        {
+          "ID": 596385,
+          "Title": "Catégorie:Capitale en Europe"
+        },
+        {
           "ID": 90412,
           "Title": "Catégorie:Château"
+        },
+        {
+          "ID": 124052,
+          "Title": "Catégorie:Communauté autonome d'Espagne"
         },
         {
           "ID": 8146160,
           "Title": "Catégorie:Commune"
         },
         {
+          "ID": 82498,
+          "Title": "Catégorie:Continent"
+        },
+        {
           "ID": 81545,
           "Title": "Catégorie:Géographie"
+        },
+        {
+          "ID": 476335,
+          "Title": "Catégorie:Géographie de l'Europe"
+        },
+        {
+          "ID": 1297984,
+          "Title": "Catégorie:Géographie par continent"
         },
         {
           "ID": 182884,
@@ -384,6 +484,10 @@
           "Title": "Catégorie:Pays d'Afrique"
         },
         {
+          "ID": 85448,
+          "Title": "Catégorie:Pays d'Amérique"
+        },
+        {
           "ID": 8773200,
           "Title": "Catégorie:Pays d'Amérique du Nord"
         },
@@ -406,6 +510,10 @@
         {
           "ID": 5314613,
           "Title": "Catégorie:Pays par continent"
+        },
+        {
+          "ID": 124041,
+          "Title": "Catégorie:Province d'Espagne"
         },
         {
           "ID": 7630042,
@@ -448,6 +556,10 @@
           "Title": "Catégorie:Ville aux États-Unis"
         },
         {
+          "ID": 202709,
+          "Title": "Catégorie:Ville en Europe"
+        },
+        {
           "ID": 545844,
           "Title": "Catégorie:État"
         },
@@ -470,6 +582,10 @@
           "Title": "Catégorie:Anatomie humaine"
         },
         {
+          "ID": 977204,
+          "Title": "Catégorie:Assainissement"
+        },
+        {
           "ID": 99656,
           "Title": "Catégorie:Hygiène"
         },
@@ -486,6 +602,10 @@
           "Title": "Catégorie:Métier de la santé"
         },
         {
+          "ID": 533345,
+          "Title": "Catégorie:Paraphilie"
+        },
+        {
           "ID": 84921,
           "Title": "Catégorie:Santé"
         },
@@ -500,6 +620,10 @@
         {
           "ID": 293687,
           "Title": "Catégorie:Spécialité médicale"
+        },
+        {
+          "ID": 533348,
+          "Title": "Catégorie:Trouble sexuel et trouble de l'identité sexuelle"
         }
       ]
     },
@@ -507,6 +631,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 221308,
+          "Title": "Catégorie:Ancien pays d'Europe"
+        },
         {
           "ID": 3309492,
           "Title": "Catégorie:Arrêt de la Cour suprême des États-Unis"
@@ -518,6 +646,10 @@
         {
           "ID": 4138566,
           "Title": "Catégorie:Attentat"
+        },
+        {
+          "ID": 5364700,
+          "Title": "Catégorie:Catastrophe par année"
         },
         {
           "ID": 82473,
@@ -594,6 +726,10 @@
           "Title": "Catégorie:Branche des mathématiques"
         },
         {
+          "ID": 5327997,
+          "Title": "Catégorie:Géométrie classique"
+        },
+        {
           "ID": 94409,
           "Title": "Catégorie:Informatique théorique"
         },
@@ -604,6 +740,10 @@
         {
           "ID": 81542,
           "Title": "Catégorie:Mathématiques"
+        },
+        {
+          "ID": 109342,
+          "Title": "Catégorie:Mathématiques élémentaires"
         },
         {
           "ID": 84935,
@@ -632,8 +772,16 @@
           "Title": "Catégorie:Animal"
         },
         {
+          "ID": 106630,
+          "Title": "Catégorie:Animal domestique"
+        },
+        {
           "ID": 8022684,
           "Title": "Catégorie:Animalia"
+        },
+        {
+          "ID": 10627795,
+          "Title": "Catégorie:Anthropométrie"
         },
         {
           "ID": 137901,
@@ -656,6 +804,14 @@
           "Title": "Catégorie:Domaine scientifique"
         },
         {
+          "ID": 12395801,
+          "Title": "Catégorie:Espèce d'animaux"
+        },
+        {
+          "ID": 12395797,
+          "Title": "Catégorie:Espèce d'animaux dont le génome est séquencé"
+        },
+        {
           "ID": 4800282,
           "Title": "Catégorie:Faune par continent"
         },
@@ -664,8 +820,16 @@
           "Title": "Catégorie:Fruit alimentaire"
         },
         {
+          "ID": 8781302,
+          "Title": "Catégorie:Mammifère dont le génome est séquencé"
+        },
+        {
           "ID": 169786,
           "Title": "Catégorie:Nature"
+        },
+        {
+          "ID": 118930,
+          "Title": "Catégorie:Objet céleste"
         },
         {
           "ID": 81538,
@@ -686,6 +850,10 @@
         {
           "ID": 81980,
           "Title": "Catégorie:Protéine"
+        },
+        {
+          "ID": 2680658,
+          "Title": "Catégorie:Race animale"
         },
         {
           "ID": 5537928,
@@ -716,6 +884,10 @@
           "Title": "Catégorie:Vivant"
         },
         {
+          "ID": 2306579,
+          "Title": "Catégorie:Volcan par type"
+        },
+        {
           "ID": 81546,
           "Title": "Catégorie:Zoologie"
         },
@@ -732,6 +904,14 @@
         {
           "ID": 82852,
           "Title": "Catégorie:Acteur"
+        },
+        {
+          "ID": 82159,
+          "Title": "Catégorie:Acteur français"
+        },
+        {
+          "ID": 675590,
+          "Title": "Catégorie:Acteur par nationalité"
         },
         {
           "ID": 6474469,
@@ -774,12 +954,36 @@
           "Title": "Catégorie:Chef d'État"
         },
         {
+          "ID": 1289343,
+          "Title": "Catégorie:Chevalier de la Jarretière"
+        },
+        {
           "ID": 494564,
           "Title": "Catégorie:Chronologie des décès"
         },
         {
           "ID": 494568,
           "Title": "Catégorie:Chronologie des naissances"
+        },
+        {
+          "ID": 1222892,
+          "Title": "Catégorie:Commandeur de la Légion d'honneur"
+        },
+        {
+          "ID": 1454966,
+          "Title": "Catégorie:Docteur honoris causa"
+        },
+        {
+          "ID": 6459738,
+          "Title": "Catégorie:Double nationalité"
+        },
+        {
+          "ID": 7265595,
+          "Title": "Catégorie:Décès à 69 ans"
+        },
+        {
+          "ID": 5933278,
+          "Title": "Catégorie:Député européen par pays"
         },
         {
           "ID": 157836,
@@ -790,8 +994,20 @@
           "Title": "Catégorie:Femme"
         },
         {
+          "ID": 181304,
+          "Title": "Catégorie:Footballeur français"
+        },
+        {
           "ID": 185414,
           "Title": "Catégorie:Footballeur italien"
+        },
+        {
+          "ID": 2974276,
+          "Title": "Catégorie:Footballeur par nationalité"
+        },
+        {
+          "ID": 4212474,
+          "Title": "Catégorie:Footballeur sélectionné plus de 100 fois en équipe nationale"
         },
         {
           "ID": 713664,
@@ -806,12 +1022,20 @@
           "Title": "Catégorie:Inventeur"
         },
         {
+          "ID": 205652,
+          "Title": "Catégorie:Journaliste français"
+        },
+        {
           "ID": 4921505,
           "Title": "Catégorie:Lauréat du prix Nobel par nationalité"
         },
         {
           "ID": 83911,
           "Title": "Catégorie:Mathématicien"
+        },
+        {
+          "ID": 11683166,
+          "Title": "Catégorie:Mathématicien de l'Antiquité"
         },
         {
           "ID": 83947,
@@ -838,8 +1062,20 @@
           "Title": "Catégorie:Naissance au XXe siècle"
         },
         {
+          "ID": 7953137,
+          "Title": "Catégorie:Naissance en juillet 1971"
+        },
+        {
           "ID": 3057959,
           "Title": "Catégorie:Naissance à Athènes"
+        },
+        {
+          "ID": 1479429,
+          "Title": "Catégorie:Officier de Légion étrangère"
+        },
+        {
+          "ID": 1222824,
+          "Title": "Catégorie:Officier de la Légion d'honneur"
         },
         {
           "ID": 327250,
@@ -866,12 +1102,36 @@
           "Title": "Catégorie:Personnalité anglaise"
         },
         {
+          "ID": 10620347,
+          "Title": "Catégorie:Personnalité de La République en marche"
+        },
+        {
+          "ID": 4791669,
+          "Title": "Catégorie:Personnalité de l'Antiquité"
+        },
+        {
+          "ID": 1973919,
+          "Title": "Catégorie:Personnalité de l'extrême droite française"
+        },
+        {
           "ID": 5388646,
           "Title": "Catégorie:Personnalité du Parti démocrate américain par État"
         },
         {
           "ID": 11461749,
           "Title": "Catégorie:Personnalité du Parti républicain américain par État"
+        },
+        {
+          "ID": 809610,
+          "Title": "Catégorie:Personnalité du jeu vidéo"
+        },
+        {
+          "ID": 2714232,
+          "Title": "Catégorie:Personnalité française du XXe siècle"
+        },
+        {
+          "ID": 9020288,
+          "Title": "Catégorie:Personnalité française par siècle"
         },
         {
           "ID": 383357,
@@ -884,6 +1144,10 @@
         {
           "ID": 3014166,
           "Title": "Catégorie:Personnalité par activité et par période"
+        },
+        {
+          "ID": 9018900,
+          "Title": "Catégorie:Personnalité par activité et par siècle"
         },
         {
           "ID": 548465,
@@ -902,8 +1166,16 @@
           "Title": "Catégorie:Personnalité politique cubaine"
         },
         {
+          "ID": 783656,
+          "Title": "Catégorie:Personnalité politique française par parti"
+        },
+        {
           "ID": 6200508,
           "Title": "Catégorie:Personnalité religieuse"
+        },
+        {
+          "ID": 546675,
+          "Title": "Catégorie:Personnalité végétarienne"
         },
         {
           "ID": 9265165,
@@ -914,8 +1186,16 @@
           "Title": "Catégorie:Philosophe"
         },
         {
+          "ID": 958202,
+          "Title": "Catégorie:Philosophe du XXe siècle"
+        },
+        {
           "ID": 957586,
           "Title": "Catégorie:Philosophe par domaine"
+        },
+        {
+          "ID": 958205,
+          "Title": "Catégorie:Philosophe par siècle"
         },
         {
           "ID": 4730788,
@@ -926,12 +1206,56 @@
           "Title": "Catégorie:Politologue"
         },
         {
+          "ID": 1878536,
+          "Title": "Catégorie:Précurseur de l'informatique"
+        },
+        {
+          "ID": 5458049,
+          "Title": "Catégorie:Saint catholique français"
+        },
+        {
+          "ID": 5463301,
+          "Title": "Catégorie:Saint catholique par nationalité"
+        },
+        {
           "ID": 9270175,
           "Title": "Catégorie:Soi en psychologie"
         },
         {
+          "ID": 353043,
+          "Title": "Catégorie:Théologien protestant"
+        },
+        {
+          "ID": 6459774,
+          "Title": "Catégorie:Triple nationalité"
+        },
+        {
+          "ID": 9911947,
+          "Title": "Catégorie:Vidéaste Web par nationalité"
+        },
+        {
+          "ID": 9911437,
+          "Title": "Catégorie:Vidéaste Web vidéoludique"
+        },
+        {
+          "ID": 7265494,
+          "Title": "Catégorie:Âge de décès"
+        },
+        {
           "ID": 82824,
           "Title": "Catégorie:Écrivain"
+        },
+        {
+          "ID": 5523861,
+          "Title": "Catégorie:Écrivain du XXe siècle"
+        },
+        {
+          "ID": 6702676,
+          "Title": "Catégorie:Écrivain français par siècle"
+        },
+        {
+          "ID": 3453021,
+          "Title": "Catégorie:Éditorialiste français"
         }
       ]
     },
@@ -960,12 +1284,20 @@
           "Title": "Catégorie:Idéologie"
         },
         {
+          "ID": 11582258,
+          "Title": "Catégorie:Idéologie d'extrême droite"
+        },
+        {
           "ID": 98781,
           "Title": "Catégorie:Libéralisme"
         },
         {
           "ID": 85548,
           "Title": "Catégorie:Métaphysique"
+        },
+        {
+          "ID": 737696,
+          "Title": "Catégorie:Néologisme politique"
         },
         {
           "ID": 896807,
@@ -1004,6 +1336,22 @@
         {
           "ID": 165080,
           "Title": "Catégorie:Croyance"
+        },
+        {
+          "ID": 360889,
+          "Title": "Catégorie:Divinité"
+        },
+        {
+          "ID": 5779276,
+          "Title": "Catégorie:Divinité masculine"
+        },
+        {
+          "ID": 404984,
+          "Title": "Catégorie:Divinité olympienne"
+        },
+        {
+          "ID": 3876837,
+          "Title": "Catégorie:Divinité par attribut"
         },
         {
           "ID": 84974,
@@ -1058,6 +1406,10 @@
         {
           "ID": 144875,
           "Title": "Catégorie:Gouvernement"
+        },
+        {
+          "ID": 423033,
+          "Title": "Catégorie:Groupe social"
         },
         {
           "ID": 106660,

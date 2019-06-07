@@ -88,8 +88,20 @@
           "Title": "Kategorija:Geografija"
         },
         {
+          "ID": 9033,
+          "Title": "Kategorija:Geografija Europy"
+        },
+        {
+          "ID": 9034,
+          "Title": "Kategorija:Geografija pó kontinenśe"
+        },
+        {
           "ID": 9176,
           "Title": "Kategorija:Geomorfologija"
+        },
+        {
+          "ID": 924,
+          "Title": "Kategorija:Kontinenty"
         },
         {
           "ID": 8756,
@@ -144,6 +156,10 @@
           "Title": "Kategorija:Stat w Pódpołnocnej Americe"
         },
         {
+          "ID": 5143,
+          "Title": "Kategorija:Stolica w Europje"
+        },
+        {
           "ID": 996,
           "Title": "Kategorija:Zjadnośone staty Ameriki"
         },
@@ -161,6 +177,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 10629,
+          "Title": "Kategorija:Historiski stat w Europje"
+        },
         {
           "ID": 1072,
           "Title": "Kategorija:Stawizny"
@@ -204,6 +224,10 @@
         {
           "ID": 4814,
           "Title": "Kategorija:Coologija"
+        },
+        {
+          "ID": 5705,
+          "Title": "Kategorija:Domacne zwěrje"
         },
         {
           "ID": 630,
@@ -322,6 +346,10 @@
         {
           "ID": 8486,
           "Title": "Kategorija:Wósoba"
+        },
+        {
+          "ID": 8860,
+          "Title": "Kategorija:Wósoba pó lětstotku naroźenja"
         },
         {
           "ID": 8488,

@@ -18,6 +18,10 @@
           "Title": "Categoria:Art"
         },
         {
+          "ID": 86447,
+          "Title": "Categoria:Art contemporani"
+        },
+        {
           "ID": 48298,
           "Title": "Categoria:Arts escèniques"
         },
@@ -30,8 +34,20 @@
           "Title": "Categoria:Bruixeria"
         },
         {
+          "ID": 122401,
+          "Title": "Categoria:Clubs de futbol brasilers"
+        },
+        {
+          "ID": 59062,
+          "Title": "Categoria:Clubs de futbol europeus"
+        },
+        {
           "ID": 64213,
           "Title": "Categoria:Clubs de futbol italians"
+        },
+        {
+          "ID": 955396,
+          "Title": "Categoria:Clubs de la Primera divisió espanyola de futbol"
         },
         {
           "ID": 377704,
@@ -100,6 +116,14 @@
         {
           "ID": 865214,
           "Title": "Categoria:Esports"
+        },
+        {
+          "ID": 53116,
+          "Title": "Categoria:Esports d'equip"
+        },
+        {
+          "ID": 79547,
+          "Title": "Categoria:Esports olímpics"
         },
         {
           "ID": 1054972,
@@ -246,6 +270,22 @@
           "Title": "Categoria:Sexualitat humana"
         },
         {
+          "ID": 281467,
+          "Title": "Categoria:Societats anònimes esportives espanyoles"
+        },
+        {
+          "ID": 66859,
+          "Title": "Categoria:Sèries de televisió"
+        },
+        {
+          "ID": 1035887,
+          "Title": "Categoria:Sèries de televisió de fantasia"
+        },
+        {
+          "ID": 1035538,
+          "Title": "Categoria:Sèries de televisió per origen"
+        },
+        {
           "ID": 28189,
           "Title": "Categoria:Televisió"
         },
@@ -268,6 +308,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 448098,
+          "Title": "Categoria:Capitals d'estats independents d'Europa"
+        },
+        {
           "ID": 176676,
           "Title": "Categoria:Carrers"
         },
@@ -280,8 +324,20 @@
           "Title": "Categoria:Ciutats"
         },
         {
+          "ID": 112680,
+          "Title": "Categoria:Ciutats d'Europa"
+        },
+        {
           "ID": 37126,
           "Title": "Categoria:Ciutats dels Estats Units"
+        },
+        {
+          "ID": 15883,
+          "Title": "Categoria:Comunitats autònomes d'Espanya"
+        },
+        {
+          "ID": 13533,
+          "Title": "Categoria:Continents"
         },
         {
           "ID": 323101,
@@ -306,6 +362,14 @@
         {
           "ID": 13525,
           "Title": "Categoria:Geografia"
+        },
+        {
+          "ID": 38021,
+          "Title": "Categoria:Geografia d'Europa"
+        },
+        {
+          "ID": 1135466,
+          "Title": "Categoria:Geografia per continent"
         },
         {
           "ID": 121389,
@@ -338,6 +402,10 @@
         {
           "ID": 1171861,
           "Title": "Categoria:Pobles dels Estats Units"
+        },
+        {
+          "ID": 15864,
+          "Title": "Categoria:Províncies d'Espanya"
         },
         {
           "ID": 16192,
@@ -386,6 +454,10 @@
           "Title": "Categoria:Medicina"
         },
         {
+          "ID": 112653,
+          "Title": "Categoria:Parafílies"
+        },
+        {
           "ID": 1364925,
           "Title": "Categoria:Professions sanitàries"
         },
@@ -426,6 +498,10 @@
         {
           "ID": 936268,
           "Title": "Categoria:Esdeveniments polítics"
+        },
+        {
+          "ID": 247454,
+          "Title": "Categoria:Estats històrics d'Europa"
         },
         {
           "ID": 33211,
@@ -474,6 +550,10 @@
           "Title": "Categoria:Estadística"
         },
         {
+          "ID": 1075137,
+          "Title": "Categoria:Geometria clàssica"
+        },
+        {
           "ID": 259625,
           "Title": "Categoria:Informàtica teòrica"
         },
@@ -510,6 +590,14 @@
         {
           "ID": 20290,
           "Title": "Categoria:Animals"
+        },
+        {
+          "ID": 88751,
+          "Title": "Categoria:Animals domèstics"
+        },
+        {
+          "ID": 970744,
+          "Title": "Categoria:Antropometria"
         },
         {
           "ID": 1264852,
@@ -550,6 +638,10 @@
         {
           "ID": 1200482,
           "Title": "Categoria:Natura"
+        },
+        {
+          "ID": 150740,
+          "Title": "Categoria:Objectes astronòmics"
         },
         {
           "ID": 19800,
@@ -634,6 +726,10 @@
           "Title": "Categoria:Biografies per segle"
         },
         {
+          "ID": 1672514,
+          "Title": "Categoria:Biògrafs"
+        },
+        {
           "ID": 1387448,
           "Title": "Categoria:Cantants de rock estatunidencs"
         },
@@ -642,8 +738,24 @@
           "Title": "Categoria:Caps d'estat"
         },
         {
+          "ID": 271191,
+          "Title": "Categoria:Cavallers de la Lligacama"
+        },
+        {
           "ID": 213851,
           "Title": "Categoria:Cognoms"
+        },
+        {
+          "ID": 631217,
+          "Title": "Categoria:Comandants de la Legió d'Honor"
+        },
+        {
+          "ID": 1388186,
+          "Title": "Categoria:Diputats al Parlament Europeu per país"
+        },
+        {
+          "ID": 1097496,
+          "Title": "Categoria:Doctors honoris causa"
         },
         {
           "ID": 622030,
@@ -652,6 +764,14 @@
         {
           "ID": 14901,
           "Title": "Categoria:Escriptors"
+        },
+        {
+          "ID": 1601727,
+          "Title": "Categoria:Escriptors del segle XX"
+        },
+        {
+          "ID": 1571361,
+          "Title": "Categoria:Escriptors francesos per segle"
         },
         {
           "ID": 25508,
@@ -670,12 +790,32 @@
           "Title": "Categoria:Filòsofs"
         },
         {
+          "ID": 1538263,
+          "Title": "Categoria:Filòsofs del segle XX"
+        },
+        {
           "ID": 418683,
           "Title": "Categoria:Filòsofs per disciplina"
         },
         {
+          "ID": 1475115,
+          "Title": "Categoria:Filòsofs per segle"
+        },
+        {
+          "ID": 615243,
+          "Title": "Categoria:Fundadors de religions"
+        },
+        {
+          "ID": 163910,
+          "Title": "Categoria:Futbolistes francesos"
+        },
+        {
           "ID": 93551,
           "Title": "Categoria:Futbolistes italians"
+        },
+        {
+          "ID": 256275,
+          "Title": "Categoria:Futbolistes per origen"
         },
         {
           "ID": 1019122,
@@ -702,12 +842,24 @@
           "Title": "Categoria:Músics"
         },
         {
+          "ID": 623177,
+          "Title": "Categoria:Oficials de la Legió d'Honor"
+        },
+        {
+          "ID": 239081,
+          "Title": "Categoria:Periodistes francesos"
+        },
+        {
           "ID": 183463,
           "Title": "Categoria:Personatges de cinema"
         },
         {
           "ID": 87268,
           "Title": "Categoria:Personatges de ficció"
+        },
+        {
+          "ID": 1368690,
+          "Title": "Categoria:Persones de l'edat antiga"
         },
         {
           "ID": 513105,
@@ -736,6 +888,22 @@
         {
           "ID": 469959,
           "Title": "Categoria:Revolucionaris"
+        },
+        {
+          "ID": 1301659,
+          "Title": "Categoria:Sants catòlics francesos"
+        },
+        {
+          "ID": 1301658,
+          "Title": "Categoria:Sants catòlics per origen"
+        },
+        {
+          "ID": 1461417,
+          "Title": "Categoria:Teòlegs protestants"
+        },
+        {
+          "ID": 507101,
+          "Title": "Categoria:Vegetarians"
         }
       ]
     },
@@ -792,6 +960,22 @@
         {
           "ID": 903384,
           "Title": "Categoria:Crítica a la religió"
+        },
+        {
+          "ID": 920338,
+          "Title": "Categoria:Divinitat"
+        },
+        {
+          "ID": 274620,
+          "Title": "Categoria:Déus"
+        },
+        {
+          "ID": 234606,
+          "Title": "Categoria:Déus de l'Olimp"
+        },
+        {
+          "ID": 1162208,
+          "Title": "Categoria:Déus per atribut"
         },
         {
           "ID": 13788,

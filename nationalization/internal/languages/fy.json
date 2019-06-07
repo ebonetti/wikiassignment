@@ -22,8 +22,16 @@
           "Title": "Kategory:Boerdspul"
         },
         {
+          "ID": 22853,
+          "Title": "Kategory:Brazyljaanske fuotbalklup"
+        },
+        {
           "ID": 16075,
           "Title": "Kategory:Ensyklopedy"
+        },
+        {
+          "ID": 126242,
+          "Title": "Kategory:Fantasytelefyzjesearje"
         },
         {
           "ID": 63808,
@@ -78,6 +86,10 @@
           "Title": "Kategory:Iten en drinken"
         },
         {
+          "ID": 136711,
+          "Title": "Kategory:Kennis"
+        },
+        {
           "ID": 2567,
           "Title": "Kategory:Keunst"
         },
@@ -116,6 +128,10 @@
         {
           "ID": 102845,
           "Title": "Kategory:Literêr wurk nei skriuwer"
+        },
+        {
+          "ID": 85368,
+          "Title": "Kategory:Moderne keunst"
         },
         {
           "ID": 4797,
@@ -170,6 +186,14 @@
           "Title": "Kategory:Telefyzjeprogramma nei taal"
         },
         {
+          "ID": 76070,
+          "Title": "Kategory:Telefyzjesearje"
+        },
+        {
+          "ID": 76072,
+          "Title": "Kategory:Telefyzjesearje nei nasjonaliteit"
+        },
+        {
           "ID": 16009,
           "Title": "Kategory:Toer"
         },
@@ -204,6 +228,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 94163,
+          "Title": "Kategory:Autonome mienskip fan Spanje"
+        },
+        {
           "ID": 12229,
           "Title": "Kategory:Feriene Steaten"
         },
@@ -216,8 +244,20 @@
           "Title": "Kategory:Geografy"
         },
         {
+          "ID": 97175,
+          "Title": "Kategory:Geografy fan Jeropa"
+        },
+        {
+          "ID": 93118,
+          "Title": "Kategory:Geografy nei wrâlddiel"
+        },
+        {
           "ID": 16026,
           "Title": "Kategory:Geomorfology"
+        },
+        {
+          "ID": 19188,
+          "Title": "Kategory:Haadstêd yn Jeropa"
         },
         {
           "ID": 31357,
@@ -230,6 +270,10 @@
         {
           "ID": 23220,
           "Title": "Kategory:Lân yn Afrika"
+        },
+        {
+          "ID": 34428,
+          "Title": "Kategory:Lân yn Amearika"
         },
         {
           "ID": 29391,
@@ -294,6 +338,10 @@
         {
           "ID": 69204,
           "Title": "Kategory:Wei"
+        },
+        {
+          "ID": 7479,
+          "Title": "Kategory:Wrâlddiel"
         }
       ]
     },
@@ -316,6 +364,14 @@
         {
           "ID": 116060,
           "Title": "Kategory:Minsklike anatomy"
+        },
+        {
+          "ID": 62751,
+          "Title": "Kategory:Parafily"
+        },
+        {
+          "ID": 91638,
+          "Title": "Kategory:Sanitêr"
         },
         {
           "ID": 16113,
@@ -342,6 +398,10 @@
         {
           "ID": 108677,
           "Title": "Kategory:Etnyske groep yn de Aldheid"
+        },
+        {
+          "ID": 90134,
+          "Title": "Kategory:Histoarysk lân yn Jeropa"
         },
         {
           "ID": 118347,
@@ -378,6 +438,10 @@
           "Title": "Kategory:Ienheid"
         },
         {
+          "ID": 136714,
+          "Title": "Kategory:Logika"
+        },
+        {
           "ID": 90067,
           "Title": "Kategory:Statistyk"
         },
@@ -400,6 +464,10 @@
           "Title": "Kategory:Bist"
         },
         {
+          "ID": 129039,
+          "Title": "Kategory:Domestisearre bisteras"
+        },
+        {
           "ID": 16144,
           "Title": "Kategory:Ekology"
         },
@@ -414,6 +482,14 @@
         {
           "ID": 113770,
           "Title": "Kategory:Gemyske stof"
+        },
+        {
+          "ID": 27390,
+          "Title": "Kategory:Himellichem"
+        },
+        {
+          "ID": 56062,
+          "Title": "Kategory:Húsdier"
         },
         {
           "ID": 15655,
@@ -510,6 +586,18 @@
           "Title": "Kategory:Frou"
         },
         {
+          "ID": 114835,
+          "Title": "Kategory:Frânsk fuotballer"
+        },
+        {
+          "ID": 64915,
+          "Title": "Kategory:Frânsk kollumnist"
+        },
+        {
+          "ID": 45538,
+          "Title": "Kategory:Frânsk sjoernalist"
+        },
+        {
           "ID": 7769,
           "Title": "Kategory:Ingelsk persoan"
         },
@@ -558,6 +646,10 @@
           "Title": "Kategory:Persoan nei berte"
         },
         {
+          "ID": 106898,
+          "Title": "Kategory:Persoan nei berte nei iuw"
+        },
+        {
           "ID": 106901,
           "Title": "Kategory:Persoan nei ferstjerren"
         },
@@ -568,6 +660,10 @@
         {
           "ID": 84977,
           "Title": "Kategory:Persoan nei hobby"
+        },
+        {
+          "ID": 97649,
+          "Title": "Kategory:Persoan yn de Aldheid"
         },
         {
           "ID": 36171,
@@ -641,6 +737,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 85865,
+          "Title": "Kategory:God"
+        },
         {
           "ID": 104086,
           "Title": "Kategory:Krityk op religy"

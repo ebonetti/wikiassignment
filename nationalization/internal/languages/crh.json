@@ -44,6 +44,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 8789,
+          "Title": "Kategoriya:Afrikadaki memleketler"
+        },
+        {
           "ID": 922,
           "Title": "Kategoriya:Amerika Qoşma Ştatları"
         },
@@ -56,8 +60,20 @@
           "Title": "Kategoriya:Avropadaki memleketler"
         },
         {
+          "ID": 8793,
+          "Title": "Kategoriya:Cenübiy Amerikadaki memleketler"
+        },
+        {
           "ID": 710,
           "Title": "Kategoriya:Coğrafiya"
+        },
+        {
+          "ID": 8798,
+          "Title": "Kategoriya:Okeaniyadaki memleketler"
+        },
+        {
+          "ID": 712,
+          "Title": "Kategoriya:Qıtalar"
         },
         {
           "ID": 1708,
@@ -66,6 +82,10 @@
         {
           "ID": 1022,
           "Title": "Kategoriya:Şeerler"
+        },
+        {
+          "ID": 8794,
+          "Title": "Kategoriya:Şimaliy Amerikadaki memleketler"
         }
       ]
     },

@@ -22,6 +22,10 @@
           "Title": "Category:各國文化"
         },
         {
+          "ID": 82866,
+          "Title": "Category:各地足球球會"
+        },
+        {
           "ID": 33738,
           "Title": "Category:嗜好"
         },
@@ -38,12 +42,20 @@
           "Title": "Category:報紙"
         },
         {
+          "ID": 27235,
+          "Title": "Category:奧運項目"
+        },
+        {
           "ID": 7477,
           "Title": "Category:娛樂"
         },
         {
           "ID": 82413,
           "Title": "Category:工具書"
+        },
+        {
+          "ID": 116792,
+          "Title": "Category:巴西足球會"
         },
         {
           "ID": 8260,
@@ -134,6 +146,10 @@
           "Title": "Category:畫"
         },
         {
+          "ID": 78363,
+          "Title": "Category:當代藝術"
+        },
+        {
           "ID": 12894,
           "Title": "Category:百科全書"
         },
@@ -206,6 +222,10 @@
           "Title": "Category:電視"
         },
         {
+          "ID": 11845,
+          "Title": "Category:電視劇"
+        },
+        {
           "ID": 5130,
           "Title": "Category:音樂"
         },
@@ -248,6 +268,10 @@
           "Title": "Category:南美洲國"
         },
         {
+          "ID": 66251,
+          "Title": "Category:各洲地理"
+        },
+        {
           "ID": 3636,
           "Title": "Category:國"
         },
@@ -272,12 +296,28 @@
           "Title": "Category:大洋洲國"
         },
         {
+          "ID": 5265,
+          "Title": "Category:大洲"
+        },
+        {
           "ID": 180792,
           "Title": "Category:宮"
         },
         {
           "ID": 5445,
           "Title": "Category:歐洲國"
+        },
+        {
+          "ID": 12785,
+          "Title": "Category:歐洲地理"
+        },
+        {
+          "ID": 69561,
+          "Title": "Category:歐洲城市"
+        },
+        {
+          "ID": 11953,
+          "Title": "Category:歐洲首都"
         },
         {
           "ID": 5476,
@@ -304,12 +344,24 @@
           "Title": "Category:美國城市"
         },
         {
+          "ID": 121606,
+          "Title": "Category:美洲國"
+        },
+        {
           "ID": 179326,
           "Title": "Category:聚居地"
         },
         {
           "ID": 12653,
           "Title": "Category:街道"
+        },
+        {
+          "ID": 129532,
+          "Title": "Category:西班牙嘅省"
+        },
+        {
+          "ID": 170313,
+          "Title": "Category:西班牙自治區"
         },
         {
           "ID": 12235,
@@ -384,6 +436,10 @@
           "Title": "Category:國史"
         },
         {
+          "ID": 88600,
+          "Title": "Category:已經冇咗嘅歐洲國"
+        },
+        {
           "ID": 75905,
           "Title": "Category:恐怖活動"
         },
@@ -420,6 +476,10 @@
         {
           "ID": 24096,
           "Title": "Category:數學分枝"
+        },
+        {
+          "ID": 38437,
+          "Title": "Category:數學基礎"
         },
         {
           "ID": 72679,
@@ -466,6 +526,10 @@
         {
           "ID": 6718,
           "Title": "Category:地球"
+        },
+        {
+          "ID": 133300,
+          "Title": "Category:天體"
         },
         {
           "ID": 5161,
@@ -518,6 +582,10 @@
         {
           "ID": 44000,
           "Title": "Category:解剖學"
+        },
+        {
+          "ID": 169783,
+          "Title": "Category:馴養動物"
         }
       ]
     },
@@ -550,8 +618,20 @@
           "Title": "Category:元首"
         },
         {
+          "ID": 179782,
+          "Title": "Category:古人"
+        },
+        {
           "ID": 197454,
           "Title": "Category:古巴政治人"
+        },
+        {
+          "ID": 139537,
+          "Title": "Category:各地男演員"
+        },
+        {
+          "ID": 33547,
+          "Title": "Category:各地足球員"
         },
         {
           "ID": 122627,
@@ -600,6 +680,14 @@
         {
           "ID": 25783,
           "Title": "Category:死年"
+        },
+        {
+          "ID": 196745,
+          "Title": "Category:法國男演員"
+        },
+        {
+          "ID": 41270,
+          "Title": "Category:法國足球員"
         },
         {
           "ID": 33523,
@@ -720,6 +808,10 @@
         {
           "ID": 75842,
           "Title": "Category:神學"
+        },
+        {
+          "ID": 63342,
+          "Title": "Category:神祇"
         }
       ]
     },
@@ -798,6 +890,10 @@
         {
           "ID": 12676,
           "Title": "Category:社會科學"
+        },
+        {
+          "ID": 35870,
+          "Title": "Category:社會群體"
         },
         {
           "ID": 8338,

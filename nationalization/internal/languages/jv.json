@@ -114,6 +114,10 @@
           "Title": "Kategori:Olah-olahan"
         },
         {
+          "ID": 45763,
+          "Title": "Kategori:Olahraga olimpiade"
+        },
+        {
           "ID": 42642,
           "Title": "Kategori:Pandhidhikan"
         },
@@ -128,6 +132,14 @@
         {
           "ID": 89390,
           "Title": "Kategori:Seni pasugatan"
+        },
+        {
+          "ID": 46371,
+          "Title": "Kategori:Sérial télévisi"
+        },
+        {
+          "ID": 64313,
+          "Title": "Kategori:Sérial télévisi miturut negara"
         },
         {
           "ID": 88200,
@@ -156,8 +168,20 @@
           "Title": "Kategori:Amérika Sarékat"
         },
         {
+          "ID": 34361,
+          "Title": "Kategori:Buwana"
+        },
+        {
           "ID": 59747,
           "Title": "Kategori:Géografi"
+        },
+        {
+          "ID": 59763,
+          "Title": "Kategori:Géografi miturut bawana"
+        },
+        {
+          "ID": 82976,
+          "Title": "Kategori:Géografi Éropah"
         },
         {
           "ID": 53815,
@@ -178,6 +202,10 @@
         {
           "ID": 23679,
           "Title": "Kategori:Kutha ing Amérika Sarékat"
+        },
+        {
+          "ID": 33103,
+          "Title": "Kategori:Kutha krajan ing Éropah"
         },
         {
           "ID": 70002,
@@ -226,6 +254,10 @@
         {
           "ID": 129429,
           "Title": "Kategori:Wewengkon administratif miturut basa"
+        },
+        {
+          "ID": 33475,
+          "Title": "Kategori:Wilayah otonomi Spanyol"
         }
       ]
     },
@@ -270,6 +302,10 @@
         {
           "ID": 45448,
           "Title": "Kategori:Sajarah tèknologi"
+        },
+        {
+          "ID": 107759,
+          "Title": "Kategori:Tilas negara ing Éropah"
         }
       ]
     },
@@ -332,6 +368,14 @@
           "Title": "Kategori:Kéwan"
         },
         {
+          "ID": 141457,
+          "Title": "Kategori:Kéwan cumbon"
+        },
+        {
+          "ID": 43047,
+          "Title": "Kategori:Obyek astronomi"
+        },
+        {
           "ID": 100845,
           "Title": "Kategori:Protein"
         },
@@ -370,8 +414,16 @@
           "Title": "Kategori:Aktor"
         },
         {
+          "ID": 65817,
+          "Title": "Kategori:Aktor miturut bangsa"
+        },
+        {
           "ID": 8136,
           "Title": "Kategori:Filsuf"
+        },
+        {
+          "ID": 79843,
+          "Title": "Kategori:Filsuf abad kaping 20"
         },
         {
           "ID": 45723,
@@ -398,12 +450,24 @@
           "Title": "Kategori:Lair abad ping 20"
         },
         {
+          "ID": 63737,
+          "Title": "Kategori:Lair miturut taun"
+        },
+        {
           "ID": 43226,
           "Title": "Kategori:Matematikawan"
         },
         {
           "ID": 52938,
           "Title": "Kategori:Pamain bal-balan Itali"
+        },
+        {
+          "ID": 134190,
+          "Title": "Kategori:Pamain bal-balan Prancis"
+        },
+        {
+          "ID": 25420,
+          "Title": "Kategori:Pamain bal-balan miturut bangsa"
         },
         {
           "ID": 34354,
@@ -444,6 +508,10 @@
         {
           "ID": 70187,
           "Title": "Kategori:Tokoh miturut pakaryan"
+        },
+        {
+          "ID": 45730,
+          "Title": "Kategori:Vegetarian"
         },
         {
           "ID": 60099,
@@ -529,7 +597,7 @@
         },
         {
           "ID": 131427,
-          "Title": "Kategori:Humaniora"
+          "Title": "Kategori:Humaniyora"
         },
         {
           "ID": 33864,

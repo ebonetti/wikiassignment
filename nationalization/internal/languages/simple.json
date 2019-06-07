@@ -30,6 +30,14 @@
           "Title": "Category:Books by author"
         },
         {
+          "ID": 53800,
+          "Title": "Category:Brazilian football clubs"
+        },
+        {
+          "ID": 353895,
+          "Title": "Category:Brazilian television series"
+        },
+        {
           "ID": 209587,
           "Title": "Category:Color"
         },
@@ -74,6 +82,10 @@
           "Title": "Category:Everyday life"
         },
         {
+          "ID": 71103,
+          "Title": "Category:Fantasy television series"
+        },
+        {
           "ID": 39190,
           "Title": "Category:Festivals"
         },
@@ -100,6 +112,10 @@
         {
           "ID": 308914,
           "Title": "Category:Gender"
+        },
+        {
+          "ID": 309249,
+          "Title": "Category:HBO television series"
         },
         {
           "ID": 69342,
@@ -182,6 +198,10 @@
           "Title": "Category:Nutrition"
         },
         {
+          "ID": 327147,
+          "Title": "Category:Olympic sports"
+        },
+        {
           "ID": 26710,
           "Title": "Category:Paintings"
         },
@@ -230,8 +250,20 @@
           "Title": "Category:Sports by type"
         },
         {
+          "ID": 110677,
+          "Title": "Category:Team sports"
+        },
+        {
           "ID": 9648,
           "Title": "Category:Television"
+        },
+        {
+          "ID": 9647,
+          "Title": "Category:Television series"
+        },
+        {
+          "ID": 88023,
+          "Title": "Category:Television series by country"
         },
         {
           "ID": 311978,
@@ -276,12 +308,28 @@
           "Title": "Category:Asian countries"
         },
         {
+          "ID": 62968,
+          "Title": "Category:Autonomous communities of Spain"
+        },
+        {
+          "ID": 35757,
+          "Title": "Category:Capital cities in Europe"
+        },
+        {
           "ID": 5211,
           "Title": "Category:Cities"
         },
         {
+          "ID": 43792,
+          "Title": "Category:Cities in Europe"
+        },
+        {
           "ID": 5877,
           "Title": "Category:Cities in the United States"
+        },
+        {
+          "ID": 5212,
+          "Title": "Category:Continents"
         },
         {
           "ID": 5209,
@@ -298,6 +346,14 @@
         {
           "ID": 5834,
           "Title": "Category:Geography"
+        },
+        {
+          "ID": 91670,
+          "Title": "Category:Geography by continent"
+        },
+        {
+          "ID": 73232,
+          "Title": "Category:Geography of Europe"
         },
         {
           "ID": 160913,
@@ -326,6 +382,10 @@
         {
           "ID": 176817,
           "Title": "Category:Places"
+        },
+        {
+          "ID": 25569,
+          "Title": "Category:Provinces of Spain"
         },
         {
           "ID": 5210,
@@ -416,6 +476,10 @@
         {
           "ID": 323079,
           "Title": "Category:Nursing"
+        },
+        {
+          "ID": 433852,
+          "Title": "Category:Paraphilias"
         }
       ]
     },
@@ -424,8 +488,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 539836,
+          "Title": "Category:Disasters by year"
+        },
+        {
           "ID": 53287,
           "Title": "Category:Events"
+        },
+        {
+          "ID": 52481,
+          "Title": "Category:Former countries in Europe"
         },
         {
           "ID": 6602,
@@ -516,6 +588,10 @@
           "Title": "Category:Animals by continent"
         },
         {
+          "ID": 55303,
+          "Title": "Category:Astronomical objects"
+        },
+        {
           "ID": 9359,
           "Title": "Category:Chemical compounds"
         },
@@ -530,6 +606,10 @@
         {
           "ID": 42284,
           "Title": "Category:Disasters"
+        },
+        {
+          "ID": 33670,
+          "Title": "Category:Domesticated animals"
         },
         {
           "ID": 116482,
@@ -606,6 +686,10 @@
           "Title": "Category:20th century births"
         },
         {
+          "ID": 98459,
+          "Title": "Category:20th century philosophers"
+        },
+        {
           "ID": 8406,
           "Title": "Category:Actors"
         },
@@ -624,6 +708,10 @@
         {
           "ID": 296275,
           "Title": "Category:American rock singers"
+        },
+        {
+          "ID": 579906,
+          "Title": "Category:Ancient people"
         },
         {
           "ID": 37305,
@@ -674,6 +762,18 @@
           "Title": "Category:Fictional characters"
         },
         {
+          "ID": 483970,
+          "Title": "Category:Footballers by nationality"
+        },
+        {
+          "ID": 46603,
+          "Title": "Category:French footballers"
+        },
+        {
+          "ID": 338869,
+          "Title": "Category:French journalists"
+        },
+        {
           "ID": 65224,
           "Title": "Category:Heads of state"
         },
@@ -686,6 +786,10 @@
           "Title": "Category:Italian footballers"
         },
         {
+          "ID": 286027,
+          "Title": "Category:Knights of the Garter"
+        },
+        {
           "ID": 25554,
           "Title": "Category:Living people"
         },
@@ -696,6 +800,10 @@
         {
           "ID": 421979,
           "Title": "Category:Medical researchers"
+        },
+        {
+          "ID": 598143,
+          "Title": "Category:Members of the European Parliament by country"
         },
         {
           "ID": 305858,
@@ -766,6 +874,14 @@
           "Title": "Category:Surnames"
         },
         {
+          "ID": 120153,
+          "Title": "Category:Vegetarians"
+        },
+        {
+          "ID": 123252,
+          "Title": "Category:Video game people"
+        },
+        {
           "ID": 308913,
           "Title": "Category:Women"
         },
@@ -818,6 +934,10 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 55891,
+          "Title": "Category:Gods and goddesses"
+        },
+        {
           "ID": 186695,
           "Title": "Category:Indian religions"
         },
@@ -832,6 +952,10 @@
         {
           "ID": 106065,
           "Title": "Category:Theology"
+        },
+        {
+          "ID": 61333,
+          "Title": "Category:Twelve Olympians"
         }
       ]
     },
@@ -922,6 +1046,10 @@
         {
           "ID": 67541,
           "Title": "Category:Rights"
+        },
+        {
+          "ID": 110742,
+          "Title": "Category:Social groups"
         },
         {
           "ID": 20009,

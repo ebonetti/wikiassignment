@@ -28,6 +28,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 11190,
+          "Title": "Category:Geography e Europe"
+        },
+        {
           "ID": 7048,
           "Title": "Category:Nyika"
         },
@@ -54,6 +58,10 @@
         {
           "ID": 11154,
           "Title": "Category:USA"
+        },
+        {
+          "ID": 4314,
+          "Title": "Category:Ziwumbe"
         }
       ]
     },

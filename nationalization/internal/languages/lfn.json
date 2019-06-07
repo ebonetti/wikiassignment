@@ -64,8 +64,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 213,
+          "Title": "Categoria:Comunias autonom de Espania"
+        },
+        {
+          "ID": 216,
+          "Title": "Categoria:Continentes"
+        },
+        {
           "ID": 326,
           "Title": "Categoria:Jeografia"
+        },
+        {
+          "ID": 330,
+          "Title": "Categoria:Jeografia de Europa"
         },
         {
           "ID": 436,
@@ -148,6 +160,10 @@
         {
           "ID": 404,
           "Title": "Categoria:Matematica"
+        },
+        {
+          "ID": 405,
+          "Title": "Categoria:Matematica fundal"
         },
         {
           "ID": 526,

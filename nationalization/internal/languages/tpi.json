@@ -20,12 +20,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2135,
+          "Title": "Grup:Kontinen"
+        },
+        {
           "ID": 5914,
           "Title": "Grup:Ol Yunaitet Stet"
         },
         {
           "ID": 2882,
           "Title": "Grup:Ol kantri"
+        },
+        {
+          "ID": 5921,
+          "Title": "Grup:Ol kantri long Amerika"
         },
         {
           "ID": 2886,
@@ -50,6 +58,10 @@
         {
           "ID": 2883,
           "Title": "Grup:Ol kantri long Yurop"
+        },
+        {
+          "ID": 5884,
+          "Title": "Grup:Ol kapitol bilong Yurop"
         },
         {
           "ID": 5993,

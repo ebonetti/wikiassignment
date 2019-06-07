@@ -60,6 +60,10 @@
           "Title": "Category:Ibihugu"
         },
         {
+          "ID": 3677,
+          "Title": "Category:Imigabane y’Isi"
+        },
+        {
           "ID": 4248,
           "Title": "Category:Imijyi"
         },
@@ -111,6 +115,10 @@
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
       "Categories": [
+        {
+          "ID": 5771,
+          "Title": "Category:Amatungo"
+        },
         {
           "ID": 2359,
           "Title": "Category:Ibimera"

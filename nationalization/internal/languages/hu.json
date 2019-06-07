@@ -6,6 +6,14 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 1401375,
+          "Title": "Kategória:A Netflix saját gyártású műsorai"
+        },
+        {
+          "ID": 1401062,
+          "Title": "Kategória:Az HBO saját gyártású műsorai"
+        },
+        {
           "ID": 326344,
           "Title": "Kategória:Birkózás"
         },
@@ -14,12 +22,24 @@
           "Title": "Kategória:Boszorkányság"
         },
         {
+          "ID": 332519,
+          "Title": "Kategória:Brazil labdarúgócsapatok"
+        },
+        {
+          "ID": 560599,
+          "Title": "Kategória:Brazil televíziós sorozatok"
+        },
+        {
           "ID": 13453,
           "Title": "Kategória:Együttesek"
         },
         {
           "ID": 74241,
           "Title": "Kategória:Előadó-művészet"
+        },
+        {
+          "ID": 731574,
+          "Title": "Kategória:Fantasy televíziós sorozatok"
         },
         {
           "ID": 88387,
@@ -74,6 +94,10 @@
           "Title": "Kategória:Konyhatechnikai eljárások"
         },
         {
+          "ID": 292213,
+          "Title": "Kategória:Kortárs művészet"
+        },
+        {
           "ID": 32098,
           "Title": "Kategória:Kultúra"
         },
@@ -86,6 +110,10 @@
           "Title": "Kategória:Könyvek"
         },
         {
+          "ID": 554879,
+          "Title": "Kategória:Labdarúgócsapatok alapításuk éve szerint"
+        },
+        {
           "ID": 350386,
           "Title": "Kategória:Legendák"
         },
@@ -96,6 +124,10 @@
         {
           "ID": 388848,
           "Title": "Kategória:Mindennapi élet"
+        },
+        {
+          "ID": 50505,
+          "Title": "Kategória:Modern művészet"
         },
         {
           "ID": 21471,
@@ -148,6 +180,18 @@
         {
           "ID": 33251,
           "Title": "Kategória:Televízió"
+        },
+        {
+          "ID": 1087130,
+          "Title": "Kategória:Televízióműsorok csatorna szerint"
+        },
+        {
+          "ID": 285800,
+          "Title": "Kategória:Televíziós sorozatok"
+        },
+        {
+          "ID": 285798,
+          "Title": "Kategória:Televíziós sorozatok ország szerint"
         },
         {
           "ID": 650287,
@@ -224,6 +268,10 @@
           "Title": "Kategória:Afrika országai"
         },
         {
+          "ID": 846043,
+          "Title": "Kategória:Amerika országai"
+        },
+        {
           "ID": 211760,
           "Title": "Kategória:Amerikai Egyesült Államok"
         },
@@ -248,8 +296,16 @@
           "Title": "Kategória:Emlékművek"
         },
         {
+          "ID": 88298,
+          "Title": "Kategória:Európa földrajza"
+        },
+        {
           "ID": 13837,
           "Title": "Kategória:Európa országai"
+        },
+        {
+          "ID": 817888,
+          "Title": "Kategória:Európai fővárosok"
         },
         {
           "ID": 12622,
@@ -262,6 +318,10 @@
         {
           "ID": 27709,
           "Title": "Kategória:Földrajz"
+        },
+        {
+          "ID": 705962,
+          "Title": "Kategória:Földrajz kontinensek szerint"
         },
         {
           "ID": 164305,
@@ -280,6 +340,10 @@
           "Title": "Kategória:Kastélyok, paloták"
         },
         {
+          "ID": 392909,
+          "Title": "Kategória:Kontinensek"
+        },
+        {
           "ID": 387602,
           "Title": "Kategória:Közutak"
         },
@@ -290,6 +354,14 @@
         {
           "ID": 845554,
           "Title": "Kategória:Országok kontinensek szerint"
+        },
+        {
+          "ID": 151107,
+          "Title": "Kategória:Spanyolország autonóm közösségei"
+        },
+        {
+          "ID": 1397117,
+          "Title": "Kategória:Spanyolország tartományai"
         },
         {
           "ID": 32129,
@@ -346,6 +418,10 @@
           "Title": "Kategória:Orvostudomány"
         },
         {
+          "ID": 268856,
+          "Title": "Kategória:Parafíliák"
+        },
+        {
           "ID": 524866,
           "Title": "Kategória:Ápolás"
         }
@@ -358,6 +434,10 @@
         {
           "ID": 80226,
           "Title": "Kategória:Események"
+        },
+        {
+          "ID": 271423,
+          "Title": "Kategória:Európa történelmi államai"
         },
         {
           "ID": 1144622,
@@ -410,6 +490,10 @@
           "Title": "Kategória:Alkalmazott matematika"
         },
         {
+          "ID": 89497,
+          "Title": "Kategória:Elemi matematika"
+        },
+        {
           "ID": 7591,
           "Title": "Kategória:Logika"
         },
@@ -456,6 +540,10 @@
           "Title": "Kategória:Gyümölcsök"
         },
         {
+          "ID": 82972,
+          "Title": "Kategória:Háziasított állatok"
+        },
+        {
           "ID": 89178,
           "Title": "Kategória:Katasztrófák"
         },
@@ -492,6 +580,10 @@
           "Title": "Kategória:Állatok"
         },
         {
+          "ID": 7317,
+          "Title": "Kategória:Égitestek"
+        },
+        {
           "ID": 105950,
           "Title": "Kategória:Ökológia"
         }
@@ -526,6 +618,10 @@
           "Title": "Kategória:Angolok"
         },
         {
+          "ID": 1626696,
+          "Title": "Kategória:Díszdoktorok"
+        },
+        {
           "ID": 61217,
           "Title": "Kategória:Feltalálók"
         },
@@ -536,6 +632,14 @@
         {
           "ID": 4113,
           "Title": "Kategória:Filozófusok"
+        },
+        {
+          "ID": 97105,
+          "Title": "Kategória:Francia labdarúgók"
+        },
+        {
+          "ID": 596311,
+          "Title": "Kategória:Francia újságírók"
         },
         {
           "ID": 731753,
@@ -552,6 +656,10 @@
         {
           "ID": 6467,
           "Title": "Kategória:Költők, írók"
+        },
+        {
+          "ID": 204108,
+          "Title": "Kategória:Labdarúgók országok szerint"
         },
         {
           "ID": 4004,
@@ -618,6 +726,14 @@
           "Title": "Kategória:Utazók, felfedezők"
         },
         {
+          "ID": 250758,
+          "Title": "Kategória:Vallásalapítók"
+        },
+        {
+          "ID": 51862,
+          "Title": "Kategória:Vegetáriánusok"
+        },
+        {
           "ID": 336437,
           "Title": "Kategória:Vezetéknevek"
         },
@@ -644,6 +760,10 @@
         {
           "ID": 195731,
           "Title": "Kategória:Írók"
+        },
+        {
+          "ID": 77746,
+          "Title": "Kategória:Ókori személyek"
         }
       ]
     },
@@ -685,6 +805,14 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 47976,
+          "Title": "Kategória:Istenek"
+        },
+        {
+          "ID": 574133,
+          "Title": "Kategória:Istenek funkció szerint"
+        },
         {
           "ID": 73849,
           "Title": "Kategória:Teológia"
@@ -778,6 +906,10 @@
         {
           "ID": 32128,
           "Title": "Kategória:Szervezetek"
+        },
+        {
+          "ID": 32137,
+          "Title": "Kategória:Társadalmi csoportok"
         },
         {
           "ID": 32096,

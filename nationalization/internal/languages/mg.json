@@ -40,6 +40,10 @@
         {
           "ID": 9694,
           "Title": "Sokajy:Tantaram-piainana"
+        },
+        {
+          "ID": 227945,
+          "Title": "Sokajy:Televiziona tantara mitohy"
         }
       ]
     },
@@ -76,6 +80,14 @@
           "Title": "Sokajy:Jeografia"
         },
         {
+          "ID": 8899,
+          "Title": "Sokajy:Jeografian' Eoropa"
+        },
+        {
+          "ID": 2898,
+          "Title": "Sokajy:Kontinenta"
+        },
+        {
           "ID": 9646,
           "Title": "Sokajy:Renirano"
         },
@@ -93,6 +105,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 190535,
+          "Title": "Sokajy:Firenena taloha tao Eoropa"
+        },
         {
           "ID": 3677,
           "Title": "Sokajy:Tantara"

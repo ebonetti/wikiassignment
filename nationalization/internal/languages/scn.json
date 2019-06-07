@@ -42,6 +42,10 @@
           "Title": "Catigurìa:Disciplini spurtivi"
         },
         {
+          "ID": 48555,
+          "Title": "Catigurìa:Disciplini ulìmpichi"
+        },
+        {
           "ID": 39029,
           "Title": "Catigurìa:Film"
         },
@@ -94,6 +98,10 @@
           "Title": "Catigurìa:Sport"
         },
         {
+          "ID": 48553,
+          "Title": "Catigurìa:Sport di squatra"
+        },
+        {
           "ID": 57805,
           "Title": "Catigurìa:Squatri taliani di palluni"
         },
@@ -112,12 +120,32 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 4281,
+          "Title": "Catigurìa:Cità europei"
+        },
+        {
           "ID": 12797,
           "Title": "Catigurìa:Ciumi"
         },
         {
+          "ID": 39680,
+          "Title": "Catigurìa:Cumunità autònumi di Spagna"
+        },
+        {
+          "ID": 2455,
+          "Title": "Catigurìa:Cuntinenti"
+        },
+        {
           "ID": 44591,
           "Title": "Catigurìa:Giugrafìa"
+        },
+        {
+          "ID": 49043,
+          "Title": "Catigurìa:Giugrafìa di l'Europa"
+        },
+        {
+          "ID": 49044,
+          "Title": "Catigurìa:Giugrafìa pi cuntinenti"
         },
         {
           "ID": 5267,
@@ -130,6 +158,10 @@
         {
           "ID": 23149,
           "Title": "Catigurìa:Palazzi"
+        },
+        {
+          "ID": 43906,
+          "Title": "Catigurìa:Pruvinci spagnoli"
         },
         {
           "ID": 5248,
@@ -224,6 +256,10 @@
           "Title": "Catigurìa:Chìmica"
         },
         {
+          "ID": 36622,
+          "Title": "Catigurìa:Corpi cilesti"
+        },
+        {
           "ID": 32251,
           "Title": "Catigurìa:Ecoluggìa"
         },
@@ -272,6 +308,10 @@
         {
           "ID": 50998,
           "Title": "Catigurìa:Cristiani viventi"
+        },
+        {
+          "ID": 50991,
+          "Title": "Catigurìa:Jucatura pi nazziunalitati"
         },
         {
           "ID": 49364,
@@ -337,6 +377,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 32249,
+          "Title": "Catigurìa:Divinitati"
+        },
         {
           "ID": 2159,
           "Title": "Catigurìa:Riliggiuni"

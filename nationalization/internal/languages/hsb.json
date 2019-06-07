@@ -108,8 +108,20 @@
           "Title": "Kategorija:Geografija"
         },
         {
+          "ID": 23909,
+          "Title": "Kategorija:Geografija Europy"
+        },
+        {
+          "ID": 23914,
+          "Title": "Kategorija:Geografija po kontinenće"
+        },
+        {
           "ID": 23996,
           "Title": "Kategorija:Geomorfologija"
+        },
+        {
+          "ID": 23382,
+          "Title": "Kategorija:Kontinenty"
         },
         {
           "ID": 17590,
@@ -156,6 +168,10 @@
           "Title": "Kategorija:Stat w Sewjernej Americe"
         },
         {
+          "ID": 18334,
+          "Title": "Kategorija:Stolica w Europje"
+        },
+        {
           "ID": 2066,
           "Title": "Kategorija:Sydlišćo"
         },
@@ -196,6 +212,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 25856,
+          "Title": "Kategorija:Historiski stat w Europje"
+        },
+        {
           "ID": 374,
           "Title": "Kategorija:Stawizny"
         },
@@ -220,6 +240,10 @@
         {
           "ID": 18365,
           "Title": "Kategorija:Měrjenska jednotka"
+        },
+        {
+          "ID": 15274,
+          "Title": "Kategorija:Zakładna matematika"
         }
       ]
     },
@@ -238,6 +262,10 @@
         {
           "ID": 15090,
           "Title": "Kategorija:Coologija"
+        },
+        {
+          "ID": 19872,
+          "Title": "Kategorija:Domjace zwěrjo"
         },
         {
           "ID": 13495,
@@ -360,6 +388,10 @@
         {
           "ID": 3159,
           "Title": "Kategorija:Wosoba"
+        },
+        {
+          "ID": 23754,
+          "Title": "Kategorija:Wosoba po lětstotku narodźenja"
         },
         {
           "ID": 25563,

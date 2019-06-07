@@ -46,12 +46,24 @@
           "Title": "Kategorie:Esskultur"
         },
         {
+          "ID": 25917,
+          "Title": "Kategorie:Fantasy-Fernsehserie"
+        },
+        {
           "ID": 19507,
           "Title": "Kategorie:Farben"
         },
         {
           "ID": 13313,
           "Title": "Kategorie:Fernsehen"
+        },
+        {
+          "ID": 13311,
+          "Title": "Kategorie:Fernsehserie"
+        },
+        {
+          "ID": 25873,
+          "Title": "Kategorie:Fernsehserie nach Staat"
         },
         {
           "ID": 21441,
@@ -146,6 +158,10 @@
           "Title": "Kategorie:Magie"
         },
         {
+          "ID": 354,
+          "Title": "Kategorie:Mannschaftssport"
+        },
+        {
           "ID": 330,
           "Title": "Kategorie:Musik"
         },
@@ -168,6 +184,10 @@
         {
           "ID": 15983,
           "Title": "Kategorie:Netzkultur"
+        },
+        {
+          "ID": 14974,
+          "Title": "Kategorie:Olympische Sportart"
         },
         {
           "ID": 15982,
@@ -226,6 +246,10 @@
           "Title": "Kategorie:Wrestling"
         },
         {
+          "ID": 17239,
+          "Title": "Kategorie:Zeitgenössische Kunst"
+        },
+        {
           "ID": 19636,
           "Title": "Kategorie:Zeitschrift"
         },
@@ -264,8 +288,24 @@
           "Title": "Kategorie:Geographie"
         },
         {
+          "ID": 12193,
+          "Title": "Kategorie:Geographie (Europa)"
+        },
+        {
+          "ID": 13254,
+          "Title": "Kategorie:Geographie nach Kontinent"
+        },
+        {
           "ID": 15752,
           "Title": "Kategorie:Geomorphologie"
+        },
+        {
+          "ID": 14200,
+          "Title": "Kategorie:Hauptstadt in Europa"
+        },
+        {
+          "ID": 326,
+          "Title": "Kategorie:Kontinent"
         },
         {
           "ID": 14041,
@@ -296,12 +336,20 @@
           "Title": "Kategorie:Siedlungsgeographie"
         },
         {
+          "ID": 96874,
+          "Title": "Kategorie:Spanische Provinz"
+        },
+        {
           "ID": 324,
           "Title": "Kategorie:Staat"
         },
         {
           "ID": 23843,
           "Title": "Kategorie:Staat in Afrika"
+        },
+        {
+          "ID": 16315,
+          "Title": "Kategorie:Staat in Amerika"
         },
         {
           "ID": 18979,
@@ -376,6 +424,10 @@
         {
           "ID": 13405,
           "Title": "Kategorie:Medizinisches Fachgebiet"
+        },
+        {
+          "ID": 14668,
+          "Title": "Kategorie:Sanitärtechnik"
         }
       ]
     },
@@ -402,6 +454,10 @@
         {
           "ID": 13883,
           "Title": "Kategorie:Geschichte nach räumlicher Zuordnung"
+        },
+        {
+          "ID": 15384,
+          "Title": "Kategorie:Historischer Staat (Europa)"
         },
         {
           "ID": 15057,
@@ -460,12 +516,20 @@
           "Title": "Kategorie:Anatomie"
         },
         {
+          "ID": 13653,
+          "Title": "Kategorie:Astronomisches Objekt"
+        },
+        {
           "ID": 9535,
           "Title": "Kategorie:Chemie"
         },
         {
           "ID": 13651,
           "Title": "Kategorie:Erde"
+        },
+        {
+          "ID": 4070,
+          "Title": "Kategorie:Haustier"
         },
         {
           "ID": 17446,
@@ -590,6 +654,14 @@
           "Title": "Kategorie:Person"
         },
         {
+          "ID": 19080,
+          "Title": "Kategorie:Person der Antike"
+        },
+        {
+          "ID": 13059,
+          "Title": "Kategorie:Person nach Geburtsjahrhundert"
+        },
+        {
           "ID": 16784,
           "Title": "Kategorie:Person nach Jahrhundert"
         },
@@ -606,12 +678,20 @@
           "Title": "Kategorie:Person nach Tätigkeit"
         },
         {
+          "ID": 16831,
+          "Title": "Kategorie:Person nach Tätigkeit und Jahrhundert"
+        },
+        {
           "ID": 91575,
           "Title": "Kategorie:Personen"
         },
         {
           "ID": 15780,
           "Title": "Kategorie:Philosoph"
+        },
+        {
+          "ID": 27091,
+          "Title": "Kategorie:Philosoph (20. Jahrhundert)"
         },
         {
           "ID": 18732,
@@ -624,6 +704,10 @@
         {
           "ID": 16294,
           "Title": "Kategorie:Politische Person"
+        },
+        {
+          "ID": 15776,
+          "Title": "Kategorie:Religionsstifter"
         },
         {
           "ID": 20436,
@@ -693,6 +777,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 15807,
+          "Title": "Kategorie:Gottheit"
+        },
         {
           "ID": 5881,
           "Title": "Kategorie:Religion"
@@ -766,6 +854,10 @@
         {
           "ID": 15823,
           "Title": "Kategorie:Regierung"
+        },
+        {
+          "ID": 91788,
+          "Title": "Kategorie:Soziale Gruppe"
         },
         {
           "ID": 8054,

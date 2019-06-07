@@ -10,6 +10,14 @@
           "Title": "Luokka:Aikakauslehdet"
         },
         {
+          "ID": 108092,
+          "Title": "Luokka:Brasilialaiset jalkapalloseurat"
+        },
+        {
+          "ID": 1164750,
+          "Title": "Luokka:Brasilialaiset televisiosarjat"
+        },
+        {
           "ID": 1294219,
           "Title": "Luokka:Elektroniset pelit"
         },
@@ -24,6 +32,10 @@
         {
           "ID": 700898,
           "Title": "Luokka:Esittävät taiteet"
+        },
+        {
+          "ID": 823405,
+          "Title": "Luokka:Fantasiasarjat"
         },
         {
           "ID": 1385992,
@@ -44,6 +56,10 @@
         {
           "ID": 50939,
           "Title": "Luokka:Italialaiset jalkapalloseurat"
+        },
+        {
+          "ID": 27879,
+          "Title": "Luokka:Joukkuepelit"
         },
         {
           "ID": 106169,
@@ -118,6 +134,10 @@
           "Title": "Luokka:Maalaukset"
         },
         {
+          "ID": 306598,
+          "Title": "Luokka:Marvel-universumin superroistot"
+        },
+        {
           "ID": 19506,
           "Title": "Luokka:Musiikki"
         },
@@ -130,8 +150,20 @@
           "Title": "Luokka:Musiikkityylit"
         },
         {
+          "ID": 1251872,
+          "Title": "Luokka:Netflix-alkuperäissarjat"
+        },
+        {
           "ID": 46627,
           "Title": "Luokka:Noituus"
+        },
+        {
+          "ID": 1062631,
+          "Title": "Luokka:Nykytaide"
+        },
+        {
+          "ID": 19122,
+          "Title": "Luokka:Olympialajit"
         },
         {
           "ID": 27067,
@@ -218,6 +250,18 @@
           "Title": "Luokka:Televisio"
         },
         {
+          "ID": 1489125,
+          "Title": "Luokka:Televisio-ohjelmat verkon mukaan"
+        },
+        {
+          "ID": 351204,
+          "Title": "Luokka:Televisiosarjat"
+        },
+        {
+          "ID": 348951,
+          "Title": "Luokka:Televisiosarjat maittain"
+        },
+        {
           "ID": 1294393,
           "Title": "Luokka:Teokset tekijöittäin"
         },
@@ -288,8 +332,28 @@
           "Title": "Luokka:Asutut paikat"
         },
         {
+          "ID": 38347,
+          "Title": "Luokka:Espanjan itsehallintoalueet"
+        },
+        {
+          "ID": 44393,
+          "Title": "Luokka:Espanjan maakunnat"
+        },
+        {
           "ID": 20243,
           "Title": "Luokka:Etelä-Amerikan valtiot"
+        },
+        {
+          "ID": 60952,
+          "Title": "Luokka:Euroopan kaupungit"
+        },
+        {
+          "ID": 99569,
+          "Title": "Luokka:Euroopan maantiede"
+        },
+        {
+          "ID": 212011,
+          "Title": "Luokka:Euroopan pääkaupungit"
         },
         {
           "ID": 20109,
@@ -326,6 +390,10 @@
         {
           "ID": 861213,
           "Title": "Luokka:Lähteet"
+        },
+        {
+          "ID": 111305,
+          "Title": "Luokka:Maanosat"
         },
         {
           "ID": 20136,
@@ -390,6 +458,10 @@
           "Title": "Luokka:Lääketieteen erikoisalat"
         },
         {
+          "ID": 208232,
+          "Title": "Luokka:Parafiliat"
+        },
+        {
           "ID": 59309,
           "Title": "Luokka:Perinnölliset sairaudet"
         },
@@ -415,6 +487,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 20285,
+          "Title": "Luokka:Euroopan entiset valtiot"
+        },
         {
           "ID": 1417911,
           "Title": "Luokka:Euroopan unionin historia"
@@ -442,6 +518,10 @@
         {
           "ID": 148961,
           "Title": "Luokka:Murhat"
+        },
+        {
+          "ID": 746228,
+          "Title": "Luokka:Onnettomuudet vuosittain"
         },
         {
           "ID": 51615,
@@ -536,6 +616,10 @@
           "Title": "Luokka:Eläimet"
         },
         {
+          "ID": 826848,
+          "Title": "Luokka:Eläinrodut"
+        },
+        {
           "ID": 25324,
           "Title": "Luokka:Eläintiede"
         },
@@ -564,6 +648,10 @@
           "Title": "Luokka:Kemialliset aineet"
         },
         {
+          "ID": 870070,
+          "Title": "Luokka:Kotieläimet"
+        },
+        {
           "ID": 25089,
           "Title": "Luokka:Luonnontieteet"
         },
@@ -578,6 +666,10 @@
         {
           "ID": 56597,
           "Title": "Luokka:Proteiinit"
+        },
+        {
+          "ID": 325905,
+          "Title": "Luokka:Taivaankappaleet"
         },
         {
           "ID": 19816,
@@ -612,6 +704,10 @@
         {
           "ID": 878871,
           "Title": "Luokka:1900-luvulla syntyneet"
+        },
+        {
+          "ID": 870040,
+          "Title": "Luokka:Antiikin henkilöt"
         },
         {
           "ID": 18145,
@@ -722,6 +818,14 @@
           "Title": "Luokka:Presidentit maittain"
         },
         {
+          "ID": 57840,
+          "Title": "Luokka:Ranskalaiset jalkapalloilijat"
+        },
+        {
+          "ID": 332461,
+          "Title": "Luokka:Ranskalaiset toimittajat"
+        },
+        {
           "ID": 186927,
           "Title": "Luokka:Sairaanhoitajat"
         },
@@ -736,6 +840,10 @@
         {
           "ID": 33726,
           "Title": "Luokka:Tutkimusmatkailijat"
+        },
+        {
+          "ID": 1309434,
+          "Title": "Luokka:Uskontojen perustajat"
         },
         {
           "ID": 600183,
@@ -817,6 +925,18 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 21892,
+          "Title": "Luokka:Jumalat"
+        },
+        {
+          "ID": 269104,
+          "Title": "Luokka:Jumaluudet"
+        },
+        {
+          "ID": 269114,
+          "Title": "Luokka:Jumaluudet määritteiden mukaan"
+        },
         {
           "ID": 1452288,
           "Title": "Luokka:Nonteismi"

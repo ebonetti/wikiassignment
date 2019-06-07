@@ -6,6 +6,14 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 216944,
+          "Title": "Kategori:Acara televisi HBO"
+        },
+        {
+          "ID": 1847304,
+          "Title": "Kategori:Acara televisi menurut saluran"
+        },
+        {
           "ID": 337600,
           "Title": "Kategori:Biografi"
         },
@@ -40,6 +48,10 @@
         {
           "ID": 140076,
           "Title": "Kategori:Cabang olahraga"
+        },
+        {
+          "ID": 977572,
+          "Title": "Kategori:Cabang olahraga Olimpiade"
         },
         {
           "ID": 56776,
@@ -170,6 +182,10 @@
           "Title": "Kategori:Olahraga"
         },
         {
+          "ID": 286560,
+          "Title": "Kategori:Olahraga tim"
+        },
+        {
           "ID": 286884,
           "Title": "Kategori:Pembelajaran"
         },
@@ -182,6 +198,10 @@
           "Title": "Kategori:Pengetahuan"
         },
         {
+          "ID": 2385647,
+          "Title": "Kategori:Penjahat super Marvel Comics"
+        },
+        {
           "ID": 16418,
           "Title": "Kategori:Permainan komputer"
         },
@@ -192,6 +212,14 @@
         {
           "ID": 16866,
           "Title": "Kategori:Permainan video"
+        },
+        {
+          "ID": 2729025,
+          "Title": "Kategori:Program asli Netflix"
+        },
+        {
+          "ID": 1463633,
+          "Title": "Kategori:Program televisi berbahasa Portugis"
         },
         {
           "ID": 1450586,
@@ -226,8 +254,28 @@
           "Title": "Kategori:Seni bela diri"
         },
         {
+          "ID": 779954,
+          "Title": "Kategori:Seni kontemporer"
+        },
+        {
+          "ID": 325359,
+          "Title": "Kategori:Seni modern"
+        },
+        {
           "ID": 104355,
           "Title": "Kategori:Seni pertunjukan"
+        },
+        {
+          "ID": 264831,
+          "Title": "Kategori:Seri televisi"
+        },
+        {
+          "ID": 1152738,
+          "Title": "Kategori:Seri televisi Brasil"
+        },
+        {
+          "ID": 2805079,
+          "Title": "Kategori:Seri televisi menurut negara"
         },
         {
           "ID": 214292,
@@ -258,6 +306,10 @@
           "Title": "Kategori:Tempat fiktif"
         },
         {
+          "ID": 55189,
+          "Title": "Kategori:Tim sepak bola Brasil"
+        },
+        {
           "ID": 18323,
           "Title": "Kategori:Tim sepak bola Italia"
         },
@@ -276,16 +328,40 @@
           "Title": "Kategori:Amerika Serikat"
         },
         {
+          "ID": 8344,
+          "Title": "Kategori:Benua"
+        },
+        {
           "ID": 71852,
           "Title": "Kategori:Daftar bertopik geografi"
+        },
+        {
+          "ID": 237996,
+          "Title": "Kategori:Daftar tempat yang dinamai menurut nama tokoh"
         },
         {
           "ID": 8558,
           "Title": "Kategori:Geografi"
         },
         {
+          "ID": 25331,
+          "Title": "Kategori:Geografi Eropa"
+        },
+        {
+          "ID": 270017,
+          "Title": "Kategori:Geografi menurut kawasan"
+        },
+        {
           "ID": 51924,
           "Title": "Kategori:Geomorfologi"
+        },
+        {
+          "ID": 329928,
+          "Title": "Kategori:Ibu kota negara di Eropa"
+        },
+        {
+          "ID": 1468917,
+          "Title": "Kategori:Komunitas otonom di Spanyol"
         },
         {
           "ID": 17588,
@@ -318,6 +394,10 @@
         {
           "ID": 234725,
           "Title": "Kategori:Negara di Afrika"
+        },
+        {
+          "ID": 234735,
+          "Title": "Kategori:Negara di Amerika"
         },
         {
           "ID": 234742,
@@ -358,6 +438,10 @@
         {
           "ID": 1040937,
           "Title": "Kategori:Permukiman menurut negara"
+        },
+        {
+          "ID": 603946,
+          "Title": "Kategori:Provinsi di Spanyol"
         },
         {
           "ID": 83529,
@@ -406,6 +490,10 @@
           "Title": "Kategori:Kesehatan"
         },
         {
+          "ID": 1421876,
+          "Title": "Kategori:Parafilia"
+        },
+        {
           "ID": 143677,
           "Title": "Kategori:Penyakit genetik"
         },
@@ -428,6 +516,14 @@
           "Title": "Kategori:Bangsa kuno"
         },
         {
+          "ID": 234754,
+          "Title": "Kategori:Bekas negara di Eropa"
+        },
+        {
+          "ID": 2805165,
+          "Title": "Kategori:Bencana menurut tahun"
+        },
+        {
           "ID": 837431,
           "Title": "Kategori:Pembunuhan menurut tahun"
         },
@@ -442,6 +538,10 @@
         {
           "ID": 2068614,
           "Title": "Kategori:Perang-perang"
+        },
+        {
+          "ID": 2804513,
+          "Title": "Kategori:Perayaan"
         },
         {
           "ID": 134614,
@@ -476,6 +576,10 @@
           "Title": "Kategori:Sejarah menurut tempat"
         },
         {
+          "ID": 2581556,
+          "Title": "Kategori:Sejarah militer menurut abad"
+        },
+        {
           "ID": 1437373,
           "Title": "Kategori:Sejarah politik"
         },
@@ -490,6 +594,10 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 606720,
+          "Title": "Kategori:Geometri klasik"
+        },
+        {
           "ID": 606719,
           "Title": "Kategori:Konsep matematika"
         },
@@ -500,6 +608,10 @@
         {
           "ID": 8519,
           "Title": "Kategori:Matematika"
+        },
+        {
+          "ID": 459647,
+          "Title": "Kategori:Matematika dasar"
         },
         {
           "ID": 132645,
@@ -568,6 +680,10 @@
           "Title": "Kategori:Hewan"
         },
         {
+          "ID": 677888,
+          "Title": "Kategori:Hewan yang dijinakkan"
+        },
+        {
           "ID": 48575,
           "Title": "Kategori:Ilmu"
         },
@@ -592,8 +708,16 @@
           "Title": "Kategori:Kimia"
         },
         {
+          "ID": 118364,
+          "Title": "Kategori:Objek astronomi"
+        },
+        {
           "ID": 14138,
           "Title": "Kategori:Protein"
+        },
+        {
+          "ID": 408971,
+          "Title": "Kategori:Ras hewan"
         },
         {
           "ID": 16704,
@@ -642,6 +766,10 @@
           "Title": "Kategori:Filsuf"
         },
         {
+          "ID": 112472,
+          "Title": "Kategori:Filsuf abad ke-20"
+        },
+        {
           "ID": 291093,
           "Title": "Kategori:Ilmuwan politik"
         },
@@ -666,6 +794,10 @@
           "Title": "Kategori:Kelahiran abad ke-20"
         },
         {
+          "ID": 2532843,
+          "Title": "Kategori:Kelahiran menurut abad"
+        },
+        {
           "ID": 214229,
           "Title": "Kategori:Kelahiran menurut tahun"
         },
@@ -678,8 +810,20 @@
           "Title": "Kategori:Kepala negara"
         },
         {
+          "ID": 2777608,
+          "Title": "Kategori:Komandan Légion d'honneur"
+        },
+        {
+          "ID": 793976,
+          "Title": "Kategori:Ksatria Garter"
+        },
+        {
           "ID": 25775,
           "Title": "Kategori:Matematikawan"
+        },
+        {
+          "ID": 477355,
+          "Title": "Kategori:Meninggal usia 69"
         },
         {
           "ID": 2344821,
@@ -690,12 +834,24 @@
           "Title": "Kategori:Orang hidup"
         },
         {
+          "ID": 1461575,
+          "Title": "Kategori:Orang kudus Katolik Roma menurut kewarganegaraan"
+        },
+        {
           "ID": 476908,
           "Title": "Kategori:Orang mati"
         },
         {
           "ID": 65337,
           "Title": "Kategori:Pemain sepak bola Italia"
+        },
+        {
+          "ID": 72010,
+          "Title": "Kategori:Pemain sepak bola Prancis"
+        },
+        {
+          "ID": 470066,
+          "Title": "Kategori:Pemain sepak bola menurut kewarganegaraan"
         },
         {
           "ID": 308784,
@@ -710,12 +866,20 @@
           "Title": "Kategori:Pemeran laki-laki"
         },
         {
+          "ID": 1890489,
+          "Title": "Kategori:Pemeran laki-laki Prancis"
+        },
+        {
           "ID": 1613484,
           "Title": "Kategori:Pemeran sinema"
         },
         {
           "ID": 24071,
           "Title": "Kategori:Pemusik"
+        },
+        {
+          "ID": 2051047,
+          "Title": "Kategori:Pendiri agama"
         },
         {
           "ID": 614762,
@@ -754,6 +918,10 @@
           "Title": "Kategori:Seniman menurut medium"
         },
         {
+          "ID": 50418,
+          "Title": "Kategori:Teolog Protestan"
+        },
+        {
           "ID": 68885,
           "Title": "Kategori:Tokoh"
         },
@@ -774,8 +942,16 @@
           "Title": "Kategori:Tokoh Kristen menurut abad"
         },
         {
+          "ID": 1442391,
+          "Title": "Kategori:Tokoh Prancis menurut abad"
+        },
+        {
           "ID": 259502,
           "Title": "Kategori:Tokoh fiktif"
+        },
+        {
+          "ID": 353271,
+          "Title": "Kategori:Tokoh kuno"
         },
         {
           "ID": 721056,
@@ -810,8 +986,20 @@
           "Title": "Kategori:Tokoh tanpa kewarganegaraan"
         },
         {
+          "ID": 62685,
+          "Title": "Kategori:Vegetarian"
+        },
+        {
           "ID": 93800,
           "Title": "Kategori:Wanita"
+        },
+        {
+          "ID": 541497,
+          "Title": "Kategori:Wartawan Prancis"
+        },
+        {
+          "ID": 2565463,
+          "Title": "Kategori:Youtuber menurut negara"
         }
       ]
     },
@@ -890,6 +1078,14 @@
           "Title": "Kategori:Agama"
         },
         {
+          "ID": 52919,
+          "Title": "Kategori:Dewa"
+        },
+        {
+          "ID": 528749,
+          "Title": "Kategori:Dewa Olimpus"
+        },
+        {
           "ID": 10899,
           "Title": "Kategori:Kepercayaan"
         },
@@ -950,6 +1146,10 @@
         {
           "ID": 2486341,
           "Title": "Kategori:Kelompok Islam"
+        },
+        {
+          "ID": 145237,
+          "Title": "Kategori:Kelompok sosial"
         },
         {
           "ID": 1960475,

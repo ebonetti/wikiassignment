@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 81579,
+          "Title": "Rummad:Arz arnevez"
+        },
+        {
           "ID": 27614,
           "Title": "Rummad:Arzoù"
         },
@@ -52,6 +56,10 @@
         {
           "ID": 29751,
           "Title": "Rummad:Kazetennoù"
+        },
+        {
+          "ID": 140700,
+          "Title": "Rummad:Kleuboù mell-droad Brazil"
         },
         {
           "ID": 1260,
@@ -126,6 +134,14 @@
           "Title": "Rummad:Sportoù"
         },
         {
+          "ID": 118337,
+          "Title": "Rummad:Sportoù a-stroll"
+        },
+        {
+          "ID": 123831,
+          "Title": "Rummad:Stiradoù skinwel"
+        },
+        {
           "ID": 50900,
           "Title": "Rummad:Strolladoù sonerien"
         },
@@ -148,6 +164,10 @@
           "Title": "Rummad:Douaroniezh"
         },
         {
+          "ID": 8544,
+          "Title": "Rummad:Douaroniezh Europa"
+        },
+        {
           "ID": 2863,
           "Title": "Rummad:Geomorfologiezh"
         },
@@ -156,12 +176,28 @@
           "Title": "Rummad:Hentoù"
         },
         {
+          "ID": 8545,
+          "Title": "Rummad:Kevandirioù"
+        },
+        {
+          "ID": 30278,
+          "Title": "Rummad:Kumuniezhioù emren Spagn"
+        },
+        {
           "ID": 130371,
           "Title": "Rummad:Kumunioù"
         },
         {
+          "ID": 8330,
+          "Title": "Rummad:Kêrioù Europa"
+        },
+        {
           "ID": 23968,
           "Title": "Rummad:Kêrioù SUA"
+        },
+        {
+          "ID": 15761,
+          "Title": "Rummad:Kêrioù-penn Europa"
         },
         {
           "ID": 139129,
@@ -172,12 +208,20 @@
           "Title": "Rummad:Palezioù"
         },
         {
+          "ID": 84138,
+          "Title": "Rummad:Proviñsoù Spagn"
+        },
+        {
           "ID": 99670,
           "Title": "Rummad:Rolloù a denn d'an douaroniezh"
         },
         {
           "ID": 24934,
           "Title": "Rummad:Stadoù Afrika"
+        },
+        {
+          "ID": 27005,
+          "Title": "Rummad:Stadoù Amerika"
         },
         {
           "ID": 24961,
@@ -230,6 +274,10 @@
         {
           "ID": 11727,
           "Title": "Rummad:Brezelioù"
+        },
+        {
+          "ID": 47790,
+          "Title": "Rummad:Broioù kozh Europa"
         },
         {
           "ID": 10763,
@@ -346,6 +394,10 @@
           "Title": "Rummad:Arzourien"
         },
         {
+          "ID": 68851,
+          "Title": "Rummad:Doueoniourien brotestant"
+        },
+        {
           "ID": 55128,
           "Title": "Rummad:Ergerzherien"
         },
@@ -370,6 +422,10 @@
           "Title": "Rummad:Jeneraled SUA"
         },
         {
+          "ID": 79873,
+          "Title": "Rummad:Kazetennerien Bro-C'hall"
+        },
+        {
           "ID": 76085,
           "Title": "Rummad:Marvioù hervez ar bloaz"
         },
@@ -382,8 +438,16 @@
           "Title": "Rummad:Medisined"
         },
         {
+          "ID": 81032,
+          "Title": "Rummad:Melldroaderien Frañs"
+        },
+        {
           "ID": 86035,
           "Title": "Rummad:Melldroaderien Italia"
+        },
+        {
+          "ID": 81038,
+          "Title": "Rummad:Melldroaderien hervez o bro"
         },
         {
           "ID": 8574,
@@ -408,6 +472,14 @@
         {
           "ID": 16905,
           "Title": "Rummad:Prederourien"
+        },
+        {
+          "ID": 33787,
+          "Title": "Rummad:Prederourien an XXvet kantved"
+        },
+        {
+          "ID": 33785,
+          "Title": "Rummad:Prederourien hervez ar c'hantved"
         },
         {
           "ID": 64542,
@@ -481,6 +553,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 38859,
+          "Title": "Rummad:Dodekatheon"
+        },
         {
           "ID": 6163,
           "Title": "Rummad:Doueoniezh"

@@ -236,6 +236,10 @@
           "Title": "Kategorie:Anatomie"
         },
         {
+          "ID": 6377,
+          "Title": "Kategorie:Astronoomsch Objekt"
+        },
+        {
           "ID": 1428,
           "Title": "Kategorie:Chemie"
         },
@@ -270,6 +274,10 @@
         {
           "ID": 19849,
           "Title": "Kategorie:Protein"
+        },
+        {
+          "ID": 9256,
+          "Title": "Kategorie:Rass"
         },
         {
           "ID": 3850,
@@ -316,6 +324,10 @@
         {
           "ID": 2571,
           "Title": "Kategorie:Fru"
+        },
+        {
+          "ID": 83983,
+          "Title": "Kategorie:Lüüd na Johrhunnert von de Geboort"
         },
         {
           "ID": 84048,
@@ -381,6 +393,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 8609,
+          "Title": "Kategorie:Gottheit"
+        },
         {
           "ID": 2588,
           "Title": "Kategorie:Religion"

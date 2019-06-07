@@ -22,12 +22,24 @@
           "Title": "Kategorija:Borilne veščine"
         },
         {
+          "ID": 250046,
+          "Title": "Kategorija:Brazilski nogometni klubi"
+        },
+        {
           "ID": 109583,
           "Title": "Kategorija:Dela po avtorjih"
         },
         {
           "ID": 10134,
           "Title": "Kategorija:Enciklopedije"
+        },
+        {
+          "ID": 34798,
+          "Title": "Kategorija:Evropski nogometni klubi"
+        },
+        {
+          "ID": 222701,
+          "Title": "Kategorija:Fantazijske televizijske serije"
         },
         {
           "ID": 31996,
@@ -130,8 +142,24 @@
           "Title": "Kategorija:Legende"
         },
         {
+          "ID": 158117,
+          "Title": "Kategorija:Moderna umetnost"
+        },
+        {
+          "ID": 12090,
+          "Title": "Kategorija:Moštveni športi"
+        },
+        {
           "ID": 19908,
           "Title": "Kategorija:Nacionalne kuhinje"
+        },
+        {
+          "ID": 51994,
+          "Title": "Kategorija:Nogometni klubi po državah"
+        },
+        {
+          "ID": 62956,
+          "Title": "Kategorija:Olimpijski športi"
         },
         {
           "ID": 123119,
@@ -140,6 +168,10 @@
         {
           "ID": 120374,
           "Title": "Kategorija:Pisanje"
+        },
+        {
+          "ID": 333685,
+          "Title": "Kategorija:Pisemski romani"
         },
         {
           "ID": 353849,
@@ -186,6 +218,10 @@
           "Title": "Kategorija:Slike"
         },
         {
+          "ID": 35644,
+          "Title": "Kategorija:Sodobna umetnost"
+        },
+        {
           "ID": 158060,
           "Title": "Kategorija:Spol"
         },
@@ -216,6 +252,14 @@
         {
           "ID": 38316,
           "Title": "Kategorija:Televizija"
+        },
+        {
+          "ID": 53944,
+          "Title": "Kategorija:Televizijske serije"
+        },
+        {
+          "ID": 222680,
+          "Title": "Kategorija:Televizijske serije po državah"
         },
         {
           "ID": 12045,
@@ -276,8 +320,20 @@
           "Title": "Kategorija:Afriške države"
         },
         {
+          "ID": 61327,
+          "Title": "Kategorija:Ameriške države"
+        },
+        {
+          "ID": 408983,
+          "Title": "Kategorija:Avtonomne skupnosti Španije"
+        },
+        {
           "ID": 61328,
           "Title": "Kategorija:Azijske države"
+        },
+        {
+          "ID": 19337,
+          "Title": "Kategorija:Celine"
         },
         {
           "ID": 46574,
@@ -304,12 +360,24 @@
           "Title": "Kategorija:Geografija"
         },
         {
+          "ID": 28414,
+          "Title": "Kategorija:Geografija Evrope"
+        },
+        {
+          "ID": 133044,
+          "Title": "Kategorija:Geografija po celinah"
+        },
+        {
           "ID": 52379,
           "Title": "Kategorija:Geografski seznami"
         },
         {
           "ID": 50946,
           "Title": "Kategorija:Geomorfologija"
+        },
+        {
+          "ID": 164958,
+          "Title": "Kategorija:Glavna mesta Evrope"
         },
         {
           "ID": 354719,
@@ -330,6 +398,10 @@
         {
           "ID": 16770,
           "Title": "Kategorija:Mesta"
+        },
+        {
+          "ID": 71821,
+          "Title": "Kategorija:Mesta v Evropi"
         },
         {
           "ID": 134630,
@@ -358,6 +430,10 @@
         {
           "ID": 378152,
           "Title": "Kategorija:Palače"
+        },
+        {
+          "ID": 104607,
+          "Title": "Kategorija:Pokrajine Španije"
         },
         {
           "ID": 11486,
@@ -422,6 +498,10 @@
           "Title": "Kategorija:Skrb zase"
         },
         {
+          "ID": 158054,
+          "Title": "Kategorija:Spolne motnje in motnje spolne identitete"
+        },
+        {
           "ID": 62185,
           "Title": "Kategorija:Zdravje"
         },
@@ -444,8 +524,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 139779,
+          "Title": "Kategorija:Bivše države v Evropi"
+        },
+        {
           "ID": 119321,
           "Title": "Kategorija:Dogodki"
+        },
+        {
+          "ID": 421595,
+          "Title": "Kategorija:Katastrofe po letih"
         },
         {
           "ID": 353427,
@@ -497,6 +585,14 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 307180,
+          "Title": "Kategorija:Elementarna matematika"
+        },
+        {
+          "ID": 305567,
+          "Title": "Kategorija:Klasična geometrija"
+        },
         {
           "ID": 12047,
           "Title": "Kategorija:Logika"
@@ -552,6 +648,10 @@
           "Title": "Kategorija:Beljakovine"
         },
         {
+          "ID": 62192,
+          "Title": "Kategorija:Domače živali"
+        },
+        {
           "ID": 12386,
           "Title": "Kategorija:Ekologija"
         },
@@ -586,6 +686,14 @@
         {
           "ID": 10539,
           "Title": "Kategorija:Naravoslovje"
+        },
+        {
+          "ID": 16984,
+          "Title": "Kategorija:Nebesna telesa"
+        },
+        {
+          "ID": 195161,
+          "Title": "Kategorija:Pasme"
         },
         {
           "ID": 13693,
@@ -666,12 +774,36 @@
           "Title": "Kategorija:Državniki"
         },
         {
+          "ID": 48276,
+          "Title": "Kategorija:Evroposlanci po državah"
+        },
+        {
+          "ID": 440226,
+          "Title": "Kategorija:FIFA klub 100"
+        },
+        {
           "ID": 12042,
           "Title": "Kategorija:Filmski igralci"
         },
         {
           "ID": 11179,
           "Title": "Kategorija:Filozofi"
+        },
+        {
+          "ID": 165928,
+          "Title": "Kategorija:Filozofi 20. stoletja"
+        },
+        {
+          "ID": 165931,
+          "Title": "Kategorija:Filozofi po stoletjih"
+        },
+        {
+          "ID": 50686,
+          "Title": "Kategorija:Francoski nogometaši"
+        },
+        {
+          "ID": 131116,
+          "Title": "Kategorija:Francoski novinarji"
         },
         {
           "ID": 12351,
@@ -702,6 +834,10 @@
           "Title": "Kategorija:Književniki"
         },
         {
+          "ID": 447922,
+          "Title": "Kategorija:Književniki v 20. stoletju"
+        },
+        {
           "ID": 447649,
           "Title": "Kategorija:Kristjani po stoletju"
         },
@@ -718,12 +854,20 @@
           "Title": "Kategorija:Ljudje"
         },
         {
+          "ID": 355180,
+          "Title": "Kategorija:Ljudje iz antike"
+        },
+        {
           "ID": 60570,
           "Title": "Kategorija:Ljudje po poklicu"
         },
         {
           "ID": 439898,
           "Title": "Kategorija:Ljudje po poklicu in obdobju"
+        },
+        {
+          "ID": 439503,
+          "Title": "Kategorija:Ljudje po poklicu in stoletju"
         },
         {
           "ID": 439499,
@@ -740,6 +884,10 @@
         {
           "ID": 345676,
           "Title": "Kategorija:Medicinske sestre"
+        },
+        {
+          "ID": 47771,
+          "Title": "Kategorija:Nogometaši po narodnosti"
         },
         {
           "ID": 150235,
@@ -778,6 +926,10 @@
           "Title": "Kategorija:Rojeni po letih"
         },
         {
+          "ID": 439754,
+          "Title": "Kategorija:Rojeni po stoletju"
+        },
+        {
           "ID": 54429,
           "Title": "Kategorija:Rojeni v 18. stoletju"
         },
@@ -788,6 +940,10 @@
         {
           "ID": 54427,
           "Title": "Kategorija:Rojeni v 20. stoletju"
+        },
+        {
+          "ID": 449426,
+          "Title": "Kategorija:Svetniki Rimskokatoliške cerkve po narodnosti"
         },
         {
           "ID": 12043,
@@ -810,8 +966,20 @@
           "Title": "Kategorija:Umrli po stoletju"
         },
         {
+          "ID": 168553,
+          "Title": "Kategorija:Ustanovitelji religij"
+        },
+        {
+          "ID": 72946,
+          "Title": "Kategorija:Vegetarijanci"
+        },
+        {
           "ID": 12005,
           "Title": "Kategorija:Zdravniki"
+        },
+        {
+          "ID": 20319,
+          "Title": "Kategorija:Častniki francoske tujske legije"
         },
         {
           "ID": 31465,
@@ -894,6 +1062,22 @@
           "Title": "Kategorija:Antropologija religije"
         },
         {
+          "ID": 346488,
+          "Title": "Kategorija:Bogovi"
+        },
+        {
+          "ID": 148847,
+          "Title": "Kategorija:Božanstva"
+        },
+        {
+          "ID": 148846,
+          "Title": "Kategorija:Božanstva po atributih"
+        },
+        {
+          "ID": 346574,
+          "Title": "Kategorija:Dvanajst bogov Olimpa"
+        },
+        {
           "ID": 170425,
           "Title": "Kategorija:Neteizem"
         },
@@ -926,6 +1110,10 @@
         {
           "ID": 16749,
           "Title": "Kategorija:Družba"
+        },
+        {
+          "ID": 134062,
+          "Title": "Kategorija:Družbene skupine"
         },
         {
           "ID": 12343,

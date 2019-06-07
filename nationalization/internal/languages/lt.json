@@ -18,12 +18,20 @@
           "Title": "Kategorija:Bokštai"
         },
         {
+          "ID": 154172,
+          "Title": "Kategorija:Brazilijos futbolo klubai"
+        },
+        {
           "ID": 88671,
           "Title": "Kategorija:Buitis"
         },
         {
           "ID": 65885,
           "Title": "Kategorija:Enciklopedijos"
+        },
+        {
+          "ID": 71824,
+          "Title": "Kategorija:Europos futbolo klubai"
         },
         {
           "ID": 257863,
@@ -60,6 +68,10 @@
         {
           "ID": 56165,
           "Title": "Kategorija:Knygos pagal autorių"
+        },
+        {
+          "ID": 74625,
+          "Title": "Kategorija:Komandinis sportas"
         },
         {
           "ID": 8076,
@@ -206,6 +218,10 @@
           "Title": "Kategorija:Televizija"
         },
         {
+          "ID": 68708,
+          "Title": "Kategorija:Televizijos serialai"
+        },
+        {
           "ID": 3796,
           "Title": "Kategorija:Valgiai ir gėrimai"
         },
@@ -236,8 +252,16 @@
           "Title": "Kategorija:Afrikos valstybės"
         },
         {
+          "ID": 2664,
+          "Title": "Kategorija:Amerikos valstybės"
+        },
+        {
           "ID": 2447,
           "Title": "Kategorija:Azijos valstybės"
+        },
+        {
+          "ID": 107538,
+          "Title": "Kategorija:Europos geografija"
         },
         {
           "ID": 2442,
@@ -250,6 +274,10 @@
         {
           "ID": 2330,
           "Title": "Kategorija:Geografija"
+        },
+        {
+          "ID": 155447,
+          "Title": "Kategorija:Geografija pagal žemynus"
         },
         {
           "ID": 96450,
@@ -266,6 +294,10 @@
         {
           "ID": 284533,
           "Title": "Kategorija:Gyvenvietės pagal valstybes"
+        },
+        {
+          "ID": 304539,
+          "Title": "Kategorija:Ispanijos provincijos"
         },
         {
           "ID": 2443,
@@ -330,6 +362,10 @@
         {
           "ID": 2444,
           "Title": "Kategorija:Šiaurės Amerikos valstybės"
+        },
+        {
+          "ID": 2547,
+          "Title": "Kategorija:Žemynai"
         }
       ]
     },
@@ -346,12 +382,20 @@
           "Title": "Kategorija:Higiena"
         },
         {
+          "ID": 91278,
+          "Title": "Kategorija:Lytiniai nukrypimai"
+        },
+        {
           "ID": 2337,
           "Title": "Kategorija:Medicina"
         },
         {
           "ID": 265769,
           "Title": "Kategorija:Medicinos sritys"
+        },
+        {
+          "ID": 281414,
+          "Title": "Kategorija:Sanitarinė technika"
         },
         {
           "ID": 345829,
@@ -371,6 +415,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 215251,
+          "Title": "Kategorija:Europos istorinės valstybės"
+        },
         {
           "ID": 1690,
           "Title": "Kategorija:Istorija"
@@ -406,6 +454,14 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 461508,
+          "Title": "Kategorija:Elementarioji matematika"
+        },
+        {
+          "ID": 461516,
+          "Title": "Kategorija:Klasikinė geometrija"
+        },
+        {
           "ID": 17426,
           "Title": "Kategorija:Logika"
         },
@@ -438,6 +494,10 @@
         {
           "ID": 96417,
           "Title": "Kategorija:Aplinkotyra"
+        },
+        {
+          "ID": 104310,
+          "Title": "Kategorija:Astronomijos objektai"
         },
         {
           "ID": 2991,
@@ -496,6 +556,10 @@
           "Title": "Kategorija:Mokslas"
         },
         {
+          "ID": 36326,
+          "Title": "Kategorija:Naminiai gyvūnai"
+        },
+        {
           "ID": 142800,
           "Title": "Kategorija:Vaisiai ir uogos"
         },
@@ -526,6 +590,10 @@
           "Title": "Kategorija:Anglijos asmenybės"
         },
         {
+          "ID": 47370,
+          "Title": "Kategorija:Antikos asmenybės"
+        },
+        {
           "ID": 27938,
           "Title": "Kategorija:Architektai"
         },
@@ -552,6 +620,10 @@
         {
           "ID": 8331,
           "Title": "Kategorija:Filosofai"
+        },
+        {
+          "ID": 282071,
+          "Title": "Kategorija:Garbės daktarai"
         },
         {
           "ID": 51806,
@@ -614,12 +686,24 @@
           "Title": "Kategorija:Politologai"
         },
         {
+          "ID": 51558,
+          "Title": "Kategorija:Prancūzijos futbolininkai"
+        },
+        {
           "ID": 81889,
           "Title": "Kategorija:Prezidentai"
         },
         {
+          "ID": 80733,
+          "Title": "Kategorija:Protestantų teologai"
+        },
+        {
           "ID": 6745,
           "Title": "Kategorija:Rašytojai"
+        },
+        {
+          "ID": 264441,
+          "Title": "Kategorija:Religijų pradininkai"
         },
         {
           "ID": 7533,
@@ -669,6 +753,14 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 16773,
+          "Title": "Kategorija:Dievai"
+        },
+        {
+          "ID": 382589,
+          "Title": "Kategorija:Dievybės pagal funkcijas"
+        },
         {
           "ID": 291637,
           "Title": "Kategorija:Indų religijos"
@@ -758,6 +850,10 @@
         {
           "ID": 45169,
           "Title": "Kategorija:Socialiniai mokslai"
+        },
+        {
+          "ID": 162562,
+          "Title": "Kategorija:Socialinės grupės"
         },
         {
           "ID": 46479,

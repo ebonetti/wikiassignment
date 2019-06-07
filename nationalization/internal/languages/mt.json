@@ -22,6 +22,10 @@
           "Title": "Kategorija:Klabbs tal-futbol Taljani"
         },
         {
+          "ID": 19501,
+          "Title": "Kategorija:Klabbs tal-futbol stabbiliti skont is-sena"
+        },
+        {
           "ID": 1239,
           "Title": "Kategorija:Kultura"
         },
@@ -50,6 +54,10 @@
           "Title": "Kategorija:Sport"
         },
         {
+          "ID": 8450,
+          "Title": "Kategorija:Sports tat-timijiet"
+        },
+        {
           "ID": 3098,
           "Title": "Kategorija:Televiżjoni"
         }
@@ -60,8 +68,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 11294,
+          "Title": "Kategorija:Bliet kapitali fl-Ewropa"
+        },
+        {
+          "ID": 1406,
+          "Title": "Kategorija:Kontinenti"
+        },
+        {
           "ID": 1408,
           "Title": "Kategorija:Pajjiżi"
+        },
+        {
+          "ID": 20173,
+          "Title": "Kategorija:Pajjiżi Amerikani"
         },
         {
           "ID": 16499,
@@ -92,12 +112,20 @@
           "Title": "Kategorija:Pajjiżi tal-Oċeanja"
         },
         {
+          "ID": 18115,
+          "Title": "Kategorija:Provinċji ta' Spanja"
+        },
+        {
           "ID": 1491,
           "Title": "Kategorija:Stati Uniti"
         },
         {
           "ID": 1186,
           "Title": "Kategorija:Ġeografija"
+        },
+        {
+          "ID": 22121,
+          "Title": "Kategorija:Ġeografija tal-Ewropa"
         }
       ]
     },
@@ -178,8 +206,16 @@
           "Title": "Kategorija:Filosfi"
         },
         {
+          "ID": 11367,
+          "Title": "Kategorija:Futbolers Franċiżi"
+        },
+        {
           "ID": 11375,
           "Title": "Kategorija:Futbolers Taljani"
+        },
+        {
+          "ID": 14494,
+          "Title": "Kategorija:Futbolers skont in-nazzjonalità"
         },
         {
           "ID": 17206,
@@ -220,6 +256,10 @@
         {
           "ID": 15059,
           "Title": "Kategorija:Twieldu fis-seklu 20"
+        },
+        {
+          "ID": 9617,
+          "Title": "Kategorija:Ġurnalisti Franċiżi"
         }
       ]
     },

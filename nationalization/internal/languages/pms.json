@@ -92,12 +92,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1681,
+          "Title": "Categorìa:Continent"
+        },
+        {
           "ID": 35685,
           "Title": "Categorìa:Fium"
         },
         {
           "ID": 1489,
           "Title": "Categorìa:Geografìa"
+        },
+        {
+          "ID": 100959,
+          "Title": "Categorìa:Geografìa ëd l'Euròpa"
         },
         {
           "ID": 98860,
@@ -118,6 +126,10 @@
         {
           "ID": 101270,
           "Title": "Categorìa:Sità djë Stat Unì d'América"
+        },
+        {
+          "ID": 11551,
+          "Title": "Categorìa:Sità europenghe"
         },
         {
           "ID": 1702,
@@ -248,6 +260,10 @@
         {
           "ID": 4521,
           "Title": "Categorìa:Filòsof"
+        },
+        {
+          "ID": 63073,
+          "Title": "Categorìa:Fotbaleur fransèis"
         },
         {
           "ID": 3465,

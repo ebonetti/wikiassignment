@@ -14,6 +14,10 @@
           "Title": "Categoria:Alimèntatzione"
         },
         {
+          "ID": 12246,
+          "Title": "Categoria:Arte moderna"
+        },
+        {
           "ID": 5904,
           "Title": "Categoria:Artes"
         },
@@ -74,6 +78,10 @@
           "Title": "Categoria:Rivistas"
         },
         {
+          "ID": 8983,
+          "Title": "Categoria:Series televisivas"
+        },
+        {
           "ID": 8982,
           "Title": "Categoria:Televisione"
         },
@@ -91,6 +99,14 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 9022,
+          "Title": "Categoria:Capitales europeas"
+        },
+        {
+          "ID": 4651,
+          "Title": "Categoria:Continentes"
+        },
         {
           "ID": 2735,
           "Title": "Categoria:Geografia"
@@ -112,6 +128,10 @@
           "Title": "Categoria:Natziones de s'Africa"
         },
         {
+          "ID": 4644,
+          "Title": "Categoria:Natziones de s'America"
+        },
+        {
           "ID": 4643,
           "Title": "Categoria:Natziones de s'Asia"
         },
@@ -128,12 +148,20 @@
           "Title": "Categoria:Natziones pro continente"
         },
         {
+          "ID": 17187,
+          "Title": "Categoria:Provìntzias de Ispagna"
+        },
+        {
           "ID": 9028,
           "Title": "Categoria:Rios"
         },
         {
           "ID": 4640,
           "Title": "Categoria:Tzitades"
+        },
+        {
+          "ID": 4568,
+          "Title": "Categoria:Tzitades d'Europa"
         },
         {
           "ID": 8208,
@@ -238,6 +266,10 @@
           "Title": "Categoria:Fubaleris italianos"
         },
         {
+          "ID": 10376,
+          "Title": "Categoria:Giornalistas frantzesos"
+        },
+        {
           "ID": 6847,
           "Title": "Categoria:Iscrittores"
         },
@@ -258,12 +290,20 @@
           "Title": "Categoria:Persones"
         },
         {
+          "ID": 10593,
+          "Title": "Categoria:Persones de s'antighidade"
+        },
+        {
           "ID": 7363,
           "Title": "Categoria:Persones pro attividade"
         },
         {
           "ID": 6929,
           "Title": "Categoria:Polìtigos"
+        },
+        {
+          "ID": 7620,
+          "Title": "Categoria:Teologos protestantes"
         }
       ]
     },

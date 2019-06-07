@@ -26,12 +26,32 @@
           "Title": "Categorie:Artă"
         },
         {
+          "ID": 52365,
+          "Title": "Categorie:Artă contemporană"
+        },
+        {
+          "ID": 68226,
+          "Title": "Categorie:Artă modernă"
+        },
+        {
           "ID": 265573,
           "Title": "Categorie:Biografi"
         },
         {
           "ID": 13345,
           "Title": "Categorie:Biografii"
+        },
+        {
+          "ID": 211546,
+          "Title": "Categorie:Cluburi braziliene de fotbal"
+        },
+        {
+          "ID": 767097,
+          "Title": "Categorie:Cluburi de fotbal după țară"
+        },
+        {
+          "ID": 55444,
+          "Title": "Categorie:Cluburi europene de fotbal"
         },
         {
           "ID": 55445,
@@ -274,6 +294,26 @@
           "Title": "Categorie:Secularism"
         },
         {
+          "ID": 858962,
+          "Title": "Categorie:Seriale de televiziune"
+        },
+        {
+          "ID": 2405924,
+          "Title": "Categorie:Seriale de televiziune HBO"
+        },
+        {
+          "ID": 1245202,
+          "Title": "Categorie:Seriale de televiziune după rețea"
+        },
+        {
+          "ID": 1244923,
+          "Title": "Categorie:Seriale de televiziune fantastice"
+        },
+        {
+          "ID": 760021,
+          "Title": "Categorie:Seriale după țară"
+        },
+        {
           "ID": 207487,
           "Title": "Categorie:Sex"
         },
@@ -294,8 +334,16 @@
           "Title": "Categorie:Sport"
         },
         {
+          "ID": 61797,
+          "Title": "Categorie:Sporturi de echipă"
+        },
+        {
           "ID": 946124,
           "Title": "Categorie:Sporturi după tip"
+        },
+        {
+          "ID": 36680,
+          "Title": "Categorie:Sporturi olimpice"
         },
         {
           "ID": 81978,
@@ -352,8 +400,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 29715,
+          "Title": "Categorie:Capitale în Europa"
+        },
+        {
           "ID": 550583,
           "Title": "Categorie:Comune"
+        },
+        {
+          "ID": 749673,
+          "Title": "Categorie:Comunități autonome în Spania"
+        },
+        {
+          "ID": 15987,
+          "Title": "Categorie:Continente"
         },
         {
           "ID": 1292979,
@@ -364,8 +424,16 @@
           "Title": "Categorie:Drumuri"
         },
         {
+          "ID": 38447,
+          "Title": "Categorie:Geografia Europei"
+        },
+        {
           "ID": 11350,
           "Title": "Categorie:Geografie"
+        },
+        {
+          "ID": 115387,
+          "Title": "Categorie:Geografie după continente"
         },
         {
           "ID": 40670,
@@ -412,8 +480,16 @@
           "Title": "Categorie:Orașe din Statele Unite ale Americii"
         },
         {
+          "ID": 758545,
+          "Title": "Categorie:Orașe în Europa"
+        },
+        {
           "ID": 69238,
           "Title": "Categorie:Palate"
+        },
+        {
+          "ID": 89365,
+          "Title": "Categorie:Provinciile Spaniei"
         },
         {
           "ID": 759775,
@@ -518,6 +594,14 @@
           "Title": "Categorie:Ocupații medicale"
         },
         {
+          "ID": 935765,
+          "Title": "Categorie:Parafilii"
+        },
+        {
+          "ID": 1882752,
+          "Title": "Categorie:Salubritate"
+        },
+        {
           "ID": 760126,
           "Title": "Categorie:Specialități medicale"
         },
@@ -568,6 +652,10 @@
           "Title": "Categorie:Cazuri judecate de Curtea Supremă a Statelor Unite ale Americii"
         },
         {
+          "ID": 1137366,
+          "Title": "Categorie:Dezastre după an"
+        },
+        {
           "ID": 173365,
           "Title": "Categorie:Evenimente"
         },
@@ -578,6 +666,10 @@
         {
           "ID": 811818,
           "Title": "Categorie:Evenimente politice"
+        },
+        {
+          "ID": 31207,
+          "Title": "Categorie:Foste state din Europa"
         },
         {
           "ID": 850287,
@@ -606,6 +698,10 @@
         {
           "ID": 1139286,
           "Title": "Categorie:Istorie după țară și subiect"
+        },
+        {
+          "ID": 2314508,
+          "Title": "Categorie:Istorie militară după secol"
         },
         {
           "ID": 170053,
@@ -670,6 +766,10 @@
           "Title": "Categorie:Matematică aplicată"
         },
         {
+          "ID": 27778,
+          "Title": "Categorie:Matematică elementară"
+        },
+        {
           "ID": 1107188,
           "Title": "Categorie:Probabilitate și statistici"
         },
@@ -702,6 +802,10 @@
         {
           "ID": 31429,
           "Title": "Categorie:Animale"
+        },
+        {
+          "ID": 31430,
+          "Title": "Categorie:Animale domestice"
         },
         {
           "ID": 127331,
@@ -744,6 +848,10 @@
           "Title": "Categorie:Natură"
         },
         {
+          "ID": 80359,
+          "Title": "Categorie:Obiecte astronomice"
+        },
+        {
           "ID": 40802,
           "Title": "Categorie:Plante"
         },
@@ -758,6 +866,10 @@
         {
           "ID": 110813,
           "Title": "Categorie:Pământ"
+        },
+        {
+          "ID": 467139,
+          "Title": "Categorie:Rase"
         },
         {
           "ID": 134519,
@@ -842,6 +954,14 @@
           "Title": "Categorie:Aviatori"
         },
         {
+          "ID": 21496,
+          "Title": "Categorie:Cavaleri ai Ordinului Jartierei"
+        },
+        {
+          "ID": 461713,
+          "Title": "Categorie:Comandori ai Legiunii de onoare"
+        },
+        {
           "ID": 1058839,
           "Title": "Categorie:Creștini după secol"
         },
@@ -874,6 +994,10 @@
           "Title": "Categorie:Exploratori"
         },
         {
+          "ID": 1239211,
+          "Title": "Categorie:FIFA Century Club"
+        },
+        {
           "ID": 53145,
           "Title": "Categorie:Femei"
         },
@@ -882,16 +1006,40 @@
           "Title": "Categorie:Filozofi"
         },
         {
+          "ID": 1122138,
+          "Title": "Categorie:Filozofi din secolul al XX-lea"
+        },
+        {
           "ID": 110661,
           "Title": "Categorie:Filozofi după domeniu"
+        },
+        {
+          "ID": 111704,
+          "Title": "Categorie:Filozofi după secol"
         },
         {
           "ID": 2329854,
           "Title": "Categorie:Fondatori de companii"
         },
         {
+          "ID": 751550,
+          "Title": "Categorie:Fotbaliști după naționalitate"
+        },
+        {
+          "ID": 751557,
+          "Title": "Categorie:Fotbaliști francezi"
+        },
+        {
           "ID": 751566,
           "Title": "Categorie:Fotbaliști italieni"
+        },
+        {
+          "ID": 1233650,
+          "Title": "Categorie:Francezi din secolul al XX-lea"
+        },
+        {
+          "ID": 1232735,
+          "Title": "Categorie:Francezi după secol"
         },
         {
           "ID": 78306,
@@ -900,6 +1048,10 @@
         {
           "ID": 22401,
           "Title": "Categorie:Inventatori"
+        },
+        {
+          "ID": 753132,
+          "Title": "Categorie:Jurnaliști francezi"
         },
         {
           "ID": 753191,
@@ -946,6 +1098,10 @@
           "Title": "Categorie:Oameni"
         },
         {
+          "ID": 950167,
+          "Title": "Categorie:Oameni din Antichitate"
+        },
+        {
           "ID": 186291,
           "Title": "Categorie:Oameni după comportament"
         },
@@ -956,6 +1112,10 @@
         {
           "ID": 1052494,
           "Title": "Categorie:Oameni după ocupație și perioadă"
+        },
+        {
+          "ID": 1052466,
+          "Title": "Categorie:Oameni după ocupație și secol"
         },
         {
           "ID": 758163,
@@ -980,6 +1140,10 @@
         {
           "ID": 1235098,
           "Title": "Categorie:Ocupații în domeniul aviației"
+        },
+        {
+          "ID": 758213,
+          "Title": "Categorie:Ofițeri ai Legiunii de onoare"
         },
         {
           "ID": 212283,
@@ -1030,8 +1194,32 @@
           "Title": "Categorie:Scriitori de ficțiune"
         },
         {
+          "ID": 1121716,
+          "Title": "Categorie:Scriitori din secolul al XX-lea"
+        },
+        {
+          "ID": 1384519,
+          "Title": "Categorie:Scriitori francezi după secol"
+        },
+        {
           "ID": 187762,
           "Title": "Categorie:Sine"
+        },
+        {
+          "ID": 760318,
+          "Title": "Categorie:Teologi protestanți"
+        },
+        {
+          "ID": 55250,
+          "Title": "Categorie:Vegetarieni"
+        },
+        {
+          "ID": 1969894,
+          "Title": "Categorie:Vârsta decesului"
+        },
+        {
+          "ID": 2329831,
+          "Title": "Categorie:Întemeietori de religii"
         },
         {
           "ID": 761003,
@@ -1140,6 +1328,18 @@
         {
           "ID": 24724,
           "Title": "Categorie:Teologie"
+        },
+        {
+          "ID": 230506,
+          "Title": "Categorie:Zei"
+        },
+        {
+          "ID": 1006175,
+          "Title": "Categorie:Zeități"
+        },
+        {
+          "ID": 1197914,
+          "Title": "Categorie:Zeități după asociație"
         }
       ]
     },
@@ -1198,6 +1398,10 @@
         {
           "ID": 32534,
           "Title": "Categorie:Geopolitică"
+        },
+        {
+          "ID": 20844,
+          "Title": "Categorie:Grupuri sociale"
         },
         {
           "ID": 36081,

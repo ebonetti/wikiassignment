@@ -26,6 +26,10 @@
           "Title": "Categoria:Disciplinas da sport"
         },
         {
+          "ID": 11216,
+          "Title": "Categoria:Disciplinas olimpicas"
+        },
+        {
           "ID": 5922,
           "Title": "Categoria:Educaziun"
         },
@@ -62,6 +66,10 @@
           "Title": "Categoria:Sport"
         },
         {
+          "ID": 11222,
+          "Title": "Categoria:Sports da squadra"
+        },
+        {
           "ID": 1666,
           "Title": "Categoria:Televisiun"
         }
@@ -80,12 +88,20 @@
           "Title": "Categoria:Citads dals Stadis Unids"
         },
         {
+          "ID": 7033,
+          "Title": "Categoria:Continents"
+        },
+        {
           "ID": 3496,
           "Title": "Categoria:Flums"
         },
         {
           "ID": 1640,
           "Title": "Categoria:Geografia"
+        },
+        {
+          "ID": 9721,
+          "Title": "Categoria:Geografia da l'Europa"
         },
         {
           "ID": 3484,
@@ -98,6 +114,10 @@
         {
           "ID": 3485,
           "Title": "Categoria:Stadis da l'Africa"
+        },
+        {
+          "ID": 3506,
+          "Title": "Categoria:Stadis da l'America"
         },
         {
           "ID": 3578,
@@ -160,6 +180,10 @@
           "Title": "Categoria:Fisica"
         },
         {
+          "ID": 9220,
+          "Title": "Categoria:Objects astronomics"
+        },
+        {
           "ID": 11289,
           "Title": "Categoria:Plantas"
         },
@@ -210,6 +234,10 @@
           "Title": "Categoria:Persunas americanas"
         },
         {
+          "ID": 12308,
+          "Title": "Categoria:Persunas dil temp antic"
+        },
+        {
           "ID": 12302,
           "Title": "Categoria:Persunas tenor tschientaner"
         },
@@ -220,6 +248,10 @@
         {
           "ID": 4981,
           "Title": "Categoria:Scripturs"
+        },
+        {
+          "ID": 9768,
+          "Title": "Categoria:Teologs protestants"
         }
       ]
     },

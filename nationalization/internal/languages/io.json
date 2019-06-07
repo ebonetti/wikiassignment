@@ -178,6 +178,10 @@
           "Title": "Kategorio:Surtabla ludi"
         },
         {
+          "ID": 43134,
+          "Title": "Kategorio:Televizionala serii"
+        },
+        {
           "ID": 3760,
           "Title": "Kategorio:Televiziono"
         },
@@ -196,12 +200,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 22848,
+          "Title": "Kategorio:Autonoma regioni di Hispania"
+        },
+        {
           "ID": 3096,
           "Title": "Kategorio:Fluvii"
         },
         {
           "ID": 1422,
           "Title": "Kategorio:Geografio"
+        },
+        {
+          "ID": 1414,
+          "Title": "Kategorio:Kontinenti"
         },
         {
           "ID": 26707,
@@ -218,6 +230,10 @@
         {
           "ID": 30398,
           "Title": "Kategorio:Palaci"
+        },
+        {
+          "ID": 22845,
+          "Title": "Kategorio:Provinci di Hispania"
         },
         {
           "ID": 1413,
@@ -322,6 +338,10 @@
           "Title": "Kategorio:Aplikata matematiko"
         },
         {
+          "ID": 28187,
+          "Title": "Kategorio:Klasika geometrio"
+        },
+        {
           "ID": 4342,
           "Title": "Kategorio:Logiko"
         },
@@ -332,6 +352,10 @@
         {
           "ID": 16333,
           "Title": "Kategorio:Mezur-unajo"
+        },
+        {
+          "ID": 28183,
+          "Title": "Kategorio:Primara matematiko"
         },
         {
           "ID": 25137,
@@ -360,12 +384,20 @@
           "Title": "Kategorio:Animali"
         },
         {
+          "ID": 7316,
+          "Title": "Kategorio:Astronomial objekto"
+        },
+        {
           "ID": 3240,
           "Title": "Kategorio:Cienci"
         },
         {
           "ID": 25217,
           "Title": "Kategorio:Dizastri"
+        },
+        {
+          "ID": 32203,
+          "Title": "Kategorio:Domestikigita animali"
         },
         {
           "ID": 5937,
@@ -448,6 +480,14 @@
         {
           "ID": 3331,
           "Title": "Kategorio:Filozofi"
+        },
+        {
+          "ID": 49451,
+          "Title": "Kategorio:Franca jurnalisti"
+        },
+        {
+          "ID": 35221,
+          "Title": "Kategorio:Franciana futbalisti"
         },
         {
           "ID": 20163,
@@ -662,6 +702,10 @@
         {
           "ID": 4240,
           "Title": "Kategorio:Sociala cienci"
+        },
+        {
+          "ID": 16150,
+          "Title": "Kategorio:Sociala grupi"
         },
         {
           "ID": 3274,

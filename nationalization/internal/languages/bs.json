@@ -26,6 +26,10 @@
           "Title": "Kategorija:Djela po autoru"
         },
         {
+          "ID": 94010,
+          "Title": "Kategorija:Ekipni sportovi"
+        },
+        {
           "ID": 20481,
           "Title": "Kategorija:Enciklopedija"
         },
@@ -86,6 +90,10 @@
           "Title": "Kategorija:Izvori"
         },
         {
+          "ID": 375686,
+          "Title": "Kategorija:Klubovi La Lige"
+        },
+        {
           "ID": 145656,
           "Title": "Kategorija:Knjige"
         },
@@ -130,6 +138,10 @@
           "Title": "Kategorija:Magazini"
         },
         {
+          "ID": 82437,
+          "Title": "Kategorija:Moderna umjetnost"
+        },
+        {
           "ID": 3611,
           "Title": "Kategorija:Muzika"
         },
@@ -152,6 +164,18 @@
         {
           "ID": 28567,
           "Title": "Kategorija:Muzički žanrovi"
+        },
+        {
+          "ID": 77418,
+          "Title": "Kategorija:Nogometni klubovi po državama"
+        },
+        {
+          "ID": 94015,
+          "Title": "Kategorija:Nogometni klubovi po godinama osnivanja"
+        },
+        {
+          "ID": 30855,
+          "Title": "Kategorija:Nogometni klubovi u Brazilu"
         },
         {
           "ID": 21075,
@@ -214,12 +238,28 @@
           "Title": "Kategorija:Sport po vrsti"
         },
         {
+          "ID": 71993,
+          "Title": "Kategorija:Sportovi na Olimpijskim igrama"
+        },
+        {
+          "ID": 26990,
+          "Title": "Kategorija:TV-serije"
+        },
+        {
           "ID": 72533,
           "Title": "Kategorija:Takmičenja"
         },
         {
           "ID": 9025,
           "Title": "Kategorija:Televizija"
+        },
+        {
+          "ID": 93506,
+          "Title": "Kategorija:Televizijske serije po državama"
+        },
+        {
+          "ID": 71626,
+          "Title": "Kategorija:Televizijske serije po mrežama"
         },
         {
           "ID": 93495,
@@ -255,6 +295,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 93281,
+          "Title": "Kategorija:Autonomne zajednice Španije"
+        },
         {
           "ID": 27115,
           "Title": "Kategorija:Država"
@@ -312,16 +356,36 @@
           "Title": "Kategorija:Geografija"
         },
         {
+          "ID": 74484,
+          "Title": "Kategorija:Geografija Evrope"
+        },
+        {
+          "ID": 74485,
+          "Title": "Kategorija:Geografija po kontinentima"
+        },
+        {
           "ID": 28050,
           "Title": "Kategorija:Geomorfologija"
+        },
+        {
+          "ID": 59577,
+          "Title": "Kategorija:Glavni gradovi evropskih država"
         },
         {
           "ID": 8914,
           "Title": "Kategorija:Gradovi"
         },
         {
+          "ID": 152638,
+          "Title": "Kategorija:Gradovi u Evropi"
+        },
+        {
           "ID": 86319,
           "Title": "Kategorija:Gradovi u Sjedinjenim Američkim Državama"
+        },
+        {
+          "ID": 20806,
+          "Title": "Kategorija:Kontinenti"
         },
         {
           "ID": 81144,
@@ -362,6 +426,10 @@
         {
           "ID": 143852,
           "Title": "Kategorija:Spomenici"
+        },
+        {
+          "ID": 257209,
+          "Title": "Kategorija:Španske provincije"
         }
       ]
     },
@@ -408,6 +476,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 73176,
+          "Title": "Kategorija:Bivše države u Evropi"
+        },
+        {
           "ID": 72535,
           "Title": "Kategorija:Događaji"
         },
@@ -430,6 +502,10 @@
         {
           "ID": 85622,
           "Title": "Kategorija:Izbori po godinama"
+        },
+        {
+          "ID": 77978,
+          "Title": "Kategorija:Katastrofe po godinama"
         },
         {
           "ID": 452266,
@@ -466,8 +542,16 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 82483,
+          "Title": "Kategorija:Elementarna matematika"
+        },
+        {
           "ID": 191129,
           "Title": "Kategorija:Jedinice za mjerenje"
+        },
+        {
+          "ID": 82595,
+          "Title": "Kategorija:Klasična geometrija"
         },
         {
           "ID": 23852,
@@ -512,12 +596,20 @@
           "Title": "Kategorija:Anatomija"
         },
         {
+          "ID": 373976,
+          "Title": "Kategorija:Antropometrija"
+        },
+        {
           "ID": 11806,
           "Title": "Kategorija:Biljke"
         },
         {
           "ID": 371715,
           "Title": "Kategorija:Bjelančevine"
+        },
+        {
+          "ID": 64187,
+          "Title": "Kategorija:Domaće životinje"
         },
         {
           "ID": 19903,
@@ -570,6 +662,14 @@
         {
           "ID": 3652,
           "Title": "Kategorija:Prirodne nauke"
+        },
+        {
+          "ID": 76525,
+          "Title": "Kategorija:Rase životinja"
+        },
+        {
+          "ID": 18121,
+          "Title": "Kategorija:Svemirski objekti"
         },
         {
           "ID": 10796,
@@ -638,6 +738,10 @@
           "Title": "Kategorija:Filozofi po polju"
         },
         {
+          "ID": 29079,
+          "Title": "Kategorija:Francuski nogometaši"
+        },
+        {
           "ID": 8376,
           "Title": "Kategorija:Glumci"
         },
@@ -678,6 +782,10 @@
           "Title": "Kategorija:Muzičari"
         },
         {
+          "ID": 62667,
+          "Title": "Kategorija:Nogometaši po državama"
+        },
+        {
           "ID": 4104,
           "Title": "Kategorija:Pisci"
         },
@@ -712,6 +820,10 @@
         {
           "ID": 81126,
           "Title": "Kategorija:Sopstvo"
+        },
+        {
+          "ID": 93607,
+          "Title": "Kategorija:Stari narod"
         },
         {
           "ID": 27258,
@@ -802,6 +914,10 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 31074,
+          "Title": "Kategorija:Olimpski bogovi"
+        },
+        {
           "ID": 4428,
           "Title": "Kategorija:Religija"
         },
@@ -826,6 +942,10 @@
         {
           "ID": 22743,
           "Title": "Kategorija:Avionske kompanije"
+        },
+        {
+          "ID": 71684,
+          "Title": "Kategorija:Društvene grupe"
         },
         {
           "ID": 4054,

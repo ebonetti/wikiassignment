@@ -100,8 +100,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 128798,
+          "Title": "Categuria:Capitaj de l'Europa"
+        },
+        {
           "ID": 195120,
           "Title": "Categuria:Cità"
+        },
+        {
+          "ID": 208601,
+          "Title": "Categuria:Comunitaa autonom de la Spagna"
+        },
+        {
+          "ID": 209726,
+          "Title": "Categuria:Continent"
         },
         {
           "ID": 128808,
@@ -144,6 +156,10 @@
         {
           "ID": 163772,
           "Title": "Categuria:Medesina"
+        },
+        {
+          "ID": 212151,
+          "Title": "Categuria:Parafilia"
         }
       ]
     },
@@ -252,6 +268,10 @@
         {
           "ID": 193121,
           "Title": "Categuria:Giugador de folber d'Itàlia"
+        },
+        {
+          "ID": 193122,
+          "Title": "Categuria:Giugador de folber par naziunalitaa"
         },
         {
           "ID": 206065,

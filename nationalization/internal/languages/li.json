@@ -82,6 +82,10 @@
           "Title": "Categorie:Sjtielperiode"
         },
         {
+          "ID": 11933,
+          "Title": "Categorie:Tv-series"
+        },
+        {
           "ID": 8967,
           "Title": "Categorie:Voeding"
         }
@@ -91,6 +95,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 12382,
+          "Title": "Categorie:Continente"
+        },
         {
           "ID": 1648,
           "Title": "Categorie:Europese len"
@@ -210,6 +218,10 @@
         {
           "ID": 14636,
           "Title": "Categorie:Fruit"
+        },
+        {
+          "ID": 14537,
+          "Title": "Categorie:Hiemellichame"
         },
         {
           "ID": 19718,

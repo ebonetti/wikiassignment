@@ -18,6 +18,10 @@
           "Title": "Categoría:Arte"
         },
         {
+          "ID": 61029,
+          "Title": "Categoría:Arte contemporánea"
+        },
+        {
           "ID": 31952,
           "Title": "Categoría:Artes marciais"
         },
@@ -82,8 +86,20 @@
           "Title": "Categoría:Entretemento"
         },
         {
+          "ID": 189859,
+          "Title": "Categoría:Equipos da Primeira División Española"
+        },
+        {
           "ID": 279973,
           "Title": "Categoría:Equipos de fútbol de Italia"
+        },
+        {
+          "ID": 279850,
+          "Title": "Categoría:Equipos de fútbol do Brasil"
+        },
+        {
+          "ID": 71278,
+          "Title": "Categoría:Equipos de fútbol por país"
         },
         {
           "ID": 328563,
@@ -206,12 +222,32 @@
           "Title": "Categoría:Prensa"
         },
         {
+          "ID": 318517,
+          "Title": "Categoría:Programas de televisión de Portugal"
+        },
+        {
           "ID": 159616,
           "Title": "Categoría:Prácticas sexuais"
         },
         {
           "ID": 48847,
           "Title": "Categoría:Revistas"
+        },
+        {
+          "ID": 13391,
+          "Title": "Categoría:Series de televisión"
+        },
+        {
+          "ID": 212537,
+          "Title": "Categoría:Series de televisión da HBO"
+        },
+        {
+          "ID": 175710,
+          "Title": "Categoría:Series de televisión por cadea"
+        },
+        {
+          "ID": 186334,
+          "Title": "Categoría:Series de televisión por país"
         },
         {
           "ID": 413636,
@@ -264,6 +300,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 42590,
+          "Title": "Categoría:Capitais de Europa"
+        },
+        {
           "ID": 3552,
           "Title": "Categoría:Cidades"
         },
@@ -272,8 +312,16 @@
           "Title": "Categoría:Cidades dos Estados Unidos de América"
         },
         {
+          "ID": 50058,
+          "Title": "Categoría:Comunidades autónomas de España"
+        },
+        {
           "ID": 107461,
           "Title": "Categoría:Concellos"
+        },
+        {
+          "ID": 65035,
+          "Title": "Categoría:Continentes"
         },
         {
           "ID": 4212,
@@ -320,6 +368,10 @@
           "Title": "Categoría:Países"
         },
         {
+          "ID": 65446,
+          "Title": "Categoría:Países de América"
+        },
+        {
           "ID": 111317,
           "Title": "Categoría:Países de América do Norte"
         },
@@ -348,6 +400,10 @@
           "Title": "Categoría:Países por continente"
         },
         {
+          "ID": 9415,
+          "Title": "Categoría:Provincias de España"
+        },
+        {
           "ID": 9404,
           "Title": "Categoría:Ríos"
         },
@@ -362,6 +418,14 @@
         {
           "ID": 3450,
           "Title": "Categoría:Xeografía"
+        },
+        {
+          "ID": 107601,
+          "Title": "Categoría:Xeografía de Europa"
+        },
+        {
+          "ID": 386278,
+          "Title": "Categoría:Xeografía por continente"
         },
         {
           "ID": 108147,
@@ -406,6 +470,10 @@
           "Title": "Categoría:Medicina"
         },
         {
+          "ID": 111194,
+          "Title": "Categoría:Parafilias"
+        },
+        {
           "ID": 107322,
           "Title": "Categoría:Saúde"
         }
@@ -426,6 +494,10 @@
         {
           "ID": 276441,
           "Title": "Categoría:Eleccións por ano"
+        },
+        {
+          "ID": 222176,
+          "Title": "Categoría:Estados desaparecidos de Europa"
         },
         {
           "ID": 168265,
@@ -508,6 +580,10 @@
           "Title": "Categoría:Animais"
         },
         {
+          "ID": 248569,
+          "Title": "Categoría:Animais domésticos"
+        },
+        {
           "ID": 11908,
           "Title": "Categoría:Ciencia"
         },
@@ -544,6 +620,10 @@
           "Title": "Categoría:Física"
         },
         {
+          "ID": 48011,
+          "Title": "Categoría:Obxectos astronómicos"
+        },
+        {
           "ID": 57490,
           "Title": "Categoría:Plantas"
         },
@@ -554,6 +634,10 @@
         {
           "ID": 9104,
           "Title": "Categoría:Química"
+        },
+        {
+          "ID": 297251,
+          "Title": "Categoría:Razas de animais"
         },
         {
           "ID": 11857,
@@ -590,6 +674,14 @@
           "Title": "Categoría:Apelidos"
         },
         {
+          "ID": 129979,
+          "Title": "Categoría:Cabaleiros da Orde da Xarreteira"
+        },
+        {
+          "ID": 280873,
+          "Title": "Categoría:Europarlamentarios por país"
+        },
+        {
           "ID": 7273,
           "Title": "Categoría:Exploradores"
         },
@@ -598,8 +690,16 @@
           "Title": "Categoría:Finados"
         },
         {
+          "ID": 278096,
+          "Title": "Categoría:Futbolistas de Francia"
+        },
+        {
           "ID": 279543,
           "Title": "Categoría:Futbolistas de Italia"
+        },
+        {
+          "ID": 277706,
+          "Title": "Categoría:Futbolistas por país"
         },
         {
           "ID": 60160,
@@ -670,6 +770,10 @@
           "Title": "Categoría:Personalidades dos Estados Unidos de América"
         },
         {
+          "ID": 337927,
+          "Title": "Categoría:Personalidades dos videoxogos"
+        },
+        {
           "ID": 220308,
           "Title": "Categoría:Personalidades por ano de finamento"
         },
@@ -680,6 +784,10 @@
         {
           "ID": 321842,
           "Title": "Categoría:Personalidades por século de finamento"
+        },
+        {
+          "ID": 342285,
+          "Title": "Categoría:Personalidades por século de nacemento"
         },
         {
           "ID": 100608,
@@ -706,8 +814,16 @@
           "Title": "Categoría:Revolucionarios"
         },
         {
+          "ID": 302794,
+          "Title": "Categoría:Teólogos protestantes"
+        },
+        {
           "ID": 169897,
           "Title": "Categoría:Xefes de estado"
+        },
+        {
+          "ID": 332064,
+          "Title": "Categoría:Xornalistas de Francia"
         }
       ]
     },
@@ -737,6 +853,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 289548,
+          "Title": "Categoría:Deuses"
+        },
         {
           "ID": 320931,
           "Title": "Categoría:Non teísmo"
@@ -778,6 +898,14 @@
         {
           "ID": 39347,
           "Title": "Categoría:Feminismo"
+        },
+        {
+          "ID": 465092,
+          "Title": "Categoría:Goberno"
+        },
+        {
+          "ID": 70240,
+          "Title": "Categoría:Grupos sociais"
         },
         {
           "ID": 112549,

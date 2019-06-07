@@ -22,6 +22,14 @@
           "Title": "Kategoria:Dagiti apision"
         },
         {
+          "ID": 26796,
+          "Title": "Kategoria:Dagiti ay-ayam ti Olimpiada"
+        },
+        {
+          "ID": 26811,
+          "Title": "Kategoria:Dagiti ay-ayam ti timpuyog"
+        },
+        {
           "ID": 23094,
           "Title": "Kategoria:Dagiti ensiklopedia"
         },
@@ -208,6 +216,14 @@
           "Title": "Kategoria:Dagiti ili"
         },
         {
+          "ID": 17389,
+          "Title": "Kategoria:Dagiti kapitolio idiay Europa"
+        },
+        {
+          "ID": 17723,
+          "Title": "Kategoria:Dagiti kontinente"
+        },
+        {
           "ID": 22256,
           "Title": "Kategoria:Dagiti matagtagitao a lugar"
         },
@@ -240,6 +256,10 @@
           "Title": "Kategoria:Dagiti pagilian ti Abagatan nga Amerika"
         },
         {
+          "ID": 24003,
+          "Title": "Kategoria:Dagiti pagilian ti Amerika"
+        },
+        {
           "ID": 20022,
           "Title": "Kategoria:Dagiti pagilian ti Amianan nga Amerika"
         },
@@ -252,6 +272,10 @@
           "Title": "Kategoria:Dagiti siudad idiay Estados Unidos"
         },
         {
+          "ID": 23873,
+          "Title": "Kategoria:Dagiti siudad idiay Europa"
+        },
+        {
           "ID": 27291,
           "Title": "Kategoria:Dagiti teritorio"
         },
@@ -262,6 +286,14 @@
         {
           "ID": 12862,
           "Title": "Kategoria:Heograpia"
+        },
+        {
+          "ID": 20494,
+          "Title": "Kategoria:Heograpia babaen ti kontinente"
+        },
+        {
+          "ID": 20493,
+          "Title": "Kategoria:Heograpia ti Europa"
         },
         {
           "ID": 25723,
@@ -327,6 +359,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 30381,
+          "Title": "Kategoria:Dagiti dati a pagilian idiay Europa"
+        },
         {
           "ID": 24083,
           "Title": "Kategoria:Dagiti gubat"
@@ -424,6 +460,10 @@
           "Title": "Kategoria:Daga (planeta)"
         },
         {
+          "ID": 20150,
+          "Title": "Kategoria:Dagiti astronomiko a banag"
+        },
+        {
           "ID": 22364,
           "Title": "Kategoria:Dagiti didigra"
         },
@@ -442,6 +482,10 @@
         {
           "ID": 16242,
           "Title": "Kategoria:Dagiti masna a siensia"
+        },
+        {
+          "ID": 21945,
+          "Title": "Kategoria:Dagiti napaamo nga ayup"
         },
         {
           "ID": 21897,
@@ -530,6 +574,10 @@
           "Title": "Kategoria:Dagiti matematiko"
         },
         {
+          "ID": 30491,
+          "Title": "Kategoria:Dagiti nagpundar kadagiti relihion"
+        },
+        {
           "ID": 20529,
           "Title": "Kategoria:Dagiti pannakaipasngay babaen ti tawen"
         },
@@ -578,6 +626,10 @@
           "Title": "Kategoria:Sibibiag a tattao"
         },
         {
+          "ID": 24128,
+          "Title": "Kategoria:Taga-ugma a tattao"
+        },
+        {
           "ID": 141,
           "Title": "Kategoria:Tattao"
         },
@@ -596,6 +648,10 @@
         {
           "ID": 27677,
           "Title": "Kategoria:Tattao babaen ti trabaho ken paset ti panawen"
+        },
+        {
+          "ID": 27676,
+          "Title": "Kategoria:Tattao babaen ti trabaho ken siglo"
         },
         {
           "ID": 39835,
@@ -738,6 +794,10 @@
         {
           "ID": 18103,
           "Title": "Kategoria:Dagiti siensia sosial"
+        },
+        {
+          "ID": 19432,
+          "Title": "Kategoria:Dagiti sosial a grupo"
         },
         {
           "ID": 35011,

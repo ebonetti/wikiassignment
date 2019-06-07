@@ -66,6 +66,10 @@
           "Title": "Category:电视"
         },
         {
+          "ID": 25722,
+          "Title": "Category:电视剧"
+        },
+        {
           "ID": 25791,
           "Title": "Category:艺术"
         },
@@ -108,6 +112,10 @@
           "Title": "Category:南美洲国家"
         },
         {
+          "ID": 31201,
+          "Title": "Category:各大洲地理"
+        },
+        {
           "ID": 2701,
           "Title": "Category:国家"
         },
@@ -132,12 +140,28 @@
           "Title": "Category:大洋洲国家"
         },
         {
+          "ID": 18249,
+          "Title": "Category:大洲"
+        },
+        {
           "ID": 34033,
           "Title": "Category:宫殿"
         },
         {
           "ID": 7202,
           "Title": "Category:欧洲国家"
+        },
+        {
+          "ID": 31202,
+          "Title": "Category:欧洲地理"
+        },
+        {
+          "ID": 20073,
+          "Title": "Category:欧洲城市"
+        },
+        {
+          "ID": 43648,
+          "Title": "Category:欧洲首都"
         },
         {
           "ID": 2863,
@@ -154,6 +178,10 @@
         {
           "ID": 20647,
           "Title": "Category:美国州"
+        },
+        {
+          "ID": 3303,
+          "Title": "Category:美洲国家"
         },
         {
           "ID": 18357,

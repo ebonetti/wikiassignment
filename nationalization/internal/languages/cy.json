@@ -42,12 +42,24 @@
           "Title": "Categori:Bywyd personol"
         },
         {
+          "ID": 228769,
+          "Title": "Categori:Celf fodern"
+        },
+        {
+          "ID": 92278,
+          "Title": "Categori:Celf gyfoes"
+        },
+        {
           "ID": 11698,
           "Title": "Categori:Cerddoriaeth"
         },
         {
           "ID": 6297,
           "Title": "Categori:Chwaraeon"
+        },
+        {
+          "ID": 118585,
+          "Title": "Categori:Chwaraeon tîm"
         },
         {
           "ID": 70568,
@@ -206,8 +218,24 @@
           "Title": "Categori:Papurau newydd"
         },
         {
+          "ID": 132801,
+          "Title": "Categori:Rhaglenni teledu Brasilaidd"
+        },
+        {
+          "ID": 68675,
+          "Title": "Categori:Rhaglenni teledu HBO"
+        },
+        {
+          "ID": 158139,
+          "Title": "Categori:Rhaglenni teledu Portiwgaleg"
+        },
+        {
           "ID": 29591,
           "Title": "Categori:Rhaglenni teledu yn ôl iaith"
+        },
+        {
+          "ID": 26454,
+          "Title": "Categori:Rhaglenni teledu yn ôl rhwydwaith"
         },
         {
           "ID": 33099,
@@ -232,6 +260,14 @@
         {
           "ID": 11967,
           "Title": "Categori:Teledu"
+        },
+        {
+          "ID": 21317,
+          "Title": "Categori:Timau pêl-droed Brasil"
+        },
+        {
+          "ID": 119137,
+          "Title": "Categori:Timau pêl-droed yn ôl gwlad"
         },
         {
           "ID": 38883,
@@ -288,12 +324,32 @@
           "Title": "Categori:Cofebion"
         },
         {
+          "ID": 11764,
+          "Title": "Categori:Cyfandiroedd"
+        },
+        {
+          "ID": 13116,
+          "Title": "Categori:Cymunedau ymreolaethol Sbaen"
+        },
+        {
           "ID": 8339,
           "Title": "Categori:Daearyddiaeth"
         },
         {
+          "ID": 16414,
+          "Title": "Categori:Daearyddiaeth Ewrop"
+        },
+        {
+          "ID": 226852,
+          "Title": "Categori:Daearyddiaeth yn ôl cyfandir"
+        },
+        {
           "ID": 11058,
           "Title": "Categori:Dinasoedd"
+        },
+        {
+          "ID": 11059,
+          "Title": "Categori:Dinasoedd Ewrop"
         },
         {
           "ID": 11399,
@@ -340,12 +396,20 @@
           "Title": "Categori:Palasau"
         },
         {
+          "ID": 28909,
+          "Title": "Categori:Prifddinasoedd Ewrop"
+        },
+        {
           "ID": 14249,
           "Title": "Categori:Rhestrau daearyddiaeth"
         },
         {
           "ID": 59753,
           "Title": "Categori:Strydoedd"
+        },
+        {
+          "ID": 39720,
+          "Title": "Categori:Taleithiau Sbaen"
         },
         {
           "ID": 21626,
@@ -378,6 +442,10 @@
           "Title": "Categori:Anhwylderau genetig"
         },
         {
+          "ID": 32846,
+          "Title": "Categori:Anhwylderau hunaniaeth rywiol a rhyweddol"
+        },
+        {
           "ID": 29418,
           "Title": "Categori:Arbenigeddau meddygol"
         },
@@ -408,6 +476,10 @@
         {
           "ID": 86177,
           "Title": "Categori:Nyrsio"
+        },
+        {
+          "ID": 32845,
+          "Title": "Categori:Paraffilia"
         }
       ]
     },
@@ -458,6 +530,10 @@
         {
           "ID": 12850,
           "Title": "Categori:Rhyfeloedd"
+        },
+        {
+          "ID": 34899,
+          "Title": "Categori:Trychinebau yn ôl blwyddyn"
         }
       ]
     },
@@ -474,8 +550,16 @@
           "Title": "Categori:Cysyniadau mathemategol"
         },
         {
+          "ID": 232173,
+          "Title": "Categori:Geometreg clasurol"
+        },
+        {
           "ID": 10181,
           "Title": "Categori:Mathemateg"
+        },
+        {
+          "ID": 19155,
+          "Title": "Categori:Mathemateg elfennol"
         },
         {
           "ID": 228936,
@@ -508,6 +592,14 @@
           "Title": "Categori:Anifeiliaid"
         },
         {
+          "ID": 20030,
+          "Title": "Categori:Anifeiliaid dof"
+        },
+        {
+          "ID": 127085,
+          "Title": "Categori:Bridiau o anifeiliaid"
+        },
+        {
           "ID": 25458,
           "Title": "Categori:Bywyd"
         },
@@ -534,6 +626,10 @@
         {
           "ID": 4182,
           "Title": "Categori:Ffrwythau"
+        },
+        {
+          "ID": 69723,
+          "Title": "Categori:Gwrthrychau seryddol"
         },
         {
           "ID": 10095,
@@ -630,6 +726,14 @@
           "Title": "Categori:Athronwyr"
         },
         {
+          "ID": 237820,
+          "Title": "Categori:Athronwyr yn ôl canrif"
+        },
+        {
+          "ID": 237869,
+          "Title": "Categori:Athronwyr yr 20fed ganrif"
+        },
+        {
           "ID": 72244,
           "Title": "Categori:Awyrenwyr"
         },
@@ -660,6 +764,14 @@
         {
           "ID": 30078,
           "Title": "Categori:Fforwyr"
+        },
+        {
+          "ID": 148166,
+          "Title": "Categori:Ffrancod yn ôl canrif"
+        },
+        {
+          "ID": 148160,
+          "Title": "Categori:Ffrancod yr 20fed ganrif"
         },
         {
           "ID": 14423,
@@ -698,8 +810,20 @@
           "Title": "Categori:Llenorion"
         },
         {
+          "ID": 233572,
+          "Title": "Categori:Llenorion Ffrengig yn ôl canrif"
+        },
+        {
           "ID": 49789,
           "Title": "Categori:Llenorion ffuglen"
+        },
+        {
+          "ID": 120787,
+          "Title": "Categori:Llenorion yr 20fed ganrif"
+        },
+        {
+          "ID": 43132,
+          "Title": "Categori:Llysieuwyr"
         },
         {
           "ID": 14309,
@@ -720,6 +844,10 @@
         {
           "ID": 83606,
           "Title": "Categori:Mynyddwyr yn ôl cenedligrwydd"
+        },
+        {
+          "ID": 37137,
+          "Title": "Categori:Newyddiadurwyr Ffrengig"
         },
         {
           "ID": 86176,
@@ -766,6 +894,10 @@
           "Title": "Categori:Pobl yn ôl galwedigaeth"
         },
         {
+          "ID": 233453,
+          "Title": "Categori:Pobl yn ôl galwedigaeth a chanrif"
+        },
+        {
           "ID": 225979,
           "Title": "Categori:Pobl yn ôl galwedigaeth a chyfnod"
         },
@@ -774,8 +906,20 @@
           "Title": "Categori:Pobl yn ôl ymddygiad"
         },
         {
+          "ID": 168496,
+          "Title": "Categori:Pobl yr Henfyd"
+        },
+        {
           "ID": 69814,
           "Title": "Categori:Pêl-droedwyr Eidalaidd"
+        },
+        {
+          "ID": 25873,
+          "Title": "Categori:Pêl-droedwyr Ffrengig"
+        },
+        {
+          "ID": 102288,
+          "Title": "Categori:Pêl-droedwyr yn ôl cenedligrwydd"
         },
         {
           "ID": 19563,
@@ -856,6 +1000,14 @@
         {
           "ID": 15335,
           "Title": "Categori:Diwinyddiaeth"
+        },
+        {
+          "ID": 30467,
+          "Title": "Categori:Duwiau"
+        },
+        {
+          "ID": 213366,
+          "Title": "Categori:Duwiau a duwiesau"
         }
       ]
     },
@@ -922,6 +1074,10 @@
         {
           "ID": 86483,
           "Title": "Categori:Ffeministiaeth"
+        },
+        {
+          "ID": 23444,
+          "Title": "Categori:Grwpiau cymdeithasol"
         },
         {
           "ID": 10897,

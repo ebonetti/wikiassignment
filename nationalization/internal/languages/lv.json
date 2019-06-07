@@ -18,6 +18,10 @@
           "Title": "Kategorija:Biogrāfijas"
         },
         {
+          "ID": 21435,
+          "Title": "Kategorija:Brazīlijas futbola klubi"
+        },
+        {
           "ID": 65083,
           "Title": "Kategorija:Cilvēka seksualitāte"
         },
@@ -44,6 +48,10 @@
         {
           "ID": 4781,
           "Title": "Kategorija:Folklora"
+        },
+        {
+          "ID": 101650,
+          "Title": "Kategorija:Futbola klubi pēc valsts"
         },
         {
           "ID": 12868,
@@ -78,6 +86,10 @@
           "Title": "Kategorija:Izklaide"
         },
         {
+          "ID": 16143,
+          "Title": "Kategorija:Komandu sporta veidi"
+        },
+        {
           "ID": 13494,
           "Title": "Kategorija:Krāsas"
         },
@@ -88,6 +100,10 @@
         {
           "ID": 11642,
           "Title": "Kategorija:Kultūra pēc valsts"
+        },
+        {
+          "ID": 152934,
+          "Title": "Kategorija:Laikmetīgā māksla"
         },
         {
           "ID": 85311,
@@ -134,6 +150,10 @@
           "Title": "Kategorija:Mūzikas žanri"
         },
         {
+          "ID": 106047,
+          "Title": "Kategorija:Olimpiskie sporta veidi"
+        },
+        {
           "ID": 24312,
           "Title": "Kategorija:Personiskā dzīve"
         },
@@ -176,6 +196,14 @@
         {
           "ID": 127988,
           "Title": "Kategorija:Televīzija"
+        },
+        {
+          "ID": 69574,
+          "Title": "Kategorija:Televīzijas seriāli"
+        },
+        {
+          "ID": 131181,
+          "Title": "Kategorija:Televīzijas seriāli pēc valsts"
         },
         {
           "ID": 179485,
@@ -244,12 +272,24 @@
           "Title": "Kategorija:Dienvidamerikas valstis"
         },
         {
+          "ID": 7266,
+          "Title": "Kategorija:Eiropas galvaspilsētas"
+        },
+        {
           "ID": 3943,
           "Title": "Kategorija:Eiropas valstis"
         },
         {
+          "ID": 8481,
+          "Title": "Kategorija:Eiropas ģeogrāfija"
+        },
+        {
           "ID": 33127,
           "Title": "Kategorija:Ielas"
+        },
+        {
+          "ID": 7452,
+          "Title": "Kategorija:Kontinenti"
         },
         {
           "ID": 36728,
@@ -274,6 +314,14 @@
         {
           "ID": 24530,
           "Title": "Kategorija:Pilsētplānošana"
+        },
+        {
+          "ID": 96132,
+          "Title": "Kategorija:Spānijas autonomās komūnas"
+        },
+        {
+          "ID": 96053,
+          "Title": "Kategorija:Spānijas provinces"
         },
         {
           "ID": 7306,
@@ -304,6 +352,10 @@
           "Title": "Kategorija:Ģeogrāfija"
         },
         {
+          "ID": 24535,
+          "Title": "Kategorija:Ģeogrāfija pēc kontinenta"
+        },
+        {
           "ID": 22582,
           "Title": "Kategorija:Ģeomorfoloģija"
         }
@@ -326,6 +378,10 @@
           "Title": "Kategorija:Medicīnas nozares"
         },
         {
+          "ID": 105000,
+          "Title": "Kategorija:Seksuālās novirzes"
+        },
+        {
           "ID": 15812,
           "Title": "Kategorija:Veselība"
         },
@@ -339,6 +395,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 24439,
+          "Title": "Kategorija:Bijušās valstis Eiropā"
+        },
         {
           "ID": 10520,
           "Title": "Kategorija:Kari"
@@ -382,6 +442,10 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 68613,
+          "Title": "Kategorija:Elementārā matemātika"
+        },
+        {
           "ID": 52068,
           "Title": "Kategorija:Lietišķā matemātika"
         },
@@ -412,6 +476,10 @@
           "Title": "Kategorija:Anatomija"
         },
         {
+          "ID": 7388,
+          "Title": "Kategorija:Astronomiski objekti"
+        },
+        {
           "ID": 13135,
           "Title": "Kategorija:Augi"
         },
@@ -430,6 +498,10 @@
         {
           "ID": 7297,
           "Title": "Kategorija:Dzīvnieki"
+        },
+        {
+          "ID": 96243,
+          "Title": "Kategorija:Dzīvnieku šķirnes"
         },
         {
           "ID": 55495,
@@ -454,6 +526,10 @@
         {
           "ID": 24527,
           "Title": "Kategorija:Katastrofas"
+        },
+        {
+          "ID": 7298,
+          "Title": "Kategorija:Mājdzīvnieki"
         },
         {
           "ID": 44966,
@@ -500,6 +576,14 @@
         {
           "ID": 31753,
           "Title": "Kategorija:19. gadsimtā dzimušie"
+        },
+        {
+          "ID": 61202,
+          "Title": "Kategorija:20. gadsimta filozofi"
+        },
+        {
+          "ID": 98053,
+          "Title": "Kategorija:20. gadsimta rakstnieki"
         },
         {
           "ID": 21690,
@@ -562,6 +646,22 @@
           "Title": "Kategorija:Filozofi"
         },
         {
+          "ID": 98082,
+          "Title": "Kategorija:Filozofi pēc gadsimta"
+        },
+        {
+          "ID": 15601,
+          "Title": "Kategorija:Francijas futbolisti"
+        },
+        {
+          "ID": 267147,
+          "Title": "Kategorija:Francijas žurnālisti"
+        },
+        {
+          "ID": 15587,
+          "Title": "Kategorija:Futbolisti pēc valsts"
+        },
+        {
           "ID": 21057,
           "Title": "Kategorija:Itālijas futbolisti"
         },
@@ -614,6 +714,10 @@
           "Title": "Kategorija:Prezidenti pēc valsts"
         },
         {
+          "ID": 98014,
+          "Title": "Kategorija:Protestantu teologi"
+        },
+        {
           "ID": 88083,
           "Title": "Kategorija:Pētnieki"
         },
@@ -644,6 +748,10 @@
         {
           "ID": 30989,
           "Title": "Kategorija:Valsts vadītāji"
+        },
+        {
+          "ID": 24978,
+          "Title": "Kategorija:Veģetārieši"
         },
         {
           "ID": 285347,
@@ -718,6 +826,14 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 11263,
+          "Title": "Kategorija:Dievi"
+        },
+        {
+          "ID": 53838,
+          "Title": "Kategorija:Dievi pēc atbildības"
+        },
+        {
           "ID": 6900,
           "Title": "Kategorija:Reliģija"
         },
@@ -790,6 +906,10 @@
         {
           "ID": 7359,
           "Title": "Kategorija:Sabiedrība"
+        },
+        {
+          "ID": 110298,
+          "Title": "Kategorija:Sociālās grupas"
         },
         {
           "ID": 23923,

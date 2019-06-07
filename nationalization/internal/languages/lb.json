@@ -14,6 +14,10 @@
           "Title": "Kategorie:Bicher"
         },
         {
+          "ID": 96500,
+          "Title": "Kategorie:Brasilianesch Foussballclibb"
+        },
+        {
           "ID": 15024,
           "Title": "Kategorie:Brietspiller"
         },
@@ -102,6 +106,10 @@
           "Title": "Kategorie:Literatur"
         },
         {
+          "ID": 25337,
+          "Title": "Kategorie:Modern Konscht"
+        },
+        {
           "ID": 267,
           "Title": "Kategorie:Musek"
         },
@@ -150,6 +158,14 @@
           "Title": "Kategorie:Televisioun"
         },
         {
+          "ID": 10705,
+          "Title": "Kategorie:Televisiounsserien"
+        },
+        {
+          "ID": 144394,
+          "Title": "Kategorie:Televisiounsserien no Länner"
+        },
+        {
           "ID": 31381,
           "Title": "Kategorie:Tierm"
         },
@@ -180,6 +196,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 15064,
+          "Title": "Kategorie:Autonom Gemeinschafte vu Spuenien"
+        },
+        {
           "ID": 8087,
           "Title": "Kategorie:Flëss"
         },
@@ -192,8 +212,24 @@
           "Title": "Kategorie:Geographie"
         },
         {
+          "ID": 101123,
+          "Title": "Kategorie:Geographie no Kontinent"
+        },
+        {
+          "ID": 53347,
+          "Title": "Kategorie:Geographie vun Europa"
+        },
+        {
           "ID": 8095,
           "Title": "Kategorie:Geomorphologie"
+        },
+        {
+          "ID": 31860,
+          "Title": "Kategorie:Haaptstied an Europa"
+        },
+        {
+          "ID": 8091,
+          "Title": "Kategorie:Kontinenter"
         },
         {
           "ID": 30477,
@@ -240,8 +276,16 @@
           "Title": "Kategorie:Monumenter"
         },
         {
+          "ID": 53046,
+          "Title": "Kategorie:Provënzen a Spuenien"
+        },
+        {
           "ID": 31282,
           "Title": "Kategorie:Stied"
+        },
+        {
+          "ID": 31862,
+          "Title": "Kategorie:Stied an Europa"
         },
         {
           "ID": 124790,
@@ -299,6 +343,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 30472,
+          "Title": "Kategorie:Fréier Länner an Europa"
+        },
         {
           "ID": 21,
           "Title": "Kategorie:Geschicht"
@@ -372,6 +420,14 @@
           "Title": "Kategorie:Ekologie"
         },
         {
+          "ID": 7283,
+          "Title": "Kategorie:Hausdéieren"
+        },
+        {
+          "ID": 19300,
+          "Title": "Kategorie:Himmelskierper"
+        },
+        {
           "ID": 65792,
           "Title": "Kategorie:Katastrophen"
         },
@@ -434,6 +490,10 @@
           "Title": "Kategorie:Auteuren"
         },
         {
+          "ID": 100970,
+          "Title": "Kategorie:Commandeur de la Légion d'honneur"
+        },
+        {
           "ID": 8579,
           "Title": "Kategorie:Dokteren"
         },
@@ -458,6 +518,22 @@
           "Title": "Kategorie:Filmschauspiller a -schauspillerinnen"
         },
         {
+          "ID": 136139,
+          "Title": "Kategorie:Foussballspiller no Länner"
+        },
+        {
+          "ID": 28011,
+          "Title": "Kategorie:Franséisch Foussballspiller"
+        },
+        {
+          "ID": 30123,
+          "Title": "Kategorie:Franséisch Journalisten"
+        },
+        {
+          "ID": 36862,
+          "Title": "Kategorie:Franséisch Schauspiller"
+        },
+        {
           "ID": 69280,
           "Title": "Kategorie:Gebuer"
         },
@@ -472,6 +548,10 @@
         {
           "ID": 104387,
           "Title": "Kategorie:Gebuer (20. Joerhonnert)"
+        },
+        {
+          "ID": 135435,
+          "Title": "Kategorie:Gebuer no Joerhonnert"
         },
         {
           "ID": 69325,
@@ -500,6 +580,14 @@
         {
           "ID": 27075,
           "Title": "Kategorie:Museker"
+        },
+        {
+          "ID": 100962,
+          "Title": "Kategorie:Officier de la Légion d'honneur"
+        },
+        {
+          "ID": 70399,
+          "Title": "Kategorie:Offizéier vun der Friemelegioun"
         },
         {
           "ID": 99775,
@@ -538,12 +626,24 @@
           "Title": "Kategorie:Presidenten no Länner"
         },
         {
+          "ID": 49253,
+          "Title": "Kategorie:Protestantesch Theologen"
+        },
+        {
+          "ID": 124596,
+          "Title": "Kategorie:Reliounsgrënner"
+        },
+        {
           "ID": 28,
           "Title": "Kategorie:Schauspiller"
         },
         {
           "ID": 143571,
           "Title": "Kategorie:Schauspiller a Schauspillerinnen"
+        },
+        {
+          "ID": 100126,
+          "Title": "Kategorie:Schauspiller no Länner"
         },
         {
           "ID": 41707,
@@ -593,6 +693,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 35999,
+          "Title": "Kategorie:Olympesch Gëtter"
+        },
         {
           "ID": 41756,
           "Title": "Kategorie:Reliounen"

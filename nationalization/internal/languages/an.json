@@ -70,8 +70,20 @@
           "Title": "Categoría:Entretenedera"
         },
         {
+          "ID": 98364,
+          "Title": "Categoría:Equipes d'a primera división espanyola de fútbol"
+        },
+        {
           "ID": 79490,
           "Title": "Categoría:Equipes de fútbol d'Italia"
+        },
+        {
+          "ID": 13822,
+          "Title": "Categoría:Equipes de fútbol de Brasil"
+        },
+        {
+          "ID": 44637,
+          "Title": "Categoría:Equipes de fútbol por país"
         },
         {
           "ID": 8671,
@@ -90,12 +102,24 @@
           "Title": "Categoría:Esportes"
         },
         {
+          "ID": 73294,
+          "Title": "Categoría:Esportes d'equipe"
+        },
+        {
+          "ID": 22839,
+          "Title": "Categoría:Esportes olimpicos"
+        },
+        {
           "ID": 61888,
           "Title": "Categoría:Festivals"
         },
         {
           "ID": 61955,
           "Title": "Categoría:Folklore"
+        },
+        {
+          "ID": 61966,
+          "Title": "Categoría:Formas d'arte"
         },
         {
           "ID": 8147,
@@ -150,6 +174,14 @@
           "Title": "Categoría:Revistas"
         },
         {
+          "ID": 108732,
+          "Title": "Categoría:Series de televisión"
+        },
+        {
+          "ID": 101013,
+          "Title": "Categoría:Series de televisión por país"
+        },
+        {
           "ID": 61556,
           "Title": "Categoría:Sexualidat"
         },
@@ -172,6 +204,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 9758,
+          "Title": "Categoría:Capitals d'Europa"
+        },
+        {
           "ID": 39679,
           "Title": "Categoría:Carreras"
         },
@@ -184,8 +220,20 @@
           "Title": "Categoría:Cheografía"
         },
         {
+          "ID": 7909,
+          "Title": "Categoría:Cheografía d'Europa"
+        },
+        {
           "ID": 22989,
           "Title": "Categoría:Cheomorfolochía"
+        },
+        {
+          "ID": 62928,
+          "Title": "Categoría:Comunidatz autonomas d'Espanya"
+        },
+        {
+          "ID": 15099,
+          "Title": "Categoría:Continent"
         },
         {
           "ID": 20536,
@@ -234,6 +282,10 @@
         {
           "ID": 102473,
           "Title": "Categoría:Palacios"
+        },
+        {
+          "ID": 61361,
+          "Title": "Categoría:Provincias d'Espanya"
         },
         {
           "ID": 7948,
@@ -338,6 +390,10 @@
         {
           "ID": 107,
           "Title": "Categoría:Animals"
+        },
+        {
+          "ID": 45784,
+          "Title": "Categoría:Animals domesticatos"
         },
         {
           "ID": 62896,
@@ -458,8 +514,24 @@
           "Title": "Categoría:Filosofos"
         },
         {
+          "ID": 14979,
+          "Title": "Categoría:Filosofos d'o sieglo XX"
+        },
+        {
+          "ID": 75863,
+          "Title": "Categoría:Filosofos por sieglo"
+        },
+        {
           "ID": 82936,
           "Title": "Categoría:Futbolistas d'Italia"
+        },
+        {
+          "ID": 62174,
+          "Title": "Categoría:Futbolistas de Francia"
+        },
+        {
+          "ID": 62186,
+          "Title": "Categoría:Futbolistas por nacionalidat"
         },
         {
           "ID": 61822,
@@ -498,12 +570,20 @@
           "Title": "Categoría:Naixencias por anyo"
         },
         {
+          "ID": 116656,
+          "Title": "Categoría:Naixencias por sieglo"
+        },
+        {
           "ID": 115658,
           "Title": "Categoría:Naixitos"
         },
         {
           "ID": 104474,
           "Title": "Categoría:Naixitos d'Atenas"
+        },
+        {
+          "ID": 61199,
+          "Title": "Categoría:Periodistas de Francia"
         },
         {
           "ID": 106788,
@@ -536,6 +616,10 @@
         {
           "ID": 116648,
           "Title": "Categoría:Sieglo XX (naixencias)"
+        },
+        {
+          "ID": 62754,
+          "Title": "Categoría:Vechetarians"
         }
       ]
     },
@@ -581,6 +665,14 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 31983,
+          "Title": "Categoría:Dioses"
+        },
+        {
+          "ID": 96015,
+          "Title": "Categoría:Dioses olimpicos"
+        },
         {
           "ID": 6367,
           "Title": "Categoría:Relichión"

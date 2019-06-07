@@ -74,6 +74,10 @@
           "Title": "Categorie:Muziekgroep"
         },
         {
+          "ID": 5456,
+          "Title": "Categorie:Olympische sport"
+        },
+        {
           "ID": 6885,
           "Title": "Categorie:Onderwys"
         },
@@ -102,12 +106,20 @@
           "Title": "Categorie:TV"
         },
         {
+          "ID": 5755,
+          "Title": "Categorie:TV-serie"
+        },
+        {
           "ID": 2222,
           "Title": "Categorie:Torre"
         },
         {
           "ID": 6243,
           "Title": "Categorie:Voedienge"
+        },
+        {
+          "ID": 16940,
+          "Title": "Categorie:Voetbolclub noa land"
         },
         {
           "ID": 6882,
@@ -128,6 +140,10 @@
           "Title": "Categorie:Boane"
         },
         {
+          "ID": 3597,
+          "Title": "Categorie:Continent"
+        },
+        {
           "ID": 3968,
           "Title": "Categorie:Gemêente"
         },
@@ -136,8 +152,20 @@
           "Title": "Categorie:Geografie"
         },
         {
+          "ID": 17819,
+          "Title": "Categorie:Geografie noa continent"
+        },
+        {
+          "ID": 13353,
+          "Title": "Categorie:Geografie van Europa"
+        },
+        {
           "ID": 21722,
           "Title": "Categorie:Geomorfologie"
+        },
+        {
+          "ID": 17817,
+          "Title": "Categorie:Hoofdstad in Europa"
         },
         {
           "ID": 2141,
@@ -186,6 +214,14 @@
         {
           "ID": 15976,
           "Title": "Categorie:Plekke noa land"
+        },
+        {
+          "ID": 15787,
+          "Title": "Categorie:Provinsje van Spanje"
+        },
+        {
+          "ID": 6186,
+          "Title": "Categorie:Regio in Spanje"
         },
         {
           "ID": 7873,
@@ -246,6 +282,10 @@
         {
           "ID": 3467,
           "Title": "Categorie:Geschiedenisse"
+        },
+        {
+          "ID": 10759,
+          "Title": "Categorie:Istorisch land in Europa"
         },
         {
           "ID": 10874,
@@ -316,6 +356,10 @@
           "Title": "Categorie:Fysica"
         },
         {
+          "ID": 14835,
+          "Title": "Categorie:Hemellichoam"
+        },
+        {
           "ID": 14342,
           "Title": "Categorie:Nateurweetnschap"
         },
@@ -366,6 +410,10 @@
           "Title": "Categorie:Filosoof"
         },
         {
+          "ID": 13985,
+          "Title": "Categorie:Fransche voetboller"
+        },
+        {
           "ID": 14968,
           "Title": "Categorie:Iengelsche mens"
         },
@@ -408,6 +456,10 @@
         {
           "ID": 17654,
           "Title": "Categorie:Uutviender"
+        },
+        {
+          "ID": 6213,
+          "Title": "Categorie:Voetboller noa nationaliteit"
         },
         {
           "ID": 17612,

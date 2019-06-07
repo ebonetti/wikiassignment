@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 110377,
+          "Title": "Kategori:Acara Olimpik"
+        },
+        {
           "ID": 26018,
           "Title": "Kategori:Akhbar"
         },
@@ -102,8 +106,16 @@
           "Title": "Kategori:Kehidupan peribadi"
         },
         {
+          "ID": 683902,
+          "Title": "Kategori:Kelab La Liga"
+        },
+        {
           "ID": 111306,
           "Title": "Kategori:Kelab bola sepak Itali"
+        },
+        {
+          "ID": 768582,
+          "Title": "Kategori:Kelab bola sepak mengikut negara"
         },
         {
           "ID": 85369,
@@ -182,6 +194,10 @@
           "Title": "Kategori:Permainan video"
         },
         {
+          "ID": 836524,
+          "Title": "Kategori:Rancangan televisyen HBO"
+        },
+        {
           "ID": 82291,
           "Title": "Kategori:Rekreasi"
         },
@@ -206,8 +222,24 @@
           "Title": "Kategori:Seni"
         },
         {
+          "ID": 385335,
+          "Title": "Kategori:Seni kontemporari"
+        },
+        {
           "ID": 163445,
           "Title": "Kategori:Seni mempertahankan diri"
+        },
+        {
+          "ID": 82133,
+          "Title": "Kategori:Seni moden"
+        },
+        {
+          "ID": 109676,
+          "Title": "Kategori:Siri televisyen"
+        },
+        {
+          "ID": 130601,
+          "Title": "Kategori:Siri televisyen mengikut negara"
         },
         {
           "ID": 349258,
@@ -216,6 +248,10 @@
         {
           "ID": 7428,
           "Title": "Kategori:Sukan"
+        },
+        {
+          "ID": 62942,
+          "Title": "Kategori:Sukan berpasukan"
         },
         {
           "ID": 162896,
@@ -264,12 +300,28 @@
           "Title": "Kategori:Bandar raya di Amerika Syarikat"
         },
         {
+          "ID": 7616,
+          "Title": "Kategori:Benua"
+        },
+        {
           "ID": 8046,
           "Title": "Kategori:Geografi"
         },
         {
+          "ID": 153826,
+          "Title": "Kategori:Geografi Eropah"
+        },
+        {
+          "ID": 84921,
+          "Title": "Kategori:Geografi mengikut benua"
+        },
+        {
           "ID": 82067,
           "Title": "Kategori:Geomorfologi"
+        },
+        {
+          "ID": 168982,
+          "Title": "Kategori:Ibu kota di Eropah"
         },
         {
           "ID": 144419,
@@ -280,8 +332,16 @@
           "Title": "Kategori:Kajian dan perancangan bandar"
         },
         {
+          "ID": 196235,
+          "Title": "Kategori:Komuniti berautonomi di Sepanyol"
+        },
+        {
           "ID": 28733,
           "Title": "Kategori:Negara"
+        },
+        {
+          "ID": 660335,
+          "Title": "Kategori:Negara Amerika"
         },
         {
           "ID": 103621,
@@ -350,6 +410,10 @@
         {
           "ID": 85300,
           "Title": "Kategori:Wilayah"
+        },
+        {
+          "ID": 766858,
+          "Title": "Kategori:Wilayah di Sepanyol"
         }
       ]
     },
@@ -395,6 +459,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 78203,
+          "Title": "Kategori:Bekas negara di Eropah"
+        },
         {
           "ID": 46480,
           "Title": "Kategori:Orang purba"
@@ -450,12 +518,20 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 537010,
+          "Title": "Kategori:Geometri klasik"
+        },
+        {
           "ID": 82261,
           "Title": "Kategori:Logik"
         },
         {
           "ID": 6856,
           "Title": "Kategori:Matematik"
+        },
+        {
+          "ID": 62380,
+          "Title": "Kategori:Matematik asas"
         },
         {
           "ID": 76484,
@@ -496,6 +572,10 @@
           "Title": "Kategori:Bahan kimia"
         },
         {
+          "ID": 655835,
+          "Title": "Kategori:Baka"
+        },
+        {
           "ID": 72839,
           "Title": "Kategori:Bencana"
         },
@@ -528,6 +608,14 @@
           "Title": "Kategori:Haiwan"
         },
         {
+          "ID": 707093,
+          "Title": "Kategori:Haiwan dengan genom berjujuk"
+        },
+        {
+          "ID": 455603,
+          "Title": "Kategori:Haiwan dibelajinakkan"
+        },
+        {
           "ID": 76485,
           "Title": "Kategori:Hayat"
         },
@@ -538,6 +626,14 @@
         {
           "ID": 11182,
           "Title": "Kategori:Kimia"
+        },
+        {
+          "ID": 707091,
+          "Title": "Kategori:Mamalia dengan genom berjujuk"
+        },
+        {
+          "ID": 95698,
+          "Title": "Kategori:Objek astronomi"
         },
         {
           "ID": 84877,
@@ -674,6 +770,10 @@
           "Title": "Kategori:Orang mengikut pekerjaan"
         },
         {
+          "ID": 168004,
+          "Title": "Kategori:Orang mengikut pekerjaan dan abad"
+        },
+        {
           "ID": 165609,
           "Title": "Kategori:Orang mengikut pekerjaan dan zaman"
         },
@@ -690,12 +790,32 @@
           "Title": "Kategori:Pelakon filem"
         },
         {
+          "ID": 880831,
+          "Title": "Kategori:Pelakon lelaki Perancis"
+        },
+        {
+          "ID": 828202,
+          "Title": "Kategori:Pelakon lelaki mengikut kerakyatan"
+        },
+        {
           "ID": 112541,
           "Title": "Kategori:Pemain bola sepak Itali"
         },
         {
+          "ID": 105637,
+          "Title": "Kategori:Pemain bola sepak Perancis"
+        },
+        {
+          "ID": 760098,
+          "Title": "Kategori:Pemain bola sepak mengikut kewarganegaraan"
+        },
+        {
           "ID": 306756,
           "Title": "Kategori:Pencipta"
+        },
+        {
+          "ID": 163547,
+          "Title": "Kategori:Pengasas agama"
         },
         {
           "ID": 30105,
@@ -720,6 +840,10 @@
         {
           "ID": 23576,
           "Title": "Kategori:Seniman"
+        },
+        {
+          "ID": 233068,
+          "Title": "Kategori:Vegetarian"
         },
         {
           "ID": 167740,
@@ -810,6 +934,14 @@
           "Title": "Kategori:Agama India"
         },
         {
+          "ID": 163058,
+          "Title": "Kategori:Dewa"
+        },
+        {
+          "ID": 165653,
+          "Title": "Kategori:Dua Belas Dewa Olympus"
+        },
+        {
           "ID": 5443,
           "Title": "Kategori:Kepercayaan"
         },
@@ -854,6 +986,10 @@
         {
           "ID": 81825,
           "Title": "Kategori:Institusi kerajaan"
+        },
+        {
+          "ID": 82052,
+          "Title": "Kategori:Kelompok sosial"
         },
         {
           "ID": 10850,

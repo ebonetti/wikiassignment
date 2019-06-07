@@ -14,6 +14,10 @@
           "Title": "Kategória:Bojové umenia"
         },
         {
+          "ID": 226895,
+          "Title": "Kategória:Brazílske futbalové kluby"
+        },
+        {
           "ID": 66913,
           "Title": "Kategória:Denníky"
         },
@@ -28,6 +32,10 @@
         {
           "ID": 4964,
           "Title": "Kategória:Encyklopédie"
+        },
+        {
+          "ID": 505747,
+          "Title": "Kategória:Fantasy televízne seriály"
         },
         {
           "ID": 58155,
@@ -60,6 +68,14 @@
         {
           "ID": 31213,
           "Title": "Kategória:Folklór"
+        },
+        {
+          "ID": 308984,
+          "Title": "Kategória:Futbalové kluby podľa roku založenia"
+        },
+        {
+          "ID": 44064,
+          "Title": "Kategória:Futbalové kluby podľa štátu"
         },
         {
           "ID": 244346,
@@ -110,12 +126,20 @@
           "Title": "Kategória:Každodenný život"
         },
         {
+          "ID": 487293,
+          "Title": "Kategória:Kluby La Liga"
+        },
+        {
           "ID": 11018,
           "Title": "Kategória:Knihy"
         },
         {
           "ID": 63649,
           "Title": "Kategória:Knihy podľa autora"
+        },
+        {
+          "ID": 30987,
+          "Title": "Kategória:Kolektívne športy"
         },
         {
           "ID": 7615,
@@ -150,6 +174,10 @@
           "Title": "Kategória:Literárne diela podľa autora"
         },
         {
+          "ID": 60997,
+          "Title": "Kategória:Moderné umenie"
+        },
+        {
           "ID": 121356,
           "Title": "Kategória:Mágia"
         },
@@ -160,6 +188,10 @@
         {
           "ID": 14412,
           "Title": "Kategória:Obrazy"
+        },
+        {
+          "ID": 127069,
+          "Title": "Kategória:Olympijské športy"
         },
         {
           "ID": 264957,
@@ -210,6 +242,14 @@
           "Title": "Kategória:Sexuálne praktiky"
         },
         {
+          "ID": 619880,
+          "Title": "Kategória:Svetové športové rebríčky"
+        },
+        {
+          "ID": 109378,
+          "Title": "Kategória:Súčasné umenie"
+        },
+        {
           "ID": 9089,
           "Title": "Kategória:Súťaže"
         },
@@ -224,6 +264,18 @@
         {
           "ID": 4945,
           "Title": "Kategória:Televízia"
+        },
+        {
+          "ID": 2772,
+          "Title": "Kategória:Televízne seriály"
+        },
+        {
+          "ID": 228018,
+          "Title": "Kategória:Televízne seriály podľa televíznej stanice"
+        },
+        {
+          "ID": 88471,
+          "Title": "Kategória:Televízne seriály podľa štátu"
         },
         {
           "ID": 109663,
@@ -296,6 +348,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 366808,
+          "Title": "Kategória:Autonómne spoločenstvá v Španielsku"
+        },
+        {
           "ID": 29709,
           "Title": "Kategória:Cesty"
         },
@@ -304,12 +360,28 @@
           "Title": "Kategória:Geografia"
         },
         {
+          "ID": 52872,
+          "Title": "Kategória:Geografia Európy"
+        },
+        {
+          "ID": 113107,
+          "Title": "Kategória:Geografia podľa kontinentu"
+        },
+        {
           "ID": 180653,
           "Title": "Kategória:Geografické zoznamy"
         },
         {
           "ID": 41808,
           "Title": "Kategória:Geomorfológia"
+        },
+        {
+          "ID": 268781,
+          "Title": "Kategória:Hlavné mestá v Európe"
+        },
+        {
+          "ID": 29286,
+          "Title": "Kategória:Kontinenty"
         },
         {
           "ID": 465412,
@@ -338,6 +410,10 @@
         {
           "ID": 337821,
           "Title": "Kategória:Pramene"
+        },
+        {
+          "ID": 366562,
+          "Title": "Kategória:Provincie v Španielsku"
         },
         {
           "ID": 3042,
@@ -468,6 +544,10 @@
           "Title": "Kategória:História"
         },
         {
+          "ID": 284912,
+          "Title": "Kategória:Katastrofy podľa roka"
+        },
+        {
           "ID": 377971,
           "Title": "Kategória:Politická represia"
         },
@@ -498,6 +578,10 @@
         {
           "ID": 323664,
           "Title": "Kategória:Voľby podľa rokov"
+        },
+        {
+          "ID": 341094,
+          "Title": "Kategória:Zaniknuté štáty Európy"
         }
       ]
     },
@@ -544,6 +628,10 @@
           "Title": "Kategória:Anatómia"
         },
         {
+          "ID": 11286,
+          "Title": "Kategória:Astronomické objekty"
+        },
+        {
           "ID": 7543,
           "Title": "Kategória:Chemické látky"
         },
@@ -554,6 +642,10 @@
         {
           "ID": 5335,
           "Title": "Kategória:Chémia"
+        },
+        {
+          "ID": 8161,
+          "Title": "Kategória:Domáce zvieratá"
         },
         {
           "ID": 12803,
@@ -574,6 +666,10 @@
         {
           "ID": 7021,
           "Title": "Kategória:Ovocie"
+        },
+        {
+          "ID": 122429,
+          "Title": "Kategória:Plemená"
         },
         {
           "ID": 47516,
@@ -642,8 +738,32 @@
           "Title": "Kategória:Filozofi"
         },
         {
+          "ID": 12635,
+          "Title": "Kategória:Filozofi 20. storočia"
+        },
+        {
+          "ID": 262339,
+          "Title": "Kategória:Filozofi podľa storočia"
+        },
+        {
           "ID": 564513,
           "Title": "Kategória:Filozofi podľa špecializácie"
+        },
+        {
+          "ID": 141496,
+          "Title": "Kategória:Francúzski futbalisti"
+        },
+        {
+          "ID": 558553,
+          "Title": "Kategória:Francúzski katolícki svätci"
+        },
+        {
+          "ID": 105317,
+          "Title": "Kategória:Francúzski novinári"
+        },
+        {
+          "ID": 44056,
+          "Title": "Kategória:Futbalisti podľa štátu"
         },
         {
           "ID": 282664,
@@ -660,6 +780,10 @@
         {
           "ID": 8370,
           "Title": "Kategória:Hudobníci"
+        },
+        {
+          "ID": 559381,
+          "Title": "Kategória:Katolícki svätci podľa štátu"
         },
         {
           "ID": 42989,
@@ -698,6 +822,10 @@
           "Title": "Kategória:Nositelia Nobelovej ceny podľa štátu"
         },
         {
+          "ID": 365294,
+          "Title": "Kategória:Nositelia Podväzkového radu"
+        },
+        {
           "ID": 5807,
           "Title": "Kategória:Objavitelia"
         },
@@ -718,6 +846,10 @@
           "Title": "Kategória:Politológovia"
         },
         {
+          "ID": 112772,
+          "Title": "Kategória:Poslanci EP podľa štátu"
+        },
+        {
           "ID": 129121,
           "Title": "Kategória:Prezidenti"
         },
@@ -728,6 +860,10 @@
         {
           "ID": 65792,
           "Title": "Kategória:Priezviská"
+        },
+        {
+          "ID": 23240,
+          "Title": "Kategória:Protestantskí teológovia"
         },
         {
           "ID": 46745,
@@ -742,6 +878,10 @@
           "Title": "Kategória:Spisovatelia"
         },
         {
+          "ID": 188876,
+          "Title": "Kategória:Staroveké osobnosti"
+        },
+        {
           "ID": 145193,
           "Title": "Kategória:Talianski futbalisti"
         },
@@ -750,8 +890,16 @@
           "Title": "Kategória:Umelci"
         },
         {
+          "ID": 264421,
+          "Title": "Kategória:Vegetariáni"
+        },
+        {
           "ID": 7884,
           "Title": "Kategória:Vynálezcovia"
+        },
+        {
+          "ID": 630151,
+          "Title": "Kategória:Zakladatelia náboženstiev"
         },
         {
           "ID": 574487,
@@ -849,6 +997,14 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 19357,
+          "Title": "Kategória:Božstvá"
+        },
+        {
+          "ID": 111742,
+          "Title": "Kategória:Božstvá podľa asociácie"
+        },
         {
           "ID": 106818,
           "Title": "Kategória:Indické náboženstvá"
@@ -950,6 +1106,10 @@
         {
           "ID": 4955,
           "Title": "Kategória:Psychológia"
+        },
+        {
+          "ID": 30361,
+          "Title": "Kategória:Spoločenské skupiny"
         },
         {
           "ID": 7885,

@@ -116,6 +116,22 @@
           "Title": "Kategoriija:Eatnandiehtu"
         },
         {
+          "ID": 1730,
+          "Title": "Kategoriija:Eatnanoasit"
+        },
+        {
+          "ID": 6224,
+          "Title": "Kategoriija:Eurohpá eatnandiehtu"
+        },
+        {
+          "ID": 6240,
+          "Title": "Kategoriija:Eurohpá gávpogat"
+        },
+        {
+          "ID": 6253,
+          "Title": "Kategoriija:Eurohpá oaivegávpogat"
+        },
+        {
           "ID": 6288,
           "Title": "Kategoriija:Eurohpá riikkat"
         },
@@ -146,6 +162,10 @@
         {
           "ID": 1713,
           "Title": "Kategoriija:Riikkat"
+        },
+        {
+          "ID": 22656,
+          "Title": "Kategoriija:Spánia iešstivrenguovllut"
         },
         {
           "ID": 6308,
@@ -188,12 +208,20 @@
           "Title": "Kategoriija:Dáhpáhusat"
         },
         {
+          "ID": 22686,
+          "Title": "Kategoriija:Eurohpá ovddeš riikkat"
+        },
+        {
           "ID": 1714,
           "Title": "Kategoriija:Historjá"
         },
         {
           "ID": 17222,
           "Title": "Kategoriija:Historjá riikkaid mielde"
+        },
+        {
+          "ID": 15675,
+          "Title": "Kategoriija:Katastrofat jagiid mielde"
         },
         {
           "ID": 20859,
@@ -223,6 +251,10 @@
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
       "Categories": [
+        {
+          "ID": 5054,
+          "Title": "Kategoriija:Almmigáhppálagat"
+        },
         {
           "ID": 20689,
           "Title": "Kategoriija:Anatomiija"

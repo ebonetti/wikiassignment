@@ -26,6 +26,18 @@
           "Title": "Kategoria:Arte eszenikoak"
         },
         {
+          "ID": 686129,
+          "Title": "Kategoria:Arte formak"
+        },
+        {
+          "ID": 53906,
+          "Title": "Kategoria:Arte garaikidea"
+        },
+        {
+          "ID": 82184,
+          "Title": "Kategoria:Arte modernoa"
+        },
+        {
           "ID": 24686,
           "Title": "Kategoria:Arteak"
         },
@@ -44,6 +56,14 @@
         {
           "ID": 239967,
           "Title": "Kategoria:Borroka arteak"
+        },
+        {
+          "ID": 332001,
+          "Title": "Kategoria:Brasilgo futbol taldeak"
+        },
+        {
+          "ID": 769980,
+          "Title": "Kategoria:Brasilgo telesailak"
         },
         {
           "ID": 8114,
@@ -74,8 +94,16 @@
           "Title": "Kategoria:Erreferentzia bildumak"
         },
         {
+          "ID": 17796,
+          "Title": "Kategoria:Espainiako lehen mailako futbol taldeak"
+        },
+        {
           "ID": 100334,
           "Title": "Kategoria:Ezagutza"
+        },
+        {
+          "ID": 881032,
+          "Title": "Kategoria:Fantasiazko telesailak"
         },
         {
           "ID": 6696,
@@ -94,6 +122,10 @@
           "Title": "Kategoria:Folklorea"
         },
         {
+          "ID": 45124,
+          "Title": "Kategoria:Futbol taldeak herrialdearen arabera"
+        },
+        {
           "ID": 6165,
           "Title": "Kategoria:Gastronomia"
         },
@@ -104,6 +136,10 @@
         {
           "ID": 161960,
           "Title": "Kategoria:Giza sexualitatea"
+        },
+        {
+          "ID": 653831,
+          "Title": "Kategoria:HBOko telesailak"
         },
         {
           "ID": 140797,
@@ -152,6 +188,10 @@
         {
           "ID": 158938,
           "Title": "Kategoria:Jolasa"
+        },
+        {
+          "ID": 109282,
+          "Title": "Kategoria:Kirol olinpikoak"
         },
         {
           "ID": 294193,
@@ -242,6 +282,10 @@
           "Title": "Kategoria:Musika taldeak"
         },
         {
+          "ID": 701987,
+          "Title": "Kategoria:Netflixeko telesailak"
+        },
+        {
           "ID": 668480,
           "Title": "Kategoria:Obrak artistaren arabera"
         },
@@ -278,6 +322,18 @@
           "Title": "Kategoria:Telebista"
         },
         {
+          "ID": 341031,
+          "Title": "Kategoria:Telebista saioak katearen arabera"
+        },
+        {
+          "ID": 24473,
+          "Title": "Kategoria:Telesailak"
+        },
+        {
+          "ID": 71507,
+          "Title": "Kategoria:Telesailak herrialdearen arabera"
+        },
+        {
           "ID": 131573,
           "Title": "Kategoria:Zaletasunak"
         }
@@ -290,6 +346,10 @@
         {
           "ID": 15850,
           "Title": "Kategoria:Afrikako herrialdeak"
+        },
+        {
+          "ID": 6234,
+          "Title": "Kategoria:Amerikako herrialdeak"
         },
         {
           "ID": 50586,
@@ -316,16 +376,40 @@
           "Title": "Kategoria:Errepideak"
         },
         {
+          "ID": 21902,
+          "Title": "Kategoria:Espainiako autonomia erkidegoak"
+        },
+        {
+          "ID": 6104,
+          "Title": "Kategoria:Espainiako probintziak"
+        },
+        {
           "ID": 45462,
           "Title": "Kategoria:Estatua"
+        },
+        {
+          "ID": 24667,
+          "Title": "Kategoria:Europako geografia"
         },
         {
           "ID": 15852,
           "Title": "Kategoria:Europako herrialdeak"
         },
         {
+          "ID": 382532,
+          "Title": "Kategoria:Europako hiriak"
+        },
+        {
+          "ID": 154314,
+          "Title": "Kategoria:Europako hiriburuak"
+        },
+        {
           "ID": 3436,
           "Title": "Kategoria:Geografia"
+        },
+        {
+          "ID": 231039,
+          "Title": "Kategoria:Geografia kontinentearen arabera"
         },
         {
           "ID": 60134,
@@ -370,6 +454,10 @@
         {
           "ID": 76003,
           "Title": "Kategoria:Kaleak"
+        },
+        {
+          "ID": 3435,
+          "Title": "Kategoria:Kontinenteak"
         },
         {
           "ID": 723064,
@@ -438,6 +526,14 @@
           "Title": "Kategoria:Osasunaren lanbideak"
         },
         {
+          "ID": 126896,
+          "Title": "Kategoria:Parafiliak"
+        },
+        {
+          "ID": 741830,
+          "Title": "Kategoria:Saneamendua"
+        },
+        {
           "ID": 141429,
           "Title": "Kategoria:Zainketa pertsonala"
         }
@@ -450,6 +546,10 @@
         {
           "ID": 286042,
           "Title": "Kategoria:Antzinako etniak"
+        },
+        {
+          "ID": 675764,
+          "Title": "Kategoria:Desagertutako Europako herrialdeak"
         },
         {
           "ID": 109756,
@@ -484,6 +584,10 @@
           "Title": "Kategoria:Historia herrialdearen arabera"
         },
         {
+          "ID": 675488,
+          "Title": "Kategoria:Historia militarra mendearen arabera"
+        },
+        {
           "ID": 240408,
           "Title": "Kategoria:Historia politikoa"
         },
@@ -514,6 +618,10 @@
           "Title": "Kategoria:Estatistika"
         },
         {
+          "ID": 162915,
+          "Title": "Kategoria:Geometria klasikoa"
+        },
+        {
           "ID": 99470,
           "Title": "Kategoria:Informatika teorikoa"
         },
@@ -540,6 +648,10 @@
         {
           "ID": 7438,
           "Title": "Kategoria:Neurri unitateak"
+        },
+        {
+          "ID": 301805,
+          "Title": "Kategoria:Oinarrizko matematika"
         }
       ]
     },
@@ -550,6 +662,14 @@
         {
           "ID": 4332,
           "Title": "Kategoria:Anatomia"
+        },
+        {
+          "ID": 105715,
+          "Title": "Kategoria:Animalia arrazak"
+        },
+        {
+          "ID": 480188,
+          "Title": "Kategoria:Animalia etxekotuak"
         },
         {
           "ID": 6556,
@@ -584,6 +704,10 @@
           "Title": "Kategoria:Hondamenak eta istripuak"
         },
         {
+          "ID": 39841,
+          "Title": "Kategoria:Ingurumen zientziak"
+        },
+        {
           "ID": 610673,
           "Title": "Kategoria:Izar motak"
         },
@@ -606,6 +730,10 @@
         {
           "ID": 19002,
           "Title": "Kategoria:Natura zientziak"
+        },
+        {
+          "ID": 42574,
+          "Title": "Kategoria:Objektu astronomikoak"
         },
         {
           "ID": 67614,
@@ -658,6 +786,10 @@
           "Title": "Kategoria:Ameriketako Estatu Batuetako rock abeslariak"
         },
         {
+          "ID": 241963,
+          "Title": "Kategoria:Antzinaroko biografiak"
+        },
+        {
           "ID": 6557,
           "Title": "Kategoria:Arkitektoak"
         },
@@ -688,6 +820,10 @@
         {
           "ID": 241964,
           "Title": "Kategoria:Biografiak lanbidearen eta aroaren arabera"
+        },
+        {
+          "ID": 240571,
+          "Title": "Kategoria:Biografiak lanbidearen eta mendearen arabera"
         },
         {
           "ID": 239855,
@@ -732,6 +868,38 @@
         {
           "ID": 218529,
           "Title": "Kategoria:Filosofoak gaiaren arabera"
+        },
+        {
+          "ID": 204988,
+          "Title": "Kategoria:Filosofoak mendearen arabera"
+        },
+        {
+          "ID": 21753,
+          "Title": "Kategoria:Frantziako futbolariak"
+        },
+        {
+          "ID": 878750,
+          "Title": "Kategoria:Frantziako idazleak mendearen arabera"
+        },
+        {
+          "ID": 286153,
+          "Title": "Kategoria:Frantziako kazetariak"
+        },
+        {
+          "ID": 290645,
+          "Title": "Kategoria:Frantziako politikariak alderdiaren arabera"
+        },
+        {
+          "ID": 339988,
+          "Title": "Kategoria:Frantziarrak mendearen arabera"
+        },
+        {
+          "ID": 33171,
+          "Title": "Kategoria:Futbolariak herrialdearen arabera"
+        },
+        {
+          "ID": 841132,
+          "Title": "Kategoria:Galtzariaren zaldunak"
         },
         {
           "ID": 368848,
@@ -794,6 +962,14 @@
           "Title": "Kategoria:Nia"
         },
         {
+          "ID": 596185,
+          "Title": "Kategoria:Ohorezko Legioko komandanteak"
+        },
+        {
+          "ID": 596184,
+          "Title": "Kategoria:Ohorezko Legioko ofizialak"
+        },
+        {
           "ID": 4528,
           "Title": "Kategoria:Politikariak"
         },
@@ -806,12 +982,28 @@
           "Title": "Kategoria:Presidenteak herrialdearen arabera"
         },
         {
+          "ID": 292114,
+          "Title": "Kategoria:Teologo protestanteak"
+        },
+        {
           "ID": 160218,
           "Title": "Kategoria:XIX. mendeko jaiotzak"
         },
         {
           "ID": 160217,
           "Title": "Kategoria:XVIII. mendeko jaiotzak"
+        },
+        {
+          "ID": 204991,
+          "Title": "Kategoria:XX. mendeko filosofoak"
+        },
+        {
+          "ID": 339987,
+          "Title": "Kategoria:XX. mendeko frantziarrak"
+        },
+        {
+          "ID": 239853,
+          "Title": "Kategoria:XX. mendeko idazleak"
         },
         {
           "ID": 160219,
@@ -914,6 +1106,22 @@
           "Title": "Kategoria:Jainko eza"
         },
         {
+          "ID": 592425,
+          "Title": "Kategoria:Jainko-jainkosak"
+        },
+        {
+          "ID": 592438,
+          "Title": "Kategoria:Jainko-jainkosak asoziazioaren arabera"
+        },
+        {
+          "ID": 105585,
+          "Title": "Kategoria:Jainkoak"
+        },
+        {
+          "ID": 125418,
+          "Title": "Kategoria:Olinpiar jainkoak"
+        },
+        {
           "ID": 140798,
           "Title": "Kategoria:Sinesmenak"
         },
@@ -966,6 +1174,10 @@
         {
           "ID": 100164,
           "Title": "Kategoria:Geopolitika"
+        },
+        {
+          "ID": 98161,
+          "Title": "Kategoria:Gizarte taldeak"
         },
         {
           "ID": 5730,
@@ -1098,10 +1310,6 @@
           "Title": "Kategoria:Garraioa"
         },
         {
-          "ID": 41171,
-          "Title": "Kategoria:Herri-lan ingeniaritza"
-        },
-        {
           "ID": 5784,
           "Title": "Kategoria:Informatika"
         },
@@ -1112,6 +1320,10 @@
         {
           "ID": 9669,
           "Title": "Kategoria:Ingeniaritza mekanikoa"
+        },
+        {
+          "ID": 41171,
+          "Title": "Kategoria:Ingeniaritza zibila"
         },
         {
           "ID": 295019,

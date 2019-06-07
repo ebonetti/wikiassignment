@@ -18,6 +18,14 @@
           "Title": "Categoria:Arte"
         },
         {
+          "ID": 4541161,
+          "Title": "Categoria:Arte contemporanea"
+        },
+        {
+          "ID": 4337151,
+          "Title": "Categoria:Arte moderna"
+        },
+        {
           "ID": 39832,
           "Title": "Categoria:Arti marziali"
         },
@@ -80,6 +88,10 @@
         {
           "ID": 27519,
           "Title": "Categoria:Dipinti"
+        },
+        {
+          "ID": 2408394,
+          "Title": "Categoria:Discipline olimpiche"
         },
         {
           "ID": 3023801,
@@ -238,6 +250,26 @@
           "Title": "Categoria:Pratiche sessuali"
         },
         {
+          "ID": 6620454,
+          "Title": "Categoria:Programmi televisivi della HBO"
+        },
+        {
+          "ID": 6623591,
+          "Title": "Categoria:Programmi televisivi di Netflix"
+        },
+        {
+          "ID": 6925383,
+          "Title": "Categoria:Programmi televisivi di emittenti taiwanesi"
+        },
+        {
+          "ID": 6380388,
+          "Title": "Categoria:Programmi televisivi per emittente"
+        },
+        {
+          "ID": 3868565,
+          "Title": "Categoria:Programmi televisivi portoghesi"
+        },
+        {
           "ID": 1249352,
           "Title": "Categoria:Ristorazione"
         },
@@ -246,12 +278,36 @@
           "Title": "Categoria:Riviste"
         },
         {
+          "ID": 1541316,
+          "Title": "Categoria:Romanzi epistolari"
+        },
+        {
           "ID": 102771,
           "Title": "Categoria:Scrittura"
         },
         {
+          "ID": 115012,
+          "Title": "Categoria:Serie televisive"
+        },
+        {
+          "ID": 3413236,
+          "Title": "Categoria:Serie televisive brasiliane"
+        },
+        {
+          "ID": 1869715,
+          "Title": "Categoria:Serie televisive fantastiche"
+        },
+        {
+          "ID": 2761512,
+          "Title": "Categoria:Serie televisive per nazionalità"
+        },
+        {
           "ID": 68640,
           "Title": "Categoria:Sessualità"
+        },
+        {
+          "ID": 60579,
+          "Title": "Categoria:Società calcistiche brasiliane"
         },
         {
           "ID": 31066,
@@ -268,6 +324,10 @@
         {
           "ID": 24741,
           "Title": "Categoria:Sport"
+        },
+        {
+          "ID": 39757,
+          "Title": "Categoria:Sport di squadra"
         },
         {
           "ID": 329781,
@@ -304,6 +364,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 5261898,
+          "Title": "Categoria:Basiliche di Parigi"
+        },
+        {
           "ID": 4801280,
           "Title": "Categoria:Centri abitati"
         },
@@ -324,6 +388,14 @@
           "Title": "Categoria:Comuni"
         },
         {
+          "ID": 4835232,
+          "Title": "Categoria:Comunità autonome della Spagna"
+        },
+        {
+          "ID": 284091,
+          "Title": "Categoria:Continenti"
+        },
+        {
           "ID": 4339765,
           "Title": "Categoria:Design urbano"
         },
@@ -334,6 +406,14 @@
         {
           "ID": 24992,
           "Title": "Categoria:Geografia"
+        },
+        {
+          "ID": 1447823,
+          "Title": "Categoria:Geografia dell'Europa"
+        },
+        {
+          "ID": 1802395,
+          "Title": "Categoria:Geografia per continente"
         },
         {
           "ID": 785776,
@@ -360,6 +440,10 @@
           "Title": "Categoria:Palazzi"
         },
         {
+          "ID": 4835040,
+          "Title": "Categoria:Province della Spagna"
+        },
+        {
           "ID": 1514561,
           "Title": "Categoria:Residenze reali"
         },
@@ -382,6 +466,10 @@
         {
           "ID": 903411,
           "Title": "Categoria:Stati dell'Africa"
+        },
+        {
+          "ID": 2490481,
+          "Title": "Categoria:Stati dell'America"
         },
         {
           "ID": 3383003,
@@ -458,6 +546,10 @@
           "Title": "Categoria:Medicina"
         },
         {
+          "ID": 828791,
+          "Title": "Categoria:Parafilie"
+        },
+        {
           "ID": 1847540,
           "Title": "Categoria:Professioni sanitarie"
         },
@@ -484,6 +576,10 @@
           "Title": "Categoria:Attentati terroristici"
         },
         {
+          "ID": 3757580,
+          "Title": "Categoria:Catastrofi per anno"
+        },
+        {
           "ID": 2979727,
           "Title": "Categoria:Elezioni per anno"
         },
@@ -508,6 +604,10 @@
           "Title": "Categoria:Popoli antichi"
         },
         {
+          "ID": 4958510,
+          "Title": "Categoria:Reati di omicidio"
+        },
+        {
           "ID": 5619778,
           "Title": "Categoria:Reati di omicidio per anno"
         },
@@ -522,6 +622,10 @@
         {
           "ID": 4367401,
           "Title": "Categoria:Sentenze della Corte Suprema degli Stati Uniti d'America"
+        },
+        {
+          "ID": 1396824,
+          "Title": "Categoria:Stati europei scomparsi"
         },
         {
           "ID": 24848,
@@ -558,6 +662,10 @@
           "Title": "Categoria:Matematica applicata"
         },
         {
+          "ID": 79532,
+          "Title": "Categoria:Matematica di base"
+        },
+        {
           "ID": 266290,
           "Title": "Categoria:Sistemi di unità di misura"
         },
@@ -586,6 +694,10 @@
         {
           "ID": 39386,
           "Title": "Categoria:Animali"
+        },
+        {
+          "ID": 4927466,
+          "Title": "Categoria:Antropometria"
         },
         {
           "ID": 52701,
@@ -624,12 +736,20 @@
           "Title": "Categoria:Natura"
         },
         {
+          "ID": 89503,
+          "Title": "Categoria:Oggetti astronomici"
+        },
+        {
           "ID": 83637,
           "Title": "Categoria:Piante"
         },
         {
           "ID": 230656,
           "Title": "Categoria:Proteine"
+        },
+        {
+          "ID": 4026440,
+          "Title": "Categoria:Razze di animali"
         },
         {
           "ID": 1106438,
@@ -690,6 +810,10 @@
           "Title": "Categoria:Attori"
         },
         {
+          "ID": 2558073,
+          "Title": "Categoria:Autori di videogiochi"
+        },
+        {
           "ID": 73016,
           "Title": "Categoria:Aviatori"
         },
@@ -698,8 +822,16 @@
           "Title": "Categoria:Biografi"
         },
         {
+          "ID": 47371,
+          "Title": "Categoria:Calciatori francesi"
+        },
+        {
           "ID": 37021,
           "Title": "Categoria:Calciatori italiani"
+        },
+        {
+          "ID": 1553017,
+          "Title": "Categoria:Calciatori per nazionalità"
         },
         {
           "ID": 5767661,
@@ -710,8 +842,16 @@
           "Title": "Categoria:Capi di Stato"
         },
         {
+          "ID": 2188462,
+          "Title": "Categoria:Cavalieri dell'Ordine della Giarrettiera"
+        },
+        {
           "ID": 401115,
           "Title": "Categoria:Cognomi"
+        },
+        {
+          "ID": 5117707,
+          "Title": "Categoria:Commendatori della Legion d'onore"
         },
         {
           "ID": 5286346,
@@ -726,16 +866,36 @@
           "Title": "Categoria:Filosofi"
         },
         {
+          "ID": 1542068,
+          "Title": "Categoria:Filosofi del XX secolo"
+        },
+        {
           "ID": 2344258,
           "Title": "Categoria:Filosofi per disciplina"
+        },
+        {
+          "ID": 1541962,
+          "Title": "Categoria:Filosofi per secolo"
         },
         {
           "ID": 1426715,
           "Title": "Categoria:Fondatori di impresa"
         },
         {
+          "ID": 1467092,
+          "Title": "Categoria:Francesi del XX secolo"
+        },
+        {
+          "ID": 1541430,
+          "Title": "Categoria:Francesi per secolo"
+        },
+        {
           "ID": 1216172,
           "Title": "Categoria:Generali statunitensi"
+        },
+        {
+          "ID": 473384,
+          "Title": "Categoria:Giornalisti francesi"
         },
         {
           "ID": 1481618,
@@ -790,6 +950,10 @@
           "Title": "Categoria:Nati per anno"
         },
         {
+          "ID": 5159864,
+          "Title": "Categoria:Opinionisti francesi"
+        },
+        {
           "ID": 47275,
           "Title": "Categoria:Personaggi cinematografici"
         },
@@ -814,6 +978,10 @@
           "Title": "Categoria:Persone per attività"
         },
         {
+          "ID": 2825026,
+          "Title": "Categoria:Persone per attività e secolo"
+        },
+        {
           "ID": 1175797,
           "Title": "Categoria:Persone per città"
         },
@@ -834,6 +1002,14 @@
           "Title": "Categoria:Politici cubani"
         },
         {
+          "ID": 7634648,
+          "Title": "Categoria:Politici de La République En Marche"
+        },
+        {
+          "ID": 3458388,
+          "Title": "Categoria:Politici francesi per partito"
+        },
+        {
           "ID": 106084,
           "Title": "Categoria:Politologi"
         },
@@ -850,8 +1026,24 @@
           "Title": "Categoria:Scrittori"
         },
         {
+          "ID": 1542014,
+          "Title": "Categoria:Scrittori del XX secolo"
+        },
+        {
+          "ID": 5932767,
+          "Title": "Categoria:Sostenitori del vegetarianismo"
+        },
+        {
           "ID": 44128,
           "Title": "Categoria:Statunitensi"
+        },
+        {
+          "ID": 2371413,
+          "Title": "Categoria:Teologi protestanti"
+        },
+        {
+          "ID": 5117697,
+          "Title": "Categoria:Ufficiali della Legion d'onore"
         },
         {
           "ID": 7477079,
@@ -932,6 +1124,18 @@
         {
           "ID": 7701897,
           "Title": "Categoria:Critiche alla religione"
+        },
+        {
+          "ID": 61849,
+          "Title": "Categoria:Divinità"
+        },
+        {
+          "ID": 4972819,
+          "Title": "Categoria:Divinità olimpiche della religione greca"
+        },
+        {
+          "ID": 4813261,
+          "Title": "Categoria:Divinità per tipo"
         },
         {
           "ID": 250486,
@@ -1044,8 +1248,8 @@
           "Title": "Categoria:Psicologia"
         },
         {
-          "ID": 4958510,
-          "Title": "Categoria:Reati di omicidio"
+          "ID": 334965,
+          "Title": "Categoria:Raggruppamenti sociali"
         },
         {
           "ID": 51051,

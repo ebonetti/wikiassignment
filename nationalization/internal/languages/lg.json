@@ -3,7 +3,13 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts"
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 7487,
+          "Title": "Category:Firimu"
+        }
+      ]
     },
     {
       "ID": 2147483638,
@@ -20,6 +26,10 @@
         {
           "ID": 7181,
           "Title": "Category:Essomansi"
+        },
+        {
+          "ID": 7182,
+          "Title": "Category:Ssemazinga"
         }
       ]
     },

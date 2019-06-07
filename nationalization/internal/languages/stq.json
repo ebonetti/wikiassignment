@@ -48,6 +48,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1517,
+          "Title": "Kategorie:Autonome Gemeenskup Spanien"
+        },
+        {
           "ID": 11179,
           "Title": "Kategorie:Buundesstoat fon do Fereende Stoaten fon Amerikoa"
         },
@@ -66,6 +70,10 @@
         {
           "ID": 2211,
           "Title": "Kategorie:Lound in Afrikoa"
+        },
+        {
+          "ID": 7221,
+          "Title": "Kategorie:Lound in Amerikoa"
         },
         {
           "ID": 1548,
@@ -94,6 +102,10 @@
         {
           "ID": 10864,
           "Title": "Kategorie:Stääd in dän Fereende Stoaten fon Amerikoa"
+        },
+        {
+          "ID": 10769,
+          "Title": "Kategorie:Waarelddeele"
         },
         {
           "ID": 2789,

@@ -14,6 +14,10 @@
           "Title": "Katõgooria:Aoleheq"
         },
         {
+          "ID": 13862,
+          "Title": "Katõgooria:Brasiilia teleseriaaliq"
+        },
+        {
           "ID": 13665,
           "Title": "Katõgooria:Filmiq"
         },
@@ -82,6 +86,14 @@
           "Title": "Katõgooria:Süük ja juuk"
         },
         {
+          "ID": 13864,
+          "Title": "Katõgooria:Teleseriaaliq"
+        },
+        {
+          "ID": 13863,
+          "Title": "Katõgooria:Teleseriaaliq riike perrä"
+        },
+        {
           "ID": 3099,
           "Title": "Katõgooria:Televis'uun"
         },
@@ -108,12 +120,20 @@
           "Title": "Katõgooria:Afriga maaq"
         },
         {
+          "ID": 6772,
+          "Title": "Katõgooria:Ameeriga riigiq"
+        },
+        {
           "ID": 6771,
           "Title": "Katõgooria:Ameeriga Ütisriigiq"
         },
         {
           "ID": 7026,
           "Title": "Katõgooria:Ameeriga Ütisriike liinaq"
+        },
+        {
+          "ID": 8939,
+          "Title": "Katõgooria:Ilmajaoq"
         },
         {
           "ID": 4385,
@@ -160,6 +180,10 @@
           "Title": "Katõgooria:Õuruupa maaq"
         },
         {
+          "ID": 2862,
+          "Title": "Katõgooria:Õuruupa pääliinaq"
+        },
+        {
           "ID": 2779,
           "Title": "Katõgooria:Õuruupa riigiq"
         }
@@ -194,6 +218,10 @@
         {
           "ID": 13644,
           "Title": "Katõgooria:Tähtpääväq"
+        },
+        {
+          "ID": 10233,
+          "Title": "Katõgooria:Vanaq Õuruupa riigiq"
         }
       ]
     },
@@ -234,6 +262,10 @@
         {
           "ID": 6069,
           "Title": "Katõgooria:Keemiä"
+        },
+        {
+          "ID": 5146,
+          "Title": "Katõgooria:Kodoeläjäq"
         },
         {
           "ID": 4386,
@@ -341,6 +373,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 10662,
+          "Title": "Katõgooria:Jumalaq"
+        },
         {
           "ID": 3066,
           "Title": "Katõgooria:Usk"

@@ -18,8 +18,16 @@
           "Title": "Categoria:Art"
         },
         {
+          "ID": 34423,
+          "Title": "Categoria:Art contemporanèu"
+        },
+        {
           "ID": 17526,
           "Title": "Categoria:Art marcial"
+        },
+        {
+          "ID": 62229,
+          "Title": "Categoria:Art modèrne"
         },
         {
           "ID": 9129,
@@ -82,6 +90,14 @@
           "Title": "Categoria:Espòrt"
         },
         {
+          "ID": 19850,
+          "Title": "Categoria:Espòrt collectiu"
+        },
+        {
+          "ID": 41670,
+          "Title": "Categoria:Espòrt olimpic"
+        },
+        {
           "ID": 11124,
           "Title": "Categoria:Festenal"
         },
@@ -96,6 +112,10 @@
         {
           "ID": 10605,
           "Title": "Categoria:Folclòre"
+        },
+        {
+          "ID": 11188,
+          "Title": "Categoria:Forma d'expression artistica"
         },
         {
           "ID": 3463,
@@ -170,6 +190,10 @@
           "Title": "Categoria:Revista"
         },
         {
+          "ID": 12254,
+          "Title": "Categoria:Seria televisada per origina"
+        },
+        {
           "ID": 6498,
           "Title": "Categoria:Sexualitat"
         },
@@ -212,12 +236,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 17992,
+          "Title": "Categoria:Capitala europèa"
+        },
+        {
           "ID": 55938,
           "Title": "Categoria:Carrièra"
         },
         {
           "ID": 31807,
           "Title": "Categoria:Castèl"
+        },
+        {
+          "ID": 54779,
+          "Title": "Categoria:Comunautat autonòma d'Espanha"
+        },
+        {
+          "ID": 7955,
+          "Title": "Categoria:Continent"
         },
         {
           "ID": 33780,
@@ -236,6 +272,14 @@
           "Title": "Categoria:Geografia"
         },
         {
+          "ID": 21016,
+          "Title": "Categoria:Geografia d'Euròpa"
+        },
+        {
+          "ID": 7104,
+          "Title": "Categoria:Geografia per continent"
+        },
+        {
           "ID": 34651,
           "Title": "Categoria:Geomorfologia"
         },
@@ -252,6 +296,10 @@
           "Title": "Categoria:País d'Africa"
         },
         {
+          "ID": 15101,
+          "Title": "Categoria:País d'America"
+        },
+        {
           "ID": 11780,
           "Title": "Categoria:País d'Asia"
         },
@@ -266,6 +314,14 @@
         {
           "ID": 32007,
           "Title": "Categoria:País del mond"
+        },
+        {
+          "ID": 21000,
+          "Title": "Categoria:Província d'Espanha"
+        },
+        {
+          "ID": 21013,
+          "Title": "Categoria:Region autonòma d'Espanha"
         },
         {
           "ID": 33129,
@@ -328,6 +384,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 11577,
+          "Title": "Categoria:Ancian país d'Euròpa"
+        },
+        {
           "ID": 10559,
           "Title": "Categoria:Eveniment"
         },
@@ -382,6 +442,10 @@
           "Title": "Categoria:Matematicas"
         },
         {
+          "ID": 169065,
+          "Title": "Categoria:Matematicas elementàrias"
+        },
+        {
           "ID": 21133,
           "Title": "Categoria:Unitat de mesura"
         }
@@ -398,6 +462,10 @@
         {
           "ID": 10825,
           "Title": "Categoria:Animal"
+        },
+        {
+          "ID": 10831,
+          "Title": "Categoria:Animal domestic"
         },
         {
           "ID": 4924,
@@ -436,6 +504,10 @@
           "Title": "Categoria:Natura"
         },
         {
+          "ID": 19944,
+          "Title": "Categoria:Objècte celèst"
+        },
+        {
           "ID": 34552,
           "Title": "Categoria:Planta"
         },
@@ -450,6 +522,10 @@
         {
           "ID": 3454,
           "Title": "Categoria:Quimia"
+        },
+        {
+          "ID": 51306,
+          "Title": "Categoria:Raça animala"
         },
         {
           "ID": 2642,
@@ -494,6 +570,14 @@
           "Title": "Categoria:Artista"
         },
         {
+          "ID": 31951,
+          "Title": "Categoria:Cavalièr de la Cambaliga"
+        },
+        {
+          "ID": 64690,
+          "Title": "Categoria:Comandaire de la Legion d'Onor"
+        },
+        {
           "ID": 10054,
           "Title": "Categoria:Cronologia de las naissenças"
         },
@@ -518,12 +602,28 @@
           "Title": "Categoria:Filosòf"
         },
         {
+          "ID": 17022,
+          "Title": "Categoria:Filosòf del sègle XX"
+        },
+        {
           "ID": 17342,
           "Title": "Categoria:Filosòf per domeni"
         },
         {
+          "ID": 15709,
+          "Title": "Categoria:Filosòf per sègle"
+        },
+        {
+          "ID": 41624,
+          "Title": "Categoria:Fotbolaire francés"
+        },
+        {
           "ID": 64817,
           "Title": "Categoria:Fotbolaire italian"
+        },
+        {
+          "ID": 41667,
+          "Title": "Categoria:Fotbolaire per nacionalitat"
         },
         {
           "ID": 10587,
@@ -532,6 +632,10 @@
         {
           "ID": 13573,
           "Title": "Categoria:Inventor"
+        },
+        {
+          "ID": 34375,
+          "Title": "Categoria:Jornalista francés"
         },
         {
           "ID": 11957,
@@ -562,6 +666,10 @@
           "Title": "Categoria:Naissença al sègle XX"
         },
         {
+          "ID": 64687,
+          "Title": "Categoria:Oficièr de la Legion d'Onor"
+        },
+        {
           "ID": 15032,
           "Title": "Categoria:Patronim"
         },
@@ -576,6 +684,10 @@
         {
           "ID": 50548,
           "Title": "Categoria:Personalitat anglesa"
+        },
+        {
+          "ID": 25694,
+          "Title": "Categoria:Personalitat antica"
         },
         {
           "ID": 9971,
@@ -594,6 +706,10 @@
           "Title": "Categoria:Personalitat politica cubana"
         },
         {
+          "ID": 19528,
+          "Title": "Categoria:Personalitat politica francesa per partit"
+        },
+        {
           "ID": 20636,
           "Title": "Categoria:Personatge"
         },
@@ -608,6 +724,14 @@
         {
           "ID": 35173,
           "Title": "Categoria:Prèmi Nobel per nacionalitat"
+        },
+        {
+          "ID": 28374,
+          "Title": "Categoria:Teologian protestant"
+        },
+        {
+          "ID": 13621,
+          "Title": "Categoria:Vegetarian"
         }
       ]
     },
@@ -662,6 +786,14 @@
           "Title": "Categoria:Critica de las religions"
         },
         {
+          "ID": 20024,
+          "Title": "Categoria:Divinitat"
+        },
+        {
+          "ID": 20150,
+          "Title": "Categoria:Divinitat olimpiana"
+        },
+        {
           "ID": 10602,
           "Title": "Categoria:Religion"
         },
@@ -706,6 +838,10 @@
         {
           "ID": 46345,
           "Title": "Categoria:Govèrn"
+        },
+        {
+          "ID": 13098,
+          "Title": "Categoria:Grop social"
         },
         {
           "ID": 6285,

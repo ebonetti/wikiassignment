@@ -22,6 +22,14 @@
           "Title": "Categoria:Ars acroamatica"
         },
         {
+          "ID": 209575,
+          "Title": "Categoria:Ars hodierna"
+        },
+        {
+          "ID": 209579,
+          "Title": "Categoria:Ars moderna"
+        },
+        {
           "ID": 5785,
           "Title": "Categoria:Artes martiales"
         },
@@ -102,6 +110,10 @@
           "Title": "Categoria:Luctatio"
         },
         {
+          "ID": 168341,
+          "Title": "Categoria:Ludi Olympici"
+        },
+        {
           "ID": 28262,
           "Title": "Categoria:Ludi computatrales"
         },
@@ -116,6 +128,10 @@
         {
           "ID": 6846,
           "Title": "Categoria:Musica"
+        },
+        {
+          "ID": 202213,
+          "Title": "Categoria:Mythistoriae epistularum"
         },
         {
           "ID": 94224,
@@ -148,6 +164,10 @@
         {
           "ID": 13000,
           "Title": "Categoria:Scripturae"
+        },
+        {
+          "ID": 156595,
+          "Title": "Categoria:Series televisificae"
         },
         {
           "ID": 26183,
@@ -204,6 +224,14 @@
           "Title": "Categoria:Civitatum Foederatarum civitates"
         },
         {
+          "ID": 29700,
+          "Title": "Categoria:Communitates Autonomae Hispaniae"
+        },
+        {
+          "ID": 106334,
+          "Title": "Categoria:Continentes"
+        },
+        {
           "ID": 106904,
           "Title": "Categoria:Domus principales"
         },
@@ -214,6 +242,14 @@
         {
           "ID": 7178,
           "Title": "Categoria:Geographia"
+        },
+        {
+          "ID": 122391,
+          "Title": "Categoria:Geographia Europae"
+        },
+        {
+          "ID": 93087,
+          "Title": "Categoria:Geographia continente digesta"
         },
         {
           "ID": 122274,
@@ -248,6 +284,10 @@
           "Title": "Categoria:Nationes Africae"
         },
         {
+          "ID": 9974,
+          "Title": "Categoria:Nationes Americae"
+        },
+        {
           "ID": 8030,
           "Title": "Categoria:Nationes Asiae"
         },
@@ -260,12 +300,20 @@
           "Title": "Categoria:Nationes Oceaniae"
         },
         {
+          "ID": 29699,
+          "Title": "Categoria:Provinciae Hispaniae"
+        },
+        {
           "ID": 7484,
           "Title": "Categoria:Res publica"
         },
         {
           "ID": 6017,
           "Title": "Categoria:Urbes"
+        },
+        {
+          "ID": 193404,
+          "Title": "Categoria:Urbes Europae"
         },
         {
           "ID": 196922,
@@ -330,12 +378,20 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 108132,
+          "Title": "Categoria:Geometria classica"
+        },
+        {
           "ID": 6835,
           "Title": "Categoria:Logica"
         },
         {
           "ID": 7006,
           "Title": "Categoria:Mathematica"
+        },
+        {
+          "ID": 108128,
+          "Title": "Categoria:Mathematica elementaria"
         },
         {
           "ID": 108123,
@@ -362,6 +418,10 @@
         {
           "ID": 8088,
           "Title": "Categoria:Animalia"
+        },
+        {
+          "ID": 77941,
+          "Title": "Categoria:Animalia domesticata"
         },
         {
           "ID": 25813,
@@ -406,6 +466,10 @@
         {
           "ID": 73381,
           "Title": "Categoria:Plantae utiles"
+        },
+        {
+          "ID": 78863,
+          "Title": "Categoria:Res astronomicae"
         },
         {
           "ID": 6829,
@@ -456,6 +520,14 @@
         {
           "ID": 49042,
           "Title": "Categoria:Cognomina"
+        },
+        {
+          "ID": 216544,
+          "Title": "Categoria:Conditores religionum"
+        },
+        {
+          "ID": 59712,
+          "Title": "Categoria:Diurnarii Franciae"
         },
         {
           "ID": 13774,
@@ -536,6 +608,10 @@
         {
           "ID": 53527,
           "Title": "Categoria:Nati saeculo 20"
+        },
+        {
+          "ID": 75059,
+          "Title": "Categoria:Pedilusores Franciae"
         },
         {
           "ID": 73235,
@@ -636,6 +712,10 @@
         {
           "ID": 221319,
           "Title": "Categoria:Anthropologia religionis"
+        },
+        {
+          "ID": 7427,
+          "Title": "Categoria:Dei"
         },
         {
           "ID": 171753,

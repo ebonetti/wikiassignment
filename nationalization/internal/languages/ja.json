@@ -10,6 +10,10 @@
           "Title": "Category:4人組の音楽グループ"
         },
         {
+          "ID": 3293270,
+          "Title": "Category:Netflixオリジナル作品"
+        },
+        {
           "ID": 376819,
           "Title": "Category:イタリアのサッカークラブ"
         },
@@ -18,12 +22,20 @@
           "Title": "Category:インターネットの文化"
         },
         {
+          "ID": 174635,
+          "Title": "Category:オリンピック競技"
+        },
+        {
           "ID": 1345447,
           "Title": "Category:クラシック音楽の楽曲"
         },
         {
           "ID": 1952593,
           "Title": "Category:クリスマス料理"
+        },
+        {
+          "ID": 679298,
+          "Title": "Category:コンテンポラリーアート"
         },
         {
           "ID": 103548,
@@ -46,6 +58,18 @@
           "Title": "Category:テレビ"
         },
         {
+          "ID": 3427619,
+          "Title": "Category:テレビ番組のシリーズ"
+        },
+        {
+          "ID": 1614710,
+          "Title": "Category:ネットワーク別のテレビ番組"
+        },
+        {
+          "ID": 2703281,
+          "Title": "Category:ファンタジードラマ"
+        },
+        {
           "ID": 176224,
           "Title": "Category:フィクション"
         },
@@ -54,12 +78,24 @@
           "Title": "Category:フィットネス"
         },
         {
+          "ID": 376770,
+          "Title": "Category:ブラジルのサッカークラブ"
+        },
+        {
           "ID": 129760,
           "Title": "Category:プロレス"
         },
         {
           "ID": 145746,
           "Title": "Category:ボードゲーム"
+        },
+        {
+          "ID": 677193,
+          "Title": "Category:モダンアート"
+        },
+        {
+          "ID": 176935,
+          "Title": "Category:ヨーロッパのサッカークラブ"
         },
         {
           "ID": 237101,
@@ -114,12 +150,20 @@
           "Title": "Category:参考文献"
         },
         {
+          "ID": 1966020,
+          "Title": "Category:各国のサッカークラブ"
+        },
+        {
           "ID": 254065,
           "Title": "Category:各国の文化"
         },
         {
           "ID": 221289,
           "Title": "Category:呪術"
+        },
+        {
+          "ID": 151753,
+          "Title": "Category:団体競技"
         },
         {
           "ID": 3563940,
@@ -200,6 +244,10 @@
         {
           "ID": 235211,
           "Title": "Category:書物"
+        },
+        {
+          "ID": 1936684,
+          "Title": "Category:書簡体小説"
         },
         {
           "ID": 176238,
@@ -352,6 +400,10 @@
           "Title": "Category:アフリカの国"
         },
         {
+          "ID": 3415150,
+          "Title": "Category:アメリカの国"
+        },
+        {
           "ID": 127671,
           "Title": "Category:アメリカ合衆国"
         },
@@ -376,12 +428,32 @@
           "Title": "Category:オセアニアの国"
         },
         {
+          "ID": 291527,
+          "Title": "Category:スペインの県"
+        },
+        {
+          "ID": 123907,
+          "Title": "Category:スペインの自治州"
+        },
+        {
           "ID": 2906361,
           "Title": "Category:モニュメントと記念建造物"
         },
         {
           "ID": 874941,
           "Title": "Category:ヨーロッパの国"
+        },
+        {
+          "ID": 1082563,
+          "Title": "Category:ヨーロッパの地理"
+        },
+        {
+          "ID": 3377732,
+          "Title": "Category:ヨーロッパの都市"
+        },
+        {
+          "ID": 676388,
+          "Title": "Category:ヨーロッパの首都"
         },
         {
           "ID": 874925,
@@ -424,8 +496,16 @@
           "Title": "Category:場所"
         },
         {
+          "ID": 112749,
+          "Title": "Category:大陸"
+        },
+        {
           "ID": 1082573,
           "Title": "Category:大陸別の国"
+        },
+        {
+          "ID": 1080826,
+          "Title": "Category:大陸別の地理"
         },
         {
           "ID": 309348,
@@ -482,6 +562,10 @@
           "Title": "Category:セルフケア"
         },
         {
+          "ID": 795044,
+          "Title": "Category:パラフィリア"
+        },
+        {
           "ID": 2925280,
           "Title": "Category:人体解剖学"
         },
@@ -510,12 +594,20 @@
           "Title": "Category:医療関連の職業"
         },
         {
+          "ID": 3767668,
+          "Title": "Category:性同一性障害"
+        },
+        {
           "ID": 172739,
           "Title": "Category:看護学"
         },
         {
           "ID": 237534,
           "Title": "Category:衛生"
+        },
+        {
+          "ID": 304108,
+          "Title": "Category:衛生設備"
         },
         {
           "ID": 461694,
@@ -527,6 +619,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 1231324,
+          "Title": "Category:かつて存在したヨーロッパの国家"
+        },
         {
           "ID": 282045,
           "Title": "Category:アメリカ合衆国の歴史 (現代)"
@@ -566,6 +662,10 @@
         {
           "ID": 3548618,
           "Title": "Category:各年のアメリカ合衆国の政治"
+        },
+        {
+          "ID": 2020329,
+          "Title": "Category:各年の災害"
         },
         {
           "ID": 1956142,
@@ -609,6 +709,10 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 232310,
+          "Title": "Category:初等数学"
+        },
         {
           "ID": 233290,
           "Title": "Category:単位"
@@ -676,8 +780,20 @@
           "Title": "Category:化学物質"
         },
         {
+          "ID": 1797754,
+          "Title": "Category:品種"
+        },
+        {
           "ID": 237176,
           "Title": "Category:地球"
+        },
+        {
+          "ID": 136579,
+          "Title": "Category:天体"
+        },
+        {
+          "ID": 107053,
+          "Title": "Category:家畜"
         },
         {
           "ID": 1968995,
@@ -750,8 +866,24 @@
           "Title": "Category:19世紀生"
         },
         {
+          "ID": 2059144,
+          "Title": "Category:20世紀の哲学者"
+        },
+        {
+          "ID": 3945475,
+          "Title": "Category:20世紀の著作家"
+        },
+        {
+          "ID": 3944040,
+          "Title": "Category:20世紀フランスの人物"
+        },
+        {
           "ID": 916381,
           "Title": "Category:20世紀生"
+        },
+        {
+          "ID": 2399718,
+          "Title": "Category:FIFAセンチュリークラブ"
         },
         {
           "ID": 3498495,
@@ -778,8 +910,40 @@
           "Title": "Category:キューバの政治家"
         },
         {
+          "ID": 640394,
+          "Title": "Category:コンピュータゲーム関連の人物"
+        },
+        {
           "ID": 133778,
           "Title": "Category:パイロット"
+        },
+        {
+          "ID": 196301,
+          "Title": "Category:フランスのサッカー選手"
+        },
+        {
+          "ID": 471680,
+          "Title": "Category:フランスのジャーナリスト"
+        },
+        {
+          "ID": 3944053,
+          "Title": "Category:フランスの人物 (世紀別)"
+        },
+        {
+          "ID": 3655853,
+          "Title": "Category:フランスの男優"
+        },
+        {
+          "ID": 2576087,
+          "Title": "Category:プロテスタントの神学者"
+        },
+        {
+          "ID": 3047492,
+          "Title": "Category:レジオンドヌール勲章オフィシエ受章者"
+        },
+        {
+          "ID": 2939466,
+          "Title": "Category:レジオンドヌール勲章コマンドゥール受章者"
         },
         {
           "ID": 192838,
@@ -788,10 +952,6 @@
         {
           "ID": 3533949,
           "Title": "Category:企業創立者"
-        },
-        {
-          "ID": 898455,
-          "Title": "Category:作家"
         },
         {
           "ID": 166495,
@@ -818,12 +978,32 @@
           "Title": "Category:医師"
         },
         {
+          "ID": 2915851,
+          "Title": "Category:古代人"
+        },
+        {
           "ID": 2985509,
           "Title": "Category:各世紀の人物"
         },
         {
+          "ID": 2059213,
+          "Title": "Category:各世紀の哲学者"
+        },
+        {
+          "ID": 3432247,
+          "Title": "Category:各国のYouTuber"
+        },
+        {
+          "ID": 382451,
+          "Title": "Category:各国のサッカー選手"
+        },
+        {
           "ID": 1290440,
           "Title": "Category:各国の大統領"
+        },
+        {
+          "ID": 3586758,
+          "Title": "Category:各国の男優"
         },
         {
           "ID": 1534071,
@@ -852,6 +1032,10 @@
         {
           "ID": 1813965,
           "Title": "Category:存命人物"
+        },
+        {
+          "ID": 2136932,
+          "Title": "Category:宗教・宗派の開祖"
         },
         {
           "ID": 125929,
@@ -932,6 +1116,10 @@
         {
           "ID": 844336,
           "Title": "Category:航空に関する職業"
+        },
+        {
+          "ID": 1710372,
+          "Title": "Category:菜食主義者"
         },
         {
           "ID": 601141,
@@ -1026,6 +1214,10 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 939046,
+          "Title": "Category:オリュンポス十二神"
+        },
+        {
           "ID": 2904898,
           "Title": "Category:信念"
         },
@@ -1050,8 +1242,20 @@
           "Title": "Category:宗教論争"
         },
         {
+          "ID": 209153,
+          "Title": "Category:神"
+        },
+        {
+          "ID": 1645028,
+          "Title": "Category:神々"
+        },
+        {
           "ID": 264269,
           "Title": "Category:神学"
+        },
+        {
+          "ID": 400992,
+          "Title": "Category:神徳別の神"
         },
         {
           "ID": 3652969,
@@ -1174,6 +1378,10 @@
         {
           "ID": 104050,
           "Title": "Category:社会科学"
+        },
+        {
+          "ID": 1963389,
+          "Title": "Category:社会集団"
         },
         {
           "ID": 212261,

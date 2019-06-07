@@ -22,12 +22,40 @@
           "Title": "Thể loại:Bệnh giả tưởng"
         },
         {
+          "ID": 2747294,
+          "Title": "Thể loại:Bộ phim truyền hình theo quốc gia"
+        },
+        {
+          "ID": 13521761,
+          "Title": "Thể loại:Chương trình mạng HBO"
+        },
+        {
+          "ID": 2747337,
+          "Title": "Thể loại:Chương trình truyền hình nhiều tập"
+        },
+        {
+          "ID": 3232754,
+          "Title": "Thể loại:Chương trình truyền hình theo mạng lưới"
+        },
+        {
           "ID": 3211724,
           "Title": "Thể loại:Chủ nghĩa thế tục"
         },
         {
           "ID": 55150,
           "Title": "Thể loại:Cuộc thi"
+        },
+        {
+          "ID": 3225107,
+          "Title": "Thể loại:Câu lạc bộ bóng đá Brasil"
+        },
+        {
+          "ID": 3711907,
+          "Title": "Thể loại:Câu lạc bộ bóng đá theo năm thành lập"
+        },
+        {
+          "ID": 2424721,
+          "Title": "Thể loại:Câu lạc bộ bóng đá theo quốc gia"
         },
         {
           "ID": 29803,
@@ -106,8 +134,16 @@
           "Title": "Thể loại:Món ăn theo thành phần chính"
         },
         {
+          "ID": 3129737,
+          "Title": "Thể loại:Môn thể thao Thế vận hội"
+        },
+        {
           "ID": 2443569,
           "Title": "Thể loại:Môn thể thao theo loại"
+        },
+        {
+          "ID": 32943,
+          "Title": "Thể loại:Môn thể thao đồng đội"
         },
         {
           "ID": 6515,
@@ -116,6 +152,14 @@
         {
           "ID": 189083,
           "Title": "Thể loại:Nghệ thuật biểu diễn"
+        },
+        {
+          "ID": 95385,
+          "Title": "Thể loại:Nghệ thuật hiện đại"
+        },
+        {
+          "ID": 3208569,
+          "Title": "Thể loại:Nghệ thuật đương đại"
         },
         {
           "ID": 3119901,
@@ -404,12 +448,12 @@
           "Title": "Thể loại:Khu vực đông dân ở Hoa Kỳ"
         },
         {
-          "ID": 14518693,
-          "Title": "Thể loại:Mạch nước"
+          "ID": 27726,
+          "Title": "Thể loại:Lục địa"
         },
         {
-          "ID": 3172218,
-          "Title": "Thể loại:Nhà nước"
+          "ID": 14518693,
+          "Title": "Thể loại:Mạch nước"
         },
         {
           "ID": 1698425,
@@ -444,6 +488,10 @@
           "Title": "Thể loại:Quốc gia Nam Mỹ"
         },
         {
+          "ID": 1536570,
+          "Title": "Thể loại:Quốc gia châu Mỹ"
+        },
+        {
           "ID": 61980,
           "Title": "Thể loại:Quốc gia châu Phi"
         },
@@ -476,6 +524,10 @@
           "Title": "Thể loại:Thành phố Hoa Kỳ"
         },
         {
+          "ID": 59813,
+          "Title": "Thể loại:Thành phố châu Âu"
+        },
+        {
           "ID": 1644880,
           "Title": "Thể loại:Thị trấn"
         },
@@ -484,12 +536,24 @@
           "Title": "Thể loại:Thị trấn của Hoa Kỳ"
         },
         {
+          "ID": 10393,
+          "Title": "Thể loại:Thủ đô châu Âu"
+        },
+        {
           "ID": 68032,
           "Title": "Thể loại:Tiểu bang Hoa Kỳ"
         },
         {
           "ID": 14213,
           "Title": "Thể loại:Tượng đài"
+        },
+        {
+          "ID": 232117,
+          "Title": "Thể loại:Tỉnh của Tây Ban Nha"
+        },
+        {
+          "ID": 126141,
+          "Title": "Thể loại:Vùng hành chính Tây Ban Nha"
         },
         {
           "ID": 2455699,
@@ -516,8 +580,16 @@
           "Title": "Thể loại:Đường phố"
         },
         {
+          "ID": 40490,
+          "Title": "Thể loại:Địa lý châu Âu"
+        },
+        {
           "ID": 1362,
           "Title": "Thể loại:Địa lý học"
+        },
+        {
+          "ID": 61937,
+          "Title": "Thể loại:Địa lý theo lục địa"
         },
         {
           "ID": 39431,
@@ -556,6 +628,10 @@
         {
           "ID": 4159,
           "Title": "Thể loại:Khoa học sức khỏe"
+        },
+        {
+          "ID": 320125,
+          "Title": "Thể loại:Lệch lạc tình dục"
         },
         {
           "ID": 15516,
@@ -608,6 +684,10 @@
           "Title": "Thể loại:Cách mạng theo quốc gia"
         },
         {
+          "ID": 183359,
+          "Title": "Thể loại:Cựu quốc gia châu Âu"
+        },
+        {
           "ID": 7451572,
           "Title": "Thể loại:Dân tộc cổ đại"
         },
@@ -640,6 +720,10 @@
           "Title": "Thể loại:Lịch sử công nghệ"
         },
         {
+          "ID": 3640835,
+          "Title": "Thể loại:Lịch sử quân sự theo thế kỷ"
+        },
+        {
           "ID": 1407633,
           "Title": "Thể loại:Lịch sử theo khu vực"
         },
@@ -668,6 +752,10 @@
           "Title": "Thể loại:Sự kiện văn hóa"
         },
         {
+          "ID": 1438969,
+          "Title": "Thể loại:Thảm họa theo năm"
+        },
+        {
           "ID": 3121928,
           "Title": "Thể loại:Thời biểu công nghệ"
         },
@@ -678,6 +766,10 @@
         {
           "ID": 2459451,
           "Title": "Thể loại:Vụ khủng bố"
+        },
+        {
+          "ID": 14928076,
+          "Title": "Thể loại:Xả súng hàng loạt theo quốc gia"
         },
         {
           "ID": 2443826,
@@ -716,6 +808,10 @@
         {
           "ID": 1331,
           "Title": "Thể loại:Toán học"
+        },
+        {
+          "ID": 1408611,
+          "Title": "Thể loại:Toán học sơ cấp"
         },
         {
           "ID": 4152,
@@ -792,6 +888,10 @@
           "Title": "Thể loại:Sự sống"
         },
         {
+          "ID": 75700,
+          "Title": "Thể loại:Thiên thể"
+        },
+        {
           "ID": 73231,
           "Title": "Thể loại:Thảm họa"
         },
@@ -826,6 +926,10 @@
         {
           "ID": 405111,
           "Title": "Thể loại:Động vật theo lục địa"
+        },
+        {
+          "ID": 236704,
+          "Title": "Thể loại:Động vật đã được thuần hóa"
         }
       ]
     },
@@ -858,6 +962,14 @@
           "Title": "Thể loại:Cá nhân"
         },
         {
+          "ID": 32835,
+          "Title": "Thể loại:Cầu thủ bóng đá Pháp"
+        },
+        {
+          "ID": 29810,
+          "Title": "Thể loại:Cầu thủ bóng đá theo quốc tịch"
+        },
+        {
           "ID": 30852,
           "Title": "Thể loại:Cầu thủ bóng đá Ý"
         },
@@ -870,6 +982,14 @@
           "Title": "Thể loại:Diễn viên điện ảnh"
         },
         {
+          "ID": 7505362,
+          "Title": "Thể loại:FIFA Century Club"
+        },
+        {
+          "ID": 494107,
+          "Title": "Thể loại:Hiệp sĩ Garter"
+        },
+        {
           "ID": 49587,
           "Title": "Thể loại:Họ tên"
         },
@@ -880,6 +1000,10 @@
         {
           "ID": 786128,
           "Title": "Thể loại:Nam diễn viên"
+        },
+        {
+          "ID": 2421471,
+          "Title": "Thể loại:Nam diễn viên theo quốc tịch"
         },
         {
           "ID": 3247424,
@@ -914,12 +1038,28 @@
           "Title": "Thể loại:Người Mỹ theo nghề nghiệp"
         },
         {
+          "ID": 3503130,
+          "Title": "Thể loại:Người Pháp theo thế kỷ"
+        },
+        {
+          "ID": 3502092,
+          "Title": "Thể loại:Người Pháp thế kỷ 20"
+        },
+        {
           "ID": 1762554,
           "Title": "Thể loại:Người chết"
         },
         {
+          "ID": 517720,
+          "Title": "Thể loại:Người cổ đại"
+        },
+        {
           "ID": 14733937,
           "Title": "Thể loại:Người sáng lập công ty"
+        },
+        {
+          "ID": 3258339,
+          "Title": "Thể loại:Người sáng lập tôn giáo"
         },
         {
           "ID": 1614168,
@@ -932,6 +1072,10 @@
         {
           "ID": 241269,
           "Title": "Thể loại:Người theo nghề nghiệp"
+        },
+        {
+          "ID": 2442840,
+          "Title": "Thể loại:Người theo nghề nghiệp và thế kỷ"
         },
         {
           "ID": 2442841,
@@ -956,6 +1100,10 @@
         {
           "ID": 3247893,
           "Title": "Thể loại:Người viết tiểu sử"
+        },
+        {
+          "ID": 1434418,
+          "Title": "Thể loại:Người ăn chay"
         },
         {
           "ID": 341975,
@@ -994,12 +1142,24 @@
           "Title": "Thể loại:Nhà văn"
         },
         {
+          "ID": 14172250,
+          "Title": "Thể loại:Nhà văn Pháp theo thế kỷ"
+        },
+        {
           "ID": 2493700,
           "Title": "Thể loại:Nhà văn giả tưởng"
         },
         {
+          "ID": 43399,
+          "Title": "Thể loại:Nhà văn thế kỷ 20"
+        },
+        {
           "ID": 7433,
           "Title": "Thể loại:Nhân vật"
+        },
+        {
+          "ID": 3375407,
+          "Title": "Thể loại:Nhân vật YouTube theo quốc tịch"
         },
         {
           "ID": 11096134,
@@ -1012,6 +1172,10 @@
         {
           "ID": 103991,
           "Title": "Thể loại:Nhân vật giả tưởng"
+        },
+        {
+          "ID": 3221710,
+          "Title": "Thể loại:Nhân vật trong ngành công nghiệp trò chơi máy tính"
         },
         {
           "ID": 1297885,
@@ -1038,6 +1202,10 @@
           "Title": "Thể loại:Sinh theo năm"
         },
         {
+          "ID": 38488,
+          "Title": "Thể loại:Sinh theo thế kỷ"
+        },
+        {
           "ID": 19345,
           "Title": "Thể loại:Sinh thế kỷ 18"
         },
@@ -1052,6 +1220,14 @@
         {
           "ID": 39246,
           "Title": "Thể loại:Thầy thuốc"
+        },
+        {
+          "ID": 69786,
+          "Title": "Thể loại:Triết gia theo thế kỷ"
+        },
+        {
+          "ID": 1325921,
+          "Title": "Thể loại:Triết gia thế kỷ 20"
         },
         {
           "ID": 14669619,
@@ -1150,6 +1326,14 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 1288388,
+          "Title": "Thể loại:Mười hai vị thần trên đỉnh Olympus"
+        },
+        {
+          "ID": 3200571,
+          "Title": "Thể loại:Nam thần"
+        },
+        {
           "ID": 14200742,
           "Title": "Thể loại:Nhân loại học tôn giáo"
         },
@@ -1166,8 +1350,20 @@
           "Title": "Thể loại:Phê bình tôn giáo"
         },
         {
+          "ID": 14674438,
+          "Title": "Thể loại:Thần"
+        },
+        {
           "ID": 32556,
           "Title": "Thể loại:Thần học"
+        },
+        {
+          "ID": 442964,
+          "Title": "Thể loại:Thần thánh"
+        },
+        {
+          "ID": 14674457,
+          "Title": "Thể loại:Thần thánh theo loại"
         },
         {
           "ID": 7553620,
@@ -1258,6 +1454,10 @@
         {
           "ID": 12486402,
           "Title": "Thể loại:Nhóm Hồi giáo chủ nghĩa"
+        },
+        {
+          "ID": 45219,
+          "Title": "Thể loại:Nhóm xã hội"
         },
         {
           "ID": 14247986,

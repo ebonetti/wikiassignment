@@ -52,6 +52,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 17669,
+          "Title": "Categoria:Cuntinenti"
+        },
+        {
           "ID": 5960,
           "Title": "Categoria:Geografia"
         },
@@ -100,6 +104,10 @@
         {
           "ID": 1248,
           "Title": "Categoria:Matematica"
+        },
+        {
+          "ID": 17975,
+          "Title": "Categoria:Matematica di basa"
         }
       ]
     },

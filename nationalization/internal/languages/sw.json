@@ -74,6 +74,10 @@
           "Title": "Jamii:Utamaduni nchi kwa nchi"
         },
         {
+          "ID": 38078,
+          "Title": "Jamii:Vilabu Mpira nchi kwa nchi"
+        },
+        {
           "ID": 38075,
           "Title": "Jamii:Vilabu Mpira vya Italia"
         },
@@ -92,8 +96,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 4028,
+          "Title": "Jamii:Bara"
+        },
+        {
           "ID": 1793,
           "Title": "Jamii:Jiografia"
+        },
+        {
+          "ID": 44454,
+          "Title": "Jamii:Jiografia bara kwa bara"
+        },
+        {
+          "ID": 29077,
+          "Title": "Jamii:Jiografia ya Ulaya"
+        },
+        {
+          "ID": 46157,
+          "Title": "Jamii:Kanda ya Hispania"
         },
         {
           "ID": 6839,
@@ -108,8 +128,20 @@
           "Title": "Jamii:Miji"
         },
         {
+          "ID": 3438,
+          "Title": "Jamii:Miji Mikuu Ulaya"
+        },
+        {
           "ID": 4122,
           "Title": "Jamii:Miji ya Marekani"
+        },
+        {
+          "ID": 4080,
+          "Title": "Jamii:Miji ya Ulaya"
+        },
+        {
+          "ID": 46001,
+          "Title": "Jamii:Mikoa ya Hispania"
         },
         {
           "ID": 2192,
@@ -122,6 +154,10 @@
         {
           "ID": 3195,
           "Title": "Jamii:Nchi za Afrika"
+        },
+        {
+          "ID": 4124,
+          "Title": "Jamii:Nchi za Amerika"
         },
         {
           "ID": 5980,
@@ -184,6 +220,10 @@
           "Title": "Jamii:Mapinduzi"
         },
         {
+          "ID": 7354,
+          "Title": "Jamii:Nchi ya Kihistoria ya Ulaya"
+        },
+        {
           "ID": 7040,
           "Title": "Jamii:Vita"
         }
@@ -222,6 +262,10 @@
         {
           "ID": 3221,
           "Title": "Jamii:Kemia"
+        },
+        {
+          "ID": 10065,
+          "Title": "Jamii:Kiolwa cha angani"
         },
         {
           "ID": 7743,
@@ -266,8 +310,16 @@
           "Title": "Jamii:Waandishi"
         },
         {
+          "ID": 17257,
+          "Title": "Jamii:Wachezaji mpira nchi kwa nchi"
+        },
+        {
           "ID": 99100,
           "Title": "Jamii:Wachezaji mpira wa Italia"
+        },
+        {
+          "ID": 36384,
+          "Title": "Jamii:Wachezaji mpira wa Ufaransa"
         },
         {
           "ID": 14866,
@@ -386,6 +438,10 @@
         {
           "ID": 30624,
           "Title": "Jamii:Elimu nchi kwa nchi"
+        },
+        {
+          "ID": 113295,
+          "Title": "Jamii:Haki"
         },
         {
           "ID": 6782,

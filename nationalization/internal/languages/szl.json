@@ -70,6 +70,10 @@
           "Title": "Kategoryjo:Kůnšt"
         },
         {
+          "ID": 5268,
+          "Title": "Kategoryjo:Kůnšt wspůučesny"
+        },
+        {
           "ID": 10856,
           "Title": "Kategoryjo:Literacke utwory"
         },
@@ -156,6 +160,14 @@
           "Title": "Kategoryjo:Geografijo"
         },
         {
+          "ID": 12177,
+          "Title": "Kategoryjo:Geografijo Ojropy"
+        },
+        {
+          "ID": 12179,
+          "Title": "Kategoryjo:Geografijo podug kůntynyntůw"
+        },
+        {
           "ID": 12196,
           "Title": "Kategoryjo:Geografijo uosadńictwa"
         },
@@ -164,8 +176,16 @@
           "Title": "Kategoryjo:Geomorfologijo"
         },
         {
+          "ID": 665,
+          "Title": "Kategoryjo:Kůntynynty"
+        },
+        {
           "ID": 723,
           "Title": "Kategoryjo:Mjasta"
+        },
+        {
+          "ID": 731,
+          "Title": "Kategoryjo:Mjasta Ojropy"
         },
         {
           "ID": 12696,
@@ -210,6 +230,10 @@
         {
           "ID": 7182,
           "Title": "Kategoryjo:Stany USA"
+        },
+        {
+          "ID": 13112,
+          "Title": "Kategoryjo:Stolice państwůw Ojropy"
         },
         {
           "ID": 12363,
@@ -263,6 +287,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 12822,
+          "Title": "Kategoryjo:Historyczne państwa we Ojropje"
+        },
         {
           "ID": 3829,
           "Title": "Kategoryjo:Historyjo"
@@ -322,6 +350,10 @@
         {
           "ID": 7390,
           "Title": "Kategoryjo:Anatůmijo"
+        },
+        {
+          "ID": 12565,
+          "Title": "Kategoryjo:Astrůnůmiczne uobjekty"
         },
         {
           "ID": 13338,
@@ -506,6 +538,10 @@
           "Title": "Kategoryjo:Antropologijo religiji"
         },
         {
+          "ID": 340,
+          "Title": "Kategoryjo:Bůstwa"
+        },
+        {
           "ID": 5677,
           "Title": "Kategoryjo:Religije"
         },
@@ -538,6 +574,10 @@
         {
           "ID": 12995,
           "Title": "Kategoryjo:Psychologijo"
+        },
+        {
+          "ID": 12264,
+          "Title": "Kategoryjo:Społeczne grupy"
         },
         {
           "ID": 12778,

@@ -52,6 +52,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6766,
+          "Title": "Category:Caasimadaha yurub"
+        },
+        {
           "ID": 18331,
           "Title": "Category:Dalalka xubnaha ka ah qaramada midoobay"
         },
@@ -74,6 +78,10 @@
         {
           "ID": 18820,
           "Title": "Category:Magaalooyinka"
+        },
+        {
+          "ID": 2095,
+          "Title": "Category:Qaaradaha"
         },
         {
           "ID": 3616,
@@ -129,6 +137,10 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 16143,
+          "Title": "Category:Aasaaska xisaabta"
+        },
         {
           "ID": 16129,
           "Title": "Category:Laamaha xisaabta"

@@ -48,8 +48,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3699,
+          "Title": "Categorîa:Continenti"
+        },
+        {
           "ID": 1434,
           "Title": "Categorîa:Geografia"
+        },
+        {
+          "ID": 3695,
+          "Title": "Categorîa:Geografia de l'Euròpa"
         },
         {
           "ID": 1874,
@@ -94,6 +102,10 @@
         {
           "ID": 14253,
           "Title": "Categorîa:Çittæ"
+        },
+        {
+          "ID": 5044,
+          "Title": "Categorîa:Çittæ d'Europa"
         },
         {
           "ID": 5039,
