@@ -6,7 +6,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ebonetti/wikiassignment/nationalization/internal"
+	"github.com/negapedia/wikiassignment/nationalization/internal"
 )
 
 //New returns a Nationalization in the specified language if it does exist.

@@ -5,8 +5,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/ebonetti/wikiassignment/nationalization"
-	"github.com/ebonetti/wikidump"
+	"github.com/negapedia/wikiassignment/nationalization"
+	"github.com/negapedia/wikidump"
 
 	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/absorbingmarkovchain"
