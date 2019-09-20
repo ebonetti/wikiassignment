@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ebonetti/wikiassignment/nationalization"
+	"github.com/negapedia/wikiassignment/nationalization"
 )
 
 func TestUnit(t *testing.T) {

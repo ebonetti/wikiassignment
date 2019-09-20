@@ -15,15 +15,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ebonetti/wikipage"
+	"github.com/negapedia/wikipage"
 
 	json "github.com/json-iterator/go"
 
 	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/absorbingmarkovchain"
-	"github.com/ebonetti/wikiassignment"
-	"github.com/ebonetti/wikiassignment/nationalization"
-	"github.com/ebonetti/wikidump"
+	"github.com/negapedia/wikiassignment"
+	"github.com/negapedia/wikiassignment/nationalization"
+	"github.com/negapedia/wikidump"
 )
 
 var lang, date, tmpDir string
