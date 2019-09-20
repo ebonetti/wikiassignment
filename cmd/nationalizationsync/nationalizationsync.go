@@ -9,7 +9,7 @@ import (
 
 	json "github.com/json-iterator/go"
 
-	"github.com/ebonetti/wikiassignment/nationalization"
+	"github.com/negapedia/wikiassignment/nationalization"
 )
 
 func main() {

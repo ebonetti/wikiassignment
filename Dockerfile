@@ -4,7 +4,7 @@ FROM ebonetti/golang-petsc
 ENV GO_DIR /usr/local/go
 ENV GOPATH /go
 ENV PATH $GOPATH/bin:$GO_DIR/bin:$PATH
-ENV PROJECT github.com/ebonetti/wikiassignment
+ENV PROJECT github.com/negapedia/wikiassignment
 ADD . $GOPATH/src/$PROJECT
 RUN go get $PROJECT/...;
 WORKDIR /data
