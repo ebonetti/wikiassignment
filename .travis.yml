@@ -23,8 +23,10 @@ before_install:
   - |
     docker build -t test-env -<<<'
     FROM ebonetti/golang-petsc
-    RUN go get github.com/negapedia/wikidump/...;
     WORKDIR /go/src/github.com/negapedia/wikiassignment
+    RUN  set -eux; \
+    go get github.com/negapedia/wikidump/...; \
+    go get ./...;
     '
   - docker run -v $PWD:/go/src/github.com/negapedia/wikiassignment -d --name test-env test-env sleep 600
 
