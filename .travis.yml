@@ -24,15 +24,13 @@ before_install:
     docker build -t test-env -<<<'
     FROM ebonetti/golang-petsc
     WORKDIR /go/src/github.com/negapedia/wikiassignment
-    RUN  set -eux; \
-    go get github.com/negapedia/wikidump/...; \
-    go get ./...;
+    RUN go get -t github.com/negapedia/wikiassignment/...
     '
-  - docker run -v $PWD:/go/src/github.com/negapedia/wikiassignment -d --name test-env test-env sleep 600
+  - docker run -v $PWD/coverage:/go/src/github.com/negapedia/wikiassignment/coverage -d --name test-env test-env sleep 600
 
 script:
-  - docker exec test-env go test -race ./... -coverprofile=coverage.out
-  - sonar-scanner -Dsonar.projectKey=negapedia_wikiassignment -Dsonar.projectName=wikiassignment -Dsonar.projectVersion=1.0 -Dsonar.sources=. -Dsonar.tests=. -Dsonar.test.inclusions=**/*_test.go -Dsonar.go.coverage.reportPaths=coverage.out
+  - docker exec test-env go test -race ./... -coverprofile=coverage/coverage.out
+  - sonar-scanner -Dsonar.projectKey=negapedia_wikiassignment -Dsonar.projectName=wikiassignment -Dsonar.projectVersion=1.0 -Dsonar.sources=. -Dsonar.tests=. -Dsonar.test.inclusions=**/*_test.go -Dsonar.go.coverage.reportPaths=coverage/coverage.out
 
 after_script:
 - docker rm -f test-env
