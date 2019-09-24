@@ -1,11 +1,16 @@
 wikiassignment
 ========
 
-[![GoDoc Reference](https://godoc.org/github.com/negapedia/wikiassignment?status.svg)](http://godoc.org/github.com/negapedia/wikiassignment)
-[![Build Status](https://travis-ci.org/negapedia/wikiassignment.svg?branch=master)](https://travis-ci.org/negapedia/wikiassignment)
-[![Coverage Status](https://coveralls.io/repos/negapedia/wikiassignment/badge.svg?branch=master)](https://coveralls.io/r/negapedia/wikiassignment?branch=master)
+[![GoDoc Reference](https://godoc.org/github.com/negapedia/wikiassignment?status.svg)](https://godoc.org/github.com/negapedia/wikiassignment)
+[![Build Status](https://travis-ci.org/negapedia/wikiassignment.svg?branch=develop)](https://travis-ci.org/negapedia/wikiassignment)
 [![Go Report Card](https://goreportcard.com/badge/github.com/negapedia/wikiassignment)](https://goreportcard.com/report/github.com/negapedia/wikiassignment)
-
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=bugs)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=coverage)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=ncloc)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=security_rating)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=negapedia_wikiassignment&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=negapedia_wikiassignment)
 Description
 -----------
 
