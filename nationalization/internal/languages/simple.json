@@ -38,6 +38,10 @@
           "Title": "Category:Brazilian television series"
         },
         {
+          "ID": 336870,
+          "Title": "Category:Categories named after television series"
+        },
+        {
           "ID": 209587,
           "Title": "Category:Color"
         },
@@ -100,6 +104,10 @@
         {
           "ID": 41712,
           "Title": "Category:Folklore"
+        },
+        {
+          "ID": 241695,
+          "Title": "Category:Food"
         },
         {
           "ID": 38501,
@@ -188,6 +196,10 @@
         {
           "ID": 381137,
           "Title": "Category:Musical quartets"
+        },
+        {
+          "ID": 703087,
+          "Title": "Category:News media"
         },
         {
           "ID": 43164,
@@ -592,6 +604,10 @@
           "Title": "Category:Astronomical objects"
         },
         {
+          "ID": 326305,
+          "Title": "Category:Biomes"
+        },
+        {
           "ID": 9359,
           "Title": "Category:Chemical compounds"
         },
@@ -602,6 +618,10 @@
         {
           "ID": 5219,
           "Title": "Category:Chemistry"
+        },
+        {
+          "ID": 272749,
+          "Title": "Category:Conservation"
         },
         {
           "ID": 42284,
@@ -618,6 +638,14 @@
         {
           "ID": 30269,
           "Title": "Category:Ecology"
+        },
+        {
+          "ID": 52944,
+          "Title": "Category:Ecosystems"
+        },
+        {
+          "ID": 117878,
+          "Title": "Category:Environment"
         },
         {
           "ID": 9286,
@@ -738,6 +766,10 @@
           "Title": "Category:Births by time"
         },
         {
+          "ID": 704646,
+          "Title": "Category:Company founders"
+        },
+        {
           "ID": 73768,
           "Title": "Category:Cuban politicians"
         },
@@ -764,6 +796,10 @@
         {
           "ID": 483970,
           "Title": "Category:Footballers by nationality"
+        },
+        {
+          "ID": 60186,
+          "Title": "Category:French actors"
         },
         {
           "ID": 46603,
@@ -848,6 +884,10 @@
         {
           "ID": 5375,
           "Title": "Category:Philosophers"
+        },
+        {
+          "ID": 416803,
+          "Title": "Category:Philosophers by century"
         },
         {
           "ID": 47561,
@@ -1130,6 +1170,10 @@
           "Title": "Category:Printing"
         },
         {
+          "ID": 298575,
+          "Title": "Category:Publishing"
+        },
+        {
           "ID": 5840,
           "Title": "Category:Software"
         },
@@ -1162,8 +1206,8 @@
   ],
   "Filters": [
     {
-      "ID": 18477,
-      "Title": "Category:Disambiguation"
+      "ID": 687790,
+      "Title": "Category:Disambiguation pages"
     },
     {
       "ID": 96695,

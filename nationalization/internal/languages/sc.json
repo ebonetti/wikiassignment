@@ -6,12 +6,12 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 11890,
-          "Title": "Categoria:Alimentos"
+          "ID": 11891,
+          "Title": "Categoria:Alimentatzione"
         },
         {
-          "ID": 11891,
-          "Title": "Categoria:Alimèntatzione"
+          "ID": 11890,
+          "Title": "Categoria:Alimentos"
         },
         {
           "ID": 12246,
@@ -80,6 +80,10 @@
         {
           "ID": 8983,
           "Title": "Categoria:Series televisivas"
+        },
+        {
+          "ID": 17149,
+          "Title": "Categoria:Sessualidade"
         },
         {
           "ID": 8982,
@@ -215,6 +219,10 @@
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
       "Categories": [
+        {
+          "ID": 18700,
+          "Title": "Categoria:Ambiente"
+        },
         {
           "ID": 10810,
           "Title": "Categoria:Animales"
@@ -358,6 +366,10 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 7638,
+          "Title": "Categoria:Editoria"
+        },
+        {
           "ID": 13394,
           "Title": "Categoria:Imprenta"
         },
@@ -381,6 +393,10 @@
     }
   ],
   "Filters": [
+    {
+      "ID": 18707,
+      "Title": "Categoria:Categorias cuadas"
+    },
     {
       "ID": 7282,
       "Title": "Categoria:Pàginas disambìguas"

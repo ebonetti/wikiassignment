@@ -460,10 +460,6 @@
           "Title": "Thể loại:Nơi chốn"
         },
         {
-          "ID": 13989359,
-          "Title": "Thể loại:Nơi đông dân"
-        },
-        {
           "ID": 14213496,
           "Title": "Thể loại:Nơi ở hoàng gia"
         },
@@ -716,6 +712,10 @@
           "Title": "Thể loại:Lịch sử chính trị"
         },
         {
+          "ID": 1693475,
+          "Title": "Thể loại:Lịch sử các dân tộc"
+        },
+        {
           "ID": 68461,
           "Title": "Thể loại:Lịch sử công nghệ"
         },
@@ -786,6 +786,10 @@
           "Title": "Thể loại:Các đơn vị đo"
         },
         {
+          "ID": 15482717,
+          "Title": "Thể loại:Hình học cổ điển"
+        },
+        {
           "ID": 19439,
           "Title": "Thể loại:Hệ thống đo lường"
         },
@@ -828,12 +832,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 141870,
+          "Title": "Thể loại:Bảo vệ môi trường"
+        },
+        {
+          "ID": 147813,
+          "Title": "Thể loại:Bảo vệ thiên nhiên"
+        },
+        {
           "ID": 1699313,
           "Title": "Thể loại:Chuyên ngành khoa học"
         },
         {
           "ID": 1678405,
           "Title": "Thể loại:Chất hóa học"
+        },
+        {
+          "ID": 7526594,
+          "Title": "Thể loại:Chủ nghĩa môi trường"
         },
         {
           "ID": 1406728,
@@ -850,6 +866,10 @@
         {
           "ID": 1648,
           "Title": "Thể loại:Hóa học"
+        },
+        {
+          "ID": 14333758,
+          "Title": "Thể loại:Hệ thống sinh thái"
         },
         {
           "ID": 12958,
@@ -876,8 +896,20 @@
           "Title": "Thể loại:Loại sao"
         },
         {
+          "ID": 32789,
+          "Title": "Thể loại:Môi trường"
+        },
+        {
+          "ID": 11503175,
+          "Title": "Thể loại:Môi trường học"
+        },
+        {
           "ID": 17168,
           "Title": "Thể loại:Protein"
+        },
+        {
+          "ID": 1407548,
+          "Title": "Thể loại:Quần xã sinh vật"
         },
         {
           "ID": 1407,
@@ -976,6 +1008,10 @@
         {
           "ID": 27729,
           "Title": "Thể loại:Diễn viên"
+        },
+        {
+          "ID": 55436,
+          "Title": "Thể loại:Diễn viên Pháp"
         },
         {
           "ID": 56738,
@@ -1570,6 +1606,10 @@
           "Title": "Thể loại:Công nghệ thông tin"
         },
         {
+          "ID": 15132483,
+          "Title": "Thể loại:Công nghệ thông tin và truyền thông"
+        },
+        {
           "ID": 7675,
           "Title": "Thể loại:Cơ sở dữ liệu"
         },
@@ -1646,8 +1686,16 @@
           "Title": "Thể loại:Máy tính"
         },
         {
+          "ID": 14734267,
+          "Title": "Thể loại:Người xuất bản"
+        },
+        {
           "ID": 2314,
           "Title": "Thể loại:Phần mềm"
+        },
+        {
+          "ID": 3271073,
+          "Title": "Thể loại:Quy tắc"
         },
         {
           "ID": 14974,
@@ -1676,6 +1724,10 @@
         {
           "ID": 17654,
           "Title": "Thể loại:Tiêu chuẩn"
+        },
+        {
+          "ID": 136595,
+          "Title": "Thể loại:Xuất bản"
         },
         {
           "ID": 9383,

@@ -536,6 +536,10 @@
           "Title": "Kategorie:Katastrophe"
         },
         {
+          "ID": 16183,
+          "Title": "Kategorie:Naturschutz"
+        },
+        {
           "ID": 8053,
           "Title": "Kategorie:Naturwissenschaft"
         },
@@ -556,6 +560,14 @@
           "Title": "Kategorie:Physik"
         },
         {
+          "ID": 13365,
+          "Title": "Kategorie:Umwelt- und Naturschutz"
+        },
+        {
+          "ID": 13364,
+          "Title": "Kategorie:Umweltschutz"
+        },
+        {
           "ID": 13437,
           "Title": "Kategorie:Vielzellige Tiere"
         },
@@ -574,6 +586,10 @@
         {
           "ID": 13366,
           "Title": "Kategorie:Ökologie"
+        },
+        {
+          "ID": 17524,
+          "Title": "Kategorie:Ökosystem"
         }
       ]
     },
@@ -1004,6 +1020,14 @@
         {
           "ID": 9940,
           "Title": "Kategorie:Verkehrswesen"
+        },
+        {
+          "ID": 13527,
+          "Title": "Kategorie:Verlagswesen"
+        },
+        {
+          "ID": 17675,
+          "Title": "Kategorie:Verleger"
         },
         {
           "ID": 10133,

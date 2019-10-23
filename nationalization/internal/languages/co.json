@@ -56,10 +56,6 @@
           "Title": "Categoria:Cuntinenti"
         },
         {
-          "ID": 5960,
-          "Title": "Categoria:Geografia"
-        },
-        {
           "ID": 5959,
           "Title": "Categoria:Giugrafia"
         },
@@ -115,6 +111,10 @@
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
       "Categories": [
+        {
+          "ID": 11699,
+          "Title": "Categoria:Ambiente"
+        },
         {
           "ID": 11767,
           "Title": "Categoria:Anatumia"

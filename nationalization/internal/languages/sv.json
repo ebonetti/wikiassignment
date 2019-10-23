@@ -568,6 +568,10 @@
           "Title": "Kategori:Historia"
         },
         {
+          "ID": 776715,
+          "Title": "Kategori:Historia efter folkslag"
+        },
+        {
           "ID": 722952,
           "Title": "Kategori:Historia efter land"
         },
@@ -668,12 +672,20 @@
           "Title": "Kategori:Astronomiska objekt"
         },
         {
+          "ID": 514437,
+          "Title": "Kategori:Biomer"
+        },
+        {
           "ID": 53648,
           "Title": "Kategori:Djur"
         },
         {
           "ID": 106121,
           "Title": "Kategori:Ekologi"
+        },
+        {
+          "ID": 677729,
+          "Title": "Kategori:Ekologism"
         },
         {
           "ID": 1711529,
@@ -716,12 +728,20 @@
           "Title": "Kategori:Livskraftiga arter"
         },
         {
+          "ID": 126408,
+          "Title": "Kategori:Miljö"
+        },
+        {
           "ID": 92473,
           "Title": "Kategori:Miljövetenskap"
         },
         {
           "ID": 459209,
           "Title": "Kategori:Natur"
+        },
+        {
+          "ID": 84490,
+          "Title": "Kategori:Naturskydd"
         },
         {
           "ID": 54274,
@@ -844,6 +864,10 @@
         {
           "ID": 228319,
           "Title": "Kategori:Franska journalister"
+        },
+        {
+          "ID": 55529,
+          "Title": "Kategori:Franska skådespelare"
         },
         {
           "ID": 215156,
@@ -1188,8 +1212,8 @@
           "Title": "Kategori:Mynt"
         },
         {
-          "ID": 53889,
-          "Title": "Kategori:Nationalflaggor"
+          "ID": 8326154,
+          "Title": "Kategori:Nationsflaggor"
         },
         {
           "ID": 54421,
@@ -1284,6 +1308,10 @@
         {
           "ID": 6363097,
           "Title": "Kategori:Formgivning"
+        },
+        {
+          "ID": 404987,
+          "Title": "Kategori:Förläggare"
         },
         {
           "ID": 1877205,

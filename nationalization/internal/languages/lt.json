@@ -186,10 +186,6 @@
           "Title": "Kategorija:Scenos menas"
         },
         {
-          "ID": 5607,
-          "Title": "Kategorija:Seksas"
-        },
-        {
           "ID": 21242,
           "Title": "Kategorija:Sekso technika"
         },
@@ -334,6 +330,10 @@
         {
           "ID": 197085,
           "Title": "Kategorija:Rūmai"
+        },
+        {
+          "ID": 272352,
+          "Title": "Kategorija:Savivaldybės"
         },
         {
           "ID": 5936,
@@ -492,6 +492,10 @@
           "Title": "Kategorija:Anatomija"
         },
         {
+          "ID": 161154,
+          "Title": "Kategorija:Aplinkos apsauga"
+        },
+        {
           "ID": 96417,
           "Title": "Kategorija:Aplinkotyra"
         },
@@ -522,6 +526,10 @@
         {
           "ID": 21383,
           "Title": "Kategorija:Ekologija"
+        },
+        {
+          "ID": 376667,
+          "Title": "Kategorija:Ekosistema"
         },
         {
           "ID": 2328,
@@ -684,6 +692,10 @@
         {
           "ID": 230769,
           "Title": "Kategorija:Politologai"
+        },
+        {
+          "ID": 57986,
+          "Title": "Kategorija:Prancūzijos aktoriai"
         },
         {
           "ID": 51558,
@@ -938,12 +950,20 @@
           "Title": "Kategorija:Karinė technika"
         },
         {
+          "ID": 44753,
+          "Title": "Kategorija:Leidyba"
+        },
+        {
           "ID": 65497,
           "Title": "Kategorija:Mašinos"
         },
         {
           "ID": 284693,
           "Title": "Kategorija:Mechanikos inžinerija"
+        },
+        {
+          "ID": 148510,
+          "Title": "Kategorija:Poligrafija"
         },
         {
           "ID": 298897,
@@ -956,6 +976,10 @@
         {
           "ID": 2567,
           "Title": "Kategorija:Programinė įranga"
+        },
+        {
+          "ID": 288123,
+          "Title": "Kategorija:Spaustuvininkai"
         },
         {
           "ID": 15733,

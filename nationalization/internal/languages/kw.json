@@ -42,6 +42,10 @@
           "Title": "Klass:Henhwedhlow"
         },
         {
+          "ID": 1026,
+          "Title": "Klass:Ilow"
+        },
+        {
           "ID": 2759,
           "Title": "Klass:Lyenn"
         },
@@ -52,10 +56,6 @@
         {
           "ID": 4413,
           "Title": "Klass:Sport"
-        },
-        {
-          "ID": 1026,
-          "Title": "Klass:Ylow"
         }
       ]
     },
@@ -182,6 +182,10 @@
         {
           "ID": 1030,
           "Title": "Klass:Kymystry"
+        },
+        {
+          "ID": 5711,
+          "Title": "Klass:Kyrghynnedh"
         },
         {
           "ID": 1757,

@@ -490,6 +490,10 @@
           "Title": "Category:Western classical music styles"
         },
         {
+          "ID": 35321965,
+          "Title": "Category:Wikipedia categories named after television series"
+        },
+        {
           "ID": 774158,
           "Title": "Category:Witchcraft"
         },
@@ -754,12 +758,12 @@
           "Title": "Category:Health care"
         },
         {
-          "ID": 964864,
-          "Title": "Category:Health sciences"
+          "ID": 1006080,
+          "Title": "Category:Health care occupations"
         },
         {
-          "ID": 1006080,
-          "Title": "Category:Healthcare occupations"
+          "ID": 964864,
+          "Title": "Category:Health sciences"
         },
         {
           "ID": 2294735,
@@ -844,6 +848,10 @@
           "Title": "Category:History by country and topic"
         },
         {
+          "ID": 2032160,
+          "Title": "Category:History by ethnic group"
+        },
+        {
           "ID": 18985014,
           "Title": "Category:History by location"
         },
@@ -890,6 +898,10 @@
         {
           "ID": 1299694,
           "Title": "Category:Political repression"
+        },
+        {
+          "ID": 30951338,
+          "Title": "Category:Revolution"
         },
         {
           "ID": 871539,
@@ -1000,6 +1012,10 @@
           "Title": "Category:Astronomical objects"
         },
         {
+          "ID": 1611690,
+          "Title": "Category:Biomes"
+        },
+        {
           "ID": 13622311,
           "Title": "Category:Breeds"
         },
@@ -1014,6 +1030,10 @@
         {
           "ID": 691185,
           "Title": "Category:Chemistry"
+        },
+        {
+          "ID": 737124,
+          "Title": "Category:Conservation"
         },
         {
           "ID": 745842,
@@ -1036,12 +1056,28 @@
           "Title": "Category:Ecology"
         },
         {
+          "ID": 13273551,
+          "Title": "Category:Ecosystems"
+        },
+        {
           "ID": 39951547,
           "Title": "Category:Edible fruits"
         },
         {
+          "ID": 24946646,
+          "Title": "Category:Environmental protection"
+        },
+        {
           "ID": 1645754,
           "Title": "Category:Environmental science"
+        },
+        {
+          "ID": 38349629,
+          "Title": "Category:Environmental studies"
+        },
+        {
+          "ID": 737047,
+          "Title": "Category:Environmentalism"
         },
         {
           "ID": 5200572,
@@ -1058,6 +1094,10 @@
         {
           "ID": 2389032,
           "Title": "Category:Life"
+        },
+        {
+          "ID": 3103170,
+          "Title": "Category:Natural environment"
         },
         {
           "ID": 697022,
@@ -1272,6 +1312,10 @@
         {
           "ID": 19510073,
           "Title": "Category:French Roman Catholic saints"
+        },
+        {
+          "ID": 1094036,
+          "Title": "Category:French actors"
         },
         {
           "ID": 20301737,
@@ -1958,8 +2002,24 @@
           "Title": "Category:Mobile applications"
         },
         {
+          "ID": 25248365,
+          "Title": "Category:Print production"
+        },
+        {
           "ID": 774014,
           "Title": "Category:Printing"
+        },
+        {
+          "ID": 3837682,
+          "Title": "Category:Publishers (people)"
+        },
+        {
+          "ID": 1001911,
+          "Title": "Category:Publishing"
+        },
+        {
+          "ID": 21805874,
+          "Title": "Category:Rules"
         },
         {
           "ID": 691633,

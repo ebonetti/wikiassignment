@@ -26,10 +26,6 @@
           "Title": "Luokka:Elokuvat"
         },
         {
-          "ID": 273018,
-          "Title": "Luokka:Elämäkerrat ja muistelmat"
-        },
-        {
           "ID": 700898,
           "Title": "Luokka:Esittävät taiteet"
         },
@@ -306,6 +302,10 @@
           "Title": "Luokka:Virtuaaliyhteisöt"
         },
         {
+          "ID": 1527665,
+          "Title": "Luokka:Väri"
+        },
+        {
           "ID": 21082,
           "Title": "Luokka:Värit"
         },
@@ -556,6 +556,10 @@
           "Title": "Luokka:Vallankumoukset"
         },
         {
+          "ID": 1523427,
+          "Title": "Luokka:Vallankumous"
+        },
+        {
           "ID": 163282,
           "Title": "Luokka:Vuosipäivät"
         },
@@ -612,6 +616,10 @@
           "Title": "Luokka:Ekologia"
         },
         {
+          "ID": 671515,
+          "Title": "Luokka:Ekosysteemi"
+        },
+        {
           "ID": 21217,
           "Title": "Luokka:Eläimet"
         },
@@ -636,6 +644,10 @@
           "Title": "Luokka:Hedelmät"
         },
         {
+          "ID": 34459,
+          "Title": "Luokka:Kasvillisuusvyöhykkeet"
+        },
+        {
           "ID": 20744,
           "Title": "Luokka:Kasvit"
         },
@@ -650,6 +662,10 @@
         {
           "ID": 870070,
           "Title": "Luokka:Kotieläimet"
+        },
+        {
+          "ID": 29327,
+          "Title": "Luokka:Luonnonsuojelu"
         },
         {
           "ID": 25089,
@@ -684,6 +700,14 @@
           "Title": "Luokka:Yhdisteet"
         },
         {
+          "ID": 42410,
+          "Title": "Luokka:Ympäristö"
+        },
+        {
+          "ID": 27709,
+          "Title": "Luokka:Ympäristönsuojelu"
+        },
+        {
           "ID": 275176,
           "Title": "Luokka:Ympäristötiede"
         }
@@ -716,6 +740,10 @@
         {
           "ID": 201771,
           "Title": "Luokka:Elokuvahahmot"
+        },
+        {
+          "ID": 273018,
+          "Title": "Luokka:Elämäkerrat ja muistelmat"
         },
         {
           "ID": 872471,
@@ -822,6 +850,10 @@
           "Title": "Luokka:Ranskalaiset jalkapalloilijat"
         },
         {
+          "ID": 51690,
+          "Title": "Luokka:Ranskalaiset näyttelijät"
+        },
+        {
           "ID": 332461,
           "Title": "Luokka:Ranskalaiset toimittajat"
         },
@@ -844,6 +876,10 @@
         {
           "ID": 1309434,
           "Title": "Luokka:Uskontojen perustajat"
+        },
+        {
+          "ID": 1523426,
+          "Title": "Luokka:Vallankumoukselliset"
         },
         {
           "ID": 600183,
@@ -1106,6 +1142,14 @@
           "Title": "Luokka:Konetekniikka"
         },
         {
+          "ID": 27900,
+          "Title": "Luokka:Kustannustoimi"
+        },
+        {
+          "ID": 30343,
+          "Title": "Luokka:Kustantajat"
+        },
+        {
           "ID": 21059,
           "Title": "Luokka:Liikenne"
         },
@@ -1148,6 +1192,10 @@
         {
           "ID": 20074,
           "Title": "Luokka:Standardit"
+        },
+        {
+          "ID": 1009940,
+          "Title": "Luokka:Säännöt"
         },
         {
           "ID": 26714,

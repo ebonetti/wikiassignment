@@ -286,6 +286,10 @@
           "Title": "Kategori:Tårn"
         },
         {
+          "ID": 580761,
+          "Title": "Kategori:Ukeblader"
+        },
+        {
           "ID": 14135,
           "Title": "Kategori:Underholdning"
         },
@@ -311,6 +315,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 189980,
+          "Title": "Kategori:Bebyggelsestyper"
+        },
         {
           "ID": 1291525,
           "Title": "Kategori:Befolkede områder"
@@ -516,16 +524,16 @@
           "Title": "Kategori:Historie"
         },
         {
+          "ID": 1700554,
+          "Title": "Kategori:Historie etter folkeslag"
+        },
+        {
           "ID": 840511,
           "Title": "Kategori:Historie etter land"
         },
         {
           "ID": 19004,
           "Title": "Kategori:Historie etter område"
-        },
-        {
-          "ID": 1683225,
-          "Title": "Kategori:Historiske hendelser"
         },
         {
           "ID": 1067117,
@@ -676,8 +684,20 @@
           "Title": "Kategori:Livskraftige arter på IUCNs rødliste"
         },
         {
+          "ID": 756266,
+          "Title": "Kategori:Miljø"
+        },
+        {
+          "ID": 21923,
+          "Title": "Kategori:Miljøvern"
+        },
+        {
           "ID": 30752,
           "Title": "Kategori:Natur"
+        },
+        {
+          "ID": 1476192,
+          "Title": "Kategori:Naturvern"
         },
         {
           "ID": 12216,
@@ -780,6 +800,10 @@
         {
           "ID": 593971,
           "Title": "Kategori:Franske politikere etter parti"
+        },
+        {
+          "ID": 71971,
+          "Title": "Kategori:Franske skuespillere"
         },
         {
           "ID": 1453867,
@@ -1144,6 +1168,10 @@
         {
           "ID": 1031709,
           "Title": "Kategori:Energiteknologi"
+        },
+        {
+          "ID": 15754,
+          "Title": "Kategori:Forleggere"
         },
         {
           "ID": 57378,

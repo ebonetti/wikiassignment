@@ -86,6 +86,10 @@
           "Title": "Kategoria:Elikagaiak"
         },
         {
+          "ID": 901458,
+          "Title": "Kategoria:Entretenimendua"
+        },
+        {
           "ID": 21542,
           "Title": "Kategoria:Entziklopediak"
         },
@@ -592,12 +596,20 @@
           "Title": "Kategoria:Historia politikoa"
         },
         {
+          "ID": 678865,
+          "Title": "Kategoria:Historia talde etnikoaren arabera"
+        },
+        {
           "ID": 675884,
           "Title": "Kategoria:Historia tokiaren arabera"
         },
         {
           "ID": 366548,
           "Title": "Kategoria:Indarkeria politikoa"
+        },
+        {
+          "ID": 678904,
+          "Title": "Kategoria:Iraultza"
         },
         {
           "ID": 6715,
@@ -680,12 +692,24 @@
           "Title": "Kategoria:Arrisku txikiko egoeran dauden espezieak"
         },
         {
+          "ID": 99824,
+          "Title": "Kategoria:Biomak"
+        },
+        {
           "ID": 64255,
           "Title": "Kategoria:Bizia"
         },
         {
           "ID": 4333,
           "Title": "Kategoria:Ekologia"
+        },
+        {
+          "ID": 61002,
+          "Title": "Kategoria:Ekologismoa"
+        },
+        {
+          "ID": 66064,
+          "Title": "Kategoria:Ekosistemak"
         },
         {
           "ID": 241855,
@@ -706,6 +730,14 @@
         {
           "ID": 39841,
           "Title": "Kategoria:Ingurumen zientziak"
+        },
+        {
+          "ID": 36440,
+          "Title": "Kategoria:Ingurumena"
+        },
+        {
+          "ID": 677071,
+          "Title": "Kategoria:Ingurumenaren ikasketak"
         },
         {
           "ID": 610673,
@@ -730,6 +762,10 @@
         {
           "ID": 19002,
           "Title": "Kategoria:Natura zientziak"
+        },
+        {
+          "ID": 93802,
+          "Title": "Kategoria:Naturaren kontserbazioa"
         },
         {
           "ID": 42574,
@@ -872,6 +908,10 @@
         {
           "ID": 204988,
           "Title": "Kategoria:Filosofoak mendearen arabera"
+        },
+        {
+          "ID": 50430,
+          "Title": "Kategoria:Frantziako aktoreak"
         },
         {
           "ID": 21753,
@@ -1250,6 +1290,14 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 292885,
+          "Title": "Kategoria:Argitalpengintza"
+        },
+        {
+          "ID": 293195,
+          "Title": "Kategoria:Argitaratzaileak"
+        },
+        {
           "ID": 733816,
           "Title": "Kategoria:Baxera"
         },
@@ -1389,6 +1437,10 @@
     }
   ],
   "Filters": [
+    {
+      "ID": 118685,
+      "Title": "Kategoria:Ezkutuko kategoriak"
+    },
     {
       "ID": 21448,
       "Title": "Kategoria:Wikipediako argipen orriak"

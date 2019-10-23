@@ -46,6 +46,10 @@
           "Title": "Category:ジェンダー"
         },
         {
+          "ID": 4003475,
+          "Title": "Category:ジャンル別の音楽"
+        },
+        {
           "ID": 125936,
           "Title": "Category:スポーツ"
         },
@@ -328,6 +332,10 @@
         {
           "ID": 209062,
           "Title": "Category:芸術"
+        },
+        {
+          "ID": 3680025,
+          "Title": "Category:著者別の著作"
         },
         {
           "ID": 1233296,
@@ -672,6 +680,10 @@
           "Title": "Category:各年の選挙"
         },
         {
+          "ID": 4013574,
+          "Title": "Category:場所別の歴史"
+        },
+        {
           "ID": 104428,
           "Title": "Category:戦争"
         },
@@ -700,8 +712,16 @@
           "Title": "Category:殺人事件"
         },
         {
+          "ID": 3300659,
+          "Title": "Category:民族の歴史"
+        },
+        {
           "ID": 107661,
           "Title": "Category:記念日"
+        },
+        {
+          "ID": 177911,
+          "Title": "Category:革命"
         }
       ]
     },
@@ -730,12 +750,24 @@
           "Title": "Category:数学"
         },
         {
+          "ID": 4013644,
+          "Title": "Category:数学の分野"
+        },
+        {
+          "ID": 4015386,
+          "Title": "Category:数学の概念"
+        },
+        {
           "ID": 1846764,
           "Title": "Category:物理単位"
         },
         {
           "ID": 745186,
           "Title": "Category:理論計算機科学"
+        },
+        {
+          "ID": 4016411,
+          "Title": "Category:確率と統計"
         },
         {
           "ID": 173777,
@@ -820,8 +852,16 @@
           "Title": "Category:物理科学"
         },
         {
+          "ID": 139081,
+          "Title": "Category:環境"
+        },
+        {
           "ID": 973918,
           "Title": "Category:環境学"
+        },
+        {
+          "ID": 1643572,
+          "Title": "Category:環境思想"
         },
         {
           "ID": 2017580,
@@ -830,6 +870,14 @@
         {
           "ID": 163747,
           "Title": "Category:生態学"
+        },
+        {
+          "ID": 1839585,
+          "Title": "Category:生態系"
+        },
+        {
+          "ID": 1060995,
+          "Title": "Category:生物群系"
         },
         {
           "ID": 137166,
@@ -842,6 +890,10 @@
         {
           "ID": 138482,
           "Title": "Category:自然"
+        },
+        {
+          "ID": 198882,
+          "Title": "Category:自然保護"
         },
         {
           "ID": 103868,
@@ -918,6 +970,10 @@
           "Title": "Category:パイロット"
         },
         {
+          "ID": 3991933,
+          "Title": "Category:フィクション・ライター"
+        },
+        {
           "ID": 196301,
           "Title": "Category:フランスのサッカー選手"
         },
@@ -930,12 +986,24 @@
           "Title": "Category:フランスの人物 (世紀別)"
         },
         {
+          "ID": 228861,
+          "Title": "Category:フランスの俳優"
+        },
+        {
+          "ID": 4001130,
+          "Title": "Category:フランスの政党別の政治家"
+        },
+        {
           "ID": 3655853,
           "Title": "Category:フランスの男優"
         },
         {
           "ID": 2576087,
           "Title": "Category:プロテスタントの神学者"
+        },
+        {
+          "ID": 3980467,
+          "Title": "Category:メディア別の芸術家"
         },
         {
           "ID": 3047492,
@@ -1102,10 +1170,6 @@
           "Title": "Category:看護師"
         },
         {
-          "ID": 234212,
-          "Title": "Category:美術家"
-        },
-        {
           "ID": 2022360,
           "Title": "Category:職業別の人物"
         },
@@ -1118,16 +1182,16 @@
           "Title": "Category:航空に関する職業"
         },
         {
+          "ID": 234210,
+          "Title": "Category:芸術家"
+        },
+        {
           "ID": 1710372,
           "Title": "Category:菜食主義者"
         },
         {
           "ID": 601141,
           "Title": "Category:著作家"
-        },
-        {
-          "ID": 3461172,
-          "Title": "Category:表現媒体別の美術家"
         },
         {
           "ID": 617719,
@@ -1276,6 +1340,10 @@
           "Title": "Category:ギルド"
         },
         {
+          "ID": 4011915,
+          "Title": "Category:パーソナリティ理論"
+        },
+        {
           "ID": 3846015,
           "Title": "Category:フェイクニュース"
         },
@@ -1422,6 +1490,10 @@
           "Title": "Category:エレクトロニクス"
         },
         {
+          "ID": 4009718,
+          "Title": "Category:キッチン器具"
+        },
+        {
           "ID": 242878,
           "Title": "Category:ゲーム機"
         },
@@ -1464,6 +1536,14 @@
         {
           "ID": 158057,
           "Title": "Category:兵器"
+        },
+        {
+          "ID": 154978,
+          "Title": "Category:出版"
+        },
+        {
+          "ID": 1993102,
+          "Title": "Category:出版関連の人物"
         },
         {
           "ID": 3326099,

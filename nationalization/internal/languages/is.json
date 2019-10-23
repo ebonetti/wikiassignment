@@ -142,6 +142,10 @@
           "Title": "Flokkur:Tölvuleikir"
         },
         {
+          "ID": 154202,
+          "Title": "Flokkur:Veraldarhyggja"
+        },
+        {
           "ID": 102820,
           "Title": "Flokkur:Ítölsk knattspyrnufélög"
         },
@@ -222,6 +226,10 @@
         {
           "ID": 2787,
           "Title": "Flokkur:Lönd"
+        },
+        {
+          "ID": 2811,
+          "Title": "Flokkur:Norður-Ameríkulönd"
         },
         {
           "ID": 6698,
@@ -392,6 +400,10 @@
           "Title": "Flokkur:Tegundir í fullu fjöri"
         },
         {
+          "ID": 21188,
+          "Title": "Flokkur:Umhverfið"
+        },
+        {
           "ID": 2992,
           "Title": "Flokkur:Vistfræði"
         },
@@ -508,6 +520,10 @@
         {
           "ID": 26912,
           "Title": "Flokkur:Leikarar"
+        },
+        {
+          "ID": 8340,
+          "Title": "Flokkur:Listamenn"
         },
         {
           "ID": 40420,
@@ -736,6 +752,10 @@
         {
           "ID": 4317,
           "Title": "Flokkur:Verkfræði"
+        },
+        {
+          "ID": 96649,
+          "Title": "Flokkur:Útgáfa"
         }
       ]
     }

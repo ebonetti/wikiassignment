@@ -3,7 +3,17 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts"
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1800,
+          "Title": "Dalala:Budaya"
+        },
+        {
+          "ID": 4423,
+          "Title": "Dalala:Pelem"
+        }
+      ]
     },
     {
       "ID": 2147483638,

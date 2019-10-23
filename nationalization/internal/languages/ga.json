@@ -42,6 +42,10 @@
           "Title": "Catagóir:Cluichí Oilimpeacha"
         },
         {
+          "ID": 90474,
+          "Title": "Catagóir:Cluichí cláir"
+        },
+        {
           "ID": 20876,
           "Title": "Catagóir:Cluichí foirne"
         },
@@ -159,6 +163,10 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 16922,
+          "Title": "Catagóir:Aibhneacha"
+        },
         {
           "ID": 41478,
           "Title": "Catagóir:Bailte"
@@ -356,12 +364,20 @@
           "Title": "Catagóir:Anatamaíocht"
         },
         {
+          "ID": 81193,
+          "Title": "Catagóir:Bithóim"
+        },
+        {
           "ID": 3715,
           "Title": "Catagóir:Ceimic"
         },
         {
           "ID": 3714,
           "Title": "Catagóir:Comhdhúile ceimiceacha"
+        },
+        {
+          "ID": 17375,
+          "Title": "Catagóir:Comhshaol"
         },
         {
           "ID": 77385,
@@ -428,6 +444,10 @@
         {
           "ID": 3768,
           "Title": "Catagóir:Aisteoirí"
+        },
+        {
+          "ID": 19362,
+          "Title": "Catagóir:Aisteoirí Francacha"
         },
         {
           "ID": 3652,

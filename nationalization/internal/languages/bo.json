@@ -148,6 +148,10 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 9011,
+          "Title": "Category:ཁོར་ཡུག"
+        },
+        {
           "ID": 8942,
           "Title": "Category:གཤག་བཅོས་རིག་པ།"
         },
@@ -208,6 +212,10 @@
         {
           "ID": 7950,
           "Title": "Category:རྩོམ་པ་པོ།"
+        },
+        {
+          "ID": 4962,
+          "Title": "Category:ཧྥ་རན་སིའི་འཁྲབ་སྟོན་པ།"
         }
       ]
     },

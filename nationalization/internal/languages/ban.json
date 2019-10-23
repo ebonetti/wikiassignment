@@ -1,13 +1,13 @@
 {
-  "Language": "ny",
+  "Language": "ban",
   "Topics": [
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 3393,
-          "Title": "Category:Kuimba"
+          "ID": 2424,
+          "Title": "Kategori:Musik"
         }
       ]
     },
@@ -16,32 +16,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 2107,
-          "Title": "Category:Maiko a ku Africa"
+          "ID": 2636,
+          "Title": "Kategori:Amérika Serikat"
         },
         {
-          "ID": 3842,
-          "Title": "Category:Maiko a ku America"
+          "ID": 2408,
+          "Title": "Kategori:Géograpi"
         },
         {
-          "ID": 3810,
-          "Title": "Category:Maiko a ku Asia"
+          "ID": 2422,
+          "Title": "Kategori:Kota"
         },
         {
-          "ID": 3323,
-          "Title": "Category:Maiko a ku Europu"
-        },
-        {
-          "ID": 5379,
-          "Title": "Category:Maiko a pa dziko lapansi"
-        },
-        {
-          "ID": 3836,
-          "Title": "Category:Mtsinje"
-        },
-        {
-          "ID": 3855,
-          "Title": "Category:United States"
+          "ID": 2425,
+          "Title": "Kategori:Negara"
         }
       ]
     },
@@ -62,8 +50,8 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2325,
-          "Title": "Category:Zomera"
+          "ID": 2399,
+          "Title": "Kategori:Buron"
         }
       ]
     },
@@ -72,12 +60,8 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 5305,
-          "Title": "Category:20th-zaka zobadwa"
-        },
-        {
-          "ID": 4140,
-          "Title": "Category:Anthu amoyo"
+          "ID": 2453,
+          "Title": "Kategori:Tokoh"
         }
       ]
     },
@@ -87,17 +71,17 @@
     },
     {
       "ID": 2147483645,
-      "Title": "Religion and belief systems"
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2392,
+          "Title": "Kategori:Agama"
+        }
+      ]
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Categories": [
-        {
-          "ID": 2660,
-          "Title": "Category:Boma"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

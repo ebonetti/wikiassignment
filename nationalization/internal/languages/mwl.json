@@ -364,6 +364,10 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2913,
+          "Title": "Catadorie:Ambiente"
+        },
+        {
           "ID": 3313,
           "Title": "Catadorie:Anatomie"
         },
@@ -378,6 +382,10 @@
         {
           "ID": 2020,
           "Title": "Catadorie:Bida"
+        },
+        {
+          "ID": 3327,
+          "Title": "Catadorie:Biomas"
         },
         {
           "ID": 1296,

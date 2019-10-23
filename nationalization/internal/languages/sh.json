@@ -94,6 +94,10 @@
           "Title": "Kategorija:Hrana i piće"
         },
         {
+          "ID": 4641002,
+          "Title": "Kategorija:Hrvanje"
+        },
+        {
           "ID": 93378,
           "Title": "Kategorija:Igre na ploči"
         },
@@ -104,10 +108,6 @@
         {
           "ID": 172894,
           "Title": "Kategorija:Istorija po periodu"
-        },
-        {
-          "ID": 201259,
-          "Title": "Kategorija:Izvori"
         },
         {
           "ID": 47103,
@@ -178,12 +178,16 @@
           "Title": "Kategorija:Olimpijski sportovi"
         },
         {
-          "ID": 1413335,
-          "Title": "Kategorija:Periodične publikacije"
+          "ID": 27062,
+          "Title": "Kategorija:Periodika"
         },
         {
           "ID": 157448,
           "Title": "Kategorija:Pisanje"
+        },
+        {
+          "ID": 56778,
+          "Title": "Kategorija:Pojedinačne TV-serije"
         },
         {
           "ID": 1413559,
@@ -212,10 +216,6 @@
         {
           "ID": 3554025,
           "Title": "Kategorija:Rod (sociologija)"
-        },
-        {
-          "ID": 76392,
-          "Title": "Kategorija:Rvanje"
         },
         {
           "ID": 25056,
@@ -340,6 +340,10 @@
           "Title": "Kategorija:Države u Južnoj Americi"
         },
         {
+          "ID": 4638426,
+          "Title": "Kategorija:Države u Oceaniji"
+        },
+        {
           "ID": 259703,
           "Title": "Kategorija:Države u Sjevernoj Americi"
         },
@@ -378,6 +382,10 @@
         {
           "ID": 7097,
           "Title": "Kategorija:Gradovi u SAD"
+        },
+        {
+          "ID": 201259,
+          "Title": "Kategorija:Izvori"
         },
         {
           "ID": 46907,
@@ -504,6 +512,10 @@
           "Title": "Kategorija:Historija po državama"
         },
         {
+          "ID": 229674,
+          "Title": "Kategorija:Historija po narodima"
+        },
+        {
           "ID": 88222,
           "Title": "Kategorija:Izbori po godinama"
         },
@@ -588,12 +600,20 @@
           "Title": "Kategorija:Biljke"
         },
         {
+          "ID": 230918,
+          "Title": "Kategorija:Biomi"
+        },
+        {
           "ID": 93032,
           "Title": "Kategorija:Domaće životinje"
         },
         {
           "ID": 3515,
           "Title": "Kategorija:Ekologija"
+        },
+        {
+          "ID": 4022273,
+          "Title": "Kategorija:Ekosistem"
         },
         {
           "ID": 1227948,
@@ -652,6 +672,14 @@
           "Title": "Kategorija:Voće"
         },
         {
+          "ID": 179163,
+          "Title": "Kategorija:Zaštita prirode"
+        },
+        {
+          "ID": 982704,
+          "Title": "Kategorija:Zaštita životne sredine"
+        },
+        {
           "ID": 70071,
           "Title": "Kategorija:Zemlja"
         },
@@ -670,6 +698,10 @@
         {
           "ID": 26350,
           "Title": "Kategorija:Životinje"
+        },
+        {
+          "ID": 160585,
+          "Title": "Kategorija:Životna sredina"
         }
       ]
     },
@@ -744,6 +776,10 @@
         {
           "ID": 57212,
           "Title": "Kategorija:Francuski fudbaleri ili nogometaši"
+        },
+        {
+          "ID": 28068,
+          "Title": "Kategorija:Francuski glumci"
         },
         {
           "ID": 183086,
@@ -1106,6 +1142,14 @@
           "Title": "Kategorija:Inženjerstvo"
         },
         {
+          "ID": 186478,
+          "Title": "Kategorija:Izdavači"
+        },
+        {
+          "ID": 26907,
+          "Title": "Kategorija:Izdavaštvo"
+        },
+        {
           "ID": 46891,
           "Title": "Kategorija:Konstrukcije"
         },
@@ -1132,6 +1176,10 @@
         {
           "ID": 46373,
           "Title": "Kategorija:Posebni kalendari"
+        },
+        {
+          "ID": 107821,
+          "Title": "Kategorija:Pravila"
         },
         {
           "ID": 1350861,

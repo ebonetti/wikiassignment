@@ -77,7 +77,13 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events"
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4965,
+          "Title": "Category:Chimurenga"
+        }
+      ]
     },
     {
       "ID": 2147483641,

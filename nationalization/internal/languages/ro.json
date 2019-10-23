@@ -688,6 +688,10 @@
           "Title": "Categorie:Istorie"
         },
         {
+          "ID": 228327,
+          "Title": "Categorie:Istorie după grup etnic"
+        },
+        {
           "ID": 1636072,
           "Title": "Categorie:Istorie după loc"
         },
@@ -808,6 +812,10 @@
           "Title": "Categorie:Animale domestice"
         },
         {
+          "ID": 94655,
+          "Title": "Categorie:Biomuri"
+        },
+        {
           "ID": 127331,
           "Title": "Categorie:Catastrofe"
         },
@@ -820,12 +828,20 @@
           "Title": "Categorie:Compuși chimici"
         },
         {
+          "ID": 68849,
+          "Title": "Categorie:Conservare"
+        },
+        {
           "ID": 750628,
           "Title": "Categorie:Discipline științifice"
         },
         {
           "ID": 23424,
           "Title": "Categorie:Ecologie"
+        },
+        {
+          "ID": 314415,
+          "Title": "Categorie:Ecosisteme"
         },
         {
           "ID": 191258,
@@ -844,6 +860,10 @@
           "Title": "Categorie:Fructe comestibile"
         },
         {
+          "ID": 68850,
+          "Title": "Categorie:Mediu înconjurător"
+        },
+        {
           "ID": 24640,
           "Title": "Categorie:Natură"
         },
@@ -858,6 +878,10 @@
         {
           "ID": 108267,
           "Title": "Categorie:Plante cultivate"
+        },
+        {
+          "ID": 759550,
+          "Title": "Categorie:Protecția mediului"
         },
         {
           "ID": 111454,
@@ -920,6 +944,10 @@
         {
           "ID": 982299,
           "Title": "Categorie:Actori de film"
+        },
+        {
+          "ID": 32592,
+          "Title": "Categorie:Actori francezi"
         },
         {
           "ID": 748209,
@@ -1518,6 +1546,10 @@
           "Title": "Categorie:Echipament militar"
         },
         {
+          "ID": 743702,
+          "Title": "Categorie:Editori"
+        },
+        {
           "ID": 16914,
           "Title": "Categorie:Electronică"
         },
@@ -1560,6 +1592,14 @@
         {
           "ID": 12213,
           "Title": "Categorie:Programare"
+        },
+        {
+          "ID": 1708084,
+          "Title": "Categorie:Publicare"
+        },
+        {
+          "ID": 1706502,
+          "Title": "Categorie:Reguli"
         },
         {
           "ID": 12202,

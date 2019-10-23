@@ -488,8 +488,16 @@
           "Title": "Kategorija:Augļi"
         },
         {
+          "ID": 41387,
+          "Title": "Kategorija:Biomas"
+        },
+        {
           "ID": 4070,
           "Title": "Kategorija:Daba"
+        },
+        {
+          "ID": 27945,
+          "Title": "Kategorija:Dabas aizsardzība"
         },
         {
           "ID": 6915,
@@ -510,6 +518,10 @@
         {
           "ID": 9351,
           "Title": "Kategorija:Ekoloģija"
+        },
+        {
+          "ID": 186262,
+          "Title": "Kategorija:Ekosistēmas"
         },
         {
           "ID": 95791,
@@ -534,6 +546,14 @@
         {
           "ID": 44966,
           "Title": "Kategorija:Olbaltumvielas"
+        },
+        {
+          "ID": 27952,
+          "Title": "Kategorija:Vide"
+        },
+        {
+          "ID": 27951,
+          "Title": "Kategorija:Vides aizsardzība"
         },
         {
           "ID": 55766,
@@ -648,6 +668,10 @@
         {
           "ID": 98082,
           "Title": "Kategorija:Filozofi pēc gadsimta"
+        },
+        {
+          "ID": 95044,
+          "Title": "Kategorija:Francijas aktieri"
         },
         {
           "ID": 15601,
@@ -970,10 +994,6 @@
           "Title": "Kategorija:Celtniecība"
         },
         {
-          "ID": 32882,
-          "Title": "Kategorija:Civilā inženierija"
-        },
-        {
           "ID": 34287,
           "Title": "Kategorija:Darbarīki"
         },
@@ -983,7 +1003,7 @@
         },
         {
           "ID": 205100,
-          "Title": "Kategorija:Datortehnika"
+          "Title": "Kategorija:Datorika"
         },
         {
           "ID": 3699,
@@ -1014,12 +1034,28 @@
           "Title": "Kategorija:Informācijas tehnoloģijas"
         },
         {
+          "ID": 436838,
+          "Title": "Kategorija:Informācijas un sakaru tehnoloģijas"
+        },
+        {
           "ID": 2996,
           "Title": "Kategorija:Internets"
         },
         {
+          "ID": 32882,
+          "Title": "Kategorija:Inženierceltniecība"
+        },
+        {
           "ID": 12981,
           "Title": "Kategorija:Inženierija"
+        },
+        {
+          "ID": 26533,
+          "Title": "Kategorija:Izdevējdarbība"
+        },
+        {
+          "ID": 205981,
+          "Title": "Kategorija:Izdevēji"
         },
         {
           "ID": 119001,

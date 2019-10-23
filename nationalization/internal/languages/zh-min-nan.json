@@ -456,6 +456,10 @@
           "Title": "Lūi-pia̍t:Chū-jiân kho-ha̍k"
         },
         {
+          "ID": 632729,
+          "Title": "Lūi-pia̍t:Chū-jiân pó-hō͘"
+        },
+        {
           "ID": 587123,
           "Title": "Lūi-pia̍t:Hoà-ha̍k bu̍t-chit"
         },
@@ -472,8 +476,16 @@
           "Title": "Lūi-pia̍t:Kho-ha̍k"
         },
         {
+          "ID": 410314,
+          "Title": "Lūi-pia̍t:Khoân-kéng"
+        },
+        {
           "ID": 410313,
           "Title": "Lūi-pia̍t:Khoân-kéng kho-ha̍k"
+        },
+        {
+          "ID": 8733,
+          "Title": "Lūi-pia̍t:Khoân-kéng pó-hō͘"
         },
         {
           "ID": 28688,
@@ -490,6 +502,10 @@
         {
           "ID": 23675,
           "Title": "Lūi-pia̍t:Seng-thài-ha̍k"
+        },
+        {
+          "ID": 584928,
+          "Title": "Lūi-pia̍t:Seng-thài-hē"
         },
         {
           "ID": 21935,
@@ -568,6 +584,10 @@
         {
           "ID": 11453,
           "Title": "Lūi-pia̍t:Hoat-bêng-ka"
+        },
+        {
+          "ID": 21549,
+          "Title": "Lūi-pia̍t:Hoat-kok ián-goân"
         },
         {
           "ID": 410630,
@@ -793,6 +813,10 @@
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
       "Categories": [
+        {
+          "ID": 2633,
+          "Title": "Lūi-pia̍t:Chhut-pán"
+        },
         {
           "ID": 629859,
           "Title": "Lūi-pia̍t:Chu-liāu koán-lí"

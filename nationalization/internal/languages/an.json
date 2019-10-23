@@ -396,6 +396,10 @@
           "Title": "Categoría:Animals domesticatos"
         },
         {
+          "ID": 38742,
+          "Title": "Categoría:Biomas"
+        },
+        {
           "ID": 62896,
           "Title": "Categoría:Combinacions quimicas"
         },
@@ -412,6 +416,10 @@
           "Title": "Categoría:Ecolochía"
         },
         {
+          "ID": 9304,
+          "Title": "Categoría:Ecosistemas"
+        },
+        {
           "ID": 92010,
           "Title": "Categoría:Fauna por continent"
         },
@@ -422,6 +430,10 @@
         {
           "ID": 6544,
           "Title": "Categoría:Fruitas"
+        },
+        {
+          "ID": 95343,
+          "Title": "Categoría:Medio ambient"
         },
         {
           "ID": 70817,
@@ -464,6 +476,10 @@
         {
           "ID": 28514,
           "Title": "Categoría:Actors"
+        },
+        {
+          "ID": 60996,
+          "Title": "Categoría:Actors de Francia"
         },
         {
           "ID": 29490,
@@ -696,6 +712,10 @@
           "Title": "Categoría:Dreito"
         },
         {
+          "ID": 123314,
+          "Title": "Categoría:Educación por país"
+        },
+        {
           "ID": 9390,
           "Title": "Categoría:Feminismo"
         },
@@ -829,6 +849,10 @@
     }
   ],
   "Filters": [
+    {
+      "ID": 80982,
+      "Title": "Categoría:Categorías amagatas"
+    },
     {
       "ID": 60240,
       "Title": "Categoría:Desambigación"

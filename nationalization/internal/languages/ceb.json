@@ -42,6 +42,10 @@
           "Title": "Kategoriya:Mga ensiklopedya"
         },
         {
+          "ID": 9614259,
+          "Title": "Kategoriya:Mga kolor"
+        },
+        {
           "ID": 44222,
           "Title": "Kategoriya:Mga leyenda"
         },
@@ -84,10 +88,6 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 36756,
-          "Title": "Kategoriya:Estados Unidos"
-        },
-        {
           "ID": 35111,
           "Title": "Kategoriya:Heyograpiya"
         },
@@ -97,7 +97,7 @@
         },
         {
           "ID": 50500,
-          "Title": "Kategoriya:Mga dakbayan sa Estados Unidos"
+          "Title": "Kategoriya:Mga dakbayan sa Tinipong Bansa"
         },
         {
           "ID": 43269,
@@ -105,7 +105,7 @@
         },
         {
           "ID": 50502,
-          "Title": "Kategoriya:Mga estado ug teritoryo sa Estados Unidos"
+          "Title": "Kategoriya:Mga estado ug teritoryo sa Tinipong Bansa"
         },
         {
           "ID": 35168,
@@ -113,7 +113,7 @@
         },
         {
           "ID": 6568693,
-          "Title": "Kategoriya:Mga lungsod sa Estados Unidos"
+          "Title": "Kategoriya:Mga lungsod sa Tinipong Bansa"
         },
         {
           "ID": 2799572,
@@ -158,6 +158,10 @@
         {
           "ID": 38241,
           "Title": "Kategoriya:Mga teritoryo"
+        },
+        {
+          "ID": 36756,
+          "Title": "Kategoriya:Tinipong Bansa"
         }
       ]
     },
@@ -218,6 +222,10 @@
         {
           "ID": 79371,
           "Title": "Kategoriya:Animalia"
+        },
+        {
+          "ID": 43216,
+          "Title": "Kategoriya:Ekolohismo"
         },
         {
           "ID": 62497,

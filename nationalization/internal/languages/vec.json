@@ -322,6 +322,10 @@
           "Title": "Categoria:Atori"
         },
         {
+          "ID": 39737,
+          "Title": "Categoria:Atori fransexi"
+        },
+        {
           "ID": 6072,
           "Title": "Categoria:Biografie"
         },
@@ -390,6 +394,10 @@
         {
           "ID": 11864,
           "Title": "Categoria:Forme de governo"
+        },
+        {
+          "ID": 42942,
+          "Title": "Categoria:Liberałismo"
         }
       ]
     },
@@ -457,6 +465,10 @@
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
       "Categories": [
+        {
+          "ID": 36629,
+          "Title": "Categoria:Editoria"
+        },
         {
           "ID": 6408,
           "Title": "Categoria:Elitronega"

@@ -90,6 +90,10 @@
           "Title": "Kategorie:Fernsehserie (Brasilien)"
         },
         {
+          "ID": 5748923,
+          "Title": "Kategorie:Fernsehserie als Thema"
+        },
+        {
           "ID": 2248484,
           "Title": "Kategorie:Fernsehserie nach Staat"
         },
@@ -650,6 +654,10 @@
         {
           "ID": 3878152,
           "Title": "Kategorie:Wahl nach Jahr"
+        },
+        {
+          "ID": 10934268,
+          "Title": "Kategorie:Zeittafel (Technik)"
         }
       ]
     },
@@ -724,6 +732,10 @@
           "Title": "Kategorie:Katastrophe"
         },
         {
+          "ID": 269247,
+          "Title": "Kategorie:Naturschutz"
+        },
+        {
           "ID": 274295,
           "Title": "Kategorie:Naturwissenschaft"
         },
@@ -748,6 +760,14 @@
           "Title": "Kategorie:Protein"
         },
         {
+          "ID": 269201,
+          "Title": "Kategorie:Umwelt- und Naturschutz"
+        },
+        {
+          "ID": 269251,
+          "Title": "Kategorie:Umweltschutz"
+        },
+        {
           "ID": 2810722,
           "Title": "Kategorie:Vielzellige Tiere"
         },
@@ -766,6 +786,10 @@
         {
           "ID": 254103,
           "Title": "Kategorie:Ökologie"
+        },
+        {
+          "ID": 300822,
+          "Title": "Kategorie:Ökosystem"
         }
       ]
     },
@@ -1136,10 +1160,6 @@
           "Title": "Kategorie:Gesellschaft"
         },
         {
-          "ID": 9578739,
-          "Title": "Kategorie:Gesetz"
-        },
-        {
           "ID": 9489912,
           "Title": "Kategorie:Gilde"
         },
@@ -1244,6 +1264,10 @@
         {
           "ID": 310907,
           "Title": "Kategorie:Bauwesen"
+        },
+        {
+          "ID": 1020478,
+          "Title": "Kategorie:Buchherstellung"
         },
         {
           "ID": 242546,
@@ -1372,6 +1396,14 @@
         {
           "ID": 2273788,
           "Title": "Kategorie:Verkehrswesen"
+        },
+        {
+          "ID": 1421942,
+          "Title": "Kategorie:Verlagswesen"
+        },
+        {
+          "ID": 239383,
+          "Title": "Kategorie:Verleger"
         },
         {
           "ID": 242680,

@@ -30,10 +30,6 @@
           "Title": "Kategorie:Ensiklopedieë"
         },
         {
-          "ID": 48962,
-          "Title": "Kategorie:Europese sokkerklubs"
-        },
-        {
           "ID": 37665,
           "Title": "Kategorie:Fiksie"
         },
@@ -144,6 +140,14 @@
         {
           "ID": 92896,
           "Title": "Kategorie:Skryf"
+        },
+        {
+          "ID": 48962,
+          "Title": "Kategorie:Sokkerklubs in Europa"
+        },
+        {
+          "ID": 270875,
+          "Title": "Kategorie:Sokkerklubs volgens lande"
         },
         {
           "ID": 100142,
@@ -460,6 +464,10 @@
           "Title": "Kategorie:Ekologie"
         },
         {
+          "ID": 267320,
+          "Title": "Kategorie:Ekostelsels"
+        },
+        {
           "ID": 6038,
           "Title": "Kategorie:Fisika"
         },
@@ -480,8 +488,16 @@
           "Title": "Kategorie:Lewe"
         },
         {
+          "ID": 18471,
+          "Title": "Kategorie:Milieubeskerming"
+        },
+        {
           "ID": 18411,
           "Title": "Kategorie:Natuur"
+        },
+        {
+          "ID": 247173,
+          "Title": "Kategorie:Natuurbewaring"
         },
         {
           "ID": 6034,
@@ -542,6 +558,10 @@
           "Title": "Kategorie:Filosowe in die 20ste eeu"
         },
         {
+          "ID": 19072,
+          "Title": "Kategorie:Franse akteurs"
+        },
+        {
           "ID": 101954,
           "Title": "Kategorie:Franse joernaliste"
         },
@@ -590,24 +610,28 @@
           "Title": "Kategorie:Lewende mense"
         },
         {
-          "ID": 10386,
-          "Title": "Kategorie:Mense"
+          "ID": 263509,
+          "Title": "Kategorie:Manlike akteurs"
         },
         {
-          "ID": 249692,
-          "Title": "Kategorie:Mense volgens beroep"
+          "ID": 263506,
+          "Title": "Kategorie:Manlike akteurs volgens nasionaliteit"
+        },
+        {
+          "ID": 10386,
+          "Title": "Kategorie:Mense"
         },
         {
           "ID": 249690,
           "Title": "Kategorie:Mense volgens beroep en eeu"
         },
         {
-          "ID": 249691,
-          "Title": "Kategorie:Mense volgens beroep en periode"
+          "ID": 249692,
+          "Title": "Kategorie:Mense volgens beroepe"
         },
         {
           "ID": 108922,
-          "Title": "Kategorie:Mense volgens eeu"
+          "Title": "Kategorie:Mense volgens eeue"
         },
         {
           "ID": 25951,

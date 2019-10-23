@@ -118,12 +118,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 16707,
+          "Title": "Categoria:Ambiende"
+        },
+        {
           "ID": 16123,
           "Title": "Categoria:Anemale"
         },
         {
           "ID": 11798,
           "Title": "Categoria:Chìmeche"
+        },
+        {
+          "ID": 17573,
+          "Title": "Categoria:Ecosisteme"
         },
         {
           "ID": 13485,

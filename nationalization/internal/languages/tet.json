@@ -97,7 +97,13 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences"
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6209,
+          "Title": "Kategoria:Organizaun"
+        }
+      ]
     },
     {
       "ID": 2147483647,

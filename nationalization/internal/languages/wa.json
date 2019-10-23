@@ -163,7 +163,7 @@
         },
         {
           "ID": 15804,
-          "Title": "Categoreye:Unités di mzeure"
+          "Title": "Categoreye:Unités di mzuraedje"
         }
       ]
     },
@@ -362,6 +362,10 @@
           "Title": "Categoreye:Daegntoele"
         },
         {
+          "ID": 27121,
+          "Title": "Categoreye:Eplaidaedjes"
+        },
+        {
           "ID": 18361,
           "Title": "Categoreye:Imprimreye"
         },
@@ -387,7 +391,7 @@
         },
         {
           "ID": 28010,
-          "Title": "Categoreye:Transpôrt"
+          "Title": "Categoreye:Transpoirt"
         }
       ]
     }

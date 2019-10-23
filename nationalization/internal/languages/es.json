@@ -46,6 +46,10 @@
           "Title": "Categoría:Brujería"
         },
         {
+          "ID": 8447403,
+          "Title": "Categoría:Categorías de series de televisión"
+        },
+        {
           "ID": 162887,
           "Title": "Categoría:Color"
         },
@@ -312,6 +316,10 @@
         {
           "ID": 8947482,
           "Title": "Categoría:Obras por autor"
+        },
+        {
+          "ID": 9026739,
+          "Title": "Categoría:Obras por idioma"
         },
         {
           "ID": 5414856,
@@ -748,6 +756,10 @@
           "Title": "Categoría:Historia política"
         },
         {
+          "ID": 5272862,
+          "Title": "Categoría:Historia por etnias"
+        },
+        {
           "ID": 1377355,
           "Title": "Categoría:Historia por país"
         },
@@ -774,6 +786,10 @@
         {
           "ID": 3483902,
           "Title": "Categoría:Revoluciones por país"
+        },
+        {
+          "ID": 6423783,
+          "Title": "Categoría:Revolución"
         }
       ]
     },
@@ -856,6 +872,10 @@
           "Title": "Categoría:Antropometría"
         },
         {
+          "ID": 1660896,
+          "Title": "Categoría:Biomas"
+        },
+        {
           "ID": 1733769,
           "Title": "Categoría:Ciencia"
         },
@@ -872,16 +892,32 @@
           "Title": "Categoría:Compuestos químicos"
         },
         {
+          "ID": 1128689,
+          "Title": "Categoría:Conservacionismo"
+        },
+        {
           "ID": 166962,
           "Title": "Categoría:Desastres"
+        },
+        {
+          "ID": 627486,
+          "Title": "Categoría:Ecologismo"
         },
         {
           "ID": 67788,
           "Title": "Categoría:Ecología"
         },
         {
+          "ID": 84259,
+          "Title": "Categoría:Ecosistemas"
+        },
+        {
           "ID": 196981,
           "Title": "Categoría:Especies no amenazadas"
+        },
+        {
+          "ID": 6960253,
+          "Title": "Categoría:Estudios medioambientales"
         },
         {
           "ID": 1542253,
@@ -898,6 +934,10 @@
         {
           "ID": 4251957,
           "Title": "Categoría:Mamíferos no amenazados"
+        },
+        {
+          "ID": 112628,
+          "Title": "Categoría:Medio ambiente"
         },
         {
           "ID": 1669865,
@@ -956,6 +996,10 @@
         {
           "ID": 52486,
           "Title": "Categoría:Actores"
+        },
+        {
+          "ID": 131981,
+          "Title": "Categoría:Actores de Francia"
         },
         {
           "ID": 397320,
@@ -1020,6 +1064,10 @@
         {
           "ID": 2307044,
           "Title": "Categoría:Ego"
+        },
+        {
+          "ID": 9009749,
+          "Title": "Categoría:Enfermeras"
         },
         {
           "ID": 6042910,
@@ -1104,10 +1152,6 @@
         {
           "ID": 3804540,
           "Title": "Categoría:Generales de Estados Unidos"
-        },
-        {
-          "ID": 8162289,
-          "Title": "Categoría:Hombres Músicos"
         },
         {
           "ID": 190070,
@@ -1636,6 +1680,14 @@
         {
           "ID": 52400,
           "Title": "Categoría:Programación"
+        },
+        {
+          "ID": 1350755,
+          "Title": "Categoría:Publicación"
+        },
+        {
+          "ID": 7755999,
+          "Title": "Categoría:Reglas"
         },
         {
           "ID": 49473,

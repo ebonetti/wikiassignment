@@ -122,10 +122,6 @@
           "Title": "Kategorii:Openduz"
         },
         {
-          "ID": 7810,
-          "Title": "Kategorii:Personalijad kirjamišton mödhe"
-        },
-        {
           "ID": 4286,
           "Title": "Kategorii:Personaline elo"
         },
@@ -176,6 +172,10 @@
         {
           "ID": 8145,
           "Title": "Kategorii:TV-serialad"
+        },
+        {
+          "ID": 23087,
+          "Title": "Kategorii:TV-serialad portugalijan kelel"
         },
         {
           "ID": 8150,
@@ -254,6 +254,10 @@
         {
           "ID": 8158,
           "Title": "Kategorii:Irdad"
+        },
+        {
+          "ID": 24190,
+          "Title": "Kategorii:Ispanijan avtonomižed ühthižkundad"
         },
         {
           "ID": 914,
@@ -344,6 +348,10 @@
           "Title": "Kategorii:Politine istorii"
         },
         {
+          "ID": 23054,
+          "Title": "Kategorii:Revolücijad"
+        },
+        {
           "ID": 3915,
           "Title": "Kategorii:Soda"
         },
@@ -396,6 +404,10 @@
           "Title": "Kategorii:Ekologii"
         },
         {
+          "ID": 9572,
+          "Title": "Kategorii:Ekosistemad"
+        },
+        {
           "ID": 4346,
           "Title": "Kategorii:Elo"
         },
@@ -430,6 +442,10 @@
         {
           "ID": 16541,
           "Title": "Kategorii:Kodiživatad"
+        },
+        {
+          "ID": 951,
+          "Title": "Kategorii:Londusenkaičend"
         },
         {
           "ID": 3944,
@@ -486,6 +502,10 @@
           "Title": "Kategorii:Filosofad"
         },
         {
+          "ID": 7826,
+          "Title": "Kategorii:Francijan akt'orad"
+        },
+        {
           "ID": 8155,
           "Title": "Kategorii:Futbolistad valdkundoiden mödhe"
         },
@@ -524,6 +544,10 @@
         {
           "ID": 4342,
           "Title": "Kategorii:Naine"
+        },
+        {
+          "ID": 7810,
+          "Title": "Kategorii:Personalijad kirjamišton mödhe"
         },
         {
           "ID": 14630,
@@ -602,12 +626,20 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 24275,
+          "Title": "Kategorii:Jumalad"
+        },
+        {
           "ID": 991,
           "Title": "Kategorii:Religii"
         },
         {
           "ID": 3864,
           "Title": "Kategorii:Religijad"
+        },
+        {
+          "ID": 24276,
+          "Title": "Kategorii:Uskond"
         }
       ]
     },
@@ -716,6 +748,10 @@
         {
           "ID": 5143,
           "Title": "Kategorii:Mašiništ"
+        },
+        {
+          "ID": 12991,
+          "Title": "Kategorii:Painmižsarak"
         },
         {
           "ID": 12979,

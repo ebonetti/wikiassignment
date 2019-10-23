@@ -322,6 +322,10 @@
           "Title": "Kategori:Utdanning"
         },
         {
+          "ID": 371428,
+          "Title": "Kategori:Vekeblad"
+        },
+        {
           "ID": 102218,
           "Title": "Kategori:Verk etter artist"
         },
@@ -576,6 +580,10 @@
           "Title": "Kategori:Historie"
         },
         {
+          "ID": 260002,
+          "Title": "Kategori:Historie etter folkegrupper"
+        },
+        {
           "ID": 75805,
           "Title": "Kategori:Historie etter land"
         },
@@ -626,6 +634,10 @@
         {
           "ID": 124156,
           "Title": "Kategori:Politiske hendingar"
+        },
+        {
+          "ID": 5218,
+          "Title": "Kategori:Revolusjon"
         },
         {
           "ID": 29395,
@@ -716,6 +728,14 @@
           "Title": "Kategori:Antropometri"
         },
         {
+          "ID": 144669,
+          "Title": "Kategori:Bevaring"
+        },
+        {
+          "ID": 70236,
+          "Title": "Kategori:Biom"
+        },
+        {
           "ID": 5303,
           "Title": "Kategori:Dyr"
         },
@@ -776,8 +796,20 @@
           "Title": "Kategori:Livskraftige artar"
         },
         {
+          "ID": 3306,
+          "Title": "Kategori:Miljø"
+        },
+        {
           "ID": 111309,
           "Title": "Kategori:Miljøfag"
+        },
+        {
+          "ID": 291566,
+          "Title": "Kategori:Miljøstudiar"
+        },
+        {
+          "ID": 7837,
+          "Title": "Kategori:Miljøvern"
         },
         {
           "ID": 2642,
@@ -814,6 +846,10 @@
         {
           "ID": 5924,
           "Title": "Kategori:Økologi"
+        },
+        {
+          "ID": 30166,
+          "Title": "Kategori:Økosystem"
         }
       ]
     },
@@ -932,6 +968,10 @@
         {
           "ID": 199495,
           "Title": "Kategori:Franske politikarar etter parti"
+        },
+        {
+          "ID": 29852,
+          "Title": "Kategori:Franske skodespelarar"
         },
         {
           "ID": 32040,
@@ -1346,6 +1386,14 @@
           "Title": "Kategori:Energiteknologi"
         },
         {
+          "ID": 230568,
+          "Title": "Kategori:Forlagsverksemd"
+        },
+        {
+          "ID": 44764,
+          "Title": "Kategori:Forleggjarar"
+        },
+        {
           "ID": 97695,
           "Title": "Kategori:Hushaldsreiskapar"
         },
@@ -1388,6 +1436,10 @@
         {
           "ID": 7746,
           "Title": "Kategori:Programvare"
+        },
+        {
+          "ID": 291825,
+          "Title": "Kategori:Reglar"
         },
         {
           "ID": 294877,

@@ -88,6 +88,10 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 19610,
+          "Title": "分類:Fî-chû koet-kâ"
+        },
+        {
           "ID": 9412,
           "Title": "分類:Hò"
         },
@@ -104,12 +108,20 @@
           "Title": "分類:Mî-koet"
         },
         {
+          "ID": 19608,
+          "Title": "分類:Nàm Mî-chû koet-kâ"
+        },
+        {
           "ID": 4240,
           "Title": "分類:Pet Mî-chû koet-kâ"
         },
         {
           "ID": 6164,
           "Title": "分類:Sàng-sṳ"
+        },
+        {
+          "ID": 19609,
+          "Title": "分類:Thai-yòng-chû koet-kâ"
         },
         {
           "ID": 26,

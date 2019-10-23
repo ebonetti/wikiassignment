@@ -223,7 +223,7 @@
         },
         {
           "ID": 718621,
-          "Title": "Kategória:Videojátékok"
+          "Title": "Kategória:Videójátékok"
         },
         {
           "ID": 8417,
@@ -332,10 +332,6 @@
           "Title": "Kategória:Geomorfológia"
         },
         {
-          "ID": 1352036,
-          "Title": "Kategória:Helyszínek"
-        },
-        {
           "ID": 246361,
           "Title": "Kategória:Kastélyok, paloták"
         },
@@ -402,6 +398,10 @@
       "Title": "Health and fitness",
       "Categories": [
         {
+          "ID": 1641027,
+          "Title": "Kategória:Egészség"
+        },
+        {
           "ID": 85788,
           "Title": "Kategória:Egészségügy"
         },
@@ -442,6 +442,10 @@
         {
           "ID": 1144622,
           "Title": "Kategória:Forradalmak"
+        },
+        {
+          "ID": 1144621,
+          "Title": "Kategória:Forradalom"
         },
         {
           "ID": 7310,
@@ -524,6 +528,10 @@
           "Title": "Kategória:Anatómia"
         },
         {
+          "ID": 329129,
+          "Title": "Kategória:Biomok"
+        },
+        {
           "ID": 174040,
           "Title": "Kategória:Fehérjék"
         },
@@ -552,6 +560,14 @@
           "Title": "Kategória:Kémia"
         },
         {
+          "ID": 1160810,
+          "Title": "Kategória:Környezet"
+        },
+        {
+          "ID": 49188,
+          "Title": "Kategória:Környezetvédelem"
+        },
+        {
           "ID": 8515,
           "Title": "Kategória:Növények"
         },
@@ -572,6 +588,10 @@
           "Title": "Kategória:Vegyületek"
         },
         {
+          "ID": 45885,
+          "Title": "Kategória:Védett területek"
+        },
+        {
           "ID": 68976,
           "Title": "Kategória:Zoológia"
         },
@@ -582,6 +602,10 @@
         {
           "ID": 7317,
           "Title": "Kategória:Égitestek"
+        },
+        {
+          "ID": 1641014,
+          "Title": "Kategória:Élet"
         },
         {
           "ID": 105950,
@@ -618,6 +642,10 @@
           "Title": "Kategória:Angolok"
         },
         {
+          "ID": 336437,
+          "Title": "Kategória:Családnevek"
+        },
+        {
           "ID": 1626696,
           "Title": "Kategória:Díszdoktorok"
         },
@@ -636,6 +664,10 @@
         {
           "ID": 97105,
           "Title": "Kategória:Francia labdarúgók"
+        },
+        {
+          "ID": 54610,
+          "Title": "Kategória:Francia színészek"
         },
         {
           "ID": 596311,
@@ -734,10 +766,6 @@
           "Title": "Kategória:Vegetáriánusok"
         },
         {
-          "ID": 336437,
-          "Title": "Kategória:Vezetéknevek"
-        },
-        {
           "ID": 33256,
           "Title": "Kategória:Zenészek"
         },
@@ -824,6 +852,10 @@
         {
           "ID": 364523,
           "Title": "Kategória:Valláskritika"
+        },
+        {
+          "ID": 47980,
+          "Title": "Kategória:Vallások"
         }
       ]
     },
@@ -946,6 +978,10 @@
           "Title": "Kategória:Gasztronómiai eszközök"
         },
         {
+          "ID": 468581,
+          "Title": "Kategória:Gépek"
+        },
+        {
           "ID": 392128,
           "Title": "Kategória:Gépészet"
         },
@@ -974,8 +1010,16 @@
           "Title": "Kategória:Mérnöki tudományok"
         },
         {
+          "ID": 346681,
+          "Title": "Kategória:Nyomdászat"
+        },
+        {
           "ID": 417257,
           "Title": "Kategória:Nyomtatás"
+        },
+        {
+          "ID": 32125,
+          "Title": "Kategória:Sajtó"
         },
         {
           "ID": 34965,

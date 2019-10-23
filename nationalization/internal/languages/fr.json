@@ -46,6 +46,10 @@
           "Title": "Catégorie:Catch"
         },
         {
+          "ID": 5497534,
+          "Title": "Catégorie:Catégorie d'une série télévisée"
+        },
+        {
           "ID": 4285824,
           "Title": "Catégorie:Chronologie du catch"
         },
@@ -672,6 +676,10 @@
           "Title": "Catégorie:Histoire nationale"
         },
         {
+          "ID": 3601985,
+          "Title": "Catégorie:Histoire par groupe ethnique"
+        },
+        {
           "ID": 3602047,
           "Title": "Catégorie:Histoire par lieu géographique"
         },
@@ -784,6 +792,10 @@
           "Title": "Catégorie:Anthropométrie"
         },
         {
+          "ID": 394200,
+          "Title": "Catégorie:Biome"
+        },
+        {
           "ID": 137901,
           "Title": "Catégorie:Catastrophe"
         },
@@ -800,8 +812,16 @@
           "Title": "Catégorie:Composé chimique"
         },
         {
+          "ID": 846874,
+          "Title": "Catégorie:Conservation de la nature"
+        },
+        {
           "ID": 1252193,
           "Title": "Catégorie:Domaine scientifique"
+        },
+        {
+          "ID": 81355,
+          "Title": "Catégorie:Environnement"
         },
         {
           "ID": 12395801,
@@ -818,6 +838,10 @@
         {
           "ID": 101492,
           "Title": "Catégorie:Fruit alimentaire"
+        },
+        {
+          "ID": 4111235,
+          "Title": "Catégorie:Gestion de l'environnement"
         },
         {
           "ID": 8781302,
@@ -856,12 +880,12 @@
           "Title": "Catégorie:Race animale"
         },
         {
-          "ID": 5537928,
-          "Title": "Catégorie:Science de l'environnement"
+          "ID": 81541,
+          "Title": "Catégorie:Science"
         },
         {
-          "ID": 81541,
-          "Title": "Catégorie:Sciences"
+          "ID": 5537928,
+          "Title": "Catégorie:Science de l'environnement"
         },
         {
           "ID": 1252411,
@@ -894,6 +918,14 @@
         {
           "ID": 80787,
           "Title": "Catégorie:Écologie"
+        },
+        {
+          "ID": 1043516,
+          "Title": "Catégorie:Écologisme"
+        },
+        {
+          "ID": 1917545,
+          "Title": "Catégorie:Écosystème"
         }
       ]
     },
@@ -1608,6 +1640,14 @@
         {
           "ID": 1439605,
           "Title": "Catégorie:Vaisselle"
+        },
+        {
+          "ID": 1491509,
+          "Title": "Catégorie:Éditeur (personne)"
+        },
+        {
+          "ID": 83746,
+          "Title": "Catégorie:Édition"
         },
         {
           "ID": 84691,

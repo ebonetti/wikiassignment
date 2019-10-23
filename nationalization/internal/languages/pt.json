@@ -142,6 +142,10 @@
           "Title": "Categoria:Desportos por tipo"
         },
         {
+          "ID": 6069580,
+          "Title": "Categoria:Doenças e distúrbios fictícios"
+        },
+        {
           "ID": 15847,
           "Title": "Categoria:Educação"
         },
@@ -672,6 +676,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 6043861,
+          "Title": "Categoria:Assassinados por ano"
+        },
+        {
           "ID": 2114779,
           "Title": "Categoria:Assassinatos"
         },
@@ -744,6 +752,10 @@
           "Title": "Categoria:História militar por século"
         },
         {
+          "ID": 3338077,
+          "Title": "Categoria:História por grupo étnico"
+        },
+        {
           "ID": 2657522,
           "Title": "Categoria:História por localização"
         },
@@ -766,6 +778,10 @@
         {
           "ID": 4162380,
           "Title": "Categoria:Repressão política"
+        },
+        {
+          "ID": 5521577,
+          "Title": "Categoria:Revolução"
         },
         {
           "ID": 19159,
@@ -828,6 +844,14 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 1620868,
+          "Title": "Categoria:Ambientalismo"
+        },
+        {
+          "ID": 14870,
+          "Title": "Categoria:Ambiente"
+        },
+        {
           "ID": 14867,
           "Title": "Categoria:Anatomia"
         },
@@ -842,6 +866,10 @@
         {
           "ID": 1689237,
           "Title": "Categoria:Antropometria"
+        },
+        {
+          "ID": 522787,
+          "Title": "Categoria:Biomas"
         },
         {
           "ID": 40676,
@@ -872,6 +900,10 @@
           "Title": "Categoria:Compostos químicos"
         },
         {
+          "ID": 5125942,
+          "Title": "Categoria:Conservação"
+        },
+        {
           "ID": 1736718,
           "Title": "Categoria:Desastres"
         },
@@ -880,8 +912,16 @@
           "Title": "Categoria:Ecologia"
         },
         {
+          "ID": 394493,
+          "Title": "Categoria:Ecossistemas"
+        },
+        {
           "ID": 1035228,
           "Title": "Categoria:Espécies pouco preocupantes"
+        },
+        {
+          "ID": 5126006,
+          "Title": "Categoria:Estudos ambientais"
         },
         {
           "ID": 1244045,
@@ -960,6 +1000,10 @@
         {
           "ID": 2218348,
           "Title": "Categoria:Atores"
+        },
+        {
+          "ID": 107157,
+          "Title": "Categoria:Atores da França"
         },
         {
           "ID": 3126006,
@@ -1646,6 +1690,10 @@
           "Title": "Categoria:Normas"
         },
         {
+          "ID": 31822,
+          "Title": "Categoria:Padrões"
+        },
+        {
           "ID": 335535,
           "Title": "Categoria:Produção gráfica"
         },
@@ -1656,6 +1704,10 @@
         {
           "ID": 44412,
           "Title": "Categoria:Programação"
+        },
+        {
+          "ID": 1903278,
+          "Title": "Categoria:Publicação"
         },
         {
           "ID": 15228,

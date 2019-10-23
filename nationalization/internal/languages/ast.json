@@ -106,6 +106,10 @@
           "Title": "Categoría:Equipos de fútbol de Brasil"
         },
         {
+          "ID": 124361,
+          "Title": "Categoría:Equipos de fútbol por estáu"
+        },
+        {
           "ID": 19695,
           "Title": "Categoría:Escritura"
         },
@@ -432,8 +436,16 @@
           "Title": "Categoría:Compuestos químicos"
         },
         {
+          "ID": 66639,
+          "Title": "Categoría:Conservacionismu"
+        },
+        {
           "ID": 17570,
           "Title": "Categoría:Desastres"
+        },
+        {
+          "ID": 174171,
+          "Title": "Categoría:Ecoloxismu"
         },
         {
           "ID": 9889,
@@ -454,6 +466,10 @@
         {
           "ID": 671,
           "Title": "Categoría:Física"
+        },
+        {
+          "ID": 66640,
+          "Title": "Categoría:Mediu ambiente"
         },
         {
           "ID": 67006,
@@ -496,6 +512,10 @@
         {
           "ID": 7236,
           "Title": "Categoría:Actores y actrices"
+        },
+        {
+          "ID": 9526,
+          "Title": "Categoría:Actores y actrices de Francia"
         },
         {
           "ID": 66982,
@@ -610,6 +630,10 @@
           "Title": "Categoría:Oficiales de la Lexón d'Honor"
         },
         {
+          "ID": 173779,
+          "Title": "Categoría:Personaxes de cine"
+        },
+        {
           "ID": 10207,
           "Title": "Categoría:Personaxes de ficción"
         },
@@ -682,6 +706,10 @@
         {
           "ID": 17777,
           "Title": "Categoría:Ideoloxía"
+        },
+        {
+          "ID": 174191,
+          "Title": "Categoría:Lliberalismu"
         },
         {
           "ID": 89886,
@@ -874,6 +902,10 @@
           "Title": "Categoría:Programación"
         },
         {
+          "ID": 80903,
+          "Title": "Categoría:Publicación"
+        },
+        {
           "ID": 2164,
           "Title": "Categoría:Software"
         },
@@ -893,6 +925,10 @@
     }
   ],
   "Filters": [
+    {
+      "ID": 48833,
+      "Title": "Categoría:Categoríes anubríes"
+    },
     {
       "ID": 43634,
       "Title": "Categoría:Wikipedia:Dixebra"

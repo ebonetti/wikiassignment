@@ -492,6 +492,10 @@
           "Title": "Kategori:Sejarah"
         },
         {
+          "ID": 84694,
+          "Title": "Kategori:Sejarah mengikut kelompok etnik"
+        },
+        {
           "ID": 163855,
           "Title": "Kategori:Sejarah mengikut lokasi"
         },
@@ -560,6 +564,10 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 133164,
+          "Title": "Kategori:Alam sekitar"
+        },
+        {
           "ID": 349461,
           "Title": "Kategori:Alam semula jadi"
         },
@@ -596,6 +604,10 @@
           "Title": "Kategori:Ekologi"
         },
         {
+          "ID": 740375,
+          "Title": "Kategori:Ekosistem"
+        },
+        {
           "ID": 166848,
           "Title": "Kategori:Fauna mengikut benua"
         },
@@ -624,6 +636,10 @@
           "Title": "Kategori:Jenis bintang"
         },
         {
+          "ID": 660305,
+          "Title": "Kategori:Kajian alam sekitar"
+        },
+        {
           "ID": 11182,
           "Title": "Kategori:Kimia"
         },
@@ -634,6 +650,14 @@
         {
           "ID": 95698,
           "Title": "Kategori:Objek astronomi"
+        },
+        {
+          "ID": 164607,
+          "Title": "Kategori:Pemuliharaan"
+        },
+        {
+          "ID": 663043,
+          "Title": "Kategori:Perlindungan alam sekitar"
         },
         {
           "ID": 84877,
@@ -734,6 +758,10 @@
           "Title": "Kategori:Ketua negara"
         },
         {
+          "ID": 161869,
+          "Title": "Kategori:Nama keluarga"
+        },
+        {
           "ID": 17551,
           "Title": "Kategori:Orang"
         },
@@ -784,6 +812,10 @@
         {
           "ID": 29110,
           "Title": "Kategori:Pelakon"
+        },
+        {
+          "ID": 42752,
+          "Title": "Kategori:Pelakon Perancis"
         },
         {
           "ID": 262316,
@@ -1136,6 +1168,10 @@
         {
           "ID": 83904,
           "Title": "Kategori:Peralatan"
+        },
+        {
+          "ID": 164543,
+          "Title": "Kategori:Peraturan"
         },
         {
           "ID": 163787,

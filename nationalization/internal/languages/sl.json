@@ -648,12 +648,20 @@
           "Title": "Kategorija:Beljakovine"
         },
         {
+          "ID": 165743,
+          "Title": "Kategorija:Biomi"
+        },
+        {
           "ID": 62192,
           "Title": "Kategorija:Domače živali"
         },
         {
           "ID": 12386,
           "Title": "Kategorija:Ekologija"
+        },
+        {
+          "ID": 324628,
+          "Title": "Kategorija:Ekosistemi"
         },
         {
           "ID": 117536,
@@ -690,6 +698,14 @@
         {
           "ID": 16984,
           "Title": "Kategorija:Nebesna telesa"
+        },
+        {
+          "ID": 47869,
+          "Title": "Kategorija:Okolje"
+        },
+        {
+          "ID": 47870,
+          "Title": "Kategorija:Okoljevarstvo"
         },
         {
           "ID": 195161,
@@ -796,6 +812,10 @@
         {
           "ID": 165931,
           "Title": "Kategorija:Filozofi po stoletjih"
+        },
+        {
+          "ID": 50128,
+          "Title": "Kategorija:Francoski igralci"
         },
         {
           "ID": 50686,
@@ -1344,6 +1364,10 @@
         {
           "ID": 158207,
           "Title": "Kategorija:Vojaška tehnika"
+        },
+        {
+          "ID": 353910,
+          "Title": "Kategorija:Založništvo"
         }
       ]
     }

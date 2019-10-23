@@ -142,6 +142,10 @@
           "Title": "Kategooria:Olme"
         },
         {
+          "ID": 256903,
+          "Title": "Kategooria:Perioodika"
+        },
+        {
           "ID": 295505,
           "Title": "Kategooria:Popkultuur"
         },
@@ -290,10 +294,6 @@
         {
           "ID": 9445,
           "Title": "Kategooria:Euroopa maad"
-        },
-        {
-          "ID": 153026,
-          "Title": "Kategooria:Euroopa riigid"
         },
         {
           "ID": 9910,
@@ -504,6 +504,10 @@
           "Title": "Kategooria:Anatoomia"
         },
         {
+          "ID": 14229,
+          "Title": "Kategooria:Bioomid"
+        },
+        {
           "ID": 167965,
           "Title": "Kategooria:Elu"
         },
@@ -524,12 +528,24 @@
           "Title": "Kategooria:Keemilised ained"
         },
         {
+          "ID": 185202,
+          "Title": "Kategooria:Keskkond"
+        },
+        {
+          "ID": 131658,
+          "Title": "Kategooria:Keskkonnakaitse"
+        },
+        {
           "ID": 16523,
           "Title": "Kategooria:Koduloomad"
         },
         {
           "ID": 167967,
           "Title": "Kategooria:Loodus"
+        },
+        {
+          "ID": 19112,
+          "Title": "Kategooria:Looduskaitse"
         },
         {
           "ID": 16211,
@@ -716,6 +732,10 @@
         {
           "ID": 44832,
           "Title": "Kategooria:Prantsusmaa jalgpallurid"
+        },
+        {
+          "ID": 71989,
+          "Title": "Kategooria:Prantsusmaa näitlejad"
         },
         {
           "ID": 13038,
@@ -936,6 +956,14 @@
         {
           "ID": 23749,
           "Title": "Kategooria:Internet"
+        },
+        {
+          "ID": 371773,
+          "Title": "Kategooria:Kirjastajad"
+        },
+        {
+          "ID": 36547,
+          "Title": "Kategooria:Kirjastamine"
         },
         {
           "ID": 476364,

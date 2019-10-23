@@ -251,7 +251,7 @@
         },
         {
           "ID": 291187,
-          "Title": "Kategorio:Olimpika disciplino"
+          "Title": "Kategorio:Olimpia sportfako"
         },
         {
           "ID": 166247,
@@ -586,6 +586,10 @@
           "Title": "Kategorio:Parafilio"
         },
         {
+          "ID": 663914,
+          "Title": "Kategorio:Salubrigo"
+        },
+        {
           "ID": 301967,
           "Title": "Kategorio:Sano"
         },
@@ -644,6 +648,10 @@
           "Title": "Kategorio:Historio de tekniko"
         },
         {
+          "ID": 443728,
+          "Title": "Kategorio:Historio laŭ etnoj"
+        },
+        {
           "ID": 141347,
           "Title": "Kategorio:Historio laŭ landoj"
         },
@@ -668,6 +676,10 @@
           "Title": "Kategorio:Memortagoj"
         },
         {
+          "ID": 655390,
+          "Title": "Kategorio:Milita historio laŭ jarcentoj"
+        },
+        {
           "ID": 132739,
           "Title": "Kategorio:Milito"
         },
@@ -686,6 +698,10 @@
         {
           "ID": 571050,
           "Title": "Kategorio:Reprezalioj"
+        },
+        {
+          "ID": 54349,
+          "Title": "Kategorio:Revolucio"
         },
         {
           "ID": 48211,
@@ -768,12 +784,20 @@
           "Title": "Kategorio:Bestoj"
         },
         {
+          "ID": 297108,
+          "Title": "Kategorio:Biomoj"
+        },
+        {
           "ID": 122989,
           "Title": "Kategorio:Dombestoj"
         },
         {
           "ID": 26389,
           "Title": "Kategorio:Ekologio"
+        },
+        {
+          "ID": 303256,
+          "Title": "Kategorio:Ekosistemo"
         },
         {
           "ID": 127921,
@@ -808,12 +832,28 @@
           "Title": "Kategorio:Manĝeblaj fruktoj"
         },
         {
+          "ID": 529493,
+          "Title": "Kategorio:Medio"
+        },
+        {
           "ID": 188544,
           "Title": "Kategorio:Mediologio"
         },
         {
+          "ID": 182087,
+          "Title": "Kategorio:Mediprotektado"
+        },
+        {
           "ID": 170264,
           "Title": "Kategorio:Naturo"
+        },
+        {
+          "ID": 446416,
+          "Title": "Kategorio:Naturprotektado"
+        },
+        {
+          "ID": 240628,
+          "Title": "Kategorio:Naturprotektismo"
         },
         {
           "ID": 26384,
@@ -954,6 +994,10 @@
           "Title": "Kategorio:Fondintoj de religioj"
         },
         {
+          "ID": 57259,
+          "Title": "Kategorio:Francaj aktoroj"
+        },
+        {
           "ID": 123935,
           "Title": "Kategorio:Francaj futbalistoj"
         },
@@ -1030,12 +1074,12 @@
           "Title": "Kategorio:Jutubistoj laŭ landoj"
         },
         {
-          "ID": 534306,
-          "Title": "Kategorio:Katolikaj sanktuloj laŭ landoj"
-        },
-        {
           "ID": 480514,
           "Title": "Kategorio:Komandoroj de la Honora Legio"
+        },
+        {
+          "ID": 654477,
+          "Title": "Kategorio:Kristanoj laŭ jarcentoj"
         },
         {
           "ID": 216501,
@@ -1162,6 +1206,10 @@
           "Title": "Kategorio:Revoluciuloj"
         },
         {
+          "ID": 534306,
+          "Title": "Kategorio:Romkatolikaj sanktuloj laŭ landoj"
+        },
+        {
           "ID": 274332,
           "Title": "Kategorio:Universalaj kleruloj"
         },
@@ -1270,10 +1318,6 @@
         {
           "ID": 437217,
           "Title": "Kategorio:Realo"
-        },
-        {
-          "ID": 197175,
-          "Title": "Kategorio:Reĝimoj"
         },
         {
           "ID": 490880,
@@ -1490,6 +1534,14 @@
           "Title": "Kategorio:Datumbazoj"
         },
         {
+          "ID": 297169,
+          "Title": "Kategorio:Eldonado"
+        },
+        {
+          "ID": 206110,
+          "Title": "Kategorio:Eldonistoj"
+        },
+        {
           "ID": 198388,
           "Title": "Kategorio:Elektroniko"
         },
@@ -1596,6 +1648,10 @@
         {
           "ID": 83501,
           "Title": "Kategorio:Programaro"
+        },
+        {
+          "ID": 607011,
+          "Title": "Kategorio:Reguloj"
         },
         {
           "ID": 234142,

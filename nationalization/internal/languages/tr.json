@@ -374,6 +374,10 @@
           "Title": "Kategori:Televizyon dizileri"
         },
         {
+          "ID": 1589608,
+          "Title": "Kategori:Televizyon dizilerine göre kategoriler"
+        },
+        {
           "ID": 450124,
           "Title": "Kategori:Video oyunları"
         },
@@ -724,12 +728,20 @@
           "Title": "Kategori:Cinayetler"
         },
         {
+          "ID": 1503880,
+          "Title": "Kategori:Devrim"
+        },
+        {
           "ID": 23528,
           "Title": "Kategori:Devrimler"
         },
         {
           "ID": 379157,
           "Title": "Kategori:Eski etnik gruplar"
+        },
+        {
+          "ID": 1740430,
+          "Title": "Kategori:Etnik gruplara göre tarih"
         },
         {
           "ID": 1039630,
@@ -896,6 +908,10 @@
           "Title": "Kategori:Bitkiler"
         },
         {
+          "ID": 47340,
+          "Title": "Kategori:Biyomlar"
+        },
+        {
           "ID": 12509,
           "Title": "Kategori:Doğa"
         },
@@ -906,6 +922,10 @@
         {
           "ID": 12596,
           "Title": "Kategori:Ekoloji"
+        },
+        {
+          "ID": 13650,
+          "Title": "Kategori:Ekosistem"
         },
         {
           "ID": 429078,
@@ -948,6 +968,10 @@
           "Title": "Kategori:Kimyasal maddeler"
         },
         {
+          "ID": 341898,
+          "Title": "Kategori:Korunma durumu"
+        },
+        {
           "ID": 439481,
           "Title": "Kategori:Kıtalarına göre fauna"
         },
@@ -976,8 +1000,16 @@
           "Title": "Kategori:Zooloji"
         },
         {
+          "ID": 103364,
+          "Title": "Kategori:Çevre"
+        },
+        {
           "ID": 843380,
           "Title": "Kategori:Çevre bilimleri"
+        },
+        {
+          "ID": 870808,
+          "Title": "Kategori:Çevrecilik"
         }
       ]
     },
@@ -1104,6 +1136,10 @@
         {
           "ID": 1200528,
           "Title": "Kategori:Fransız köşe yazarları"
+        },
+        {
+          "ID": 25836,
+          "Title": "Kategori:Fransız oyuncular"
         },
         {
           "ID": 745492,
@@ -1423,7 +1459,7 @@
         },
         {
           "ID": 46458,
-          "Title": "Kategori:Teoloji"
+          "Title": "Kategori:İlahiyat"
         },
         {
           "ID": 1415545,
@@ -1638,6 +1674,10 @@
           "Title": "Kategori:Konstrüksiyon"
         },
         {
+          "ID": 1000355,
+          "Title": "Kategori:Kurallar"
+        },
+        {
           "ID": 2263732,
           "Title": "Kategori:Kuruluş yıllarına göre teknoloji şirketleri"
         },
@@ -1712,6 +1752,14 @@
         {
           "ID": 1173401,
           "Title": "Kategori:Yapı mühendisliği"
+        },
+        {
+          "ID": 326718,
+          "Title": "Kategori:Yayımcılar"
+        },
+        {
+          "ID": 52651,
+          "Title": "Kategori:Yayıncılık"
         },
         {
           "ID": 3493,

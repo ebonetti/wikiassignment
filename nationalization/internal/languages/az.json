@@ -18,8 +18,16 @@
           "Title": "Kateqoriya:Bioqrafik əsərlər"
         },
         {
+          "ID": 358723,
+          "Title": "Kateqoriya:Bioqrafiyalar"
+        },
+        {
           "ID": 55378,
           "Title": "Kateqoriya:Braziliya futbol klubları"
+        },
+        {
+          "ID": 597181,
+          "Title": "Kateqoriya:Braziliya teleserialları"
         },
         {
           "ID": 463747,
@@ -150,6 +158,10 @@
           "Title": "Kateqoriya:Müəlliflərinə görə kitablar"
         },
         {
+          "ID": 183944,
+          "Title": "Kateqoriya:Müəlliflərinə görə ədəbi əsərlər"
+        },
+        {
           "ID": 590785,
           "Title": "Kateqoriya:Müəlliflərinə görə əsərlər"
         },
@@ -172,6 +184,10 @@
         {
           "ID": 119058,
           "Title": "Kateqoriya:Olimpiya idman növləri"
+        },
+        {
+          "ID": 597183,
+          "Title": "Kateqoriya:Portuqalca teleseriallar"
         },
         {
           "ID": 54625,
@@ -234,6 +250,10 @@
           "Title": "Kateqoriya:Teleseriallar"
         },
         {
+          "ID": 322479,
+          "Title": "Kateqoriya:Teleserialların kateqoriyaları"
+        },
+        {
           "ID": 5436,
           "Title": "Kateqoriya:Televiziya"
         },
@@ -280,10 +300,6 @@
         {
           "ID": 105339,
           "Title": "Kateqoriya:Yazı"
-        },
-        {
-          "ID": 438938,
-          "Title": "Kateqoriya:Yazıçılarına görə əsərlər"
         },
         {
           "ID": 589014,
@@ -348,10 +364,6 @@
         {
           "ID": 74782,
           "Title": "Kateqoriya:Əfsanələr"
-        },
-        {
-          "ID": 120399,
-          "Title": "Kateqoriya:Əlifba sırasına görə şəxslər"
         },
         {
           "ID": 6618,
@@ -696,6 +708,10 @@
           "Title": "Kateqoriya:Astronomik obyektlər"
         },
         {
+          "ID": 182850,
+          "Title": "Kateqoriya:Biomlar"
+        },
+        {
           "ID": 28027,
           "Title": "Kateqoriya:Bitkilər"
         },
@@ -712,8 +728,16 @@
           "Title": "Kateqoriya:Ekologiya"
         },
         {
+          "ID": 182851,
+          "Title": "Kateqoriya:Ekosistemlər"
+        },
+        {
           "ID": 6612,
           "Title": "Kateqoriya:Elm"
+        },
+        {
+          "ID": 579243,
+          "Title": "Kateqoriya:Envayromentalizm"
         },
         {
           "ID": 91207,
@@ -756,6 +780,10 @@
           "Title": "Kateqoriya:Kimyəvi maddələr"
         },
         {
+          "ID": 481761,
+          "Title": "Kateqoriya:Konservasiya"
+        },
+        {
           "ID": 23191,
           "Title": "Kateqoriya:Meyvə"
         },
@@ -786,6 +814,14 @@
         {
           "ID": 265880,
           "Title": "Kateqoriya:Zülallar"
+        },
+        {
+          "ID": 567229,
+          "Title": "Kateqoriya:Ətraf mühit"
+        },
+        {
+          "ID": 150551,
+          "Title": "Kateqoriya:Ətraf mühitin mühafizəsi"
         }
       ]
     },
@@ -811,7 +847,7 @@
         },
         {
           "ID": 550191,
-          "Title": "Kateqoriya:Amerikanlar"
+          "Title": "Kateqoriya:Amerikalılar"
         },
         {
           "ID": 458541,
@@ -846,6 +882,10 @@
           "Title": "Kateqoriya:Filosoflar"
         },
         {
+          "ID": 89697,
+          "Title": "Kateqoriya:Fransa aktyorları"
+        },
+        {
           "ID": 81639,
           "Title": "Kateqoriya:Fransa futbolçuları"
         },
@@ -872,6 +912,10 @@
         {
           "ID": 52705,
           "Title": "Kateqoriya:Kuba siyasətçiləri"
+        },
+        {
+          "ID": 598434,
+          "Title": "Kateqoriya:Medialarına görə sənətkarlar"
         },
         {
           "ID": 55171,
@@ -1036,6 +1080,10 @@
         {
           "ID": 322792,
           "Title": "Kateqoriya:Şəxslər:İngiltərə"
+        },
+        {
+          "ID": 120399,
+          "Title": "Kateqoriya:Əlifba sırasına görə şəxslər"
         },
         {
           "ID": 370777,
@@ -1302,6 +1350,10 @@
           "Title": "Kateqoriya:Elektronika"
         },
         {
+          "ID": 594390,
+          "Title": "Kateqoriya:Enerji texnologiyaları"
+        },
+        {
           "ID": 106872,
           "Title": "Kateqoriya:Hesablama texnikası"
         },
@@ -1334,12 +1386,24 @@
           "Title": "Kateqoriya:Məişət texnikası"
         },
         {
+          "ID": 299196,
+          "Title": "Kateqoriya:Naşirlər"
+        },
+        {
           "ID": 259364,
           "Title": "Kateqoriya:Növünə görə texnologiyalar"
         },
         {
           "ID": 69920,
           "Title": "Kateqoriya:Nəqliyyat"
+        },
+        {
+          "ID": 106995,
+          "Title": "Kateqoriya:Nəşriyyat işi"
+        },
+        {
+          "ID": 106865,
+          "Title": "Kateqoriya:Poliqrafiya"
         },
         {
           "ID": 492559,
@@ -1356,6 +1420,10 @@
         {
           "ID": 297999,
           "Title": "Kateqoriya:Qab-qacaq"
+        },
+        {
+          "ID": 599756,
+          "Title": "Kateqoriya:Qaydalar"
         },
         {
           "ID": 201461,

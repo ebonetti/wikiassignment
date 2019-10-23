@@ -24,12 +24,16 @@
           "Title": "Māhele:Hōʻike honua"
         },
         {
+          "ID": 4126,
+          "Title": "Māhele:Nā mokuʻāina o ʻAmelika Hui"
+        },
+        {
           "ID": 2429,
           "Title": "Māhele:Nā ‘āinapuni‘ole"
         },
         {
-          "ID": 4585,
-          "Title": "Māhele:ʻAmelika Hui Pū ʻia"
+          "ID": 5777,
+          "Title": "Māhele:‘Amelika Hui Pū ‘ia"
         }
       ]
     },
@@ -57,7 +61,13 @@
     },
     {
       "ID": 2147483643,
-      "Title": "People and self"
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 9351,
+          "Title": "Māhele:Wokel aupuninkiama ke pelekikena"
+        }
+      ]
     },
     {
       "ID": 2147483644,

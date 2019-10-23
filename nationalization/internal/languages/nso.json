@@ -10,6 +10,18 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 11739,
+          "Title": "Setensele:Dinaga"
+        },
+        {
+          "ID": 10594,
+          "Title": "Setensele:Dinaga Asia"
+        },
+        {
+          "ID": 11740,
+          "Title": "Setensele:Dinaga Europe"
+        },
+        {
           "ID": 849,
           "Title": "Setensele:Dinaga tša Afrika"
         },
@@ -69,7 +81,13 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences"
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 11742,
+          "Title": "Setensele:Mašeleng"
+        }
+      ]
     },
     {
       "ID": 2147483647,
